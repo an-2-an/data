@@ -1,90 +1,1 @@
-carrot,exercise,weekend,0
-bread,pudding,brushed teeth,weekend,touched tree,0
-carrot,nachos,brushed teeth,cycling,weekend,0
-brussel sprouts,ice cream,brushed teeth,computer,weekend,0
-potatoes,candy,brushed teeth,exercise,weekend,dentist,0
-brussel sprouts,pudding,brushed teeth,running,weekend,0
-pizza,brushed teeth,computer,work,touched tree,0
-bread,beer,brushed teeth,cycling,work,0
-cauliflower,brushed teeth,work,0
-pizza,brushed teeth,cycling,work,0
-lasagna,nachos,brushed teeth,work,0
-brushed teeth,weekend,touched tree,0
-lettuce,brushed teeth,television,weekend,0
-spaghetti,brushed teeth,work,0
-brushed teeth,computer,work,0
-lettuce,nachos,brushed teeth,work,0
-carrot,brushed teeth,running,work,0
-brushed teeth,work,0
-cauliflower,reading,weekend,0
-bread,brushed teeth,weekend,0
-lasagna,brushed teeth,exercise,work,0
-spaghetti,brushed teeth,reading,work,0
-carrot,ice cream,brushed teeth,television,work,0
-spaghetti,nachos,work,0
-cauliflower,ice cream,brushed teeth,cycling,work,0
-spaghetti,peanuts,computer,weekend,1
-potatoes,ice cream,brushed teeth,computer,weekend,0
-potatoes,ice cream,brushed teeth,work,0
-peanuts,brushed teeth,running,work,0
-potatoes,exercise,work,0
-pizza,ice cream,computer,work,0
-lasagna,ice cream,work,0
-cauliflower,candy,reading,weekend,0
-lasagna,nachos,brushed teeth,running,weekend,0
-potatoes,brushed teeth,work,0
-carrot,work,0
-pizza,beer,work,dentist,0
-lasagna,pudding,cycling,work,0
-spaghetti,brushed teeth,reading,work,0
-spaghetti,pudding,television,weekend,0
-bread,brushed teeth,exercise,weekend,0
-lasagna,peanuts,work,1
-pizza,work,0
-potatoes,exercise,work,0
-brushed teeth,exercise,work,0
-spaghetti,brushed teeth,television,work,0
-pizza,cycling,weekend,0
-carrot,brushed teeth,weekend,0
-carrot,beer,brushed teeth,work,0
-pizza,peanuts,candy,work,1
-carrot,peanuts,brushed teeth,reading,work,0
-potatoes,peanuts,brushed teeth,work,0
-carrot,nachos,brushed teeth,exercise,work,0
-pizza,peanuts,brushed teeth,television,weekend,0
-lasagna,brushed teeth,cycling,weekend,0
-cauliflower,peanuts,brushed teeth,computer,work,touched tree,0
-lettuce,brushed teeth,television,work,0
-potatoes,brushed teeth,computer,work,0
-bread,candy,work,0
-potatoes,nachos,work,0
-carrot,pudding,brushed teeth,weekend,0
-carrot,brushed teeth,exercise,weekend,touched tree,0
-brussel sprouts,running,work,0
-brushed teeth,work,0
-lettuce,brushed teeth,running,work,0
-candy,brushed teeth,work,0
-brussel sprouts,brushed teeth,computer,work,0
-bread,brushed teeth,weekend,0
-cauliflower,brushed teeth,weekend,0
-spaghetti,candy,television,work,touched tree,0
-carrot,pudding,brushed teeth,work,0
-lettuce,brushed teeth,work,0
-carrot,ice cream,brushed teeth,cycling,work,0
-pizza,brushed teeth,work,0
-spaghetti,peanuts,exercise,weekend,1
-bread,beer,computer,weekend,touched tree,0
-brushed teeth,running,work,0
-lettuce,peanuts,brushed teeth,work,touched tree,0
-lasagna,brushed teeth,television,work,0
-cauliflower,brushed teeth,running,work,0
-carrot,brushed teeth,running,work,0
-carrot,reading,weekend,0
-carrot,peanuts,reading,weekend,1
-potatoes,brushed teeth,running,work,0
-lasagna,ice cream,work,touched tree,0
-cauliflower,peanuts,brushed teeth,cycling,work,0
-pizza,brushed teeth,running,work,0
-lettuce,brushed teeth,work,0
-bread,brushed teeth,television,weekend,0
-cauliflower,peanuts,brushed teeth,weekend,0
+carrot,exercise,weekend,0bread,pudding,brushed teeth,weekend,touched tree,0carrot,nachos,brushed teeth,cycling,weekend,0brussel sprouts,ice cream,brushed teeth,computer,weekend,0potatoes,candy,brushed teeth,exercise,weekend,dentist,0brussel sprouts,pudding,brushed teeth,running,weekend,0pizza,brushed teeth,computer,work,touched tree,0bread,beer,brushed teeth,cycling,work,0cauliflower,brushed teeth,work,0pizza,brushed teeth,cycling,work,0lasagna,nachos,brushed teeth,work,0brushed teeth,weekend,touched tree,0lettuce,brushed teeth,television,weekend,0spaghetti,brushed teeth,work,0brushed teeth,computer,work,0lettuce,nachos,brushed teeth,work,0carrot,brushed teeth,running,work,0brushed teeth,work,0cauliflower,reading,weekend,0bread,brushed teeth,weekend,0lasagna,brushed teeth,exercise,work,0spaghetti,brushed teeth,reading,work,0carrot,ice cream,brushed teeth,television,work,0spaghetti,nachos,work,0cauliflower,ice cream,brushed teeth,cycling,work,0spaghetti,peanuts,computer,weekend,1potatoes,ice cream,brushed teeth,computer,weekend,0potatoes,ice cream,brushed teeth,work,0peanuts,brushed teeth,running,work,0potatoes,exercise,work,0pizza,ice cream,computer,work,0lasagna,ice cream,work,0cauliflower,candy,reading,weekend,0lasagna,nachos,brushed teeth,running,weekend,0potatoes,brushed teeth,work,0carrot,work,0pizza,beer,work,dentist,0lasagna,pudding,cycling,work,0spaghetti,brushed teeth,reading,work,0spaghetti,pudding,television,weekend,0bread,brushed teeth,exercise,weekend,0lasagna,peanuts,work,1pizza,work,0potatoes,exercise,work,0brushed teeth,exercise,work,0spaghetti,brushed teeth,television,work,0pizza,cycling,weekend,0carrot,brushed teeth,weekend,0carrot,beer,brushed teeth,work,0pizza,peanuts,candy,work,1carrot,peanuts,brushed teeth,reading,work,0potatoes,peanuts,brushed teeth,work,0carrot,nachos,brushed teeth,exercise,work,0pizza,peanuts,brushed teeth,television,weekend,0lasagna,brushed teeth,cycling,weekend,0cauliflower,peanuts,brushed teeth,computer,work,touched tree,0lettuce,brushed teeth,television,work,0potatoes,brushed teeth,computer,work,0bread,candy,work,0potatoes,nachos,work,0carrot,pudding,brushed teeth,weekend,0carrot,brushed teeth,exercise,weekend,touched tree,0brussel sprouts,running,work,0brushed teeth,work,0lettuce,brushed teeth,running,work,0candy,brushed teeth,work,0brussel sprouts,brushed teeth,computer,work,0bread,brushed teeth,weekend,0cauliflower,brushed teeth,weekend,0spaghetti,candy,television,work,touched tree,0carrot,pudding,brushed teeth,work,0lettuce,brushed teeth,work,0carrot,ice cream,brushed teeth,cycling,work,0pizza,brushed teeth,work,0spaghetti,peanuts,exercise,weekend,1bread,beer,computer,weekend,touched tree,0brushed teeth,running,work,0lettuce,peanuts,brushed teeth,work,touched tree,0lasagna,brushed teeth,television,work,0cauliflower,brushed teeth,running,work,0carrot,brushed teeth,running,work,0carrot,reading,weekend,0carrot,peanuts,reading,weekend,1potatoes,brushed teeth,running,work,0lasagna,ice cream,work,touched tree,0cauliflower,peanuts,brushed teeth,cycling,work,0pizza,brushed teeth,running,work,0lettuce,brushed teeth,work,0bread,brushed teeth,television,weekend,0cauliflower,peanuts,brushed teeth,weekend,0
