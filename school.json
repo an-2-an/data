@@ -1,0 +1,902 @@
+[
+  {
+    "name": "Phillip Chung",
+    "sex": "m",
+    "class": "10-B",
+    "math": 9,
+    "art": 5,
+    "gym": 11,
+    "email": "glynch@yahoo.com"
+  },
+  {
+    "name": "Sarah Payne",
+    "sex": "f",
+    "class": "10-D",
+    "math": 10,
+    "art": 10,
+    "gym": 6,
+    "email": "rosaleslori@yahoo.com"
+  },
+  {
+    "name": "Jose Crawford",
+    "sex": "m",
+    "class": "10-C",
+    "math": 10,
+    "art": 12,
+    "gym": 8,
+    "email": "nicholaswilliams@gmail.com"
+  },
+  {
+    "name": "Ryan Phillips",
+    "sex": "m",
+    "class": "10-B",
+    "math": 5,
+    "art": 12,
+    "gym": 5,
+    "email": "daviscindy@hotmail.com"
+  },
+  {
+    "name": "Kendra Haynes",
+    "sex": "f",
+    "class": "10-B",
+    "math": 6,
+    "art": 6,
+    "gym": 5,
+    "email": "brendan94@yahoo.com"
+  },
+  {
+    "name": "Lindsey Costa",
+    "sex": "f",
+    "class": "10-A",
+    "math": 12,
+    "art": 5,
+    "gym": 8,
+    "email": "ulam@yahoo.com"
+  },
+  {
+    "name": "Kara Perry",
+    "sex": "f",
+    "class": "10-C",
+    "math": 5,
+    "art": 9,
+    "gym": 6,
+    "email": "russojessica@hotmail.com"
+  },
+  {
+    "name": "Joseph Ramos",
+    "sex": "m",
+    "class": "10-C",
+    "math": 4,
+    "art": 6,
+    "gym": 4,
+    "email": "bergertiffany@gmail.com"
+  },
+  {
+    "name": "William Mckee",
+    "sex": "m",
+    "class": "10-D",
+    "math": 9,
+    "art": 5,
+    "gym": 12,
+    "email": "wgreen@hotmail.com"
+  },
+  {
+    "name": "Scott Cruz",
+    "sex": "m",
+    "class": "10-B",
+    "math": 4,
+    "art": 5,
+    "gym": 7,
+    "email": "klee@yahoo.com"
+  },
+  {
+    "name": "Jason Mcbride",
+    "sex": "m",
+    "class": "10-C",
+    "math": 10,
+    "art": 9,
+    "gym": 4,
+    "email": "amandalogan@gmail.com"
+  },
+  {
+    "name": "Amber Hall",
+    "sex": "f",
+    "class": "10-A",
+    "math": 8,
+    "art": 7,
+    "gym": 9,
+    "email": "kimberlybaird@yahoo.com"
+  },
+  {
+    "name": "Jonathan Davis",
+    "sex": "m",
+    "class": "10-B",
+    "math": 4,
+    "art": 12,
+    "gym": 12,
+    "email": "rileyjoseph@gmail.com"
+  },
+  {
+    "name": "Christopher Smith",
+    "sex": "m",
+    "class": "10-C",
+    "math": 7,
+    "art": 5,
+    "gym": 10,
+    "email": "nicholasgarcia@gmail.com"
+  },
+  {
+    "name": "Erik Medina",
+    "sex": "m",
+    "class": "10-A",
+    "math": 12,
+    "art": 6,
+    "gym": 7,
+    "email": "joeldavis@yahoo.com"
+  },
+  {
+    "name": "Sara Bauer",
+    "sex": "f",
+    "class": "10-D",
+    "math": 11,
+    "art": 9,
+    "gym": 6,
+    "email": "jeffrey37@hotmail.com"
+  },
+  {
+    "name": "Michael Evans",
+    "sex": "m",
+    "class": "10-B",
+    "math": 11,
+    "art": 11,
+    "gym": 8,
+    "email": "nbruce@yahoo.com"
+  },
+  {
+    "name": "Robin Jones",
+    "sex": "f",
+    "class": "10-C",
+    "math": 6,
+    "art": 4,
+    "gym": 5,
+    "email": "strongpatricia@gmail.com"
+  },
+  {
+    "name": "Leslie Blair MD",
+    "sex": "m",
+    "class": "10-D",
+    "math": 8,
+    "art": 6,
+    "gym": 11,
+    "email": "ebarnes@yahoo.com"
+  },
+  {
+    "name": "Derek Taylor",
+    "sex": "m",
+    "class": "10-B",
+    "math": 9,
+    "art": 9,
+    "gym": 9,
+    "email": "craig67@yahoo.com"
+  },
+  {
+    "name": "Daniel Moody",
+    "sex": "m",
+    "class": "10-C",
+    "math": 6,
+    "art": 9,
+    "gym": 8,
+    "email": "lallen@yahoo.com"
+  },
+  {
+    "name": "Travis Turner",
+    "sex": "m",
+    "class": "10-A",
+    "math": 6,
+    "art": 6,
+    "gym": 7,
+    "email": "gregorymays@hotmail.com"
+  },
+  {
+    "name": "Terry Green",
+    "sex": "m",
+    "class": "10-C",
+    "math": 11,
+    "art": 10,
+    "gym": 12,
+    "email": "victoriawhitaker@gmail.com"
+  },
+  {
+    "name": "Brandi Whitaker",
+    "sex": "f",
+    "class": "10-D",
+    "math": 8,
+    "art": 12,
+    "gym": 8,
+    "email": "mooreheather@yahoo.com"
+  },
+  {
+    "name": "Jeffrey Stevens",
+    "sex": "m",
+    "class": "10-C",
+    "math": 11,
+    "art": 12,
+    "gym": 5,
+    "email": "leonardtommy@gmail.com"
+  },
+  {
+    "name": "Nathan West",
+    "sex": "m",
+    "class": "10-B",
+    "math": 5,
+    "art": 12,
+    "gym": 10,
+    "email": "lhernandez@yahoo.com"
+  },
+  {
+    "name": "Gary Williams",
+    "sex": "m",
+    "class": "10-A",
+    "math": 12,
+    "art": 9,
+    "gym": 6,
+    "email": "fullerjamie@gmail.com"
+  },
+  {
+    "name": "Adam Terry",
+    "sex": "m",
+    "class": "10-A",
+    "math": 7,
+    "art": 5,
+    "gym": 7,
+    "email": "johnhampton@gmail.com"
+  },
+  {
+    "name": "Alexander Gilbert",
+    "sex": "m",
+    "class": "10-B",
+    "math": 12,
+    "art": 7,
+    "gym": 8,
+    "email": "raymond22@hotmail.com"
+  },
+  {
+    "name": "Rebecca Jenkins",
+    "sex": "f",
+    "class": "10-C",
+    "math": 10,
+    "art": 9,
+    "gym": 11,
+    "email": "brittany37@yahoo.com"
+  },
+  {
+    "name": "Kari Smith",
+    "sex": "f",
+    "class": "10-B",
+    "math": 6,
+    "art": 11,
+    "gym": 4,
+    "email": "kaylarodriguez@yahoo.com"
+  },
+  {
+    "name": "Bryce Soto",
+    "sex": "m",
+    "class": "10-A",
+    "math": 8,
+    "art": 12,
+    "gym": 12,
+    "email": "whall@gmail.com"
+  },
+  {
+    "name": "Brian Miller",
+    "sex": "m",
+    "class": "10-C",
+    "math": 4,
+    "art": 12,
+    "gym": 5,
+    "email": "boothbenjamin@gmail.com"
+  },
+  {
+    "name": "Brian Peters",
+    "sex": "m",
+    "class": "10-A",
+    "math": 10,
+    "art": 12,
+    "gym": 4,
+    "email": "jackie95@yahoo.com"
+  },
+  {
+    "name": "Joshua Gonzales",
+    "sex": "m",
+    "class": "10-B",
+    "math": 5,
+    "art": 4,
+    "gym": 4,
+    "email": "smithjoseph@hotmail.com"
+  },
+  {
+    "name": "Jerry Johnson",
+    "sex": "m",
+    "class": "10-A",
+    "math": 10,
+    "art": 8,
+    "gym": 8,
+    "email": "christopher03@hotmail.com"
+  },
+  {
+    "name": "Ian West",
+    "sex": "m",
+    "class": "10-D",
+    "math": 5,
+    "art": 11,
+    "gym": 9,
+    "email": "paulawallace@yahoo.com"
+  },
+  {
+    "name": "Michael Griffith",
+    "sex": "m",
+    "class": "10-A",
+    "math": 8,
+    "art": 11,
+    "gym": 10,
+    "email": "costaluke@gmail.com"
+  },
+  {
+    "name": "Michelle Molina",
+    "sex": "f",
+    "class": "10-B",
+    "math": 11,
+    "art": 8,
+    "gym": 10,
+    "email": "cgarrison@gmail.com"
+  },
+  {
+    "name": "Caroline Lee",
+    "sex": "f",
+    "class": "10-A",
+    "math": 9,
+    "art": 9,
+    "gym": 6,
+    "email": "lmora@gmail.com"
+  },
+  {
+    "name": "David Edwards",
+    "sex": "m",
+    "class": "10-A",
+    "math": 4,
+    "art": 12,
+    "gym": 6,
+    "email": "parkermonica@gmail.com"
+  },
+  {
+    "name": "George Hernandez",
+    "sex": "m",
+    "class": "10-B",
+    "math": 7,
+    "art": 4,
+    "gym": 5,
+    "email": "jose97@hotmail.com"
+  },
+  {
+    "name": "Brandon Evans",
+    "sex": "m",
+    "class": "10-C",
+    "math": 6,
+    "art": 12,
+    "gym": 9,
+    "email": "watsonseth@yahoo.com"
+  },
+  {
+    "name": "John Jones",
+    "sex": "m",
+    "class": "10-D",
+    "math": 5,
+    "art": 6,
+    "gym": 6,
+    "email": "wperry@yahoo.com"
+  },
+  {
+    "name": "Mark Ellis",
+    "sex": "m",
+    "class": "10-B",
+    "math": 9,
+    "art": 9,
+    "gym": 4,
+    "email": "lorimerritt@hotmail.com"
+  },
+  {
+    "name": "Joshua Duffy",
+    "sex": "m",
+    "class": "10-C",
+    "math": 4,
+    "art": 10,
+    "gym": 9,
+    "email": "alexandria33@yahoo.com"
+  },
+  {
+    "name": "Jamie Murphy",
+    "sex": "f",
+    "class": "10-C",
+    "math": 7,
+    "art": 9,
+    "gym": 7,
+    "email": "sbeasley@yahoo.com"
+  },
+  {
+    "name": "Michael Martinez",
+    "sex": "m",
+    "class": "10-B",
+    "math": 4,
+    "art": 4,
+    "gym": 8,
+    "email": "jason06@hotmail.com"
+  },
+  {
+    "name": "Eugene Nash",
+    "sex": "m",
+    "class": "10-D",
+    "math": 4,
+    "art": 11,
+    "gym": 10,
+    "email": "youngdavid@gmail.com"
+  },
+  {
+    "name": "Laura Lamb",
+    "sex": "f",
+    "class": "10-C",
+    "math": 5,
+    "art": 12,
+    "gym": 7,
+    "email": "marshlindsey@yahoo.com"
+  },
+  {
+    "name": "Gabriel Barrera",
+    "sex": "m",
+    "class": "10-D",
+    "math": 11,
+    "art": 10,
+    "gym": 12,
+    "email": "diane16@yahoo.com"
+  },
+  {
+    "name": "Harold Butler",
+    "sex": "m",
+    "class": "10-D",
+    "math": 5,
+    "art": 4,
+    "gym": 7,
+    "email": "reyesjames@yahoo.com"
+  },
+  {
+    "name": "Nicholas Hunt",
+    "sex": "m",
+    "class": "10-A",
+    "math": 5,
+    "art": 9,
+    "gym": 6,
+    "email": "gibsondenise@hotmail.com"
+  },
+  {
+    "name": "Christopher Butler",
+    "sex": "m",
+    "class": "10-B",
+    "math": 11,
+    "art": 12,
+    "gym": 4,
+    "email": "gibsondeanna@gmail.com"
+  },
+  {
+    "name": "Michael Campbell",
+    "sex": "m",
+    "class": "10-B",
+    "math": 11,
+    "art": 8,
+    "gym": 6,
+    "email": "jeremy68@hotmail.com"
+  },
+  {
+    "name": "Wendy Abbott",
+    "sex": "f",
+    "class": "10-A",
+    "math": 10,
+    "art": 5,
+    "gym": 9,
+    "email": "shelby52@yahoo.com"
+  },
+  {
+    "name": "Trevor Hunter",
+    "sex": "m",
+    "class": "10-D",
+    "math": 4,
+    "art": 6,
+    "gym": 4,
+    "email": "ksmith@yahoo.com"
+  },
+  {
+    "name": "Jose Bennett",
+    "sex": "m",
+    "class": "10-A",
+    "math": 7,
+    "art": 10,
+    "gym": 11,
+    "email": "edwardharvey@hotmail.com"
+  },
+  {
+    "name": "David Green",
+    "sex": "m",
+    "class": "10-B",
+    "math": 5,
+    "art": 5,
+    "gym": 6,
+    "email": "joseph74@hotmail.com"
+  },
+  {
+    "name": "Andrew Jones",
+    "sex": "m",
+    "class": "10-B",
+    "math": 5,
+    "art": 4,
+    "gym": 8,
+    "email": "woodwardhayley@gmail.com"
+  },
+  {
+    "name": "Matthew Ramirez",
+    "sex": "m",
+    "class": "10-C",
+    "math": 10,
+    "art": 7,
+    "gym": 4,
+    "email": "englishmatthew@hotmail.com"
+  },
+  {
+    "name": "Mrs. Deborah Rogers",
+    "sex": "f",
+    "class": "10-B",
+    "math": 8,
+    "art": 5,
+    "gym": 11,
+    "email": "wrightmatthew@hotmail.com"
+  },
+  {
+    "name": "Robert Barber",
+    "sex": "m",
+    "class": "10-C",
+    "math": 10,
+    "art": 4,
+    "gym": 8,
+    "email": "hbaker@hotmail.com"
+  },
+  {
+    "name": "Julie Stewart",
+    "sex": "f",
+    "class": "10-C",
+    "math": 7,
+    "art": 10,
+    "gym": 10,
+    "email": "vargasjulie@hotmail.com"
+  },
+  {
+    "name": "Nancy Ballard",
+    "sex": "f",
+    "class": "10-D",
+    "math": 10,
+    "art": 7,
+    "gym": 6,
+    "email": "halllisa@gmail.com"
+  },
+  {
+    "name": "Anthony Smith",
+    "sex": "m",
+    "class": "10-B",
+    "math": 9,
+    "art": 6,
+    "gym": 7,
+    "email": "david00@yahoo.com"
+  },
+  {
+    "name": "Darrell Flowers",
+    "sex": "m",
+    "class": "10-C",
+    "math": 6,
+    "art": 8,
+    "gym": 7,
+    "email": "rwilliams@yahoo.com"
+  },
+  {
+    "name": "Collin Barnett",
+    "sex": "m",
+    "class": "10-A",
+    "math": 7,
+    "art": 11,
+    "gym": 9,
+    "email": "warrensmith@yahoo.com"
+  },
+  {
+    "name": "Katie Love",
+    "sex": "f",
+    "class": "10-A",
+    "math": 8,
+    "art": 5,
+    "gym": 8,
+    "email": "vanessaoneal@yahoo.com"
+  },
+  {
+    "name": "Brian Johnson",
+    "sex": "m",
+    "class": "10-B",
+    "math": 11,
+    "art": 4,
+    "gym": 6,
+    "email": "ggonzales@hotmail.com"
+  },
+  {
+    "name": "James Davidson",
+    "sex": "m",
+    "class": "10-C",
+    "math": 8,
+    "art": 4,
+    "gym": 12,
+    "email": "ucombs@hotmail.com"
+  },
+  {
+    "name": "Jason Olsen",
+    "sex": "m",
+    "class": "10-A",
+    "math": 4,
+    "art": 5,
+    "gym": 4,
+    "email": "kevinspence@yahoo.com"
+  },
+  {
+    "name": "Cindy Romero",
+    "sex": "f",
+    "class": "10-C",
+    "math": 9,
+    "art": 9,
+    "gym": 5,
+    "email": "pagepriscilla@yahoo.com"
+  },
+  {
+    "name": "Richard Warren",
+    "sex": "m",
+    "class": "10-D",
+    "math": 6,
+    "art": 9,
+    "gym": 4,
+    "email": "smithdouglas@yahoo.com"
+  },
+  {
+    "name": "Nicole Conrad",
+    "sex": "f",
+    "class": "10-B",
+    "math": 8,
+    "art": 7,
+    "gym": 12,
+    "email": "conniedominguez@gmail.com"
+  },
+  {
+    "name": "Laura Oconnell",
+    "sex": "f",
+    "class": "10-A",
+    "math": 8,
+    "art": 4,
+    "gym": 9,
+    "email": "william96@yahoo.com"
+  },
+  {
+    "name": "Kenneth Salinas",
+    "sex": "m",
+    "class": "10-B",
+    "math": 11,
+    "art": 6,
+    "gym": 5,
+    "email": "ricestephen@gmail.com"
+  },
+  {
+    "name": "Rachel Rodriguez",
+    "sex": "f",
+    "class": "10-B",
+    "math": 4,
+    "art": 12,
+    "gym": 11,
+    "email": "brianlucas@yahoo.com"
+  },
+  {
+    "name": "Daniel Perry",
+    "sex": "m",
+    "class": "10-A",
+    "math": 7,
+    "art": 12,
+    "gym": 8,
+    "email": "courtneyortega@gmail.com"
+  },
+  {
+    "name": "Zachary Cooper",
+    "sex": "m",
+    "class": "10-A",
+    "math": 11,
+    "art": 7,
+    "gym": 10,
+    "email": "robyn66@yahoo.com"
+  },
+  {
+    "name": "Carl Mendoza",
+    "sex": "m",
+    "class": "10-C",
+    "math": 4,
+    "art": 5,
+    "gym": 11,
+    "email": "theresa07@hotmail.com"
+  },
+  {
+    "name": "Jerry Johnson",
+    "sex": "m",
+    "class": "10-D",
+    "math": 12,
+    "art": 9,
+    "gym": 7,
+    "email": "smoore@hotmail.com"
+  },
+  {
+    "name": "Sherry Williams",
+    "sex": "f",
+    "class": "10-D",
+    "math": 9,
+    "art": 8,
+    "gym": 4,
+    "email": "breannajohnson@yahoo.com"
+  },
+  {
+    "name": "Matthew Reyes",
+    "sex": "m",
+    "class": "10-D",
+    "math": 7,
+    "art": 4,
+    "gym": 5,
+    "email": "brownjacqueline@gmail.com"
+  },
+  {
+    "name": "Jason Mayer",
+    "sex": "m",
+    "class": "10-B",
+    "math": 4,
+    "art": 8,
+    "gym": 5,
+    "email": "leslie13@gmail.com"
+  },
+  {
+    "name": "Antonio Beck",
+    "sex": "m",
+    "class": "10-A",
+    "math": 8,
+    "art": 5,
+    "gym": 10,
+    "email": "marc62@hotmail.com"
+  },
+  {
+    "name": "David Ellis",
+    "sex": "m",
+    "class": "10-D",
+    "math": 8,
+    "art": 6,
+    "gym": 9,
+    "email": "rachel40@yahoo.com"
+  },
+  {
+    "name": "Justin Ryan",
+    "sex": "m",
+    "class": "10-D",
+    "math": 6,
+    "art": 10,
+    "gym": 11,
+    "email": "corey60@gmail.com"
+  },
+  {
+    "name": "Travis Henry",
+    "sex": "m",
+    "class": "10-B",
+    "math": 6,
+    "art": 8,
+    "gym": 5,
+    "email": "qgutierrez@hotmail.com"
+  },
+  {
+    "name": "Jacob Butler",
+    "sex": "m",
+    "class": "10-B",
+    "math": 6,
+    "art": 9,
+    "gym": 7,
+    "email": "scottgeorge@hotmail.com"
+  },
+  {
+    "name": "Kelly Ortiz",
+    "sex": "f",
+    "class": "10-C",
+    "math": 8,
+    "art": 11,
+    "gym": 9,
+    "email": "greenfelicia@yahoo.com"
+  },
+  {
+    "name": "Alexander Parker",
+    "sex": "m",
+    "class": "10-B",
+    "math": 5,
+    "art": 7,
+    "gym": 5,
+    "email": "rgarcia@yahoo.com"
+  },
+  {
+    "name": "Michael Stevenson",
+    "sex": "m",
+    "class": "10-A",
+    "math": 11,
+    "art": 9,
+    "gym": 11,
+    "email": "jessica70@gmail.com"
+  },
+  {
+    "name": "Randy Weber",
+    "sex": "m",
+    "class": "10-C",
+    "math": 10,
+    "art": 8,
+    "gym": 9,
+    "email": "justintate@gmail.com"
+  },
+  {
+    "name": "Mr. Timothy Marshall DDS",
+    "sex": "m",
+    "class": "10-A",
+    "math": 10,
+    "art": 4,
+    "gym": 5,
+    "email": "qmiller@gmail.com"
+  },
+  {
+    "name": "Elizabeth Atkinson",
+    "sex": "f",
+    "class": "10-C",
+    "math": 7,
+    "art": 8,
+    "gym": 9,
+    "email": "tbowman@hotmail.com"
+  },
+  {
+    "name": "Justin Mcconnell",
+    "sex": "m",
+    "class": "10-B",
+    "math": 6,
+    "art": 9,
+    "gym": 10,
+    "email": "kimberly00@gmail.com"
+  },
+  {
+    "name": "Robert Gonzalez Jr.",
+    "sex": "m",
+    "class": "10-A",
+    "math": 7,
+    "art": 10,
+    "gym": 7,
+    "email": "ndean@yahoo.com"
+  },
+  {
+    "name": "Timothy Murray",
+    "sex": "m",
+    "class": "10-D",
+    "math": 6,
+    "art": 9,
+    "gym": 9,
+    "email": "urichards@hotmail.com"
+  },
+  {
+    "name": "Jesse Snyder",
+    "sex": "m",
+    "class": "10-B",
+    "math": 12,
+    "art": 12,
+    "gym": 12,
+    "email": "awerner@hotmail.com"
+  }
+]
