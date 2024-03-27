@@ -1,0 +1,218 @@
+last_name,first_name,gender,country,month,year,job,payment,rating
+Hernandez,Nicholas,male,Greece,5,2022,Editorial assistant,2007.08,9.0
+Harper,Jason,male,Latvia,12,2022,Geophysicist/field seismologist,2182.64,9.6
+Rhodes,David,male,Greece,10,2022,Geophysicist/field seismologist,1980.45,7.7
+Bryant,Thomas,male,Congo,11,2021,Surgeon,1962.03,5.1
+Carson,Dan,male,Timor-Leste,11,2020,Surgeon,1914.87,10.0
+Lucas,Thomas,male,Latvia,11,2023,Associate Professor,1856.99,8.5
+Cook,Jeffrey,male,Netherlands Antilles,12,2021,Surgeon,1991.65,8.1
+Woods,William,male,Congo,8,2022,Editorial assistant,1984.62,5.8
+Ellis,Wesley,male,Netherlands,9,2020,Technical sales engineer,2073.72,9.8
+Ross,Paul,male,Netherlands Antilles,8,2020,Surgeon,2204.79,8.7
+Webster,Gene,male,Timor-Leste,9,2022,Editorial assistant,1843.92,8.3
+Holt,Jonathan,male,Netherlands,12,2022,Surgeon,2081.12,8.2
+Smith,Edward,female,Netherlands,2,2021,Editorial assistant,2016.72,7.2
+Barr,Jonathan,female,Latvia,10,2021,Editorial assistant,1731.68,6.6
+Dodson,Shane,female,Netherlands Antilles,10,2023,Geophysicist/field seismologist,1966.11,9.3
+Monroe,William,male,Latvia,12,2020,Editorial assistant,2033.31,6.0
+Flynn,John,male,Latvia,9,2021,Geophysicist/field seismologist,2039.42,5.5
+Jones,Scott,male,Latvia,7,2022,Technical sales engineer,2092.86,8.7
+Leblanc,Douglas,male,Timor-Leste,12,2023,Associate Professor,1793.11,9.2
+Johnson,Maurice,female,Timor-Leste,12,2022,Associate Professor,1939.96,8.5
+Price,Ricky,male,Brunei Darussalam,1,2022,Technical sales engineer,1871.03,5.7
+Powers,James,male,Greece,6,2023,Editorial assistant,2038.71,8.4
+Ellis,Robert,male,Greece,3,2021,Geophysicist/field seismologist,1840.65,8.6
+Miller,Jeffrey,male,Latvia,5,2020,Associate Professor,2028.92,9.2
+Lewis,Joseph,male,Timor-Leste,10,2020,Editorial assistant,1963.88,9.0
+Oconnor,Eric,male,Greece,12,2021,Technical sales engineer,2075.15,6.1
+Porter,Jacob,male,Netherlands,8,2021,Editorial assistant,1925.55,5.4
+Hensley,James,male,Timor-Leste,12,2022,Associate Professor,2013.64,10.0
+Steele,Austin,male,Greece,3,2022,Technical sales engineer,2097.41,9.5
+Lamb,Phillip,male,Latvia,12,2022,Technical sales engineer,1849.62,9.4
+West,Patrick,male,Congo,11,2020,Editorial assistant,1875.64,8.5
+Nelson,Aaron,male,Greece,12,2020,Geophysicist/field seismologist,1855.63,5.8
+Aguilar,Christopher,male,Congo,4,2021,Editorial assistant,1944.66,5.1
+Brown,Donald,male,Timor-Leste,3,2021,Associate Professor,1913.57,10.0
+Kane,Luis,male,Netherlands,4,2022,Editorial assistant,2068.52,7.8
+Evans,Maurice,male,Netherlands Antilles,5,2022,Geophysicist/field seismologist,1858.15,9.9
+Brooks,Matthew,male,Congo,9,2022,Editorial assistant,1889.47,8.5
+Grant,David,male,Netherlands Antilles,5,2020,Technical sales engineer,2022.38,8.8
+Bennett,Casey,male,Netherlands Antilles,7,2022,Editorial assistant,1995.5,9.2
+Lewis,Jeremy,male,Netherlands Antilles,5,2022,Technical sales engineer,1949.64,5.0
+Alvarado,Ronald,male,Congo,9,2021,Surgeon,2026.15,6.3
+Lynch,Anthony,male,Netherlands Antilles,9,2023,Editorial assistant,2223.31,5.5
+Taylor,Richard,male,Greece,10,2022,Geophysicist/field seismologist,1977.39,5.3
+Richmond,Dennis,male,Brunei Darussalam,6,2023,Editorial assistant,1846.32,6.6
+Chambers,Michael,male,Brunei Darussalam,10,2022,Associate Professor,1808.77,9.5
+Drake,Jeremy,male,Netherlands,5,2023,Associate Professor,1937.2,6.9
+Russo,David,male,Latvia,8,2023,Editorial assistant,1872.47,8.5
+Johnson,Brian,female,Congo,5,2022,Geophysicist/field seismologist,2056.54,7.1
+Martinez,Daniel,female,Latvia,6,2021,Associate Professor,1939.29,5.4
+Tanner,Willie,female,Netherlands Antilles,5,2020,Associate Professor,1996.97,7.4
+Taylor,William,male,Greece,1,2020,Surgeon,1857.78,6.5
+Bell,Donald,male,Latvia,5,2020,Associate Professor,2122.6,5.2
+Logan,David,male,Latvia,7,2020,Editorial assistant,2134.47,7.0
+Watson,Kevin,male,Brunei Darussalam,3,2022,Associate Professor,2108.75,9.5
+Berg,Clifford,male,Timor-Leste,3,2022,Technical sales engineer,2082.18,8.7
+Tran,Chad,male,Latvia,3,2021,Associate Professor,2026.99,9.0
+Mahoney,Michael,male,Greece,4,2022,Technical sales engineer,1997.71,7.2
+Alvarez,Tyler,male,Netherlands,5,2022,Technical sales engineer,2036.41,6.9
+Franco,Jason,male,Latvia,12,2023,Technical sales engineer,1862.41,5.5
+Crosby,Mark,male,Netherlands,4,2022,Editorial assistant,1933.44,5.3
+Rivera,Ricardo,male,Netherlands,2,2021,Associate Professor,1821.2,6.9
+Butler,James,male,Brunei Darussalam,11,2021,Editorial assistant,1852.98,9.5
+Woods,Gary,male,Latvia,12,2022,Editorial assistant,1963.51,10.0
+Kelley,Daniel,female,Brunei Darussalam,8,2023,Technical sales engineer,1946.48,7.0
+Wong,Joseph,male,Timor-Leste,6,2023,Technical sales engineer,2076.17,9.2
+Harding,Shawn,male,Brunei Darussalam,9,2022,Technical sales engineer,1885.18,8.1
+Parks,Richard,male,Latvia,7,2020,Editorial assistant,1958.4,8.6
+Gonzales,Michael,male,Netherlands,11,2022,Associate Professor,2070.04,5.5
+Harris,Clifford,male,Timor-Leste,9,2023,Associate Professor,2110.42,10.0
+Richardson,Jason,male,Netherlands,3,2022,Associate Professor,2224.88,5.5
+Mcneil,Leonard,male,Latvia,11,2022,Geophysicist/field seismologist,1947.38,6.3
+Park,Edward,male,Netherlands,2,2021,Associate Professor,2038.51,5.3
+Diaz,Gregory,male,Netherlands,11,2023,Surgeon,2027.43,7.4
+Walker,Tommy,male,Netherlands Antilles,6,2020,Associate Professor,1923.0,6.1
+Willis,Adrian,male,Netherlands,12,2023,Associate Professor,2257.55,8.2
+Hunter,Jason,male,Netherlands,6,2021,Technical sales engineer,2110.35,6.2
+Glover,Mark,male,Netherlands Antilles,6,2022,Technical sales engineer,1954.11,9.6
+Soto,Gavin,male,Netherlands,8,2020,Editorial assistant,1970.51,9.6
+Bailey,Edgar,male,Timor-Leste,9,2021,Associate Professor,1986.26,7.3
+Snyder,James,male,Greece,9,2020,Associate Professor,1988.28,9.3
+Brooks,Paul,male,Netherlands,11,2020,Editorial assistant,1986.62,8.9
+Thomas,Juan,male,Timor-Leste,6,2020,Associate Professor,2002.82,10.0
+Landry,Michael,male,Latvia,2,2021,Editorial assistant,1967.45,5.3
+Smith,Ronald,male,Latvia,8,2022,Technical sales engineer,1861.46,5.4
+Chavez,James,female,Congo,7,2020,Technical sales engineer,2021.72,8.3
+Mitchell,Ernest,male,Latvia,2,2021,Editorial assistant,1931.7,6.6
+Mendez,Ruben,male,Netherlands,5,2022,Surgeon,1976.34,8.1
+Kaiser,Michael,male,Latvia,7,2021,Associate Professor,1994.65,10.0
+Taylor,Paul,female,Netherlands,12,2021,Editorial assistant,2015.24,6.5
+Gibson,Jesse,female,Latvia,9,2023,Editorial assistant,2016.64,7.9
+Johnson,Robert,male,Latvia,9,2021,Geophysicist/field seismologist,1981.85,7.7
+Nguyen,Gerald,male,Netherlands Antilles,8,2020,Technical sales engineer,2272.91,5.1
+Ramos,Charles,male,Brunei Darussalam,8,2020,Associate Professor,2106.15,6.2
+Robbins,Kyle,male,Greece,3,2020,Associate Professor,1921.03,6.7
+Webb,Tracy,female,Netherlands,4,2021,Geophysicist/field seismologist,2085.12,9.4
+Wilson,Alex,male,Netherlands,7,2020,Associate Professor,2123.15,7.1
+Kline,Corey,male,Brunei Darussalam,12,2022,Editorial assistant,2051.14,6.9
+Roberts,Joshua,male,Latvia,12,2023,Technical sales engineer,2076.26,9.7
+Reynolds,Larry,male,Greece,4,2023,Surgeon,1908.24,5.2
+Williams,Daniel,male,Timor-Leste,9,2022,Associate Professor,1990.76,9.3
+Meadows,Jason,male,Congo,9,2021,Associate Professor,2046.5,9.2
+Terrell,Benjamin,male,Brunei Darussalam,3,2022,Associate Professor,1848.69,6.5
+Fernandez,Keith,male,Netherlands,6,2020,Associate Professor,2129.14,5.1
+Arnold,Nicholas,male,Timor-Leste,10,2023,Associate Professor,2120.45,9.4
+Nicholson,John,male,Netherlands,2,2021,Geophysicist/field seismologist,1970.03,5.6
+Nelson,Donald,male,Netherlands,8,2020,Surgeon,2145.52,9.6
+Smith,Tyler,male,Congo,1,2022,Associate Professor,1965.81,7.8
+Calhoun,Mark,male,Netherlands,10,2021,Editorial assistant,1867.8,6.9
+Curtis,Christopher,male,Brunei Darussalam,9,2020,Technical sales engineer,2059.47,9.5
+Chapman,Paul,male,Netherlands,6,2023,Associate Professor,2052.59,6.2
+Ramos,Jeffrey,male,Netherlands,11,2022,Technical sales engineer,1977.27,5.7
+Wilson,John,male,Congo,1,2022,Editorial assistant,2144.52,5.1
+Williams,Kevin,male,Greece,5,2021,Associate Professor,1996.17,6.3
+Brown,Bryan,male,Congo,11,2023,Technical sales engineer,2044.35,7.1
+Collins,Gary,male,Netherlands,12,2021,Geophysicist/field seismologist,2041.25,8.2
+Pacheco,Justin,male,Netherlands,10,2022,Editorial assistant,1996.16,9.9
+Malone,Matthew,male,Netherlands Antilles,12,2020,Editorial assistant,1874.98,9.5
+Reynolds,Benjamin,male,Netherlands Antilles,12,2020,Technical sales engineer,1785.11,8.0
+Ballard,Brent,male,Brunei Darussalam,5,2020,Technical sales engineer,2014.26,8.5
+Myers,John,male,Netherlands,12,2023,Associate Professor,1949.43,9.8
+Martin,Erik,male,Timor-Leste,12,2021,Editorial assistant,2096.43,8.7
+King,John,male,Netherlands,6,2022,Associate Professor,1930.84,7.5
+Solomon,Stephen,male,Timor-Leste,2,2020,Technical sales engineer,2015.9,10.0
+Keller,Daniel,female,Greece,8,2022,Editorial assistant,2114.04,9.6
+Krueger,Kelly,male,Congo,2,2022,Surgeon,2148.49,9.5
+Hull,Ernest,male,Latvia,2,2022,Editorial assistant,2266.91,9.2
+Jenkins,Keith,male,Latvia,12,2022,Editorial assistant,1952.55,8.1
+Perkins,Michael,male,Netherlands Antilles,4,2023,Associate Professor,2018.45,10.0
+Peters,William,male,Timor-Leste,6,2020,Associate Professor,2108.78,8.8
+Greene,Philip,male,Latvia,5,2021,Editorial assistant,1963.53,5.9
+Lewis,Jon,male,Netherlands Antilles,9,2021,Geophysicist/field seismologist,1995.23,7.2
+Kim,Keith,male,Latvia,11,2023,Geophysicist/field seismologist,1939.31,5.2
+Castillo,Alan,male,Netherlands Antilles,10,2020,Associate Professor,1794.74,5.9
+Baker,Kurt,male,Timor-Leste,7,2022,Technical sales engineer,2009.3,8.9
+Fernandez,Shane,male,Latvia,6,2021,Editorial assistant,2137.65,5.9
+Anderson,Brendan,male,Greece,7,2023,Editorial assistant,1944.88,9.6
+Ray,Mitchell,male,Brunei Darussalam,4,2020,Geophysicist/field seismologist,1947.22,6.8
+Schultz,Daniel,male,Netherlands Antilles,9,2023,Editorial assistant,2042.64,7.4
+Garrison,Jacob,male,Brunei Darussalam,8,2020,Geophysicist/field seismologist,2015.11,5.4
+Myers,Benjamin,male,Netherlands Antilles,5,2022,Associate Professor,1913.0,8.0
+Salazar,Joshua,male,Latvia,11,2021,Technical sales engineer,1840.48,6.1
+Sanchez,Steven,male,Netherlands,9,2023,Editorial assistant,2082.66,6.7
+Clark,Jason,male,Netherlands,7,2022,Associate Professor,1951.36,7.1
+Bean,Anthony,male,Greece,11,2020,Associate Professor,2061.67,5.8
+Briggs,Brian,male,Latvia,12,2021,Associate Professor,2007.59,7.5
+Davis,Robert,male,Netherlands Antilles,3,2020,Associate Professor,2000.08,9.0
+Park,Joshua,male,Netherlands Antilles,3,2022,Editorial assistant,2047.87,5.4
+Rodriguez,Thomas,male,Latvia,1,2023,Associate Professor,2226.76,8.7
+York,Alexander,male,Brunei Darussalam,11,2020,Technical sales engineer,1959.1,8.6
+Sullivan,Todd,male,Timor-Leste,12,2021,Editorial assistant,2184.82,7.3
+Durham,Donald,male,Latvia,3,2021,Technical sales engineer,2052.45,8.7
+Burns,Lawrence,male,Latvia,2,2022,Surgeon,2072.55,6.0
+Meyer,Richard,male,Netherlands,9,2023,Technical sales engineer,2011.24,9.3
+Price,Larry,male,Netherlands Antilles,1,2022,Associate Professor,1920.52,9.3
+Fritz,John,male,Netherlands Antilles,11,2022,Associate Professor,1927.95,5.6
+Henry,Jared,male,Netherlands Antilles,9,2022,Associate Professor,1906.45,8.6
+Turner,Drew,male,Latvia,12,2023,Technical sales engineer,1862.65,7.7
+Douglas,Jacob,female,Greece,7,2020,Editorial assistant,2161.86,5.9
+Garcia,Paul,female,Netherlands Antilles,1,2022,Geophysicist/field seismologist,2045.29,6.9
+Gonzalez,Timothy,male,Netherlands Antilles,12,2020,Editorial assistant,2059.46,6.6
+Soto,Jeremy,male,Latvia,10,2020,Associate Professor,2114.35,9.8
+Smith,Kyle,male,Netherlands Antilles,7,2022,Technical sales engineer,1994.57,7.6
+Lowe,Anthony,male,Latvia,8,2021,Associate Professor,1947.41,8.9
+Scott,Eric,male,Timor-Leste,6,2020,Surgeon,1914.92,7.5
+Fischer,Scott,male,Netherlands,12,2023,Technical sales engineer,2075.41,8.2
+Casey,Charles,male,Timor-Leste,10,2022,Technical sales engineer,1869.81,10.0
+Bennett,Jay,male,Netherlands Antilles,3,2020,Geophysicist/field seismologist,1891.19,6.6
+Alvarez,Jermaine,male,Brunei Darussalam,11,2022,Technical sales engineer,1891.08,7.8
+Griffin,Sean,male,Netherlands,9,2020,Editorial assistant,1973.0,8.7
+Kennedy,Kenneth,male,Netherlands Antilles,12,2022,Technical sales engineer,1938.76,8.2
+Moore,Douglas,male,Greece,6,2023,Technical sales engineer,1980.77,7.3
+Aguilar,Zachary,male,Latvia,2,2021,Associate Professor,2041.05,7.5
+Forbes,James,male,Latvia,9,2020,Geophysicist/field seismologist,2123.94,7.1
+Bernard,David,male,Greece,5,2022,Editorial assistant,1974.42,8.2
+Phillips,Jeffery,male,Congo,1,2023,Geophysicist/field seismologist,1997.22,7.3
+Deleon,Travis,male,Netherlands,11,2023,Technical sales engineer,1898.99,6.6
+Valenzuela,Todd,male,Brunei Darussalam,10,2023,Geophysicist/field seismologist,1835.15,9.0
+Bryant,Kevin,male,Congo,5,2023,Surgeon,2055.74,9.8
+Lee,Jesse,male,Greece,11,2023,Associate Professor,2120.28,9.6
+Maldonado,Zachary,male,Congo,7,2023,Editorial assistant,1858.38,6.0
+Hanna,Carl,male,Latvia,2,2023,Associate Professor,1902.86,8.1
+Mcconnell,William,male,Brunei Darussalam,6,2021,Associate Professor,1897.96,6.5
+Marshall,Anthony,male,Netherlands,7,2023,Technical sales engineer,1984.24,7.8
+Keith,Bruce,female,Congo,10,2022,Associate Professor,2039.56,6.7
+Ramos,Jason,male,Netherlands,6,2023,Associate Professor,1876.12,8.1
+Guerrero,Caleb,male,Congo,5,2023,Technical sales engineer,1962.59,7.9
+Jones,Eric,male,Brunei Darussalam,7,2021,Technical sales engineer,1974.77,6.8
+Levine,Joseph,male,Latvia,4,2020,Editorial assistant,2053.83,6.4
+Horton,David,female,Latvia,8,2021,Technical sales engineer,2155.6,5.5
+Taylor,Justin,male,Netherlands,4,2023,Technical sales engineer,2214.78,6.4
+Weaver,Jason,male,Greece,2,2021,Associate Professor,1882.48,8.6
+Bowman,Cameron,male,Brunei Darussalam,7,2020,Editorial assistant,1950.58,6.8
+Rosales,Charles,male,Netherlands,6,2022,Editorial assistant,1938.56,9.3
+Larson,James,male,Netherlands,9,2023,Technical sales engineer,1933.24,7.9
+Wood,James,male,Congo,9,2022,Technical sales engineer,1893.9,7.9
+Vang,Nathaniel,male,Greece,3,2021,Geophysicist/field seismologist,1991.03,9.9
+Murphy,Zachary,male,Brunei Darussalam,10,2023,Surgeon,2006.88,6.5
+Wilson,Michael,male,Congo,6,2021,Associate Professor,1918.1,6.2
+Wiggins,Kenneth,female,Netherlands,11,2020,Geophysicist/field seismologist,1951.2,8.2
+Wright,Patrick,female,Netherlands,4,2022,Technical sales engineer,2079.98,7.1
+Gonzalez,Billy,male,Congo,10,2023,Technical sales engineer,1862.38,5.9
+Clarke,Jesse,male,Latvia,1,2021,Technical sales engineer,1904.85,6.0
+Mueller,Mark,male,Brunei Darussalam,1,2022,Associate Professor,1909.76,8.8
+Hendricks,Jorge,male,Timor-Leste,8,2023,Associate Professor,2086.89,7.1
+Hernandez,Michael,male,Latvia,11,2022,Geophysicist/field seismologist,1838.32,7.7
+Rhodes,William,male,Netherlands,7,2023,Geophysicist/field seismologist,2061.65,8.9
+Richards,Alex,male,Netherlands,8,2022,Associate Professor,1921.37,9.0
+Young,Jared,male,Latvia,7,2022,Technical sales engineer,1939.08,6.3
+Hernandez,Cory,male,Netherlands Antilles,12,2023,Technical sales engineer,2063.8,7.8
+Mays,Ernest,male,Netherlands,6,2022,Associate Professor,2003.48,8.9
+Alvarez,Stephen,male,Latvia,4,2021,Associate Professor,2180.89,8.2
+Riley,Taylor,male,Netherlands,6,2020,Associate Professor,1970.76,6.4
+Mendoza,Gary,female,Latvia,4,2020,Technical sales engineer,2159.88,5.0
+Sullivan,Hunter,male,Timor-Leste,8,2023,Geophysicist/field seismologist,1974.51,10.0
+Jennings,Jeremiah,male,Greece,6,2023,Editorial assistant,2003.89,8.5
+Davis,Marvin,male,Greece,12,2022,Editorial assistant,2036.0,9.7
+Rodriguez,Mark,male,Brunei Darussalam,7,2022,Surgeon,1966.27,9.6

@@ -1,0 +1,256 @@
+last_name,first_name,gender,country,month,year,job,payment,rating
+Guerra,Timothy,female,Switzerland,4,2023,Chartered legal executive (England and Wales),2095.64,9.3
+Bishop,Larry,male,Morocco,5,2022,Theatre manager,2110.39,9.6
+Patterson,Joshua,female,Czech Republic,10,2020,Theatre manager,1999.9,8.9
+Richard,Michael,female,Czech Republic,1,2022,Chartered legal executive (England and Wales),2142.29,6.7
+Cunningham,Garrett,female,Heard Island and McDonald Islands,10,2021,Artist,2077.23,9.1
+Nash,Danny,male,Morocco,5,2022,Theatre manager,2003.59,8.4
+Carter,Joseph,female,Argentina,4,2021,Chartered legal executive (England and Wales),2004.81,7.0
+Jensen,Alex,female,Argentina,12,2023,Artist,1836.98,7.5
+Turner,Robert,female,Czech Republic,4,2022,Artist,2017.62,7.6
+Perez,Johnathan,female,Switzerland,7,2020,Chartered legal executive (England and Wales),2040.16,7.1
+Parks,Derek,female,Switzerland,11,2021,Artist,2217.82,10.0
+Harrison,Paul,female,Mozambique,2,2023,Theatre manager,2073.08,5.4
+Campbell,Benjamin,female,Heard Island and McDonald Islands,8,2023,Artist,1946.5,9.8
+Romero,Eric,male,Morocco,8,2022,Theatre manager,2164.79,5.8
+Lee,Christopher,female,Switzerland,8,2021,Artist,1919.68,7.5
+Preston,Jeffrey,female,Czech Republic,12,2022,Chartered legal executive (England and Wales),2071.95,8.8
+Lee,James,female,Morocco,9,2020,Chartered legal executive (England and Wales),2108.54,9.4
+Holt,Sean,female,Czech Republic,5,2020,Theatre manager,2056.88,7.0
+Lynch,Joseph,male,Argentina,12,2022,Theatre manager,2078.96,7.7
+Hunter,Jeremy,female,Czech Republic,11,2021,Artist,1921.2,5.6
+Thomas,Chris,female,Heard Island and McDonald Islands,5,2021,Theatre manager,2079.92,8.1
+Steele,Kenneth,male,Morocco,8,2023,Chartered legal executive (England and Wales),1997.55,7.9
+Cook,Kyle,female,Mozambique,11,2022,Chartered legal executive (England and Wales),2072.73,7.3
+Blake,Dustin,female,Czech Republic,5,2021,Artist,1962.82,5.1
+Harris,Kelly,female,Switzerland,10,2021,Artist,1933.44,6.1
+Parrish,Roy,male,Argentina,7,2022,Theatre manager,2065.66,9.0
+Duncan,Guy,female,Czech Republic,4,2023,Artist,2060.95,5.7
+Jones,Brian,female,Heard Island and McDonald Islands,8,2021,Artist,1976.73,6.9
+Johnson,Brian,female,Heard Island and McDonald Islands,4,2023,Chartered legal executive (England and Wales),1906.89,9.8
+Yates,Mario,female,Argentina,11,2020,Artist,1907.08,6.7
+Thompson,William,female,Czech Republic,6,2021,Artist,1886.5,9.4
+Finley,Jason,male,Heard Island and McDonald Islands,1,2020,Chartered legal executive (England and Wales),2022.45,8.6
+Hunter,Robert,female,Mozambique,7,2023,Artist,1960.27,8.4
+Conrad,Frank,male,Switzerland,11,2020,Artist,1925.55,8.1
+Leblanc,Joshua,female,Heard Island and McDonald Islands,2,2022,Artist,1935.75,7.9
+Baldwin,Christopher,female,Switzerland,6,2020,Theatre manager,2068.85,5.8
+Gregory,Michael,male,Mozambique,7,2020,Artist,1950.54,5.0
+Howell,Anthony,female,Heard Island and McDonald Islands,6,2020,Artist,2036.25,7.8
+Morris,Patrick,female,Czech Republic,8,2021,Artist,2105.75,9.2
+Johnson,Mark,female,Czech Republic,9,2022,Theatre manager,1994.46,9.7
+West,Jacob,female,Mozambique,7,2020,Theatre manager,2014.36,7.1
+Morgan,Sean,female,Czech Republic,12,2023,Artist,1970.74,9.2
+Giles,Mathew,male,Svalbard & Jan Mayen Islands,12,2020,Artist,2186.18,9.1
+Mitchell,Joe,male,Czech Republic,2,2022,Theatre manager,2035.54,7.2
+Stewart,Jeffrey,female,Argentina,8,2021,Theatre manager,1851.07,9.0
+Myers,Kevin,female,Argentina,6,2020,Theatre manager,2136.22,5.6
+Arnold,Calvin,female,Switzerland,11,2022,Theatre manager,1830.4,7.0
+Henry,Thomas,male,Argentina,2,2021,Artist,2040.69,8.9
+Wallace,Charles,female,Mozambique,12,2020,Chartered legal executive (England and Wales),1943.73,9.5
+Mata,Tyler,female,Heard Island and McDonald Islands,2,2021,Chartered legal executive (England and Wales),1916.09,7.5
+Payne,Steven,male,Heard Island and McDonald Islands,12,2021,Theatre manager,1980.18,6.8
+Williams,Ryan,female,Morocco,1,2023,Chartered legal executive (England and Wales),1985.3,9.0
+Chang,Billy,female,Argentina,5,2023,Theatre manager,1974.63,8.4
+Thornton,Keith,female,Mozambique,7,2020,Theatre manager,1946.67,7.3
+Carey,Brandon,female,Czech Republic,10,2020,Artist,1910.74,5.6
+Gray,James,female,Switzerland,6,2022,Theatre manager,2098.53,6.8
+Jones,Brandon,female,Heard Island and McDonald Islands,6,2020,Chartered legal executive (England and Wales),2012.63,5.8
+Day,Cameron,male,Heard Island and McDonald Islands,5,2023,Theatre manager,1982.46,9.0
+Shields,Andrew,female,Czech Republic,10,2021,Artist,2160.91,8.8
+Scott,Christopher,female,Argentina,9,2021,Theatre manager,1899.16,6.3
+Anderson,John,female,Morocco,11,2023,Chartered legal executive (England and Wales),1918.65,6.9
+Mitchell,Jonathan,male,Czech Republic,8,2023,Artist,1854.35,7.0
+Ward,Kelly,female,Czech Republic,9,2020,Chartered legal executive (England and Wales),2056.46,6.0
+Wu,Tyler,male,Czech Republic,2,2020,Theatre manager,2074.4,5.1
+Rivera,Brian,female,Argentina,8,2020,Chartered legal executive (England and Wales),1848.93,5.4
+Burns,Danny,female,Switzerland,10,2023,Theatre manager,2049.6,6.6
+Wood,Nathan,female,Czech Republic,11,2022,Artist,2108.9,10.0
+Martinez,David,female,Argentina,11,2023,Artist,2011.58,7.0
+Diaz,Kevin,female,Mozambique,8,2023,Theatre manager,2096.98,6.9
+Hensley,Benjamin,female,Czech Republic,8,2021,Theatre manager,1971.23,5.9
+Fuller,Donald,male,Switzerland,10,2021,Artist,2008.31,5.6
+Swanson,Luke,male,Morocco,5,2021,Chartered legal executive (England and Wales),2135.73,9.2
+Riley,John,male,Mozambique,7,2022,Chartered legal executive (England and Wales),2075.08,5.8
+Gomez,Jason,male,Morocco,5,2020,Theatre manager,2032.99,7.6
+Hooper,Christopher,female,Switzerland,5,2023,Artist,1928.64,7.2
+Morales,Aaron,male,Heard Island and McDonald Islands,2,2020,Theatre manager,2180.37,5.2
+Luna,Paul,male,Argentina,1,2022,Artist,2051.37,7.7
+Roberts,Billy,female,Argentina,3,2022,Artist,2083.21,5.4
+Smith,Martin,female,Svalbard & Jan Mayen Islands,4,2021,Artist,1900.7,7.9
+Webb,Scott,female,Czech Republic,6,2020,Theatre manager,1954.97,5.3
+Chambers,James,female,Czech Republic,5,2023,Chartered legal executive (England and Wales),1906.24,9.8
+Dawson,Thomas,female,Argentina,7,2023,Chartered legal executive (England and Wales),1954.74,6.1
+Baker,Cory,female,Argentina,7,2021,Artist,2104.84,7.2
+Harper,Johnny,female,Czech Republic,9,2022,Artist,1971.85,9.6
+Joyce,Todd,female,Heard Island and McDonald Islands,1,2023,Theatre manager,1905.5,5.5
+Smith,Gregory,female,Argentina,6,2023,Artist,2002.74,7.9
+Rhodes,Michael,female,Argentina,7,2020,Theatre manager,1982.12,6.5
+Mendoza,Dustin,female,Switzerland,11,2023,Theatre manager,1981.15,9.5
+Deleon,Danny,female,Svalbard & Jan Mayen Islands,9,2020,Chartered legal executive (England and Wales),2139.88,9.5
+Aguilar,Michael,female,Argentina,2,2020,Artist,2030.28,8.5
+Foster,Matthew,female,Argentina,3,2020,Chartered legal executive (England and Wales),2045.48,7.7
+Reynolds,Patrick,female,Morocco,8,2022,Artist,2032.96,8.3
+Cook,Kevin,female,Mozambique,9,2021,Chartered legal executive (England and Wales),2097.01,6.7
+Boyle,Eric,male,Czech Republic,6,2022,Chartered legal executive (England and Wales),1877.06,8.4
+Cobb,Douglas,female,Morocco,1,2023,Theatre manager,1983.15,7.9
+Berry,Jorge,male,Czech Republic,4,2021,Chartered legal executive (England and Wales),2037.04,7.7
+Ortega,Alexander,female,Mozambique,1,2023,Theatre manager,2062.05,7.0
+Frey,Harry,female,Svalbard & Jan Mayen Islands,8,2023,Theatre manager,1997.46,7.5
+Smith,Timothy,female,Czech Republic,6,2021,Artist,1866.1,7.5
+Thompson,Alex,female,Argentina,2,2023,Artist,1837.42,7.3
+Nguyen,Benjamin,female,Argentina,5,2021,Chartered legal executive (England and Wales),1951.49,8.4
+Moore,Keith,male,Heard Island and McDonald Islands,7,2021,Theatre manager,1938.64,7.3
+Williams,John,male,Czech Republic,9,2022,Chartered legal executive (England and Wales),2023.99,8.8
+Phelps,Luis,female,Mozambique,5,2023,Artist,1958.13,9.8
+Pierce,Joshua,male,Mozambique,4,2022,Chartered legal executive (England and Wales),1997.01,9.1
+Smith,Frederick,female,Heard Island and McDonald Islands,5,2021,Chartered legal executive (England and Wales),2087.38,6.2
+Williams,Christopher,female,Morocco,2,2021,Theatre manager,2004.99,6.5
+Williams,Bobby,female,Heard Island and McDonald Islands,8,2022,Artist,1896.68,7.0
+Dyer,Clayton,male,Svalbard & Jan Mayen Islands,7,2020,Theatre manager,1992.02,10.0
+Meyer,Louis,male,Argentina,11,2021,Theatre manager,2048.48,8.1
+Gomez,Antonio,female,Czech Republic,1,2021,Theatre manager,2091.9,7.4
+Carter,Michael,male,Czech Republic,6,2021,Theatre manager,1953.86,5.4
+Villarreal,Anthony,male,Svalbard & Jan Mayen Islands,11,2022,Theatre manager,1967.27,10.0
+Fox,Gregory,female,Czech Republic,4,2022,Theatre manager,1886.91,7.0
+Hill,Christopher,male,Argentina,2,2021,Chartered legal executive (England and Wales),2151.03,9.6
+Smith,Matthew,female,Mozambique,4,2022,Theatre manager,1915.09,7.5
+Kane,Ian,female,Heard Island and McDonald Islands,2,2020,Artist,1964.46,8.7
+Johnson,Robert,male,Morocco,12,2020,Chartered legal executive (England and Wales),2150.56,6.2
+Cain,Lawrence,female,Argentina,4,2023,Artist,2039.44,8.9
+Snyder,Timothy,female,Morocco,8,2022,Theatre manager,1977.87,6.0
+Macdonald,Thomas,male,Argentina,11,2022,Chartered legal executive (England and Wales),1897.73,6.5
+Matthews,Douglas,female,Heard Island and McDonald Islands,7,2021,Theatre manager,1881.9,8.6
+Poole,Dustin,female,Svalbard & Jan Mayen Islands,9,2023,Theatre manager,1847.77,7.3
+Dean,John,female,Svalbard & Jan Mayen Islands,2,2022,Theatre manager,1939.54,10.0
+Gray,Brian,male,Argentina,9,2023,Chartered legal executive (England and Wales),2080.61,7.6
+Davis,Kenneth,female,Czech Republic,7,2022,Theatre manager,1946.37,5.9
+Osborn,Lonnie,male,Czech Republic,10,2020,Theatre manager,2006.32,5.9
+Rodriguez,Anthony,female,Argentina,3,2020,Theatre manager,2023.72,7.6
+Garcia,Phillip,male,Argentina,9,2021,Theatre manager,1981.79,7.5
+Arellano,Jeffery,female,Morocco,7,2020,Theatre manager,2104.9,5.6
+Kerr,Kevin,male,Heard Island and McDonald Islands,8,2021,Theatre manager,1875.0,6.8
+Gibson,Nathaniel,male,Mozambique,10,2021,Artist,1918.52,7.1
+Arroyo,Matthew,female,Switzerland,12,2022,Chartered legal executive (England and Wales),1933.39,8.8
+Love,Kevin,male,Svalbard & Jan Mayen Islands,9,2020,Theatre manager,1950.94,9.9
+Black,David,female,Argentina,3,2022,Theatre manager,1925.68,9.8
+Cox,Kevin,female,Argentina,1,2023,Theatre manager,1953.14,7.2
+Simmons,Michael,female,Argentina,12,2022,Artist,2047.67,8.8
+King,Randy,male,Heard Island and McDonald Islands,2,2020,Theatre manager,2066.0,8.8
+Stanley,Michael,male,Switzerland,8,2022,Artist,2115.49,8.9
+Todd,Kenneth,male,Argentina,8,2020,Artist,1922.25,9.1
+Miller,Walter,male,Switzerland,1,2021,Theatre manager,1874.17,7.8
+Harrington,Zachary,female,Mozambique,8,2021,Artist,1974.29,9.4
+Crosby,Anthony,female,Argentina,8,2023,Theatre manager,1899.29,8.1
+Smith,Christopher,female,Heard Island and McDonald Islands,4,2022,Chartered legal executive (England and Wales),1870.79,8.0
+Lucas,Lawrence,male,Argentina,6,2021,Chartered legal executive (England and Wales),1980.17,9.6
+Cobb,Chad,male,Argentina,8,2021,Chartered legal executive (England and Wales),1971.0,7.5
+Bruce,Philip,female,Czech Republic,3,2021,Theatre manager,1824.76,7.1
+Hawkins,Dalton,female,Morocco,6,2021,Theatre manager,2037.67,8.6
+Long,Benjamin,female,Switzerland,10,2022,Artist,1962.38,8.2
+Richardson,William,female,Morocco,2,2021,Chartered legal executive (England and Wales),2088.92,6.4
+Davis,Bobby,female,Morocco,12,2022,Theatre manager,1898.45,6.4
+King,Scott,female,Argentina,8,2023,Artist,2040.4,9.1
+Turner,Thomas,male,Argentina,7,2023,Theatre manager,2004.8,8.3
+Brown,Eric,male,Switzerland,11,2020,Chartered legal executive (England and Wales),1979.74,5.0
+Morris,Cody,female,Switzerland,12,2023,Theatre manager,2078.5,7.8
+Cherry,Gabriel,male,Argentina,1,2023,Artist,2113.27,5.2
+Gutierrez,Danny,female,Svalbard & Jan Mayen Islands,12,2022,Chartered legal executive (England and Wales),2031.36,8.4
+Aguirre,Jeremiah,male,Svalbard & Jan Mayen Islands,3,2021,Theatre manager,1891.11,10.0
+Sutton,Edward,male,Argentina,12,2021,Theatre manager,2092.07,7.9
+Ayers,Michael,female,Morocco,6,2023,Chartered legal executive (England and Wales),1831.12,5.6
+Clark,Scott,female,Argentina,9,2022,Artist,1943.28,9.6
+Blanchard,Christopher,male,Mozambique,4,2022,Chartered legal executive (England and Wales),2144.25,8.6
+Kemp,James,male,Morocco,4,2022,Artist,1965.54,7.4
+Johnson,Erik,female,Heard Island and McDonald Islands,9,2021,Artist,2110.37,5.6
+Jimenez,Shawn,female,Argentina,1,2021,Chartered legal executive (England and Wales),2074.18,6.4
+Jenkins,Robert,female,Mozambique,2,2020,Theatre manager,1941.19,6.2
+Roberts,William,female,Switzerland,10,2020,Theatre manager,1813.62,5.1
+Johnson,Gregory,female,Heard Island and McDonald Islands,2,2022,Artist,2016.84,6.6
+Conner,Henry,female,Morocco,6,2023,Chartered legal executive (England and Wales),2000.6,5.7
+Taylor,John,female,Morocco,6,2021,Chartered legal executive (England and Wales),1942.52,9.7
+Vance,Nathan,female,Mozambique,7,2022,Artist,1983.82,7.4
+Roberts,John,male,Mozambique,9,2021,Theatre manager,2066.52,5.7
+Walker,Jeffrey,male,Switzerland,6,2020,Theatre manager,2081.7,8.6
+Rodriguez,Jorge,female,Heard Island and McDonald Islands,8,2020,Chartered legal executive (England and Wales),1946.56,7.9
+Carroll,Paul,male,Argentina,3,2022,Theatre manager,2008.77,7.5
+Fields,Joseph,male,Morocco,6,2023,Chartered legal executive (England and Wales),2054.97,5.1
+Potter,Anthony,female,Mozambique,6,2021,Theatre manager,1997.81,6.3
+Krueger,Edward,female,Argentina,10,2022,Theatre manager,1994.71,9.2
+Green,Michael,female,Svalbard & Jan Mayen Islands,9,2021,Artist,1999.67,9.5
+Humphrey,Randy,female,Argentina,8,2022,Chartered legal executive (England and Wales),2010.87,6.8
+Cooke,Zachary,female,Mozambique,4,2022,Theatre manager,1937.88,5.3
+Donaldson,John,female,Argentina,7,2020,Theatre manager,1975.62,7.8
+Mckinney,Matthew,female,Switzerland,12,2023,Theatre manager,2042.88,8.7
+Houston,Lucas,female,Argentina,8,2020,Chartered legal executive (England and Wales),1993.47,7.3
+Cannon,Brandon,male,Svalbard & Jan Mayen Islands,5,2022,Chartered legal executive (England and Wales),2226.3,9.1
+Soto,Robert,female,Switzerland,1,2022,Theatre manager,2111.76,5.6
+Wheeler,Larry,male,Mozambique,6,2023,Theatre manager,2214.3,8.3
+Martin,Robert,male,Switzerland,7,2021,Chartered legal executive (England and Wales),2096.46,6.7
+Klein,Jon,female,Svalbard & Jan Mayen Islands,4,2021,Theatre manager,1984.63,8.8
+White,Shawn,female,Czech Republic,4,2020,Chartered legal executive (England and Wales),1993.64,7.2
+Simmons,Zachary,female,Mozambique,12,2021,Theatre manager,2156.7,8.2
+Moore,Cory,male,Mozambique,5,2022,Artist,2015.13,7.2
+Ramirez,Tyler,female,Mozambique,12,2020,Chartered legal executive (England and Wales),1840.54,5.6
+Foster,Kevin,male,Morocco,10,2023,Chartered legal executive (England and Wales),2166.11,5.1
+Harris,David,female,Czech Republic,5,2022,Theatre manager,2140.12,6.6
+Perry,Joshua,female,Svalbard & Jan Mayen Islands,8,2020,Theatre manager,2079.19,10.0
+Martin,Christopher,male,Morocco,8,2020,Theatre manager,2022.47,6.8
+Smith,Robert,female,Czech Republic,6,2020,Theatre manager,1829.76,5.0
+Vance,Brandon,male,Morocco,3,2021,Theatre manager,2012.87,9.3
+Ramirez,Derrick,male,Svalbard & Jan Mayen Islands,4,2022,Chartered legal executive (England and Wales),1843.0,10.0
+Shepherd,Michael,female,Heard Island and McDonald Islands,7,2021,Chartered legal executive (England and Wales),2019.4,6.7
+Huber,Robert,female,Argentina,6,2023,Theatre manager,2034.12,5.2
+Sullivan,Christopher,female,Svalbard & Jan Mayen Islands,7,2022,Theatre manager,1986.25,8.8
+Weiss,Christopher,female,Argentina,7,2021,Theatre manager,2106.84,8.6
+Cole,John,female,Argentina,5,2021,Artist,2007.03,5.2
+Mcintyre,James,female,Czech Republic,12,2020,Chartered legal executive (England and Wales),2044.62,7.0
+Blair,Peter,female,Switzerland,4,2021,Chartered legal executive (England and Wales),1948.73,6.9
+Johnson,Robert,female,Heard Island and McDonald Islands,7,2022,Theatre manager,2021.35,5.7
+Garrison,Derrick,female,Svalbard & Jan Mayen Islands,1,2021,Theatre manager,2033.18,8.8
+Long,Jack,female,Morocco,3,2023,Chartered legal executive (England and Wales),1903.76,8.3
+Mcmillan,Philip,female,Heard Island and McDonald Islands,1,2023,Chartered legal executive (England and Wales),2044.51,5.9
+Roberts,Zachary,male,Czech Republic,2,2022,Theatre manager,1906.42,7.9
+Miller,Timothy,female,Czech Republic,11,2022,Theatre manager,1911.36,7.1
+Wood,Angel,female,Svalbard & Jan Mayen Islands,6,2023,Artist,2005.01,10.0
+Smith,Philip,male,Svalbard & Jan Mayen Islands,5,2021,Theatre manager,1874.26,10.0
+Hernandez,Andrew,female,Czech Republic,3,2023,Theatre manager,1843.06,7.4
+Barker,Nathan,female,Switzerland,3,2021,Theatre manager,1988.07,9.6
+Zuniga,Timothy,female,Argentina,9,2020,Chartered legal executive (England and Wales),1846.59,6.9
+Gross,Gregory,female,Mozambique,9,2023,Theatre manager,2082.71,7.3
+Rowe,Mark,male,Heard Island and McDonald Islands,3,2020,Chartered legal executive (England and Wales),1996.51,5.5
+Hayes,David,male,Switzerland,12,2022,Theatre manager,1835.53,7.5
+Guzman,Anthony,female,Svalbard & Jan Mayen Islands,7,2020,Theatre manager,2074.64,9.1
+Jones,John,female,Morocco,6,2022,Theatre manager,1961.63,9.6
+Martin,Jason,female,Svalbard & Jan Mayen Islands,12,2020,Theatre manager,2168.49,9.2
+Collins,Ronald,male,Morocco,5,2023,Theatre manager,1806.72,6.6
+Lewis,Joseph,female,Svalbard & Jan Mayen Islands,12,2020,Artist,1949.46,10.0
+Kennedy,Ronald,female,Czech Republic,6,2023,Theatre manager,2101.19,7.5
+Franklin,Timothy,female,Argentina,6,2022,Chartered legal executive (England and Wales),1907.3,6.9
+Gibson,Michael,female,Morocco,6,2020,Theatre manager,1763.43,9.8
+Freeman,Nathan,female,Mozambique,1,2020,Chartered legal executive (England and Wales),2024.09,6.9
+Baker,Travis,female,Czech Republic,2,2022,Chartered legal executive (England and Wales),2021.16,6.2
+Webb,Jonathan,female,Mozambique,11,2022,Theatre manager,2082.6,7.1
+Bowman,Brian,female,Czech Republic,10,2022,Theatre manager,2004.5,5.8
+Ruiz,Michael,female,Argentina,4,2023,Artist,1930.64,9.5
+Martinez,Ryan,female,Czech Republic,1,2023,Theatre manager,2174.55,8.2
+Webster,Jared,male,Argentina,12,2023,Theatre manager,2151.62,8.5
+Davis,Donald,female,Czech Republic,1,2023,Artist,2040.72,6.7
+Morris,Zachary,female,Argentina,7,2021,Chartered legal executive (England and Wales),1883.97,8.6
+Macdonald,Mitchell,male,Czech Republic,8,2023,Theatre manager,1904.56,8.2
+Sanchez,Mario,female,Argentina,8,2020,Chartered legal executive (England and Wales),1943.78,9.1
+Smith,Robert,female,Czech Republic,12,2023,Theatre manager,2253.73,5.6
+Boone,Justin,female,Argentina,12,2021,Chartered legal executive (England and Wales),2086.81,7.0
+Kim,Ryan,female,Czech Republic,2,2023,Chartered legal executive (England and Wales),1884.14,8.2
+Sampson,Austin,female,Argentina,10,2022,Artist,2090.76,9.0
+Brooks,Kevin,male,Heard Island and McDonald Islands,6,2020,Artist,1967.58,9.7
+Moore,Justin,female,Argentina,12,2023,Artist,2143.49,8.3
+Brown,Mark,female,Argentina,9,2021,Artist,1996.2,6.5
+Choi,Darryl,male,Morocco,12,2021,Artist,1938.19,6.2
+Vargas,Jackson,female,Svalbard & Jan Mayen Islands,8,2022,Artist,1968.72,7.5
+Miller,Anthony,female,Argentina,4,2021,Theatre manager,1880.09,7.4
+Andersen,John,female,Switzerland,12,2023,Theatre manager,1823.81,6.1
+Wilson,William,male,Switzerland,2,2023,Artist,1903.62,7.4
+Williams,Alan,female,Mozambique,3,2020,Theatre manager,1994.27,5.9
+Adams,Melvin,male,Czech Republic,10,2022,Theatre manager,2028.12,7.7
+Young,Michael,female,Mozambique,3,2020,Theatre manager,1936.17,6.0

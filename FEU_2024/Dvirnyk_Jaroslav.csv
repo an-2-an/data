@@ -1,0 +1,283 @@
+last_name,first_name,gender,country,month,year,job,payment,rating
+Fox,Richard,female,Norway,11,2021,"Research officer, government",2001.95,9.1
+Good,Dylan,female,Ghana,6,2021,Transport planner,2027.45,6.0
+Mullins,Benjamin,female,Bahamas,5,2021,Trading standards officer,1859.36,8.3
+Stewart,David,female,Bahamas,11,2021,"Research officer, government",1932.8,10.0
+Cowan,Sean,female,Austria,10,2023,Trading standards officer,1932.77,5.7
+Atkins,Robert,female,Bahamas,5,2020,Trading standards officer,2051.7,6.1
+Guerra,Patrick,female,Austria,7,2023,Transport planner,2006.95,6.7
+Douglas,Jose,female,Bahamas,4,2021,Trading standards officer,2161.67,8.4
+Andrews,Richard,female,Northern Mariana Islands,5,2020,"Research officer, government",2011.02,6.3
+Gutierrez,Jeffrey,female,Palestinian Territory,11,2023,"Research officer, government",2031.45,6.8
+Wood,Brandon,female,Northern Mariana Islands,5,2021,Transport planner,1883.61,9.1
+Rodriguez,Christopher,female,Austria,1,2023,Transport planner,1962.43,7.6
+Gonzalez,Jordan,female,Northern Mariana Islands,6,2020,Trading standards officer,1923.9,6.1
+Greer,Jeremy,female,Ghana,7,2021,"Research officer, government",1982.68,6.1
+Munoz,Jeffrey,female,Palestinian Territory,3,2023,"Research officer, government",1856.45,7.2
+Collins,Matthew,female,Palestinian Territory,9,2020,"Research officer, government",1806.72,8.8
+Austin,Joshua,female,Bahamas,5,2020,Transport planner,1873.5,7.5
+Collins,George,female,Ghana,6,2022,Transport planner,1802.01,8.0
+Johnson,Dylan,female,Palestinian Territory,6,2020,Transport planner,1908.21,8.2
+Bright,Joseph,female,Palestinian Territory,6,2020,"Research officer, government",2022.5,6.8
+Brown,Charles,female,Palestinian Territory,5,2021,Trading standards officer,2109.31,6.5
+Waller,Joshua,male,Austria,3,2021,Trading standards officer,1934.41,5.8
+Garcia,Casey,female,Norway,6,2020,Transport planner,1859.21,8.4
+Allison,Eddie,female,Ghana,10,2022,Trading standards officer,1837.45,8.6
+Sellers,James,female,Northern Mariana Islands,1,2022,Transport planner,1981.05,6.2
+Rivera,Scott,female,Austria,12,2022,Trading standards officer,1895.05,5.8
+Gilbert,Jared,female,Palestinian Territory,4,2023,"Research officer, government",1933.22,9.0
+Giles,Dennis,female,Bahamas,12,2022,Trading standards officer,2031.42,5.1
+Warner,George,female,Ghana,5,2021,Trading standards officer,2168.17,8.5
+Faulkner,Tyler,female,Bahamas,12,2020,Trading standards officer,1948.88,6.9
+Richmond,Andrew,female,Norway,12,2022,"Research officer, government",2118.45,9.4
+Kane,John,male,Bahamas,5,2021,Transport planner,2096.07,6.2
+Harper,Nathan,female,Ghana,2,2021,"Research officer, government",2068.43,7.0
+Fowler,Juan,female,Ghana,5,2020,"Research officer, government",2188.78,5.8
+Bailey,Dustin,female,Northern Mariana Islands,4,2020,Trading standards officer,2109.96,6.7
+Salazar,David,female,Norway,10,2020,"Research officer, government",2123.0,7.2
+Snow,Michael,female,Palestinian Territory,4,2023,Transport planner,1873.1,8.2
+Gray,Brian,female,Northern Mariana Islands,3,2020,Trading standards officer,1953.62,9.2
+Smith,Jay,female,Austria,7,2023,Transport planner,1996.12,7.7
+Rodriguez,Jonathan,female,Ghana,6,2022,Transport planner,2024.39,9.5
+Lopez,Robert,female,Norway,2,2022,Transport planner,1990.03,9.9
+Ellis,Matthew,female,Palestinian Territory,12,2023,Transport planner,1704.44,5.7
+Baldwin,Kevin,female,Ghana,6,2022,Transport planner,1958.49,7.2
+Fisher,Allen,female,Northern Mariana Islands,6,2022,Trading standards officer,1988.5,5.1
+Monroe,Frank,female,Ghana,10,2023,"Research officer, government",2213.44,5.0
+Howard,Kenneth,female,Palestinian Territory,6,2022,Trading standards officer,1865.78,8.3
+Jones,Charles,female,Ghana,7,2021,Transport planner,1922.87,9.4
+Lawson,Stephen,female,Ghana,3,2022,Trading standards officer,2051.77,8.9
+Norton,Justin,female,Northern Mariana Islands,8,2021,Transport planner,2012.47,9.4
+Short,Jesus,female,Palestinian Territory,10,2020,Transport planner,2066.25,8.1
+Thomas,Michael,female,Northern Mariana Islands,5,2020,"Research officer, government",2014.01,9.0
+Bernard,Todd,female,Ghana,6,2023,"Research officer, government",2054.07,6.9
+Welch,Jason,female,Austria,5,2020,Trading standards officer,2152.14,6.9
+Sanchez,John,female,Austria,2,2021,"Research officer, government",1998.8,9.7
+Miller,John,female,Norway,3,2020,Transport planner,1910.69,7.4
+Hale,Matthew,female,Palestinian Territory,1,2021,Transport planner,2100.3,6.3
+Francis,Michael,female,Ghana,6,2022,Trading standards officer,1916.22,5.4
+Daniels,Ryan,female,Austria,3,2020,Trading standards officer,1974.44,7.0
+Russell,Jose,female,Bahamas,3,2020,"Research officer, government",2016.92,6.0
+Morgan,Cory,female,Northern Mariana Islands,3,2022,"Research officer, government",1898.68,6.4
+Jones,Jason,female,Northern Mariana Islands,1,2020,Transport planner,1994.85,7.3
+Nash,Marc,female,Palestinian Territory,11,2021,Trading standards officer,1953.71,8.2
+Montgomery,Jason,female,Palestinian Territory,5,2020,"Research officer, government",1987.25,6.7
+Hernandez,Caleb,female,Bahamas,12,2023,Transport planner,2077.59,8.4
+Jones,Dwayne,female,Austria,8,2021,Trading standards officer,1852.1,5.1
+Garcia,Michael,female,Ghana,2,2023,Transport planner,2009.58,6.9
+Nicholson,Jonathan,female,Ghana,11,2020,Trading standards officer,1969.01,8.8
+Cruz,Jeremy,female,Austria,12,2020,Trading standards officer,2020.11,5.1
+Jones,Patrick,female,Palestinian Territory,8,2023,Transport planner,1906.99,9.2
+Woods,Donald,female,Ghana,10,2023,Transport planner,2037.89,5.4
+Gonzales,Christopher,female,Austria,1,2022,"Research officer, government",1933.77,7.1
+White,James,female,Ghana,5,2021,"Research officer, government",2067.87,5.9
+Good,Dale,female,Ghana,8,2023,Transport planner,2153.12,5.3
+Gross,James,female,Austria,4,2020,"Research officer, government",1920.94,5.3
+Jenkins,Cory,male,Bahamas,4,2022,Trading standards officer,1911.83,5.7
+Johnson,Steven,female,Bahamas,6,2020,Transport planner,1921.11,5.0
+Alvarado,Robert,female,Austria,3,2021,Trading standards officer,1942.32,9.1
+Morgan,Ryan,female,Palestinian Territory,2,2022,"Research officer, government",2090.04,8.0
+Rivas,Robert,female,Palestinian Territory,8,2022,Transport planner,2090.58,7.8
+Tucker,Ryan,female,Austria,10,2021,Trading standards officer,1882.56,7.2
+Garcia,Richard,female,Northern Mariana Islands,2,2023,Transport planner,2159.16,6.6
+Bryant,Anthony,female,Austria,1,2022,Transport planner,1768.53,9.3
+Knox,Erik,female,Northern Mariana Islands,7,2022,Trading standards officer,2201.77,9.4
+Gomez,Jason,female,Ghana,6,2021,Transport planner,1982.24,8.1
+Harris,Christopher,female,Bahamas,7,2022,"Research officer, government",2018.48,6.5
+Pratt,Earl,female,Bahamas,11,2020,Trading standards officer,1882.34,9.8
+Taylor,James,female,Norway,11,2022,Transport planner,1997.17,9.0
+Watkins,Marcus,female,Palestinian Territory,8,2022,"Research officer, government",1940.96,8.7
+Graham,Preston,female,Palestinian Territory,6,2020,Trading standards officer,1928.51,5.7
+Sanchez,Kevin,female,Norway,11,2022,Transport planner,2070.84,10.0
+King,Tracy,female,Austria,6,2022,"Research officer, government",1888.54,6.0
+Peterson,Henry,female,Palestinian Territory,8,2023,Transport planner,2090.6,9.1
+Roberts,James,female,Ghana,4,2020,"Research officer, government",1886.27,9.6
+Ramirez,Michael,female,Palestinian Territory,8,2021,"Research officer, government",1845.54,6.3
+Cooper,James,female,Austria,5,2022,Trading standards officer,2032.82,5.1
+Ferrell,Joshua,female,Northern Mariana Islands,10,2021,"Research officer, government",1828.11,6.1
+Patel,Hector,female,Norway,8,2020,Transport planner,1858.86,9.0
+Sullivan,Jeremy,female,Ghana,5,2022,"Research officer, government",2046.4,5.6
+Jones,Christopher,female,Ghana,8,2023,Trading standards officer,1995.67,7.4
+Hall,Paul,female,Northern Mariana Islands,12,2023,Trading standards officer,2044.78,6.3
+Reed,Charles,female,Northern Mariana Islands,6,2020,"Research officer, government",1978.87,5.0
+Tyler,Nathan,female,Northern Mariana Islands,9,2021,Transport planner,1855.69,9.1
+Johnson,Jeffery,female,Norway,5,2020,"Research officer, government",2171.23,10.0
+Mccormick,Bradley,female,Ghana,7,2022,Trading standards officer,1988.68,6.0
+Olsen,Robert,female,Norway,7,2022,Trading standards officer,1831.49,7.9
+Alvarez,Drew,female,Austria,1,2021,"Research officer, government",1848.32,5.4
+Lin,Jeffrey,female,Northern Mariana Islands,11,2023,"Research officer, government",1946.94,8.6
+Wilson,Andrew,female,Austria,5,2020,"Research officer, government",1930.1,7.6
+Armstrong,Mike,female,Austria,11,2022,Transport planner,2012.06,9.7
+Kim,Ryan,female,Austria,6,2022,"Research officer, government",2076.08,9.9
+Ramirez,Aaron,female,Northern Mariana Islands,8,2021,Transport planner,1983.09,6.0
+Guzman,Roger,female,Ghana,10,2023,Trading standards officer,2018.82,7.7
+Barber,Robert,female,Austria,9,2022,"Research officer, government",1975.02,9.4
+Wilson,John,female,Norway,7,2021,Transport planner,1987.96,7.0
+Flores,Paul,female,Palestinian Territory,7,2020,Trading standards officer,1899.25,7.7
+Crawford,Andrew,female,Austria,2,2022,"Research officer, government",2021.42,8.9
+Richard,Robert,female,Ghana,9,2022,"Research officer, government",2046.99,7.7
+Wright,Jack,female,Ghana,1,2020,Transport planner,1763.57,6.9
+Owen,Patrick,female,Norway,8,2021,"Research officer, government",2151.84,7.8
+Reese,Joshua,female,Palestinian Territory,7,2022,Transport planner,1872.78,9.7
+Owens,James,female,Northern Mariana Islands,12,2023,"Research officer, government",2131.63,6.5
+Craig,Charles,female,Palestinian Territory,11,2021,Trading standards officer,2044.65,10.0
+Herring,Eric,female,Palestinian Territory,6,2023,Transport planner,2093.07,5.9
+Camacho,Travis,female,Palestinian Territory,4,2021,Transport planner,1945.62,7.9
+Holland,John,female,Palestinian Territory,3,2023,Trading standards officer,2211.84,8.5
+Ward,Steven,female,Austria,9,2023,"Research officer, government",1938.7,7.3
+May,Marcus,female,Austria,10,2023,Trading standards officer,2078.82,8.8
+Bell,David,female,Ghana,7,2022,"Research officer, government",2021.15,6.2
+Weaver,Curtis,female,Palestinian Territory,11,2023,Trading standards officer,2106.22,9.8
+Duffy,Donald,female,Austria,10,2021,"Research officer, government",1926.76,6.9
+Branch,Erik,female,Palestinian Territory,10,2022,Transport planner,1959.98,8.8
+Holder,Edwin,female,Ghana,11,2022,Transport planner,2072.73,6.9
+Green,Daniel,female,Palestinian Territory,1,2020,"Research officer, government",2035.06,9.3
+Duncan,James,female,Austria,7,2021,"Research officer, government",1987.37,5.3
+Osborne,Derek,female,Northern Mariana Islands,1,2020,Trading standards officer,1921.04,8.9
+Nunez,Andrew,female,Ghana,9,2023,Transport planner,1957.38,5.2
+Johnston,Kenneth,female,Bahamas,4,2023,"Research officer, government",2037.62,8.1
+Jefferson,Duane,female,Austria,11,2022,Trading standards officer,1828.8,6.0
+Hall,Frederick,female,Austria,8,2020,"Research officer, government",1838.05,7.2
+Williams,Justin,female,Bahamas,10,2020,Transport planner,1786.07,7.0
+Smith,Edward,female,Palestinian Territory,3,2021,"Research officer, government",2039.09,6.3
+Kirby,Daniel,female,Northern Mariana Islands,3,2021,Transport planner,2110.16,5.8
+Jones,Stephen,female,Bahamas,7,2020,Trading standards officer,2126.13,9.5
+Garcia,Shannon,female,Norway,2,2021,Transport planner,1875.05,7.5
+Joseph,Jordan,female,Northern Mariana Islands,9,2022,"Research officer, government",1991.77,8.4
+Brennan,Larry,female,Palestinian Territory,8,2021,Trading standards officer,2021.06,6.7
+Robertson,William,female,Bahamas,11,2022,"Research officer, government",1910.75,8.5
+Coleman,Brian,female,Palestinian Territory,12,2021,Transport planner,1984.43,5.2
+Simpson,Michael,female,Ghana,8,2021,Trading standards officer,1920.72,5.7
+Graham,Henry,female,Ghana,7,2023,Transport planner,2024.35,5.1
+Douglas,Michael,female,Northern Mariana Islands,2,2023,Transport planner,2136.32,7.0
+Johns,Jaime,female,Austria,10,2020,Trading standards officer,2137.59,9.5
+Silva,David,female,Bahamas,11,2021,Trading standards officer,1982.47,7.7
+Paul,Adam,female,Northern Mariana Islands,3,2022,Transport planner,2004.36,5.0
+Sampson,John,female,Ghana,5,2021,Transport planner,2029.63,9.4
+Palmer,Ryan,female,Palestinian Territory,3,2021,Trading standards officer,2131.47,6.0
+Richards,Matthew,female,Austria,1,2021,"Research officer, government",1862.94,9.1
+Lozano,Antonio,female,Bahamas,1,2021,Transport planner,1858.61,5.8
+Allen,Carl,female,Austria,2,2021,Trading standards officer,1873.22,9.9
+Hart,Matthew,female,Northern Mariana Islands,3,2023,Trading standards officer,2046.76,9.9
+Washington,Michael,female,Northern Mariana Islands,7,2020,Trading standards officer,1907.39,6.4
+Quinn,Robert,female,Ghana,9,2021,Transport planner,2042.85,7.8
+Ortiz,William,female,Ghana,8,2021,"Research officer, government",1977.58,6.9
+Wilson,David,female,Ghana,12,2023,Transport planner,2055.43,9.3
+Smith,John,female,Norway,1,2022,"Research officer, government",2053.05,9.6
+Brown,Thomas,female,Austria,11,2022,Transport planner,1905.59,9.1
+Valentine,Curtis,female,Northern Mariana Islands,5,2021,Trading standards officer,2147.9,8.0
+White,Christopher,female,Northern Mariana Islands,7,2023,"Research officer, government",2051.98,8.0
+Aguilar,David,female,Palestinian Territory,4,2020,Transport planner,1869.42,7.6
+Vaughn,William,female,Bahamas,2,2020,Transport planner,1998.17,9.4
+Burke,Mark,female,Ghana,9,2020,Trading standards officer,2109.73,5.8
+Alvarado,Scott,female,Palestinian Territory,6,2023,Trading standards officer,1974.18,5.6
+Gonzalez,Geoffrey,female,Northern Mariana Islands,1,2023,Trading standards officer,2075.64,9.7
+Wilson,Justin,female,Northern Mariana Islands,10,2022,"Research officer, government",2078.12,8.3
+Gutierrez,Joel,female,Ghana,1,2021,"Research officer, government",2026.46,7.7
+Garcia,Joseph,female,Ghana,3,2020,Trading standards officer,1987.3,6.0
+Waters,Stephen,male,Palestinian Territory,1,2022,Transport planner,1791.32,9.8
+Moore,Steven,female,Norway,1,2020,"Research officer, government",2033.0,8.3
+Peterson,Frank,female,Palestinian Territory,10,2022,"Research officer, government",2031.02,6.9
+Harris,Darren,female,Ghana,3,2021,Trading standards officer,1926.69,9.9
+Sanchez,William,female,Northern Mariana Islands,6,2022,"Research officer, government",2175.7,8.5
+Lopez,Jonathan,female,Norway,5,2022,Transport planner,1974.27,8.1
+Warren,Steve,female,Ghana,8,2021,Transport planner,1880.45,7.5
+Garcia,Joseph,female,Austria,12,2023,Transport planner,2042.89,8.2
+Collins,Aaron,female,Ghana,6,2023,Transport planner,1958.72,5.4
+Aguilar,Dylan,female,Northern Mariana Islands,4,2023,Transport planner,1871.27,5.3
+Walsh,Howard,female,Ghana,2,2020,"Research officer, government",2030.05,6.5
+Alexander,Tyler,female,Northern Mariana Islands,6,2021,Trading standards officer,1840.92,9.7
+Williams,Daniel,female,Palestinian Territory,6,2023,"Research officer, government",2026.7,6.6
+Martin,Timothy,female,Ghana,2,2020,Trading standards officer,2011.39,5.8
+Foster,Rodney,female,Ghana,5,2021,Trading standards officer,1874.76,8.4
+Maddox,William,female,Austria,9,2020,Trading standards officer,1776.6,7.1
+Rios,Thomas,female,Norway,1,2022,Trading standards officer,2014.8,7.9
+Crane,Dale,female,Bahamas,5,2020,Trading standards officer,1896.44,7.2
+Navarro,Todd,female,Ghana,4,2021,Trading standards officer,2245.21,6.5
+Gutierrez,David,female,Palestinian Territory,9,2023,Transport planner,1948.38,6.2
+Stevenson,Justin,female,Palestinian Territory,7,2022,"Research officer, government",2081.63,8.3
+Harrell,Ernest,female,Ghana,5,2020,Trading standards officer,2119.56,8.5
+Knight,Jeffrey,female,Palestinian Territory,8,2022,Transport planner,2131.32,8.7
+Riley,Ethan,female,Ghana,3,2023,Trading standards officer,1993.15,9.4
+Williams,Brett,female,Ghana,7,2021,Transport planner,1966.53,9.8
+Frank,Thomas,female,Northern Mariana Islands,10,2022,Trading standards officer,1913.5,5.2
+Johnson,James,female,Palestinian Territory,8,2022,Trading standards officer,1964.82,9.7
+Bryant,Scott,female,Bahamas,8,2022,Transport planner,2060.65,7.7
+Cardenas,Travis,female,Ghana,5,2022,"Research officer, government",1948.7,9.2
+Prince,Gregory,female,Palestinian Territory,6,2020,"Research officer, government",1855.95,7.2
+Forbes,John,female,Bahamas,6,2022,Trading standards officer,2150.87,6.3
+Ortiz,Jeremy,female,Ghana,2,2023,Transport planner,2058.4,6.0
+Wilkinson,Robert,female,Austria,8,2022,Transport planner,2212.18,8.7
+Hanson,Thomas,female,Northern Mariana Islands,10,2021,"Research officer, government",1895.29,5.0
+Lewis,Edward,female,Austria,8,2021,Trading standards officer,2017.16,8.0
+Copeland,David,female,Norway,9,2022,Transport planner,1972.56,10.0
+Anderson,Dennis,female,Bahamas,1,2023,"Research officer, government",2077.43,7.5
+Johnson,John,female,Northern Mariana Islands,9,2020,Trading standards officer,2302.24,5.1
+Zavala,Kevin,female,Ghana,7,2021,"Research officer, government",2123.38,7.7
+Green,Andrew,female,Palestinian Territory,9,2020,"Research officer, government",2048.8,10.0
+Thompson,Robert,female,Ghana,4,2023,Transport planner,1996.62,5.2
+Black,Stuart,female,Palestinian Territory,12,2020,Transport planner,1943.41,7.0
+Wade,Zachary,female,Ghana,6,2023,"Research officer, government",2091.71,6.8
+Ray,David,female,Austria,2,2021,"Research officer, government",1964.04,9.8
+Peterson,Joshua,female,Palestinian Territory,11,2021,Trading standards officer,2017.38,10.0
+Gordon,Tyler,female,Northern Mariana Islands,10,2020,Trading standards officer,1921.36,6.8
+Wilson,Timothy,female,Bahamas,1,2020,"Research officer, government",1880.28,6.8
+Nelson,Michael,female,Ghana,8,2020,Trading standards officer,2023.84,6.0
+Hess,Kevin,female,Ghana,6,2020,Transport planner,1924.02,6.4
+Farrell,Gerald,female,Bahamas,3,2023,Transport planner,2069.27,9.0
+Berger,Joshua,female,Norway,5,2023,"Research officer, government",2093.73,10.0
+Caldwell,Frederick,female,Austria,7,2020,"Research officer, government",1903.72,9.9
+Smith,Ryan,female,Bahamas,6,2020,Transport planner,1882.63,9.4
+Boyd,Brian,female,Northern Mariana Islands,8,2020,"Research officer, government",2066.88,7.9
+Vargas,Robert,female,Palestinian Territory,8,2023,Transport planner,1822.19,9.2
+Burke,Brandon,female,Palestinian Territory,9,2021,Trading standards officer,2117.43,6.7
+Zhang,Richard,female,Palestinian Territory,6,2021,Trading standards officer,2078.61,9.5
+Browning,Neil,female,Northern Mariana Islands,6,2020,Trading standards officer,1862.26,6.2
+Nelson,Jason,female,Ghana,8,2020,Trading standards officer,2130.63,5.5
+Johnson,Craig,female,Austria,6,2021,Trading standards officer,2084.36,9.9
+Arnold,Bruce,female,Norway,9,2020,Transport planner,1906.68,10.0
+Ellis,Derrick,female,Ghana,5,2022,Transport planner,2014.47,9.8
+Jackson,Kenneth,female,Bahamas,4,2023,Transport planner,2132.21,7.8
+Ferrell,Manuel,female,Bahamas,5,2020,"Research officer, government",2114.88,6.8
+Turner,John,female,Norway,9,2020,"Research officer, government",2062.24,8.4
+Harrell,Daniel,female,Ghana,5,2020,"Research officer, government",1922.21,9.6
+Miller,Anthony,male,Bahamas,4,2021,Trading standards officer,2038.18,6.4
+Garcia,Jeff,female,Austria,12,2020,Trading standards officer,1990.56,9.6
+Jordan,James,female,Austria,10,2021,Transport planner,2029.32,9.7
+Spence,Paul,male,Norway,12,2020,Trading standards officer,2026.29,10.0
+Ayala,Michael,female,Palestinian Territory,4,2022,"Research officer, government",1945.97,9.9
+Morgan,Aaron,female,Northern Mariana Islands,10,2020,Transport planner,2099.81,8.9
+Keller,Michael,female,Austria,12,2021,"Research officer, government",2106.9,9.8
+Robinson,Brandon,female,Northern Mariana Islands,8,2021,Transport planner,1955.8,9.2
+Mejia,Tyler,female,Bahamas,2,2023,"Research officer, government",2049.39,8.5
+Gonzalez,Johnny,female,Northern Mariana Islands,1,2020,Trading standards officer,2067.94,6.0
+Stevenson,Ryan,female,Northern Mariana Islands,3,2021,Trading standards officer,1946.59,6.4
+Robinson,Mario,female,Northern Mariana Islands,12,2021,"Research officer, government",2139.18,6.1
+Johnson,Ronald,female,Palestinian Territory,9,2021,Transport planner,1961.27,5.0
+Martinez,Gary,female,Palestinian Territory,10,2022,Trading standards officer,1869.37,5.2
+Davis,Edward,female,Ghana,5,2020,Transport planner,1929.69,9.9
+Reed,Jerry,female,Ghana,4,2022,Trading standards officer,1882.34,5.2
+Gray,Alexander,male,Austria,8,2022,"Research officer, government",1945.8,5.5
+Newman,Erik,female,Palestinian Territory,7,2021,Transport planner,1864.54,8.9
+Li,Steven,female,Norway,2,2020,Transport planner,1999.68,7.3
+Rodriguez,Kyle,female,Austria,8,2023,Transport planner,2126.23,7.5
+Garcia,Juan,female,Northern Mariana Islands,3,2020,Transport planner,2054.5,6.0
+Mayer,James,female,Palestinian Territory,11,2021,Trading standards officer,2142.69,5.7
+Jacobs,John,female,Ghana,7,2021,Trading standards officer,1944.43,8.4
+Young,William,female,Northern Mariana Islands,4,2023,Trading standards officer,1929.2,5.5
+Hanson,Devon,female,Ghana,6,2020,Transport planner,1995.91,5.0
+Miller,Miguel,female,Norway,12,2022,Transport planner,2134.18,9.1
+Harper,Todd,female,Northern Mariana Islands,8,2023,Transport planner,1950.82,6.3
+Powers,Aaron,female,Palestinian Territory,4,2022,Trading standards officer,1954.62,8.5
+Green,Derrick,female,Ghana,4,2021,Transport planner,2038.63,5.4
+Davis,Jonathan,female,Palestinian Territory,11,2022,Trading standards officer,1970.99,7.2
+Sparks,Brendan,female,Austria,5,2023,Trading standards officer,1874.98,7.4
+Dennis,George,female,Bahamas,8,2022,"Research officer, government",1927.32,9.9
+Collins,Jesse,female,Austria,2,2021,Trading standards officer,2008.04,6.3
+Jones,Jeffrey,female,Northern Mariana Islands,12,2020,Transport planner,1970.51,8.3
+Obrien,Anthony,female,Palestinian Territory,3,2021,Transport planner,1944.47,8.8
+Barnes,James,female,Ghana,7,2020,Trading standards officer,1999.2,7.1
+Barber,Michael,female,Palestinian Territory,7,2021,Transport planner,1855.76,6.0
+Rosario,Andre,female,Austria,8,2022,"Research officer, government",1801.36,9.2
+Diaz,Justin,female,Ghana,10,2021,Transport planner,1837.43,9.8
+Jones,Shawn,female,Ghana,9,2020,Trading standards officer,2040.1,5.9

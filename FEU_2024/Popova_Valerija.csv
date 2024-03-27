@@ -1,0 +1,311 @@
+last_name,first_name,gender,country,month,year,job,payment,rating
+Diaz,William,male,Tokelau,5,2020,Surgeon,2095.6,9.5
+Reyes,Andrew,female,Korea,1,2023,Associate Professor,2276.9,10.0
+Tran,Richard,male,Nepal,1,2022,Surgeon,1885.52,7.1
+Phillips,Daniel,male,Tokelau,8,2020,Retail banker,2142.96,7.8
+Chambers,Jermaine,male,Nepal,12,2021,Retail banker,2135.6,9.0
+Jones,Christopher,female,Tokelau,6,2022,Surgeon,2022.61,9.7
+Espinoza,William,female,Congo,8,2023,Surgeon,2175.56,7.9
+Morton,Hunter,female,Vietnam,11,2020,"Therapist, music",2001.75,9.4
+Bennett,Derek,female,Nepal,5,2020,Associate Professor,2159.68,8.2
+Miller,Kevin,male,Korea,3,2021,Associate Professor,1961.14,10.0
+Brown,Daniel,male,Croatia,12,2023,"Therapist, music",1962.89,8.4
+Combs,Jeremy,female,Congo,2,2021,"Therapist, music",1820.86,7.6
+Fernandez,Steven,male,Mauritius,3,2021,"Therapist, music",1974.65,7.8
+Taylor,John,male,Vietnam,1,2023,Associate Professor,2066.02,9.3
+May,Christopher,male,Mauritius,12,2023,Surgeon,1936.28,5.1
+Buchanan,Michael,female,Qatar,5,2022,"Therapist, music",1883.83,6.8
+Nunez,Samuel,female,Nepal,4,2021,"Therapist, music",2081.77,8.9
+Rodriguez,James,female,Korea,7,2023,Surgeon,1857.37,8.4
+Olson,Albert,female,Vietnam,7,2023,Associate Professor,1954.83,5.1
+Park,Vernon,male,Croatia,10,2020,Associate Professor,1912.34,8.9
+Brown,Preston,male,Tokelau,1,2022,Associate Professor,2101.85,7.5
+Allen,Christopher,female,Qatar,5,2021,"Therapist, music",2013.14,9.2
+Russell,Austin,female,Croatia,4,2022,Associate Professor,1861.92,9.5
+Ayers,James,male,Tokelau,8,2020,Surgeon,2039.79,5.1
+Ray,Donald,female,Congo,12,2023,Retail banker,2047.09,5.8
+Brown,Hunter,male,Nepal,2,2022,Retail banker,1892.1,5.3
+Williams,Daniel,female,Qatar,4,2020,"Therapist, music",1856.04,6.7
+Reynolds,Craig,female,Vietnam,1,2021,Retail banker,2087.62,8.6
+Brown,Harold,male,Croatia,1,2021,Associate Professor,1949.9,9.6
+Mitchell,Francisco,male,Belarus,6,2022,"Therapist, music",1982.86,8.3
+Henson,Brandon,female,Qatar,7,2021,Research scientist (maths),1889.61,6.2
+Swanson,Christopher,male,Nepal,5,2021,"Therapist, music",1903.68,7.9
+Leblanc,Stephen,male,Tokelau,8,2023,Associate Professor,1951.11,7.8
+Ayers,Robert,male,Mauritius,3,2022,Retail banker,2014.44,5.6
+Chavez,Steven,male,Korea,5,2022,Surgeon,2008.36,7.5
+Hurley,Brandon,female,Tokelau,11,2020,"Therapist, music",2152.94,6.1
+Clark,Johnny,female,Korea,4,2022,"Therapist, music",2073.0,10.0
+Fox,Jason,female,Belarus,3,2020,Surgeon,1912.15,8.7
+Webb,Michael,female,Croatia,5,2021,"Therapist, music",2106.2,8.4
+Flynn,Wesley,male,Vietnam,10,2023,"Therapist, music",1870.82,7.4
+Coleman,Matthew,male,Croatia,7,2022,"Therapist, music",1776.79,6.4
+Carroll,Tim,male,Mauritius,5,2023,"Therapist, music",2082.2,5.9
+George,Jeffrey,female,Qatar,6,2022,Associate Professor,1917.64,6.5
+Bishop,Timothy,male,Tokelau,12,2020,Associate Professor,1886.75,6.4
+Bishop,Christopher,female,Qatar,9,2020,"Therapist, music",2160.72,9.7
+Wilkins,Benjamin,male,Korea,5,2022,Surgeon,2021.25,7.6
+Mays,Colton,male,Croatia,3,2021,Surgeon,2019.9,7.9
+Fisher,Jacob,male,Korea,9,2021,Associate Professor,1858.0,10.0
+Wu,James,female,Congo,4,2023,"Therapist, music",1959.51,5.3
+Wilson,Christopher,female,Vietnam,4,2023,Associate Professor,1935.35,7.8
+Wilson,Lee,female,Belarus,10,2021,Associate Professor,1936.1,5.2
+Turner,Kevin,male,Qatar,10,2020,Retail banker,2035.64,9.2
+Curtis,Paul,male,Tokelau,7,2023,Research scientist (maths),2024.41,9.2
+Yoder,Gregory,male,Congo,12,2022,"Therapist, music",1984.81,5.7
+Davis,Jose,female,Congo,4,2022,Research scientist (maths),2089.62,5.5
+Hill,Robert,female,Mauritius,2,2023,Surgeon,2081.2,6.9
+Andrews,Darren,male,Qatar,1,2021,Retail banker,1763.28,9.0
+Flores,Roger,male,Tokelau,12,2020,Research scientist (maths),1961.96,8.4
+Reyes,Michael,male,Nepal,11,2022,Surgeon,2051.93,7.5
+Sanchez,Javier,female,Mauritius,12,2021,Associate Professor,2191.35,5.7
+Lewis,Mark,male,Belarus,7,2020,"Therapist, music",1783.58,7.1
+Singleton,Kyle,female,Nepal,1,2020,Associate Professor,2011.18,7.6
+Medina,Jason,female,Qatar,7,2022,"Therapist, music",1837.9,8.3
+Watkins,Jonathan,female,Congo,1,2021,"Therapist, music",1976.51,9.5
+Cohen,Jeffrey,female,Korea,12,2021,Surgeon,2023.93,7.4
+Herman,John,male,Croatia,12,2020,Associate Professor,2178.78,7.0
+Lloyd,Michael,male,Mauritius,6,2021,Research scientist (maths),2021.79,6.9
+Fernandez,Peter,female,Nepal,5,2022,Surgeon,2109.56,5.7
+Bennett,Reginald,female,Mauritius,4,2023,Associate Professor,2001.97,5.9
+Mitchell,Steven,female,Qatar,8,2022,Surgeon,1899.24,8.0
+Fry,Timothy,female,Mauritius,5,2020,Surgeon,1900.27,5.6
+Rodriguez,Mark,female,Vietnam,12,2023,"Therapist, music",1912.13,7.3
+Berg,Wayne,female,Belarus,12,2022,"Therapist, music",2069.88,8.9
+Price,Donald,female,Qatar,3,2020,Surgeon,1740.29,6.0
+Richardson,Brandon,male,Tokelau,7,2022,Retail banker,1848.86,7.2
+Thomas,Barry,male,Korea,8,2022,Associate Professor,2072.09,9.1
+Harrington,Frederick,male,Tokelau,9,2023,Associate Professor,2083.56,7.6
+Beltran,Gabriel,female,Mauritius,5,2023,Surgeon,2181.9,9.8
+Newman,David,male,Qatar,11,2022,"Therapist, music",1880.3,5.2
+Bridges,Jonathan,female,Tokelau,1,2022,"Therapist, music",1722.05,5.4
+Kaufman,Wesley,female,Qatar,5,2023,"Therapist, music",1861.44,8.1
+Moore,Jason,female,Tokelau,7,2020,"Therapist, music",2012.41,8.6
+Love,Daniel,female,Korea,8,2020,"Therapist, music",1849.1,10.0
+Cantu,Daniel,female,Mauritius,5,2020,Retail banker,2040.07,9.2
+Maddox,Robert,male,Belarus,5,2021,"Therapist, music",1848.94,5.4
+Bell,William,male,Mauritius,12,2020,Surgeon,1837.76,7.6
+Huff,Kenneth,male,Nepal,2,2021,Associate Professor,1997.38,5.8
+James,Greg,male,Nepal,2,2020,"Therapist, music",1929.42,5.1
+Kane,Jerry,female,Nepal,4,2021,"Therapist, music",1945.87,5.2
+Lopez,Brandon,male,Korea,7,2023,Associate Professor,2004.42,9.9
+Knight,Christopher,male,Nepal,12,2022,Surgeon,2129.46,8.7
+Bryant,Zachary,female,Mauritius,7,2020,Associate Professor,2035.69,6.1
+Adams,Douglas,female,Vietnam,4,2021,Surgeon,2151.12,7.5
+Lowery,Christopher,female,Qatar,11,2020,Associate Professor,2064.99,9.9
+Velasquez,Jerry,female,Nepal,12,2023,Associate Professor,2045.71,9.4
+Garza,James,male,Korea,12,2021,Research scientist (maths),2068.63,10.0
+White,Joshua,female,Belarus,9,2020,Surgeon,2018.07,5.4
+Torres,Alexander,female,Mauritius,12,2022,Research scientist (maths),1973.17,8.2
+Crosby,Benjamin,female,Tokelau,6,2022,"Therapist, music",1978.29,10.0
+Tanner,Stephen,female,Belarus,8,2021,"Therapist, music",2037.4,5.3
+Hayes,Alexander,male,Nepal,5,2022,"Therapist, music",1999.71,7.0
+Singleton,Leonard,female,Vietnam,9,2020,Associate Professor,2098.89,6.4
+Carlson,Christopher,male,Tokelau,10,2021,Research scientist (maths),2028.53,9.8
+Hatfield,Jake,male,Qatar,1,2022,Surgeon,2023.2,6.1
+Lewis,Thomas,female,Mauritius,2,2022,"Therapist, music",2039.73,5.7
+Watkins,Derek,female,Nepal,4,2021,Retail banker,2025.55,6.7
+Frost,James,male,Croatia,6,2022,Surgeon,2043.24,8.2
+Walsh,Michael,female,Tokelau,8,2020,"Therapist, music",1925.11,7.3
+Long,Daniel,male,Nepal,2,2022,"Therapist, music",2050.87,6.8
+Li,Scott,male,Nepal,4,2020,Associate Professor,2055.22,8.5
+Durham,Benjamin,male,Belarus,7,2023,Surgeon,2045.96,5.4
+Kelly,Ryan,male,Belarus,11,2023,Surgeon,1971.88,9.5
+Berry,Philip,female,Mauritius,4,2020,"Therapist, music",1949.23,6.2
+Scott,John,female,Croatia,6,2023,Retail banker,1784.25,9.6
+Smith,Luke,female,Croatia,8,2023,"Therapist, music",2094.74,6.1
+Valentine,Steven,female,Mauritius,12,2023,"Therapist, music",2072.77,6.1
+Roberts,Samuel,female,Nepal,3,2023,Associate Professor,2143.32,9.7
+Hale,Richard,male,Croatia,11,2022,"Therapist, music",1920.24,6.8
+Hunt,Douglas,male,Korea,9,2022,Associate Professor,2040.72,8.2
+Clark,Christopher,female,Croatia,3,2022,Surgeon,1787.88,8.6
+Jones,Michael,female,Nepal,5,2023,Associate Professor,1994.06,7.1
+Brown,Mark,male,Croatia,4,2022,Research scientist (maths),2002.73,10.0
+Grant,Gary,male,Tokelau,6,2021,Research scientist (maths),2065.3,6.6
+Joyce,Colin,female,Mauritius,2,2021,Associate Professor,1892.99,6.3
+Martinez,Justin,male,Korea,11,2023,Associate Professor,1908.45,9.8
+Jimenez,Bryan,female,Mauritius,10,2020,Surgeon,2104.71,5.0
+Mcdonald,Daniel,female,Croatia,12,2022,Research scientist (maths),1895.24,5.2
+Khan,Jason,male,Qatar,11,2020,Retail banker,1807.04,7.8
+Moran,Johnathan,male,Korea,1,2022,Retail banker,2209.59,10.0
+Moss,Timothy,male,Belarus,12,2022,Surgeon,1821.54,9.8
+Hoover,David,female,Mauritius,7,2020,Retail banker,1976.69,9.2
+Bradley,Peter,male,Nepal,6,2023,Surgeon,2045.86,8.1
+Todd,Jonathan,female,Nepal,7,2021,Associate Professor,1945.13,7.2
+Miller,Andrew,female,Congo,1,2022,Surgeon,1917.55,8.2
+Patterson,Jeffrey,male,Nepal,4,2023,"Therapist, music",2027.63,9.5
+Dalton,Brandon,male,Qatar,10,2023,Associate Professor,2166.08,6.0
+Wagner,Jeffrey,female,Mauritius,8,2021,"Therapist, music",2155.69,6.8
+Lamb,James,female,Tokelau,2,2023,Surgeon,2115.19,9.5
+Moore,Mark,male,Tokelau,2,2020,Surgeon,1896.43,9.2
+Gallagher,Barry,female,Tokelau,8,2022,"Therapist, music",2115.85,5.7
+Rogers,Bradley,female,Congo,11,2021,Retail banker,1863.43,6.0
+Thomas,Kevin,female,Korea,12,2020,Retail banker,2029.51,8.5
+Jordan,James,female,Mauritius,6,2023,"Therapist, music",2081.26,9.6
+Vasquez,Brent,male,Congo,6,2020,Surgeon,1998.74,8.1
+Clark,Jacob,female,Nepal,9,2022,"Therapist, music",2081.48,6.4
+Acosta,Michael,male,Korea,1,2023,Associate Professor,2079.87,10.0
+Torres,Michael,male,Belarus,5,2020,Retail banker,2088.04,5.3
+Cortez,Jose,male,Nepal,4,2022,Retail banker,2115.32,6.1
+Finley,William,male,Croatia,8,2021,Retail banker,1958.88,7.1
+Brown,Eric,female,Nepal,3,2023,Associate Professor,1977.2,9.7
+Gardner,Robert,female,Mauritius,2,2020,Associate Professor,2107.98,8.6
+Turner,Donald,female,Mauritius,1,2022,"Therapist, music",2049.05,5.5
+Pham,Kevin,male,Croatia,6,2023,Surgeon,2060.74,5.9
+Huynh,William,male,Qatar,3,2020,Surgeon,1890.76,6.8
+Powers,James,female,Croatia,9,2020,Surgeon,2059.27,5.9
+Shepherd,Anthony,female,Croatia,11,2023,"Therapist, music",2251.6,8.4
+Stewart,Anthony,male,Mauritius,11,2020,Associate Professor,1953.08,8.3
+Montes,Gregory,female,Tokelau,7,2022,Associate Professor,2032.36,9.7
+Gibson,Gregory,male,Belarus,5,2022,Associate Professor,2040.39,8.7
+Dunlap,Andrew,female,Qatar,8,2023,Surgeon,2033.83,5.2
+Davis,Andrew,male,Mauritius,4,2020,Surgeon,1968.74,8.0
+Guerra,Jay,male,Mauritius,7,2021,Research scientist (maths),1891.42,7.2
+Anderson,William,female,Congo,6,2021,Surgeon,2134.43,7.2
+Dickson,Patrick,female,Mauritius,6,2022,Retail banker,1944.27,8.4
+White,Kenneth,male,Korea,12,2021,Surgeon,1952.57,10.0
+Johnson,Brian,female,Belarus,7,2023,Retail banker,2005.26,7.5
+Curtis,Herbert,female,Vietnam,9,2021,Associate Professor,1848.23,7.2
+Cruz,John,female,Congo,3,2021,Research scientist (maths),1962.43,5.9
+Wilson,Daniel,male,Belarus,2,2022,"Therapist, music",1903.03,9.6
+Edwards,Jeffrey,female,Mauritius,6,2020,"Therapist, music",1988.78,8.9
+Hanson,Timothy,female,Korea,2,2023,Retail banker,2001.15,10.0
+Smith,Michael,female,Vietnam,8,2021,Associate Professor,1911.47,6.0
+Davis,Keith,male,Nepal,2,2021,"Therapist, music",1898.77,9.2
+Garrett,Thomas,male,Croatia,10,2021,Surgeon,2060.24,8.6
+Diaz,Scott,male,Croatia,3,2022,"Therapist, music",2035.54,9.7
+Reyes,Anthony,female,Mauritius,4,2022,Associate Professor,1968.94,8.2
+Bowman,John,male,Congo,9,2023,Surgeon,2016.75,8.0
+Martinez,William,female,Mauritius,6,2021,"Therapist, music",1970.05,6.1
+Johnson,Timothy,male,Mauritius,3,2021,Surgeon,1981.79,7.0
+Walker,Matthew,female,Mauritius,12,2021,"Therapist, music",2117.68,7.2
+Fisher,Jack,male,Korea,6,2023,Research scientist (maths),1956.66,10.0
+Barajas,Roger,male,Belarus,7,2020,"Therapist, music",2007.07,6.0
+Perry,Robert,female,Korea,7,2023,Associate Professor,2106.1,8.5
+Andrews,Christopher,female,Korea,7,2021,Associate Professor,1957.35,8.9
+Campbell,Richard,female,Qatar,2,2022,"Therapist, music",1995.43,9.4
+Hall,Stephen,female,Korea,6,2023,Surgeon,1951.71,10.0
+Reed,Joseph,male,Congo,9,2022,Associate Professor,1967.26,8.2
+Smith,Tim,female,Vietnam,10,2021,"Therapist, music",2117.37,9.2
+Jensen,Christopher,female,Mauritius,6,2020,"Therapist, music",1956.22,9.7
+Lynch,Timothy,female,Vietnam,9,2020,Surgeon,2130.22,7.0
+Lopez,Marcus,male,Mauritius,7,2022,Associate Professor,1998.72,7.6
+Ortega,Jordan,male,Mauritius,12,2022,"Therapist, music",1874.28,5.4
+Rubio,Christopher,female,Belarus,3,2023,"Therapist, music",2072.24,6.5
+Mueller,Kevin,male,Korea,8,2021,Retail banker,1943.87,7.7
+Little,Jorge,female,Mauritius,6,2023,Surgeon,2105.85,7.2
+Alexander,Hector,male,Tokelau,5,2021,Surgeon,2107.76,6.6
+Perry,Noah,female,Belarus,8,2022,"Therapist, music",1949.83,6.3
+Daniel,Mark,female,Korea,11,2023,Research scientist (maths),2009.53,10.0
+Williams,Anthony,female,Vietnam,8,2023,"Therapist, music",1961.58,7.0
+Vincent,Gabriel,male,Congo,9,2020,Surgeon,2073.38,5.9
+Myers,Travis,female,Congo,3,2023,"Therapist, music",1779.67,7.3
+Johnston,Bradley,male,Mauritius,2,2020,"Therapist, music",2271.74,9.3
+Tyler,Mark,male,Tokelau,7,2020,"Therapist, music",2021.85,8.7
+Graham,Adrian,female,Mauritius,7,2021,Associate Professor,1953.93,7.5
+Copeland,Eric,male,Korea,11,2020,Retail banker,1922.21,8.3
+Friedman,Adam,female,Qatar,6,2021,Surgeon,1902.4,7.2
+Wagner,Keith,female,Nepal,9,2022,Surgeon,1967.84,6.1
+Espinoza,Stephen,female,Mauritius,8,2022,Associate Professor,1953.92,5.9
+Buchanan,Ronald,female,Mauritius,9,2020,Research scientist (maths),2029.6,6.3
+Young,Joseph,male,Belarus,12,2020,"Therapist, music",2158.31,5.5
+Hansen,Marvin,female,Belarus,6,2020,"Therapist, music",2019.4,5.3
+Holden,Derek,female,Tokelau,8,2021,Surgeon,1900.49,9.4
+Rice,John,female,Korea,1,2022,Retail banker,2050.09,10.0
+Brown,Zachary,female,Nepal,2,2023,Associate Professor,1927.81,7.5
+Miller,Michael,female,Tokelau,4,2021,Associate Professor,2109.18,5.2
+Wheeler,Joseph,male,Vietnam,12,2022,"Therapist, music",2035.5,8.7
+Fox,Brandon,male,Qatar,12,2023,"Therapist, music",1856.49,9.6
+Atkins,Christopher,female,Mauritius,6,2022,Retail banker,1949.56,7.5
+Marsh,Nathan,male,Vietnam,12,2021,"Therapist, music",1860.86,7.6
+Conrad,Michael,male,Croatia,1,2023,Surgeon,2008.87,5.5
+Cabrera,Corey,female,Belarus,4,2022,Associate Professor,1911.22,7.5
+Curtis,Nathan,male,Tokelau,5,2021,Associate Professor,1893.1,5.5
+Martin,Daniel,male,Mauritius,3,2022,Surgeon,2155.04,6.2
+Elliott,David,male,Qatar,7,2020,Surgeon,2093.68,9.7
+Curry,Brandon,male,Croatia,5,2023,Retail banker,1980.22,8.0
+Allen,Robert,male,Qatar,10,2021,Associate Professor,2145.84,9.3
+Williams,Nathan,female,Tokelau,8,2020,Retail banker,1970.21,7.3
+Brown,Justin,female,Mauritius,8,2021,"Therapist, music",2058.17,9.0
+Cross,David,male,Mauritius,11,2020,Associate Professor,1879.45,7.7
+Clark,James,male,Belarus,4,2021,Associate Professor,1944.12,8.8
+Kemp,Richard,male,Belarus,5,2021,"Therapist, music",2037.72,8.6
+Lara,Troy,male,Croatia,4,2023,Surgeon,2068.75,8.2
+Bolton,Kevin,male,Mauritius,2,2020,"Therapist, music",1924.15,6.4
+Wise,Mark,female,Congo,3,2022,Associate Professor,1964.9,6.5
+Schmidt,Jacob,male,Tokelau,2,2020,"Therapist, music",1979.04,8.7
+Bryant,Casey,female,Nepal,7,2022,Associate Professor,1880.25,6.9
+Bowen,Miguel,female,Mauritius,3,2021,Retail banker,1850.07,7.2
+Pham,Clayton,female,Vietnam,12,2022,Surgeon,2009.35,5.3
+Holloway,Joseph,male,Congo,8,2020,Associate Professor,1979.42,7.6
+Patton,William,female,Belarus,8,2023,"Therapist, music",1859.28,8.8
+Moore,Matthew,female,Belarus,12,2022,Associate Professor,2168.52,7.6
+Aguilar,Hector,male,Tokelau,12,2021,Surgeon,2108.89,8.5
+Forbes,James,female,Belarus,11,2020,"Therapist, music",1928.06,9.5
+Bowers,Jose,female,Congo,12,2020,Associate Professor,2167.18,9.2
+Hamilton,David,female,Congo,11,2023,Associate Professor,1929.11,8.5
+Price,Patrick,male,Mauritius,6,2023,"Therapist, music",1989.81,8.6
+Hamilton,Aaron,female,Croatia,1,2023,Retail banker,2024.08,8.8
+Montgomery,Thomas,male,Nepal,1,2022,"Therapist, music",2016.83,6.6
+Smith,Jason,female,Nepal,7,2021,Retail banker,1985.73,8.4
+Morales,David,female,Croatia,2,2023,Surgeon,1984.61,6.0
+Lin,Ian,male,Vietnam,12,2022,"Therapist, music",1984.07,9.9
+Kelly,Timothy,female,Croatia,7,2022,"Therapist, music",1898.95,8.6
+Parker,Jonathan,male,Mauritius,4,2020,Surgeon,1874.48,8.6
+Wolf,Christopher,female,Belarus,7,2021,Surgeon,2047.47,9.4
+Martinez,Jesse,female,Belarus,8,2023,Surgeon,2207.18,7.8
+Burton,Thomas,female,Qatar,6,2022,Surgeon,1980.96,6.8
+Hart,Phillip,female,Tokelau,8,2020,"Therapist, music",1920.95,9.5
+Cruz,Michael,female,Qatar,1,2023,Research scientist (maths),2007.26,5.8
+Salas,Caleb,male,Nepal,3,2023,Retail banker,1990.95,6.9
+Holt,Matthew,male,Tokelau,7,2020,Surgeon,1888.69,5.1
+Dickerson,John,female,Congo,2,2021,Research scientist (maths),2004.92,5.3
+Butler,Jeffrey,male,Mauritius,7,2022,Associate Professor,2204.3,6.6
+Collins,William,male,Belarus,7,2023,Surgeon,1908.35,6.5
+Zimmerman,Adam,female,Qatar,7,2022,Retail banker,2009.98,6.8
+Klein,Douglas,female,Belarus,8,2023,"Therapist, music",1846.96,5.1
+Jones,Keith,female,Qatar,2,2020,Surgeon,1963.79,7.7
+Anthony,Daniel,female,Congo,1,2021,"Therapist, music",2050.77,5.2
+Clements,Michael,male,Croatia,10,2022,Surgeon,1880.97,6.5
+Horn,Timothy,female,Congo,4,2023,"Therapist, music",2068.19,8.8
+Mcmillan,William,female,Mauritius,4,2022,"Therapist, music",2149.7,8.2
+Campos,Wayne,male,Korea,1,2021,Associate Professor,1964.26,8.2
+Wade,Derek,female,Croatia,7,2023,Associate Professor,1948.93,7.7
+Levine,Richard,male,Croatia,8,2022,Surgeon,1977.95,10.0
+Turner,Daniel,male,Nepal,2,2023,Associate Professor,1941.86,8.3
+Ross,Ryan,male,Tokelau,8,2021,"Therapist, music",1981.07,5.3
+Hart,Ricky,male,Qatar,4,2023,Associate Professor,1944.83,8.7
+Robles,Chad,female,Congo,7,2022,Research scientist (maths),1822.39,5.5
+Mason,Nicholas,female,Mauritius,12,2020,"Therapist, music",1934.08,5.0
+Brown,Stephen,female,Congo,7,2023,Surgeon,1954.21,9.1
+Weaver,Timothy,female,Korea,10,2021,"Therapist, music",2087.46,9.6
+Hopkins,Alex,male,Vietnam,10,2020,Surgeon,1997.82,8.8
+Perkins,Troy,male,Nepal,8,2021,"Therapist, music",2021.54,9.6
+Hall,Aaron,female,Croatia,12,2021,Associate Professor,2064.01,9.7
+Hendrix,Matthew,male,Belarus,9,2022,"Therapist, music",2054.35,7.7
+Vincent,Charles,male,Nepal,7,2020,Retail banker,1989.58,7.8
+Duncan,Jeffrey,male,Qatar,9,2020,Surgeon,2050.33,5.9
+Haas,Bryan,female,Congo,3,2021,"Therapist, music",1879.93,9.6
+Roth,Daniel,female,Congo,4,2023,"Therapist, music",1907.78,8.1
+Parsons,Randy,male,Qatar,12,2020,"Therapist, music",1972.17,7.8
+Moran,Carl,female,Nepal,10,2023,Research scientist (maths),2239.36,7.5
+Holt,Richard,male,Croatia,7,2022,"Therapist, music",2108.85,6.4
+Jordan,Steven,female,Congo,12,2020,Research scientist (maths),1983.04,8.5
+Greer,Brian,female,Korea,1,2020,Associate Professor,2170.89,10.0
+Stephenson,David,male,Qatar,2,2023,Associate Professor,1983.59,6.3
+Hartman,Michael,male,Congo,5,2023,Retail banker,1873.68,8.1
+Harper,Edward,female,Nepal,9,2021,"Therapist, music",1988.26,6.9
+King,Paul,male,Tokelau,7,2022,Surgeon,2001.5,8.3
+Travis,Anthony,female,Qatar,5,2020,Associate Professor,2134.08,9.2
+Hopkins,Timothy,male,Qatar,3,2020,Surgeon,2115.33,8.7
+Sims,Thomas,female,Belarus,5,2021,Research scientist (maths),2039.73,9.7
+Wright,Jon,male,Vietnam,11,2020,Associate Professor,2006.28,8.2
+Keller,Marc,female,Vietnam,2,2021,Surgeon,1986.9,6.8
+Spencer,Maurice,female,Croatia,5,2020,"Therapist, music",1888.94,6.1
+Black,Michael,female,Tokelau,5,2022,Retail banker,1812.23,6.7
+Baldwin,Thomas,male,Mauritius,7,2021,"Therapist, music",2215.4,9.6
+Castaneda,William,female,Vietnam,12,2021,Surgeon,2080.02,6.9
+Cox,Edwin,female,Croatia,3,2020,Surgeon,1842.59,5.7
+Thompson,Justin,male,Croatia,9,2022,"Therapist, music",1827.43,8.4
+Gillespie,Steven,female,Vietnam,5,2021,Research scientist (maths),1871.15,9.8
+Mahoney,Christopher,female,Korea,7,2020,"Therapist, music",2117.29,10.0

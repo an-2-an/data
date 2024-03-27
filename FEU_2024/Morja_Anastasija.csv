@@ -1,0 +1,260 @@
+last_name,first_name,gender,country,month,year,job,payment,rating
+Peck,Terry,female,Ukraine,3,2022,Estate agent,1808.07,9.2
+Pugh,Donald,female,Papua New Guinea,8,2020,Chief Operating Officer,2083.33,7.4
+Brown,Zachary,female,Papua New Guinea,4,2021,Estate agent,2028.48,9.8
+Ortiz,Shane,male,Uzbekistan,7,2020,"Scientist, product/process development",2118.57,7.5
+Ward,Robert,female,Anguilla,2,2020,Chief Operating Officer,2028.01,6.6
+Smith,Steve,female,Namibia,1,2023,Estate agent,2231.21,8.3
+Mccoy,Brandon,female,Papua New Guinea,3,2022,Chief Operating Officer,1990.26,10.0
+Stokes,Craig,male,Papua New Guinea,7,2023,Estate agent,2076.25,8.6
+Williams,Bruce,female,Oman,11,2020,Chief Operating Officer,1899.82,7.1
+Daniel,Taylor,female,North Macedonia,9,2022,Estate agent,2103.16,8.7
+Jensen,James,female,North Macedonia,9,2022,Chief Operating Officer,2145.96,7.2
+Nichols,George,female,North Macedonia,12,2020,Chief Operating Officer,2133.09,5.1
+Ashley,Eric,male,Namibia,11,2022,Estate agent,2048.29,8.3
+Patterson,Eric,female,Indonesia,8,2020,Estate agent,1945.29,6.0
+Wolfe,Noah,female,Indonesia,1,2021,"Scientist, product/process development",1953.76,7.4
+Waters,Juan,female,Ukraine,8,2021,Estate agent,2101.65,7.9
+Riley,Stephen,male,Northern Mariana Islands,10,2023,Chief Operating Officer,2213.53,7.7
+Adams,Joshua,female,North Macedonia,6,2020,Chief Operating Officer,1828.1,5.2
+Harrison,Joseph,female,Northern Mariana Islands,7,2021,"Scientist, product/process development",1864.4,8.9
+Campbell,Frank,male,Papua New Guinea,3,2022,Estate agent,1765.32,8.7
+Price,Philip,female,North Macedonia,1,2020,Estate agent,2171.98,8.4
+Garcia,Jerry,female,Namibia,5,2022,"Scientist, product/process development",1940.32,9.1
+Gill,Robert,female,Namibia,6,2021,"Scientist, product/process development",1998.31,7.8
+Taylor,James,male,Indonesia,9,2020,Estate agent,2011.57,6.1
+Johnson,James,female,Anguilla,2,2023,Chief Operating Officer,1977.57,7.2
+Farrell,Michael,male,North Macedonia,6,2022,Estate agent,1963.58,9.7
+Turner,Ryan,female,Oman,12,2023,Estate agent,1950.82,9.3
+Smith,Daniel,male,Oman,9,2021,Chief Operating Officer,2022.09,8.1
+Becker,Anthony,male,Indonesia,12,2022,Chief Operating Officer,1823.75,7.0
+Arnold,Jeremy,female,Oman,8,2022,Chief Operating Officer,2137.67,6.0
+Mcdonald,Joseph,female,Ukraine,5,2022,Estate agent,1879.26,9.4
+Clarke,Daniel,female,North Macedonia,1,2022,Estate agent,2033.75,7.8
+Sanders,Christian,female,Oman,5,2021,Chief Operating Officer,1969.83,7.7
+Farrell,Jason,female,Oman,8,2022,"Scientist, product/process development",2022.06,6.9
+Jackson,Andrew,female,Uzbekistan,11,2023,Estate agent,2123.67,7.3
+Mendez,Charles,male,Uzbekistan,6,2023,"Scientist, product/process development",2035.13,8.6
+Taylor,Julian,male,North Macedonia,10,2022,Chief Operating Officer,2106.08,9.3
+Harvey,Jerry,female,Uzbekistan,10,2020,Chief Operating Officer,1946.66,7.2
+Peterson,Michael,male,Papua New Guinea,1,2021,Estate agent,1993.6,10.0
+Jones,Daniel,female,Anguilla,7,2023,Estate agent,1955.91,8.3
+Thomas,Daniel,female,Anguilla,5,2021,Estate agent,1934.91,5.4
+Stephens,John,female,Northern Mariana Islands,9,2020,"Scientist, product/process development",2083.96,9.2
+Parker,Mark,female,Papua New Guinea,8,2023,Chief Operating Officer,1981.42,8.5
+Scott,Christopher,male,Anguilla,6,2020,Chief Operating Officer,2098.55,9.9
+Barnett,William,male,Oman,12,2021,Chief Operating Officer,1903.12,9.4
+Martinez,Devon,male,Namibia,4,2021,Estate agent,1968.03,5.9
+Greer,Robert,female,Oman,3,2023,Chief Operating Officer,1914.53,7.4
+Andrews,Christopher,male,Uzbekistan,7,2020,Estate agent,1963.37,5.2
+Sanders,Eric,female,Northern Mariana Islands,11,2022,Estate agent,1954.77,7.7
+Cortez,David,male,Ukraine,7,2021,Estate agent,2003.41,9.9
+Stone,Robert,female,Oman,9,2020,"Scientist, product/process development",1806.34,9.7
+Wilson,Tristan,male,Northern Mariana Islands,2,2022,Chief Operating Officer,1982.33,5.4
+Roberts,Jason,male,Uzbekistan,12,2023,Chief Operating Officer,1964.73,5.6
+Garcia,Patrick,female,North Macedonia,1,2021,Estate agent,2075.16,8.6
+Escobar,Patrick,female,Namibia,4,2022,Chief Operating Officer,1713.36,5.4
+Anderson,Zachary,female,Uzbekistan,7,2021,Chief Operating Officer,1869.5,9.6
+Tate,John,female,Northern Mariana Islands,6,2021,"Scientist, product/process development",2057.96,6.1
+Baker,Jack,male,Namibia,8,2022,Chief Operating Officer,1965.59,5.4
+Johnson,Andrew,female,Papua New Guinea,3,2023,Chief Operating Officer,1877.1,8.3
+Berry,Timothy,female,Anguilla,2,2022,"Scientist, product/process development",1977.97,7.2
+Stevens,James,female,Indonesia,2,2021,Chief Operating Officer,2255.52,9.6
+Oliver,Caleb,female,Namibia,8,2020,Chief Operating Officer,2047.38,7.0
+Anderson,Michael,female,Uzbekistan,9,2023,"Scientist, product/process development",1854.98,7.7
+French,Kevin,male,North Macedonia,6,2023,Chief Operating Officer,1815.24,5.8
+Church,Victor,female,Papua New Guinea,3,2023,Estate agent,2190.9,7.4
+Aguirre,Jeffery,male,Northern Mariana Islands,3,2021,Chief Operating Officer,2061.6,9.8
+Carrillo,Jeremy,female,North Macedonia,2,2023,Chief Operating Officer,1764.93,9.0
+Mcbride,Raymond,male,Oman,6,2020,"Scientist, product/process development",1895.76,8.1
+Lewis,Anthony,male,Indonesia,9,2020,Estate agent,2082.63,6.8
+Russell,Aaron,female,Namibia,5,2023,"Scientist, product/process development",1840.94,8.0
+Lopez,Mark,female,Oman,12,2022,Estate agent,2232.21,9.6
+Wright,David,male,Oman,8,2021,"Scientist, product/process development",2177.69,9.4
+Torres,Michael,female,Oman,5,2020,Estate agent,1953.94,7.8
+Grant,Joshua,male,Papua New Guinea,4,2021,Estate agent,1990.21,7.2
+Hines,Mark,female,Ukraine,7,2022,Chief Operating Officer,1861.66,8.2
+White,Jonathan,female,Oman,9,2021,Chief Operating Officer,1959.32,6.1
+Perez,Jeremy,male,Ukraine,12,2021,Estate agent,2161.77,8.4
+Marshall,James,female,Northern Mariana Islands,9,2023,Estate agent,2125.35,7.0
+Riddle,Chad,male,Oman,7,2022,Estate agent,1808.54,6.5
+Mora,Thomas,female,Northern Mariana Islands,7,2022,Chief Operating Officer,1928.92,7.1
+Miller,Rodney,female,Uzbekistan,3,2021,Estate agent,2018.07,5.6
+Pitts,Eric,female,Namibia,3,2021,Chief Operating Officer,1914.52,8.5
+Bennett,Brian,female,Northern Mariana Islands,11,2022,Chief Operating Officer,1978.71,9.8
+Green,Guy,female,North Macedonia,11,2022,Chief Operating Officer,2096.73,5.7
+Pena,Mario,male,Indonesia,1,2022,Chief Operating Officer,2085.41,7.0
+Perez,Allen,female,Anguilla,1,2023,"Scientist, product/process development",1780.58,8.5
+Frye,Luis,female,Papua New Guinea,7,2022,Chief Operating Officer,2093.11,10.0
+Atkinson,Francisco,female,Northern Mariana Islands,10,2021,Chief Operating Officer,2031.95,9.7
+Brown,Paul,female,Papua New Guinea,11,2023,Estate agent,2133.85,10.0
+Rivera,Javier,male,Namibia,12,2022,"Scientist, product/process development",2140.63,7.7
+Camacho,Trevor,female,Namibia,6,2020,Chief Operating Officer,2146.66,6.3
+Cox,Kevin,male,Ukraine,8,2021,Estate agent,2073.8,9.0
+Robertson,Michael,female,Uzbekistan,9,2021,Chief Operating Officer,2120.46,8.8
+Schwartz,Michael,male,Uzbekistan,12,2020,Chief Operating Officer,1955.41,6.7
+Santos,Roger,female,Namibia,7,2020,"Scientist, product/process development",2033.5,8.8
+Johnson,James,female,Namibia,5,2023,Chief Operating Officer,1969.19,7.6
+Williams,Jason,female,Northern Mariana Islands,8,2021,"Scientist, product/process development",2037.17,5.7
+Brewer,Frank,female,North Macedonia,11,2023,Chief Operating Officer,2139.21,7.0
+Spencer,Michael,female,Ukraine,6,2023,"Scientist, product/process development",1958.4,7.5
+Fletcher,William,female,Uzbekistan,7,2023,"Scientist, product/process development",1885.3,7.0
+Khan,David,male,Papua New Guinea,1,2023,"Scientist, product/process development",2100.03,7.7
+Porter,Randy,male,North Macedonia,8,2020,Estate agent,2005.04,5.4
+Greene,David,male,Namibia,7,2021,Estate agent,1832.91,8.1
+Webster,Zachary,male,Namibia,3,2020,"Scientist, product/process development",1957.27,10.0
+Strong,Robert,female,Northern Mariana Islands,1,2020,Estate agent,1845.99,5.7
+Arnold,Thomas,male,North Macedonia,12,2022,"Scientist, product/process development",2057.45,9.7
+Gonzalez,Robert,male,Ukraine,8,2023,Estate agent,2215.62,9.5
+Oliver,Jeffrey,female,North Macedonia,7,2020,Estate agent,2016.24,8.6
+Simpson,Brian,male,Northern Mariana Islands,8,2023,"Scientist, product/process development",1917.26,7.9
+Johnson,David,female,Papua New Guinea,11,2020,"Scientist, product/process development",2132.91,8.3
+Byrd,Anthony,female,Northern Mariana Islands,12,2022,Estate agent,2124.53,7.3
+Garcia,Samuel,female,Uzbekistan,7,2020,Estate agent,2182.27,5.3
+Hartman,Cesar,female,North Macedonia,6,2022,Estate agent,1906.65,9.1
+Cook,Ernest,male,North Macedonia,2,2023,Estate agent,2081.83,6.0
+Lambert,Brandon,male,Northern Mariana Islands,8,2022,Chief Operating Officer,1893.08,5.7
+Savage,Andrew,male,Namibia,8,2023,Chief Operating Officer,1881.03,7.9
+Tanner,Shaun,female,Papua New Guinea,3,2021,Estate agent,1892.26,9.4
+Coleman,Norman,female,Anguilla,4,2023,Chief Operating Officer,2056.84,9.6
+Brown,Daniel,male,Namibia,8,2022,Chief Operating Officer,1976.52,10.0
+Phillips,Earl,female,Ukraine,1,2022,Chief Operating Officer,1922.52,8.2
+Owens,Jeffrey,male,Papua New Guinea,6,2022,Estate agent,2039.62,9.8
+Gonzalez,Steve,female,North Macedonia,7,2023,"Scientist, product/process development",2153.81,7.3
+Olson,Joseph,male,North Macedonia,10,2022,Chief Operating Officer,1875.76,8.6
+Castaneda,Aaron,male,Northern Mariana Islands,6,2020,Estate agent,1996.01,8.2
+Whitney,Mark,male,Uzbekistan,10,2023,Estate agent,1879.5,6.5
+Oliver,Charles,male,North Macedonia,7,2022,"Scientist, product/process development",2031.13,6.0
+Mason,James,female,Uzbekistan,4,2020,Chief Operating Officer,1903.51,6.2
+Morris,Phillip,female,Indonesia,5,2020,Chief Operating Officer,2062.36,6.7
+Wang,Daniel,male,Papua New Guinea,9,2021,Estate agent,1806.98,9.3
+Williams,Wayne,female,Northern Mariana Islands,2,2022,"Scientist, product/process development",1930.35,9.3
+Wyatt,Richard,male,Anguilla,2,2021,"Scientist, product/process development",2124.41,6.9
+Thompson,Larry,female,Northern Mariana Islands,11,2021,Estate agent,1947.61,9.1
+Thompson,Patrick,female,Northern Mariana Islands,9,2021,Chief Operating Officer,1858.73,8.4
+Monroe,Michael,male,Uzbekistan,5,2021,Estate agent,2068.97,5.9
+Hale,Brandon,male,Ukraine,12,2020,Chief Operating Officer,2196.01,9.9
+Hunter,Francisco,female,Ukraine,8,2021,Chief Operating Officer,2023.02,8.5
+Edwards,Patrick,male,Namibia,1,2020,Estate agent,1987.9,9.1
+Payne,Matthew,female,North Macedonia,6,2022,"Scientist, product/process development",1889.27,7.3
+Barrett,John,female,North Macedonia,1,2023,"Scientist, product/process development",1966.68,8.3
+Holder,George,female,Oman,2,2022,"Scientist, product/process development",2080.67,6.3
+Walker,David,male,Northern Mariana Islands,9,2022,Chief Operating Officer,1831.86,9.0
+Powell,Martin,female,Uzbekistan,1,2020,Estate agent,1980.08,7.8
+Smith,William,female,Ukraine,7,2022,Estate agent,2100.69,8.7
+Long,Jonathan,female,Northern Mariana Islands,6,2021,Chief Operating Officer,2030.69,7.8
+Snyder,Daniel,female,Northern Mariana Islands,11,2023,Estate agent,2048.41,5.4
+Gilmore,Christopher,male,Papua New Guinea,6,2021,Estate agent,1960.25,10.0
+Ramirez,Patrick,female,Uzbekistan,10,2020,Chief Operating Officer,2046.86,8.8
+Sherman,Christopher,female,Northern Mariana Islands,6,2022,"Scientist, product/process development",1882.4,8.7
+Collins,Brandon,male,Papua New Guinea,12,2020,Chief Operating Officer,2082.93,10.0
+Miller,Brian,male,Northern Mariana Islands,10,2022,Chief Operating Officer,2002.02,8.9
+Gonzalez,David,female,Uzbekistan,5,2022,Estate agent,2043.17,6.8
+Johnson,Christopher,male,Papua New Guinea,12,2023,Estate agent,2001.92,10.0
+Wells,Matthew,female,Anguilla,4,2020,Chief Operating Officer,2009.16,8.9
+Rodriguez,George,male,Indonesia,10,2020,Estate agent,1858.25,7.2
+Warner,Jamie,female,Oman,4,2020,Estate agent,2079.25,8.3
+Jordan,Christopher,male,Papua New Guinea,5,2022,Estate agent,1987.1,8.8
+Sheppard,Christopher,female,North Macedonia,2,2020,"Scientist, product/process development",2019.86,5.2
+Wagner,Robert,male,Uzbekistan,12,2021,Chief Operating Officer,1876.57,9.0
+Hensley,Robert,female,North Macedonia,1,2021,Chief Operating Officer,1965.53,6.9
+Thompson,Brad,female,Namibia,1,2022,Chief Operating Officer,2132.94,9.6
+Ray,Mark,male,North Macedonia,12,2020,"Scientist, product/process development",2124.26,8.9
+Clayton,Brandon,female,Oman,11,2020,"Scientist, product/process development",2115.56,8.7
+Lloyd,Christopher,male,Ukraine,5,2023,Chief Operating Officer,2113.93,6.6
+Collins,Christopher,female,Anguilla,11,2020,Chief Operating Officer,1896.47,9.6
+Curtis,Jeffrey,male,Anguilla,4,2023,Chief Operating Officer,1889.14,10.0
+Jackson,Marcus,female,Uzbekistan,5,2023,Chief Operating Officer,1958.87,8.7
+Morris,Steven,male,Uzbekistan,6,2023,Estate agent,2032.82,7.4
+Hernandez,Timothy,female,Northern Mariana Islands,6,2021,"Scientist, product/process development",2050.81,9.8
+Wilson,Tony,female,Indonesia,5,2021,Estate agent,1757.21,9.7
+Garcia,David,female,Papua New Guinea,3,2022,Estate agent,1872.75,10.0
+Aguilar,Brian,male,Oman,7,2021,Estate agent,2003.9,6.1
+Johnson,Jose,female,Anguilla,11,2021,Estate agent,2133.4,6.1
+Rubio,Chris,female,Indonesia,1,2023,Estate agent,2112.71,7.3
+Riley,Michael,female,North Macedonia,12,2022,Chief Operating Officer,1981.73,6.3
+Conley,Ryan,male,North Macedonia,6,2022,Estate agent,1919.73,9.3
+Alvarez,Kristopher,male,Indonesia,11,2020,Estate agent,1947.11,9.8
+Harris,Steven,female,Anguilla,1,2020,"Scientist, product/process development",2067.12,6.6
+Petersen,Gary,female,Namibia,1,2020,Estate agent,1808.89,6.1
+Navarro,Jeremiah,female,Uzbekistan,8,2023,"Scientist, product/process development",2021.51,6.5
+Smith,Timothy,female,North Macedonia,8,2021,Estate agent,1955.83,7.5
+Carney,Nathan,female,North Macedonia,9,2020,"Scientist, product/process development",2015.24,8.1
+Huff,John,male,Papua New Guinea,11,2020,Chief Operating Officer,1994.06,8.4
+Fletcher,Kyle,female,Papua New Guinea,10,2021,Estate agent,2082.8,8.0
+Gregory,Victor,female,North Macedonia,12,2023,Chief Operating Officer,2100.55,7.3
+Coleman,Thomas,female,North Macedonia,9,2021,Chief Operating Officer,1868.23,7.5
+Olson,Joseph,female,North Macedonia,12,2020,Chief Operating Officer,1901.48,8.4
+Smith,Bryan,female,Northern Mariana Islands,11,2023,Estate agent,1932.24,9.0
+Bates,Danny,male,North Macedonia,9,2020,Chief Operating Officer,1962.64,5.1
+Woodward,Justin,male,Anguilla,7,2020,Chief Operating Officer,2102.08,9.0
+Tran,Jacob,female,North Macedonia,6,2021,Chief Operating Officer,1971.86,7.0
+Murphy,Michael,female,North Macedonia,6,2022,"Scientist, product/process development",1989.04,5.9
+Allen,Mike,female,Northern Mariana Islands,6,2021,"Scientist, product/process development",2202.85,5.5
+Bass,Donald,male,Ukraine,5,2020,Estate agent,1971.06,7.1
+Farrell,Christopher,female,Northern Mariana Islands,5,2022,Chief Operating Officer,1969.31,9.3
+Burns,Christopher,female,Oman,12,2022,Estate agent,1928.06,5.6
+Jensen,Justin,male,Uzbekistan,8,2021,Chief Operating Officer,1908.46,9.9
+Wells,Jason,male,Ukraine,6,2023,Estate agent,2285.26,6.3
+Morrison,John,male,Papua New Guinea,8,2022,Estate agent,2094.39,10.0
+Johnson,David,female,Papua New Guinea,8,2020,Estate agent,2119.37,7.1
+Cox,Carl,female,Anguilla,7,2020,Chief Operating Officer,2041.55,7.4
+Wilson,Sergio,male,Namibia,9,2023,Estate agent,2024.84,8.8
+Martin,James,female,Uzbekistan,8,2020,Estate agent,1748.1,9.4
+Elliott,Sean,male,Indonesia,12,2023,Chief Operating Officer,1886.63,10.0
+Jones,Sean,male,North Macedonia,8,2021,Estate agent,2121.54,7.1
+Wall,Christopher,male,Uzbekistan,1,2023,"Scientist, product/process development",2023.04,8.5
+Holden,Robert,female,Papua New Guinea,6,2022,Estate agent,1825.24,7.8
+Levine,Evan,male,Uzbekistan,12,2021,Estate agent,2093.35,8.2
+Valentine,Sean,female,Anguilla,6,2020,Chief Operating Officer,2192.08,9.7
+Harris,Stephen,male,North Macedonia,5,2023,Chief Operating Officer,1925.89,6.1
+Patton,Brent,female,Papua New Guinea,2,2020,Estate agent,2094.73,9.9
+Dillon,Mark,female,Anguilla,2,2023,Estate agent,2082.56,8.1
+Bailey,Mathew,female,Namibia,11,2020,Chief Operating Officer,2093.32,7.3
+Carr,Robert,male,Northern Mariana Islands,8,2022,Chief Operating Officer,2113.65,5.8
+Wise,Andrew,female,North Macedonia,10,2023,"Scientist, product/process development",2137.12,5.6
+Lee,Jeffrey,female,North Macedonia,7,2021,Chief Operating Officer,1962.28,5.6
+Freeman,Bill,female,Uzbekistan,6,2021,Chief Operating Officer,2125.57,8.7
+Roman,Christopher,female,North Macedonia,5,2020,Chief Operating Officer,1962.29,5.1
+Watson,Peter,male,Namibia,3,2022,Estate agent,1955.37,6.0
+Compton,John,female,Namibia,6,2022,Estate agent,2102.92,10.0
+Villarreal,Troy,female,Uzbekistan,8,2022,Chief Operating Officer,2051.34,7.8
+Davis,Steven,female,Papua New Guinea,5,2020,Chief Operating Officer,1886.45,8.4
+Ramsey,Sean,female,Northern Mariana Islands,6,2023,Chief Operating Officer,1970.97,6.3
+Mcdowell,Jason,male,Papua New Guinea,6,2022,Estate agent,1987.75,10.0
+Richards,Edward,female,Papua New Guinea,5,2023,Chief Operating Officer,2072.22,7.6
+Holder,Brian,female,Namibia,1,2023,"Scientist, product/process development",1991.38,5.7
+Flowers,Austin,female,North Macedonia,7,2023,Chief Operating Officer,2029.28,7.5
+Taylor,Gene,male,Anguilla,8,2021,Estate agent,1854.35,8.1
+Richardson,Glenn,female,Uzbekistan,8,2023,Chief Operating Officer,1963.19,9.5
+Schwartz,Sean,female,Northern Mariana Islands,10,2023,Chief Operating Officer,2014.95,8.8
+Wise,Scott,male,Papua New Guinea,7,2022,Estate agent,1942.7,10.0
+Edwards,Thomas,female,Namibia,8,2022,Estate agent,2125.66,7.4
+Robinson,Ronald,female,Northern Mariana Islands,5,2023,Chief Operating Officer,1967.43,8.4
+Coleman,Daniel,male,Papua New Guinea,9,2021,Chief Operating Officer,1885.8,7.1
+Russell,Jesse,female,Anguilla,6,2020,Estate agent,1994.61,7.2
+Kelly,Patrick,female,Indonesia,8,2020,Estate agent,2040.32,8.3
+Roberson,David,male,Namibia,7,2022,"Scientist, product/process development",2048.57,8.3
+Norton,David,female,Papua New Guinea,7,2020,"Scientist, product/process development",1953.3,7.3
+Conley,Christopher,female,Northern Mariana Islands,6,2023,Chief Operating Officer,2036.3,8.1
+Hayes,Ryan,male,Papua New Guinea,12,2022,Chief Operating Officer,2087.9,7.3
+Reynolds,Michael,male,Uzbekistan,10,2022,Chief Operating Officer,1962.09,7.7
+Howe,Joseph,female,North Macedonia,4,2023,"Scientist, product/process development",1820.2,8.4
+Ellis,Shane,female,Ukraine,6,2023,Estate agent,2011.54,8.5
+Miller,Corey,female,Namibia,9,2020,Chief Operating Officer,1959.67,6.1
+Kelly,Zachary,male,Northern Mariana Islands,10,2023,"Scientist, product/process development",1935.01,7.3
+Carter,Thomas,male,North Macedonia,4,2021,Estate agent,1951.19,6.8
+Lopez,Frank,female,North Macedonia,10,2021,Chief Operating Officer,1853.36,5.2
+Phillips,Jason,female,Uzbekistan,3,2021,Estate agent,2083.27,9.0
+Reed,Jeffrey,female,Uzbekistan,8,2021,Estate agent,2168.29,8.1
+Rivera,Joseph,female,Indonesia,8,2023,"Scientist, product/process development",2023.52,9.2
+Yates,Lawrence,male,Uzbekistan,2,2021,"Scientist, product/process development",2191.11,6.6
+Simon,Bob,male,North Macedonia,12,2020,Estate agent,2003.54,8.5
+White,David,female,Oman,11,2021,"Scientist, product/process development",1825.44,5.1
+Ward,Marc,male,Northern Mariana Islands,2,2022,Estate agent,1986.86,7.0
+Roberts,Mitchell,female,Papua New Guinea,12,2022,"Scientist, product/process development",2105.67,8.7
+Porter,Donald,male,Uzbekistan,12,2021,Chief Operating Officer,1866.4,7.0
+Smith,Michael,male,Northern Mariana Islands,4,2022,Estate agent,1960.11,6.3
+Mcdonald,Logan,female,Oman,12,2022,Chief Operating Officer,1870.32,7.8
+Fischer,Kenneth,female,Indonesia,3,2022,Estate agent,2068.79,9.6
+Ortiz,Michael,female,Uzbekistan,5,2022,Estate agent,1931.55,5.0

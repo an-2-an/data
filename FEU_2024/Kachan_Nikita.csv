@@ -1,0 +1,300 @@
+last_name,first_name,gender,country,month,year,job,payment,rating
+Underwood,Travis,male,Afghanistan,8,2022,Orthoptist,2071.79,9.3
+Jackson,Robert,female,Kiribati,6,2020,Chief Executive Officer,2043.8,8.5
+David,Joshua,female,Barbados,1,2022,"Engineer, aeronautical",1884.96,5.0
+Baird,Jerry,female,Barbados,10,2023,Cytogeneticist,1943.25,5.7
+Zavala,Joshua,male,Afghanistan,5,2020,Chief Executive Officer,2046.18,6.6
+Green,Brian,female,Barbados,3,2023,Cytogeneticist,2092.76,5.3
+Johnson,Robert,female,United Kingdom,5,2023,"Engineer, aeronautical",1859.55,5.8
+Morris,Jeremy,male,Venezuela,3,2021,Orthoptist,1971.23,9.0
+Hines,Patrick,male,Algeria,6,2022,Geographical information systems officer,1925.28,6.5
+Quinn,Patrick,male,Israel,11,2020,Orthoptist,2079.62,7.2
+Williams,Richard,male,Israel,4,2020,"Engineer, aeronautical",2148.53,10.0
+Keller,Phillip,female,Afghanistan,4,2021,Orthoptist,2065.86,8.0
+Wilkinson,Charles,male,United Kingdom,3,2021,Chief Executive Officer,2190.47,9.5
+Barnes,William,female,Afghanistan,8,2020,Geographical information systems officer,1976.61,9.2
+Hernandez,John,male,Kiribati,12,2020,Chief Executive Officer,1924.65,9.4
+Cuevas,Justin,male,Liberia,7,2022,Geographical information systems officer,1848.99,8.1
+Taylor,James,male,United Kingdom,4,2021,Orthoptist,1951.97,7.9
+Kennedy,Aaron,female,Kiribati,3,2020,Chief Executive Officer,2059.28,6.8
+Stewart,Scott,male,United Kingdom,9,2023,Cytogeneticist,2002.66,6.8
+Gilmore,Gary,male,Venezuela,7,2021,Geographical information systems officer,2043.17,8.5
+Walker,John,male,Israel,4,2021,Orthoptist,1993.3,8.4
+Arias,Brian,male,Afghanistan,12,2022,Cytogeneticist,2038.77,9.6
+Smith,Scott,male,Cuba,7,2021,Orthoptist,2007.14,8.0
+Hall,Thomas,male,Venezuela,8,2021,Geographical information systems officer,2047.17,8.8
+Smith,John,male,Algeria,5,2020,Geographical information systems officer,2081.98,7.6
+Garcia,Richard,male,Kiribati,4,2020,"Engineer, aeronautical",2023.92,8.8
+Juarez,Michael,male,Liberia,8,2021,Geographical information systems officer,2012.01,5.7
+Smith,Austin,male,Liberia,7,2022,Chief Executive Officer,1997.1,9.5
+Knight,Douglas,male,Kiribati,5,2023,"Engineer, aeronautical",2023.46,9.6
+Boyd,Bryan,male,Barbados,10,2020,Geographical information systems officer,2145.57,6.3
+Lucero,Juan,male,Venezuela,10,2022,Geographical information systems officer,2038.31,5.3
+Pierce,Terry,male,Barbados,3,2021,Geographical information systems officer,1998.02,9.5
+Perkins,Christopher,male,United Kingdom,10,2022,Geographical information systems officer,2041.29,6.9
+Hughes,David,male,Barbados,11,2022,Geographical information systems officer,1996.92,9.1
+Vang,Adam,female,Kiribati,12,2021,Cytogeneticist,2000.93,6.6
+Reid,Gregory,female,Venezuela,8,2021,Geographical information systems officer,1951.47,7.3
+Martin,Roger,male,Liberia,12,2022,Geographical information systems officer,2118.38,7.6
+Garcia,John,female,United Kingdom,7,2020,Orthoptist,1938.83,7.4
+Reynolds,Kyle,male,Barbados,6,2022,Geographical information systems officer,2073.03,6.5
+Jones,Edwin,male,Venezuela,7,2020,Cytogeneticist,1870.56,7.9
+Sanders,Daniel,male,Israel,9,2021,Geographical information systems officer,2044.65,8.8
+Colon,James,male,Kiribati,4,2022,Cytogeneticist,2112.81,8.0
+Medina,Barry,female,Israel,9,2021,Orthoptist,2070.33,9.6
+Carter,Donald,male,Liberia,1,2023,Geographical information systems officer,1982.47,5.2
+Gomez,Mark,female,Venezuela,12,2022,Geographical information systems officer,2034.36,8.1
+Franklin,Sean,male,Afghanistan,4,2023,Geographical information systems officer,1921.41,6.8
+Klein,Gregory,male,Liberia,6,2020,Geographical information systems officer,1994.44,7.1
+Hodges,Joseph,male,Barbados,6,2020,Chief Executive Officer,2062.65,9.4
+Schultz,Justin,male,Kiribati,8,2020,Geographical information systems officer,1793.96,7.1
+Hicks,William,male,Afghanistan,5,2021,Geographical information systems officer,2056.47,6.5
+Mills,David,male,United Kingdom,9,2020,"Engineer, aeronautical",1966.6,8.9
+Walker,Aaron,male,Liberia,12,2020,Orthoptist,1953.59,7.3
+Johnson,Antonio,male,Saint Vincent and the Grenadines,3,2022,Cytogeneticist,1964.26,9.0
+Boyd,Aaron,female,Barbados,9,2023,Orthoptist,1918.63,9.4
+Smith,Robert,male,Barbados,5,2022,Cytogeneticist,1957.86,8.6
+Steele,Caleb,female,Israel,6,2020,Geographical information systems officer,1759.84,10.0
+Newman,William,female,Algeria,12,2022,"Engineer, aeronautical",2074.69,6.2
+Bass,Jesus,male,Liberia,2,2020,Cytogeneticist,1986.41,7.7
+Hamilton,Mike,male,Algeria,2,2020,"Engineer, aeronautical",1957.51,6.1
+Brown,Matthew,male,Venezuela,8,2021,Orthoptist,2086.08,9.3
+Nichols,Stephen,female,Liberia,12,2021,Chief Executive Officer,1977.33,6.4
+Williams,Luis,male,Venezuela,1,2021,Orthoptist,1859.0,5.8
+Meyer,Kevin,male,Israel,6,2022,Cytogeneticist,2113.4,10.0
+Frazier,Robert,male,Venezuela,2,2020,Orthoptist,1832.89,8.8
+Ellis,James,male,Saint Vincent and the Grenadines,6,2022,Chief Executive Officer,2157.01,6.6
+Sharp,Jesse,male,Venezuela,5,2022,Orthoptist,1901.24,5.9
+Franklin,Micheal,male,Afghanistan,4,2022,Geographical information systems officer,1917.28,7.8
+Little,David,male,Barbados,1,2021,Orthoptist,2041.99,7.4
+Perkins,Joel,male,Afghanistan,2,2021,Chief Executive Officer,2020.23,7.4
+Evans,Trevor,female,Kiribati,2,2023,Cytogeneticist,2117.82,6.0
+Anderson,Billy,male,Algeria,5,2021,Geographical information systems officer,2100.59,7.0
+Bowman,Matthew,male,Israel,10,2020,"Engineer, aeronautical",2004.74,8.9
+Booth,Dean,male,Cuba,7,2022,Orthoptist,2031.38,6.8
+Guzman,Zachary,male,Cuba,1,2020,Orthoptist,2125.81,9.1
+Parsons,Walter,female,Liberia,4,2020,"Engineer, aeronautical",2108.06,6.7
+Terry,John,female,Barbados,7,2021,Geographical information systems officer,1930.01,6.6
+Scott,Ronnie,male,Saint Vincent and the Grenadines,6,2020,Geographical information systems officer,2141.24,6.3
+Ramirez,Dennis,male,United Kingdom,4,2022,"Engineer, aeronautical",2066.47,5.0
+Griffin,Christopher,female,Israel,6,2023,Orthoptist,1843.99,7.3
+Riddle,Russell,male,Barbados,6,2023,Cytogeneticist,1873.47,9.4
+Klein,Jason,male,Venezuela,8,2023,"Engineer, aeronautical",1922.45,6.9
+Carter,Andrew,male,Barbados,5,2021,"Engineer, aeronautical",2130.58,7.7
+Cortez,Matthew,female,Cuba,6,2020,Geographical information systems officer,2108.78,6.0
+Thomas,Jonathan,male,United Kingdom,7,2020,Orthoptist,2153.22,8.8
+Keller,Daryl,male,Algeria,3,2023,Geographical information systems officer,2011.53,9.3
+Sawyer,Mark,male,United Kingdom,1,2020,"Engineer, aeronautical",1773.59,9.8
+Herrera,Donald,male,Venezuela,9,2020,Orthoptist,2004.8,9.9
+Bowman,Dylan,male,Kiribati,1,2021,Geographical information systems officer,2265.96,8.4
+Wagner,Antonio,male,Barbados,4,2022,Chief Executive Officer,1728.78,6.1
+Anderson,Jesse,female,Algeria,12,2022,Geographical information systems officer,2006.99,9.3
+Mullins,Michael,male,Kiribati,11,2023,"Engineer, aeronautical",2092.25,9.1
+Kelley,Kyle,male,Venezuela,10,2022,Orthoptist,2133.87,8.3
+Johnson,Charles,male,Venezuela,12,2022,Cytogeneticist,1810.49,7.5
+Scott,John,female,Liberia,6,2021,Cytogeneticist,1924.91,8.7
+Lopez,Dylan,male,Afghanistan,8,2022,Orthoptist,2013.3,7.2
+Smith,Bruce,male,Afghanistan,2,2022,Cytogeneticist,2010.38,8.4
+Adams,Richard,male,Cuba,6,2021,Cytogeneticist,1862.66,6.6
+Hill,Roy,male,Barbados,8,2023,Geographical information systems officer,1925.33,9.8
+Thompson,Andrew,male,Venezuela,1,2022,Orthoptist,1883.36,8.2
+Clark,Tim,male,Saint Vincent and the Grenadines,1,2020,Cytogeneticist,1961.38,7.2
+Wolf,Paul,male,Kiribati,8,2022,Orthoptist,1949.27,8.8
+Martinez,Jared,male,Venezuela,12,2023,Geographical information systems officer,1858.7,7.4
+Branch,Derrick,male,United Kingdom,5,2020,Geographical information systems officer,2032.99,9.4
+Johnson,James,male,Algeria,6,2020,"Engineer, aeronautical",2017.12,6.9
+Short,Ethan,male,Liberia,2,2023,Chief Executive Officer,1940.78,6.9
+Fitzgerald,Kenneth,male,Kiribati,1,2023,"Engineer, aeronautical",1849.27,9.4
+Myers,James,male,Algeria,8,2023,Geographical information systems officer,2016.9,8.2
+Rivera,Aaron,male,Algeria,3,2020,Chief Executive Officer,1996.1,9.3
+Brown,Mark,male,Israel,7,2021,"Engineer, aeronautical",1812.45,9.3
+Cabrera,Bobby,male,Cuba,10,2021,Geographical information systems officer,2116.76,7.1
+Mcmahon,Keith,male,Kiribati,6,2023,Cytogeneticist,2107.85,5.6
+Hernandez,Ralph,male,Kiribati,5,2022,Cytogeneticist,2087.56,7.8
+Ruiz,Arthur,female,Liberia,4,2022,Orthoptist,2037.42,5.9
+Powell,Hector,male,Liberia,3,2023,"Engineer, aeronautical",2093.63,6.4
+Johns,Jeffrey,female,Algeria,2,2020,Chief Executive Officer,1924.93,6.7
+Mcintosh,Bryan,male,Venezuela,4,2021,Geographical information systems officer,1945.17,7.8
+Jackson,Anthony,male,Venezuela,1,2020,Geographical information systems officer,2007.56,8.9
+Bowman,Bryan,male,Liberia,6,2022,Orthoptist,2159.68,8.2
+Alvarado,Robert,male,Israel,5,2022,Orthoptist,2098.15,9.7
+Henry,Sean,female,Venezuela,4,2020,Cytogeneticist,1996.33,9.2
+Edwards,Brian,male,Algeria,4,2020,Cytogeneticist,1993.08,7.2
+Dean,Zachary,male,Israel,12,2023,Cytogeneticist,1833.96,7.6
+Saunders,Carlos,male,Afghanistan,1,2020,Cytogeneticist,1871.87,6.5
+Gilbert,Christopher,male,Barbados,2,2022,"Engineer, aeronautical",1680.78,5.6
+Rodriguez,George,male,Kiribati,7,2023,"Engineer, aeronautical",2057.51,7.9
+Cisneros,Brent,male,Saint Vincent and the Grenadines,9,2022,Chief Executive Officer,2108.77,6.9
+Dalton,Christopher,female,Cuba,3,2023,Chief Executive Officer,2081.49,6.4
+Gonzalez,Kevin,female,Saint Vincent and the Grenadines,4,2020,Cytogeneticist,2104.7,9.9
+Miller,Joshua,male,Venezuela,7,2023,"Engineer, aeronautical",1877.97,5.5
+Bailey,Kevin,female,Saint Vincent and the Grenadines,4,2023,Geographical information systems officer,2057.67,5.9
+Hebert,Michael,male,Venezuela,11,2022,Chief Executive Officer,1973.18,8.5
+Hernandez,Thomas,male,United Kingdom,6,2021,Chief Executive Officer,1996.67,9.1
+Burton,David,male,Cuba,3,2021,Geographical information systems officer,2044.24,6.6
+Barnett,Jeffrey,female,Saint Vincent and the Grenadines,5,2023,Orthoptist,1986.6,7.7
+Stout,Jonathan,male,Israel,3,2022,Cytogeneticist,1922.75,9.2
+Pacheco,Manuel,male,Algeria,6,2022,Geographical information systems officer,1817.21,9.4
+Barnes,Tony,male,Algeria,8,2020,Geographical information systems officer,2083.97,6.9
+Ramirez,James,male,United Kingdom,5,2023,Cytogeneticist,1947.34,7.3
+Cooley,Michael,male,Barbados,10,2023,Orthoptist,1885.96,8.6
+Jones,Parker,male,Cuba,4,2020,Geographical information systems officer,2062.22,6.0
+Fry,Anthony,male,Algeria,4,2021,Geographical information systems officer,1863.95,7.6
+Pratt,Justin,male,Barbados,5,2020,"Engineer, aeronautical",1799.19,9.3
+Espinoza,Gregory,male,Afghanistan,7,2023,Cytogeneticist,2169.27,7.4
+Ramirez,Edgar,male,Saint Vincent and the Grenadines,6,2022,Orthoptist,2017.98,6.4
+Sanders,Victor,male,Israel,7,2020,Orthoptist,1846.46,8.1
+Yang,Craig,male,Barbados,10,2020,"Engineer, aeronautical",2030.97,7.0
+Sandoval,Matthew,male,Algeria,8,2021,Chief Executive Officer,1924.08,6.9
+Ford,Paul,female,United Kingdom,11,2021,Geographical information systems officer,1814.01,6.4
+Arnold,Keith,male,Barbados,7,2022,"Engineer, aeronautical",1907.76,7.4
+Medina,Joshua,male,United Kingdom,6,2021,Cytogeneticist,1970.14,7.1
+Holloway,Edward,male,Saint Vincent and the Grenadines,10,2021,Chief Executive Officer,2076.71,5.9
+Collins,Ronald,male,Cuba,6,2022,Cytogeneticist,1893.09,7.0
+Evans,Andrew,male,Venezuela,7,2021,Orthoptist,2028.07,8.3
+Smith,Patrick,male,Cuba,2,2023,Geographical information systems officer,2053.45,7.9
+Herrera,Brandon,male,United Kingdom,7,2020,Geographical information systems officer,1949.15,6.6
+Davis,Adam,male,Venezuela,3,2023,"Engineer, aeronautical",1918.79,5.1
+Brown,Martin,female,Saint Vincent and the Grenadines,5,2022,Geographical information systems officer,2022.74,9.0
+Chan,Peter,male,Cuba,8,2021,"Engineer, aeronautical",2165.41,5.8
+Campbell,Jose,male,Saint Vincent and the Grenadines,3,2023,"Engineer, aeronautical",1932.68,8.1
+Garcia,Kenneth,male,United Kingdom,5,2020,Geographical information systems officer,2114.06,7.1
+White,Maxwell,female,Liberia,4,2023,Orthoptist,1895.19,6.4
+Flores,Garrett,female,Saint Vincent and the Grenadines,6,2022,"Engineer, aeronautical",1968.13,7.0
+White,Michael,male,Afghanistan,8,2020,"Engineer, aeronautical",1991.13,6.7
+Carrillo,Steven,male,Liberia,10,2022,Cytogeneticist,1918.74,5.1
+Perez,Mark,male,Cuba,9,2021,Geographical information systems officer,2087.36,7.1
+Wilson,James,male,Algeria,12,2023,Geographical information systems officer,1935.29,9.6
+Wang,Timothy,male,Israel,3,2023,"Engineer, aeronautical",2063.79,9.2
+Johnson,Scott,male,Saint Vincent and the Grenadines,6,2023,Cytogeneticist,2009.24,8.1
+Sawyer,Mario,male,Barbados,12,2023,Cytogeneticist,2000.33,6.2
+Bailey,Kevin,male,Barbados,9,2023,Orthoptist,1958.01,8.9
+Mack,William,male,Barbados,4,2020,Orthoptist,2039.81,9.2
+Gonzalez,James,male,Saint Vincent and the Grenadines,8,2023,Cytogeneticist,1951.35,7.8
+Castro,James,female,Saint Vincent and the Grenadines,11,2021,Cytogeneticist,1844.72,7.5
+Erickson,William,male,Algeria,9,2023,Geographical information systems officer,2095.05,8.6
+Williams,Johnny,female,Kiribati,6,2023,Chief Executive Officer,1802.76,6.8
+Hicks,Michael,male,United Kingdom,8,2021,Cytogeneticist,2051.73,9.3
+Goodman,Justin,female,Saint Vincent and the Grenadines,5,2021,Orthoptist,1958.86,6.8
+Moore,Brian,male,Venezuela,7,2023,Geographical information systems officer,1822.1,5.6
+Johnson,Kenneth,male,Afghanistan,2,2023,Chief Executive Officer,1926.67,9.8
+Smith,Antonio,male,Afghanistan,3,2022,Chief Executive Officer,2050.72,7.1
+Bryan,Michael,female,Afghanistan,8,2023,Chief Executive Officer,1920.7,8.9
+Garner,Jerry,male,Liberia,1,2021,Orthoptist,2005.02,7.4
+Hernandez,Michael,male,Barbados,9,2021,Cytogeneticist,2011.42,5.5
+Garcia,Taylor,male,Venezuela,12,2021,Orthoptist,1970.56,8.9
+Harrison,Colin,male,Liberia,1,2020,Geographical information systems officer,1953.63,9.0
+Wilkinson,Adam,male,Algeria,7,2020,Geographical information systems officer,1909.37,8.4
+Wilson,Noah,male,Saint Vincent and the Grenadines,6,2022,Chief Executive Officer,1817.58,8.0
+Gutierrez,Juan,female,Barbados,4,2020,Geographical information systems officer,1978.03,8.3
+Jimenez,David,male,Afghanistan,12,2023,Orthoptist,1945.91,7.3
+Zuniga,Paul,male,Saint Vincent and the Grenadines,8,2021,Chief Executive Officer,2058.08,9.0
+Barnett,John,male,Afghanistan,10,2020,Cytogeneticist,1994.05,5.1
+Mahoney,Paul,male,Saint Vincent and the Grenadines,2,2023,Chief Executive Officer,2023.5,7.8
+Ritter,Ryan,male,Cuba,11,2023,Orthoptist,1941.67,6.9
+Hardy,Tristan,male,Liberia,12,2020,Chief Executive Officer,1922.75,7.5
+Martin,Travis,male,Barbados,12,2023,Geographical information systems officer,2004.96,7.7
+Wade,Roy,male,Venezuela,12,2023,Chief Executive Officer,1963.95,7.9
+Mack,Nicholas,male,Algeria,7,2022,Chief Executive Officer,1920.41,6.9
+Sherman,Ronnie,male,Venezuela,1,2023,Chief Executive Officer,2037.57,8.5
+Massey,Daniel,female,Barbados,12,2021,Geographical information systems officer,2031.95,7.1
+Black,James,male,Venezuela,12,2020,Cytogeneticist,2154.89,10.0
+Wood,Michael,female,Saint Vincent and the Grenadines,12,2022,"Engineer, aeronautical",1922.54,6.4
+Boone,Kenneth,male,Venezuela,6,2022,"Engineer, aeronautical",1730.86,8.8
+Fields,Kevin,male,Algeria,7,2020,Geographical information systems officer,2104.97,8.2
+Smith,Michael,male,Afghanistan,6,2021,Geographical information systems officer,2195.9,5.3
+Lambert,Jonathan,male,Kiribati,7,2023,Geographical information systems officer,1869.56,5.5
+Wolf,Adam,male,United Kingdom,10,2022,"Engineer, aeronautical",2004.83,7.0
+Ferguson,Andrew,male,Cuba,12,2022,Orthoptist,2101.17,6.5
+Anderson,David,male,United Kingdom,3,2022,Orthoptist,2036.36,9.6
+Price,Seth,male,Venezuela,12,2023,Geographical information systems officer,2009.27,6.3
+Sellers,Edward,female,Venezuela,6,2023,Cytogeneticist,1950.68,10.0
+Harper,Joshua,female,Cuba,4,2021,Geographical information systems officer,1997.21,6.1
+Jennings,Gregory,female,Afghanistan,9,2022,Geographical information systems officer,2106.4,9.2
+Richardson,Charles,male,Afghanistan,7,2020,Orthoptist,1856.3,7.5
+Villanueva,John,male,Cuba,7,2021,Chief Executive Officer,1906.92,6.4
+Stewart,John,male,Liberia,3,2022,"Engineer, aeronautical",1826.33,6.4
+Mills,Matthew,female,Venezuela,2,2021,Cytogeneticist,2070.65,9.3
+Medina,Bradley,male,Israel,5,2023,Orthoptist,1875.73,8.9
+Thomas,Brian,male,United Kingdom,1,2021,Chief Executive Officer,2062.18,6.4
+Levy,Steven,female,Israel,9,2022,"Engineer, aeronautical",1911.84,8.3
+Knight,Nicholas,male,Barbados,10,2022,"Engineer, aeronautical",1918.96,5.8
+Smith,Jeffrey,female,Algeria,5,2021,Orthoptist,1961.93,8.2
+Austin,Michael,male,Kiribati,10,2023,Cytogeneticist,2012.55,5.3
+Haney,Richard,female,Algeria,9,2021,Orthoptist,2131.82,9.1
+Martinez,Gregory,male,Cuba,8,2021,Chief Executive Officer,2092.8,8.6
+Martin,William,male,United Kingdom,6,2023,Chief Executive Officer,1889.32,8.9
+Foster,Donald,male,Cuba,6,2022,Chief Executive Officer,2002.93,6.7
+Patrick,Wayne,male,Kiribati,7,2020,Geographical information systems officer,2146.49,7.8
+Newman,Jeremy,male,Saint Vincent and the Grenadines,5,2022,Cytogeneticist,2097.49,7.1
+Rose,Thomas,male,Afghanistan,12,2022,Cytogeneticist,2017.14,7.1
+Hill,Michael,male,Cuba,12,2021,Geographical information systems officer,2171.12,5.4
+Mitchell,Gary,female,Venezuela,9,2022,Cytogeneticist,2050.04,8.3
+Aguilar,Jeffrey,male,Algeria,8,2020,Orthoptist,2045.85,9.7
+Ellis,Christopher,male,Barbados,4,2023,"Engineer, aeronautical",2252.03,9.5
+Smith,Tyler,male,Barbados,3,2021,Cytogeneticist,1952.13,8.1
+Fernandez,Neil,male,Barbados,11,2021,Cytogeneticist,1931.94,9.7
+Miller,Philip,male,United Kingdom,10,2021,Cytogeneticist,2028.7,6.3
+Cole,Brandon,female,Barbados,2,2022,Cytogeneticist,2101.39,9.5
+Noble,John,male,Barbados,12,2022,Cytogeneticist,2047.66,9.8
+Gonzalez,Jeffrey,male,Kiribati,2,2023,Geographical information systems officer,1986.89,7.0
+Wiley,Alex,male,Liberia,5,2021,Geographical information systems officer,1891.01,9.7
+Watson,Jorge,male,Algeria,4,2020,Geographical information systems officer,1884.1,8.9
+Davis,Christopher,male,Israel,10,2020,"Engineer, aeronautical",2000.9,9.9
+Rios,Kyle,male,Barbados,12,2020,"Engineer, aeronautical",1894.87,8.5
+Hall,Richard,male,Barbados,7,2020,Orthoptist,2122.15,6.9
+Deleon,William,male,United Kingdom,4,2023,"Engineer, aeronautical",1997.82,6.9
+Davies,Robert,male,Saint Vincent and the Grenadines,10,2021,Geographical information systems officer,2119.53,7.9
+Hall,Robert,male,Venezuela,7,2021,Cytogeneticist,1865.5,6.2
+Lopez,Kurt,male,Algeria,6,2022,Chief Executive Officer,2153.29,6.0
+Jones,Eric,male,Israel,9,2022,Cytogeneticist,1964.15,8.0
+Simon,Tyrone,male,Venezuela,7,2022,Orthoptist,2058.86,5.9
+Mayer,James,male,Algeria,11,2022,Orthoptist,1959.08,9.7
+Ibarra,Travis,male,Liberia,11,2022,Geographical information systems officer,1954.39,6.7
+Graves,Cody,male,Israel,4,2022,Orthoptist,1981.9,10.0
+Burton,Kenneth,male,Saint Vincent and the Grenadines,12,2020,Chief Executive Officer,2154.32,7.8
+Huff,Eric,male,Algeria,7,2023,Cytogeneticist,2000.35,9.1
+Lawrence,Henry,male,Saint Vincent and the Grenadines,1,2021,Chief Executive Officer,2102.89,6.9
+Clay,Luke,male,Liberia,8,2022,Geographical information systems officer,2015.77,7.8
+Carroll,Robert,male,Venezuela,6,2023,Cytogeneticist,2166.51,7.5
+Rodriguez,Riley,male,United Kingdom,7,2020,Chief Executive Officer,2057.46,7.4
+Schmitt,Michael,female,Afghanistan,12,2023,Geographical information systems officer,1883.77,8.1
+Smith,Brent,male,Barbados,12,2023,Cytogeneticist,1968.2,9.6
+Rich,David,male,Barbados,10,2023,Geographical information systems officer,2111.14,9.9
+Perez,Robert,female,Venezuela,2,2023,Orthoptist,1893.68,5.8
+Garcia,William,male,Kiribati,11,2022,Orthoptist,2071.51,7.6
+Morgan,Tyler,male,Barbados,7,2022,Chief Executive Officer,1910.85,6.0
+Rodriguez,Jared,male,Liberia,11,2022,Orthoptist,1965.27,8.9
+Johnson,Jonathan,female,Cuba,6,2021,Cytogeneticist,2049.68,5.3
+Gutierrez,Kevin,male,Algeria,3,2021,Geographical information systems officer,1953.83,9.0
+Cain,Michael,female,Barbados,12,2023,"Engineer, aeronautical",2019.36,6.0
+Underwood,Bradley,male,Venezuela,2,2023,Orthoptist,2189.72,6.3
+Malone,George,male,Algeria,12,2022,Orthoptist,1968.88,6.1
+Simpson,Thomas,male,Afghanistan,5,2020,Chief Executive Officer,1945.34,8.9
+Church,Robert,male,Cuba,4,2023,"Engineer, aeronautical",2044.11,5.8
+Dalton,William,male,Algeria,9,2023,Geographical information systems officer,1991.62,6.8
+Mathews,Justin,male,Saint Vincent and the Grenadines,10,2023,Geographical information systems officer,2225.7,5.7
+Mccoy,Sean,male,Afghanistan,2,2022,Geographical information systems officer,2000.88,6.8
+Dominguez,Brett,male,Liberia,9,2020,Chief Executive Officer,2121.8,8.3
+Rojas,Robert,male,Algeria,2,2020,Cytogeneticist,2021.31,8.2
+Walker,Christopher,male,Israel,5,2023,Cytogeneticist,2066.05,7.1
+Heath,Justin,male,Cuba,12,2021,Geographical information systems officer,2044.5,8.0
+Collins,Zachary,male,Barbados,7,2023,Orthoptist,1986.7,8.1
+Ochoa,Christopher,female,United Kingdom,5,2020,Orthoptist,1855.82,5.8
+Watkins,Aaron,female,United Kingdom,12,2022,"Engineer, aeronautical",1958.2,7.4
+Watts,Kevin,female,Cuba,10,2022,Cytogeneticist,1991.04,8.3
+Johnson,Kenneth,female,Israel,10,2021,Cytogeneticist,1866.06,10.0
+Williams,Zachary,male,Liberia,5,2023,"Engineer, aeronautical",2105.66,9.9
+Guzman,Travis,male,United Kingdom,5,2020,"Engineer, aeronautical",1982.6,6.8
+Young,Brett,male,United Kingdom,5,2022,Cytogeneticist,1960.38,8.7
+Miller,Robert,female,Israel,11,2021,Cytogeneticist,2054.05,8.7
+Robinson,Walter,male,Venezuela,8,2023,Geographical information systems officer,1835.96,5.9
+Williams,Dakota,male,Venezuela,6,2021,Geographical information systems officer,2127.65,6.4
+Martinez,Edward,male,Liberia,1,2020,Cytogeneticist,1896.03,9.8
+Simmons,Austin,male,Israel,10,2022,Orthoptist,1926.21,10.0
+Frank,Mark,male,Cuba,9,2020,Orthoptist,2052.49,9.4
+Hall,Joshua,female,Barbados,10,2021,Chief Executive Officer,2055.97,8.7
+Soto,Jesus,male,Saint Vincent and the Grenadines,8,2021,Geographical information systems officer,1911.68,6.1
+Lindsey,Anthony,male,Kiribati,6,2021,Cytogeneticist,2118.73,9.8
+Smith,Kevin,male,Afghanistan,3,2022,Cytogeneticist,2028.7,6.0
+Patterson,Micheal,male,United Kingdom,10,2023,Geographical information systems officer,1887.55,7.5

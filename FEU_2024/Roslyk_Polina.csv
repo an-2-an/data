@@ -1,0 +1,288 @@
+last_name,first_name,gender,country,month,year,job,payment,rating
+Velasquez,Benjamin,male,Solomon Islands,2,2021,Educational psychologist,2254.28,8.8
+Contreras,Preston,male,Niue,10,2022,Educational psychologist,1866.22,9.3
+Pierce,Matthew,male,Oman,1,2021,Clinical cytogeneticist,2036.34,10.0
+Tran,Rodney,male,San Marino,9,2022,Educational psychologist,2104.12,6.7
+York,Frank,female,Philippines,3,2023,Clinical cytogeneticist,1919.58,8.8
+Sharp,Louis,male,Wallis and Futuna,9,2022,Educational psychologist,1929.52,8.6
+Mendez,Matthew,male,Niue,5,2020,Clinical cytogeneticist,1867.69,7.2
+Alvarado,Devin,male,Philippines,7,2023,Educational psychologist,2005.81,5.9
+Jones,Donald,male,Wallis and Futuna,5,2022,Educational psychologist,1900.35,8.3
+Coleman,Robert,male,Solomon Islands,12,2022,Educational psychologist,2060.08,7.7
+Carroll,Richard,male,Solomon Islands,3,2023,Educational psychologist,2022.34,5.5
+Davis,Jamie,female,Niue,12,2021,"Education officer, environmental",2027.53,7.7
+Shelton,Spencer,female,San Marino,9,2020,Clinical cytogeneticist,2028.13,6.4
+Sanders,Shawn,male,Niue,12,2022,"Education officer, environmental",2093.31,6.9
+Kane,Carl,male,Algeria,7,2021,Clinical cytogeneticist,1973.7,5.5
+Wade,Patrick,female,Philippines,11,2021,"Education officer, environmental",1976.34,7.2
+Adams,Daniel,female,Algeria,8,2022,Educational psychologist,1912.24,8.9
+Rodriguez,Jose,male,Svalbard & Jan Mayen Islands,11,2021,Clinical cytogeneticist,1962.14,5.4
+Ramirez,Joseph,male,Niue,11,2022,Clinical cytogeneticist,1976.46,6.8
+Schultz,Alexander,male,Niue,12,2020,Educational psychologist,1846.01,6.4
+Taylor,Matthew,female,South Georgia and the South Sandwich Islands,9,2023,"Education officer, environmental",2059.74,6.6
+Whitaker,Wesley,male,San Marino,7,2021,"Education officer, environmental",2066.55,9.9
+Johnson,Antonio,female,San Marino,12,2022,"Education officer, environmental",2011.53,8.8
+Gonzalez,Cody,male,Niue,1,2022,Educational psychologist,1770.01,5.1
+Miller,Mitchell,male,Wallis and Futuna,12,2022,"Education officer, environmental",1933.22,7.1
+Moore,Andrew,male,South Georgia and the South Sandwich Islands,5,2022,Clinical cytogeneticist,2142.96,8.9
+Adams,James,male,South Georgia and the South Sandwich Islands,6,2021,"Education officer, environmental",1976.3,7.0
+Johnson,Johnathan,male,Philippines,9,2022,Educational psychologist,2110.24,5.5
+Frank,Mark,male,Svalbard & Jan Mayen Islands,7,2023,"Education officer, environmental",1965.74,7.2
+Aguilar,Matthew,male,South Georgia and the South Sandwich Islands,6,2020,Educational psychologist,1794.63,7.9
+Sanders,Christopher,male,Philippines,12,2020,Educational psychologist,2213.25,9.8
+Garner,David,male,Niue,6,2020,"Education officer, environmental",2012.04,6.8
+Stewart,Nathan,female,Wallis and Futuna,7,2023,"Education officer, environmental",2015.81,5.5
+Miller,Jeffrey,male,Solomon Islands,7,2020,"Education officer, environmental",1947.97,9.8
+Evans,Ricky,male,Niue,11,2022,"Education officer, environmental",1969.8,7.1
+Calhoun,William,male,Svalbard & Jan Mayen Islands,7,2023,"Education officer, environmental",1952.87,7.3
+Gray,Dwayne,male,Svalbard & Jan Mayen Islands,7,2020,Clinical cytogeneticist,2139.35,7.3
+Hernandez,Walter,male,San Marino,12,2020,Educational psychologist,2010.13,7.5
+Robertson,Christopher,male,Niue,4,2021,"Education officer, environmental",2009.01,7.6
+Summers,James,female,Niue,2,2020,Clinical cytogeneticist,1905.78,7.3
+Fuentes,Bradley,female,Philippines,12,2022,"Education officer, environmental",1873.45,9.4
+Cox,Joseph,female,Niue,8,2022,Clinical cytogeneticist,1997.13,7.0
+Taylor,Joseph,male,Oman,4,2023,"Education officer, environmental",1784.73,7.8
+Snyder,Frederick,female,Svalbard & Jan Mayen Islands,5,2022,Clinical cytogeneticist,2030.54,7.7
+Morris,Robert,male,Svalbard & Jan Mayen Islands,9,2020,Educational psychologist,2042.36,5.2
+Mitchell,William,male,Philippines,5,2023,Clinical cytogeneticist,2099.59,9.3
+Brown,Ryan,female,Algeria,3,2021,"Education officer, environmental",1956.58,9.5
+Cisneros,David,male,Solomon Islands,5,2023,Clinical cytogeneticist,2129.49,8.8
+Frey,Rodney,female,San Marino,1,2023,"Education officer, environmental",2088.17,7.9
+Johnson,Edward,female,Wallis and Futuna,6,2020,"Education officer, environmental",2035.56,7.8
+Hoover,Jason,male,Svalbard & Jan Mayen Islands,2,2023,Educational psychologist,2008.77,6.6
+Marsh,Ian,male,Algeria,8,2020,Clinical cytogeneticist,2004.41,5.9
+Johnson,Jeffrey,female,South Georgia and the South Sandwich Islands,7,2022,Clinical cytogeneticist,2041.69,8.6
+Weber,Jacob,male,San Marino,8,2021,Clinical cytogeneticist,2062.51,9.4
+Gonzalez,Willie,male,Wallis and Futuna,2,2020,"Education officer, environmental",2070.38,8.9
+Miller,Bobby,male,Svalbard & Jan Mayen Islands,8,2022,"Education officer, environmental",1753.77,7.7
+White,Jeffrey,female,San Marino,8,2022,"Education officer, environmental",2003.37,9.2
+Martin,Brian,male,Philippines,8,2020,Educational psychologist,1926.85,7.4
+Rhodes,Brandon,male,Svalbard & Jan Mayen Islands,9,2021,"Education officer, environmental",1990.34,5.2
+Griffin,John,male,San Marino,12,2022,Educational psychologist,1951.82,6.9
+Ward,Curtis,male,Svalbard & Jan Mayen Islands,2,2023,"Education officer, environmental",2006.05,9.9
+Whitehead,Tyler,male,San Marino,8,2021,Educational psychologist,1961.23,7.7
+Deleon,Matthew,male,San Marino,4,2020,Educational psychologist,1906.69,5.1
+Ruiz,William,male,Svalbard & Jan Mayen Islands,2,2020,Educational psychologist,1797.14,6.8
+Park,John,male,South Georgia and the South Sandwich Islands,11,2022,Clinical cytogeneticist,2022.52,9.7
+Smith,Adam,male,Wallis and Futuna,7,2022,"Education officer, environmental",2086.18,5.4
+Matthews,Christopher,female,San Marino,4,2023,Educational psychologist,2012.43,6.6
+Moore,Juan,female,Philippines,6,2022,"Education officer, environmental",1972.56,9.0
+Martin,Jerry,female,Wallis and Futuna,10,2023,"Education officer, environmental",1706.66,8.3
+Jones,Daniel,male,Wallis and Futuna,5,2020,Clinical cytogeneticist,1923.05,5.1
+Eaton,Adam,male,Niue,7,2020,Educational psychologist,2012.03,5.8
+Miller,Justin,female,Wallis and Futuna,4,2022,"Education officer, environmental",2022.94,9.9
+Anderson,Marcus,male,Philippines,9,2022,Clinical cytogeneticist,2098.71,6.8
+Russell,Kevin,male,Svalbard & Jan Mayen Islands,9,2023,Educational psychologist,2061.82,5.3
+Jones,Anthony,male,Solomon Islands,10,2020,Educational psychologist,2061.5,7.3
+Snyder,Mark,male,San Marino,8,2022,Educational psychologist,2052.45,5.9
+Ayala,Eddie,female,San Marino,11,2022,Educational psychologist,2160.48,6.1
+Luna,Jeffrey,female,South Georgia and the South Sandwich Islands,5,2023,Educational psychologist,1829.5,9.4
+Bishop,Matthew,male,Solomon Islands,6,2022,"Education officer, environmental",2084.77,9.9
+Evans,Brett,male,Wallis and Futuna,4,2021,Educational psychologist,2071.7,5.6
+Perry,Richard,male,Solomon Islands,11,2020,Clinical cytogeneticist,1956.24,6.5
+Hicks,Raymond,male,Wallis and Futuna,7,2022,"Education officer, environmental",2041.73,5.0
+Bradford,James,male,San Marino,7,2022,"Education officer, environmental",2033.38,5.5
+Duffy,Alex,male,Solomon Islands,9,2020,Clinical cytogeneticist,1967.97,6.7
+Zimmerman,Jonathan,male,Svalbard & Jan Mayen Islands,10,2020,"Education officer, environmental",2046.78,9.4
+Mclean,John,male,Algeria,10,2023,Clinical cytogeneticist,2030.83,5.2
+Foster,George,male,South Georgia and the South Sandwich Islands,7,2023,Clinical cytogeneticist,1932.63,5.0
+Lynch,Michael,male,Philippines,1,2020,"Education officer, environmental",2046.55,9.6
+Morales,Eric,male,Philippines,6,2020,"Education officer, environmental",2191.23,7.0
+Ortiz,Bryan,female,Philippines,7,2020,Clinical cytogeneticist,1921.82,5.6
+Hunt,Douglas,male,Niue,9,2022,Clinical cytogeneticist,1874.61,8.6
+Jones,Mark,male,South Georgia and the South Sandwich Islands,6,2021,"Education officer, environmental",2003.32,9.0
+Leach,Jonathan,female,Niue,9,2020,"Education officer, environmental",1931.55,5.4
+Ford,Ryan,male,Niue,4,2020,"Education officer, environmental",1876.03,8.8
+Berg,Joseph,female,Niue,9,2023,"Education officer, environmental",2106.94,7.7
+Frederick,Andrew,male,Algeria,12,2022,Clinical cytogeneticist,1979.54,5.3
+Brown,Reginald,male,Oman,6,2022,Educational psychologist,1923.84,10.0
+Vazquez,Victor,female,South Georgia and the South Sandwich Islands,6,2020,"Education officer, environmental",2066.68,9.1
+Ross,Grant,male,Philippines,7,2022,Educational psychologist,1924.82,9.8
+Roy,Kenneth,male,San Marino,9,2021,"Education officer, environmental",1963.83,6.4
+Berger,Nicholas,female,Solomon Islands,1,2022,Educational psychologist,1937.19,8.8
+Miller,Willie,female,Wallis and Futuna,9,2023,Clinical cytogeneticist,1892.18,8.6
+Jones,Glenn,male,Solomon Islands,10,2023,Clinical cytogeneticist,2042.57,8.1
+Lam,Jason,female,San Marino,9,2021,Educational psychologist,2137.62,8.7
+Stephenson,Stephen,female,San Marino,6,2022,Clinical cytogeneticist,2134.99,7.3
+Dixon,William,female,San Marino,2,2023,Educational psychologist,1925.87,5.7
+Lopez,John,male,Oman,4,2020,Educational psychologist,2026.22,9.5
+Brown,James,male,San Marino,5,2021,"Education officer, environmental",2005.42,6.1
+Burns,James,male,Niue,3,2020,Educational psychologist,1815.61,8.8
+Daniels,Logan,male,Niue,12,2023,Clinical cytogeneticist,2011.5,7.2
+Clarke,Jay,male,Svalbard & Jan Mayen Islands,3,2020,"Education officer, environmental",2164.6,8.4
+Kent,Michael,male,Philippines,12,2023,"Education officer, environmental",1936.49,8.0
+Johnson,David,male,Wallis and Futuna,7,2022,Clinical cytogeneticist,2012.67,8.2
+Keller,Jonathan,female,Wallis and Futuna,10,2020,"Education officer, environmental",1919.41,9.7
+Davis,Peter,female,Solomon Islands,9,2021,"Education officer, environmental",1977.41,7.8
+Kelley,Michael,male,Solomon Islands,5,2021,Clinical cytogeneticist,1958.91,7.4
+Smith,Jeremy,male,Niue,4,2022,"Education officer, environmental",2025.87,9.1
+Ochoa,Roberto,male,Wallis and Futuna,1,2020,"Education officer, environmental",1950.56,5.0
+Smith,Charles,male,Niue,6,2022,Clinical cytogeneticist,2108.38,7.1
+Thompson,Albert,male,Solomon Islands,4,2023,"Education officer, environmental",2031.51,7.1
+Jones,Anthony,male,Svalbard & Jan Mayen Islands,1,2021,"Education officer, environmental",2044.05,7.1
+Watkins,Brian,female,Niue,4,2022,"Education officer, environmental",2007.98,7.8
+Herman,Paul,male,Solomon Islands,10,2023,"Education officer, environmental",2100.75,6.3
+Patel,Travis,male,Svalbard & Jan Mayen Islands,12,2023,Clinical cytogeneticist,2031.11,5.6
+Ramsey,Wesley,female,South Georgia and the South Sandwich Islands,1,2022,"Education officer, environmental",2049.51,9.9
+Vaughn,Timothy,female,Philippines,11,2023,Educational psychologist,1924.16,8.3
+Hayes,Bradley,male,San Marino,7,2023,Educational psychologist,1900.28,7.1
+Gross,Jason,male,Algeria,4,2021,"Education officer, environmental",2129.53,9.7
+Greene,Andrew,female,Niue,4,2023,"Education officer, environmental",2192.93,5.9
+Rice,Christopher,male,Oman,11,2023,Educational psychologist,2081.77,9.3
+Ross,William,female,Philippines,5,2020,Clinical cytogeneticist,2130.51,7.2
+Wilson,Bryan,male,South Georgia and the South Sandwich Islands,2,2020,Educational psychologist,2007.39,7.0
+Goodwin,Daniel,female,South Georgia and the South Sandwich Islands,7,2022,"Education officer, environmental",2085.4,10.0
+Harris,John,female,Oman,7,2022,Educational psychologist,1925.07,7.2
+Mitchell,Bill,female,Niue,6,2021,Educational psychologist,2145.38,5.2
+Carpenter,Jeremy,male,Philippines,3,2021,"Education officer, environmental",1967.27,8.8
+Garcia,Steven,female,Algeria,6,2022,"Education officer, environmental",2036.22,5.2
+Stone,Ryan,female,Wallis and Futuna,10,2020,Clinical cytogeneticist,2017.53,8.7
+Chavez,Frank,female,Oman,6,2021,"Education officer, environmental",2057.57,10.0
+Bailey,Tommy,female,Philippines,9,2021,Educational psychologist,1881.34,7.7
+Grant,Kenneth,male,Niue,5,2021,Clinical cytogeneticist,1946.64,7.4
+Black,Franklin,female,Wallis and Futuna,5,2023,Educational psychologist,2028.98,5.5
+Butler,William,male,San Marino,9,2021,Clinical cytogeneticist,1999.83,5.4
+French,John,male,San Marino,5,2020,"Education officer, environmental",2100.75,7.1
+Holmes,Mark,male,Algeria,12,2023,"Education officer, environmental",1881.87,8.4
+Armstrong,Alvin,female,Niue,7,2020,"Education officer, environmental",1970.58,9.4
+Hunter,Luke,male,Svalbard & Jan Mayen Islands,1,2023,"Education officer, environmental",1769.05,5.0
+Shields,Michael,male,Solomon Islands,8,2021,Clinical cytogeneticist,1824.46,8.3
+Chapman,Dominic,female,Algeria,6,2020,"Education officer, environmental",1957.48,10.0
+Ibarra,Stephen,female,San Marino,10,2023,Clinical cytogeneticist,1857.0,7.1
+Snyder,Brian,female,San Marino,9,2023,Educational psychologist,2007.17,5.6
+King,Wesley,male,Wallis and Futuna,11,2023,"Education officer, environmental",2179.1,5.1
+Miller,Alexander,male,Niue,5,2021,"Education officer, environmental",1886.28,5.2
+Cameron,Thomas,male,Solomon Islands,2,2021,"Education officer, environmental",1993.14,9.1
+Lopez,Nicholas,male,Niue,4,2021,"Education officer, environmental",1988.87,9.5
+Tyler,Andrew,male,Wallis and Futuna,6,2020,Clinical cytogeneticist,1993.9,7.9
+Brown,Kurt,male,San Marino,1,2023,Clinical cytogeneticist,2015.02,6.1
+Sandoval,Kevin,male,Svalbard & Jan Mayen Islands,11,2020,Educational psychologist,2047.82,6.0
+Larson,William,male,Wallis and Futuna,2,2022,"Education officer, environmental",2012.56,5.6
+Garcia,Jose,male,Niue,11,2022,Clinical cytogeneticist,1953.96,7.2
+Rodriguez,Tyler,female,Wallis and Futuna,12,2021,"Education officer, environmental",2086.75,7.2
+Gutierrez,Michael,male,Niue,3,2023,"Education officer, environmental",1893.39,9.2
+Carr,Nicholas,female,Wallis and Futuna,7,2022,Educational psychologist,1962.05,7.2
+Morris,Shawn,female,Algeria,5,2022,Educational psychologist,1992.74,9.1
+Mitchell,Raymond,male,Solomon Islands,8,2023,Clinical cytogeneticist,2139.46,5.7
+Cruz,Thomas,male,Niue,4,2022,"Education officer, environmental",2092.31,6.2
+Bush,Patrick,male,Solomon Islands,11,2022,"Education officer, environmental",1852.79,5.3
+Wright,Matthew,male,San Marino,10,2020,Educational psychologist,1890.84,5.8
+Drake,Kenneth,male,Algeria,2,2022,Educational psychologist,1995.47,8.4
+Gross,Kristopher,male,Niue,12,2020,Clinical cytogeneticist,2087.92,5.8
+Leach,Kerry,male,San Marino,1,2020,Educational psychologist,1854.75,8.4
+Rivera,Brian,male,Svalbard & Jan Mayen Islands,1,2020,"Education officer, environmental",1921.1,9.5
+Thompson,Christopher,male,Solomon Islands,11,2023,"Education officer, environmental",1869.44,9.1
+Meyer,Charles,male,Niue,10,2022,Educational psychologist,2038.78,8.0
+Hansen,Chase,male,Svalbard & Jan Mayen Islands,10,2023,Clinical cytogeneticist,2146.69,9.4
+Alvarado,James,male,South Georgia and the South Sandwich Islands,12,2020,Clinical cytogeneticist,2107.42,6.7
+Dyer,Timothy,male,Oman,8,2022,Clinical cytogeneticist,2029.24,8.2
+Tate,Jose,female,Niue,12,2021,"Education officer, environmental",1958.41,5.6
+Fitzgerald,Paul,male,Algeria,11,2021,Educational psychologist,1936.21,5.5
+Dalton,John,male,Niue,12,2021,"Education officer, environmental",1915.13,9.3
+Craig,Connor,female,Svalbard & Jan Mayen Islands,10,2022,"Education officer, environmental",1954.97,9.2
+Morgan,Carlos,male,Svalbard & Jan Mayen Islands,12,2023,"Education officer, environmental",2010.55,6.0
+Garcia,David,female,Algeria,8,2020,"Education officer, environmental",2042.47,7.3
+Porter,Christopher,male,Solomon Islands,9,2022,"Education officer, environmental",2044.95,8.5
+Cruz,Cory,female,Philippines,12,2023,"Education officer, environmental",1992.91,8.7
+Taylor,Gary,male,Philippines,12,2022,"Education officer, environmental",2143.01,9.3
+Gross,Stephen,male,Svalbard & Jan Mayen Islands,10,2022,"Education officer, environmental",1838.55,9.3
+Lee,Robert,male,Svalbard & Jan Mayen Islands,8,2021,"Education officer, environmental",1888.96,5.6
+Moses,John,female,Philippines,3,2020,"Education officer, environmental",2160.76,6.4
+Perry,Adam,male,Svalbard & Jan Mayen Islands,7,2022,Clinical cytogeneticist,2013.41,7.8
+Anderson,Brendan,male,San Marino,2,2022,Educational psychologist,2045.23,9.5
+Shah,Jason,male,Philippines,5,2021,Educational psychologist,1914.86,8.0
+Bright,Carl,female,Wallis and Futuna,9,2020,"Education officer, environmental",2088.04,7.5
+Bowers,Michael,female,Philippines,12,2020,Educational psychologist,2130.47,6.7
+Torres,Richard,male,Niue,5,2021,"Education officer, environmental",1917.18,5.5
+Martin,Andrew,male,Svalbard & Jan Mayen Islands,4,2020,Educational psychologist,1984.09,6.7
+Cox,Peter,female,Niue,7,2022,Clinical cytogeneticist,2167.76,10.0
+Simon,Luis,male,San Marino,1,2020,Clinical cytogeneticist,2093.68,9.5
+Strong,Kenneth,male,Oman,11,2020,Clinical cytogeneticist,1974.9,7.9
+Gutierrez,Alex,male,Solomon Islands,6,2020,Clinical cytogeneticist,1807.96,8.9
+Lang,Pedro,female,Niue,9,2023,"Education officer, environmental",2155.27,5.4
+Watson,Andrew,male,San Marino,12,2023,"Education officer, environmental",2208.23,8.5
+Reed,Joseph,male,South Georgia and the South Sandwich Islands,8,2020,"Education officer, environmental",1862.59,9.3
+Hudson,Troy,female,Solomon Islands,5,2022,"Education officer, environmental",1869.94,6.9
+Lopez,Joseph,male,Wallis and Futuna,11,2022,"Education officer, environmental",1867.23,9.6
+Carter,Joel,male,Algeria,9,2020,Clinical cytogeneticist,1953.35,8.7
+Pierce,John,male,South Georgia and the South Sandwich Islands,2,2023,"Education officer, environmental",1931.8,9.2
+Moore,Darrell,male,Algeria,12,2020,"Education officer, environmental",1961.16,5.8
+Hoover,Robert,male,Algeria,12,2022,"Education officer, environmental",2069.87,5.9
+Crawford,John,female,South Georgia and the South Sandwich Islands,10,2023,"Education officer, environmental",1920.26,8.0
+Anderson,Ryan,female,Philippines,7,2022,Educational psychologist,2068.46,6.8
+Cruz,Kelly,male,Niue,8,2022,Educational psychologist,2057.02,8.8
+Taylor,Joseph,female,South Georgia and the South Sandwich Islands,12,2022,Clinical cytogeneticist,2022.38,9.6
+Hansen,Robert,male,San Marino,1,2021,Clinical cytogeneticist,1936.41,6.9
+Hanson,Justin,male,Philippines,12,2021,"Education officer, environmental",1972.7,5.6
+Parker,Michael,male,Niue,2,2022,"Education officer, environmental",1949.17,6.0
+Zuniga,Jason,male,Niue,2,2021,Educational psychologist,1923.15,7.8
+Gibson,Michael,female,Wallis and Futuna,4,2021,"Education officer, environmental",1884.77,6.9
+Miller,Tyrone,male,Oman,11,2023,"Education officer, environmental",2063.64,8.3
+Bartlett,Kurt,male,San Marino,11,2022,"Education officer, environmental",1935.56,7.8
+Vazquez,Michael,male,San Marino,12,2023,"Education officer, environmental",1915.03,8.3
+Navarro,Kyle,female,San Marino,9,2023,Educational psychologist,1754.03,9.5
+Freeman,Kevin,male,Philippines,2,2020,Clinical cytogeneticist,2020.81,9.5
+Wilson,Kenneth,male,Svalbard & Jan Mayen Islands,5,2021,Clinical cytogeneticist,1959.76,5.7
+Evans,Benjamin,male,South Georgia and the South Sandwich Islands,2,2021,"Education officer, environmental",1958.82,6.4
+Mcintosh,Duane,male,Philippines,8,2023,"Education officer, environmental",1839.93,6.5
+Roberts,Joseph,male,Wallis and Futuna,7,2020,"Education officer, environmental",2005.58,5.2
+Hernandez,Timothy,female,Svalbard & Jan Mayen Islands,11,2022,Educational psychologist,1857.4,9.7
+Wilson,Collin,male,Philippines,10,2022,"Education officer, environmental",2191.77,7.2
+Osborne,Gerald,female,Niue,6,2023,"Education officer, environmental",2031.32,7.2
+Nicholson,Charles,male,Philippines,2,2021,Clinical cytogeneticist,1838.43,6.2
+Hart,Willie,female,Oman,7,2021,Educational psychologist,2024.29,10.0
+Jones,James,female,South Georgia and the South Sandwich Islands,6,2021,Clinical cytogeneticist,1986.77,6.7
+Conner,Aaron,male,Niue,12,2020,Educational psychologist,1970.13,5.7
+Rogers,Chad,female,Niue,3,2023,Educational psychologist,1962.49,6.1
+Campos,Richard,male,Svalbard & Jan Mayen Islands,1,2020,"Education officer, environmental",1941.47,5.4
+Moreno,Ryan,male,San Marino,8,2021,Clinical cytogeneticist,2029.16,8.5
+Mayer,Robert,female,Wallis and Futuna,12,2020,"Education officer, environmental",1878.1,6.0
+Ferrell,Tony,female,Niue,5,2023,Educational psychologist,2117.37,7.5
+Thompson,Harold,male,Niue,8,2020,"Education officer, environmental",1927.64,7.1
+Rowe,John,male,Philippines,9,2023,"Education officer, environmental",2113.17,9.9
+Schmidt,Miguel,female,Solomon Islands,11,2020,"Education officer, environmental",2040.12,8.5
+Scott,Daniel,male,South Georgia and the South Sandwich Islands,6,2020,"Education officer, environmental",2096.18,5.5
+Jones,Anthony,male,Solomon Islands,1,2023,Educational psychologist,2031.81,6.5
+Hodge,Michael,male,Svalbard & Jan Mayen Islands,5,2021,"Education officer, environmental",2000.97,7.3
+Robertson,Robert,male,Niue,10,2023,"Education officer, environmental",1945.45,5.7
+Garcia,Adam,female,San Marino,2,2023,"Education officer, environmental",1930.27,7.3
+Adams,Philip,male,Svalbard & Jan Mayen Islands,7,2021,Clinical cytogeneticist,2213.16,5.8
+Pace,Gary,male,Svalbard & Jan Mayen Islands,2,2020,"Education officer, environmental",1973.73,9.9
+Oliver,Larry,male,Svalbard & Jan Mayen Islands,6,2020,Educational psychologist,1891.48,6.7
+Mejia,Aaron,male,Philippines,8,2022,Educational psychologist,2082.76,6.2
+Calderon,Carl,male,Philippines,9,2022,"Education officer, environmental",1881.84,7.2
+Porter,Joshua,male,San Marino,2,2021,"Education officer, environmental",2067.8,9.6
+Perez,John,male,Niue,3,2022,"Education officer, environmental",2082.95,9.4
+Clark,Alex,female,Niue,9,2023,"Education officer, environmental",2144.14,9.8
+Clark,Kevin,male,South Georgia and the South Sandwich Islands,10,2021,Clinical cytogeneticist,2025.73,9.1
+Contreras,Edward,female,Niue,3,2022,"Education officer, environmental",1882.71,9.0
+Blake,Charles,male,San Marino,1,2023,"Education officer, environmental",1994.75,7.4
+Dodson,Luis,female,Philippines,10,2022,Clinical cytogeneticist,2036.49,9.1
+Cook,Bradley,female,San Marino,8,2020,"Education officer, environmental",2087.08,9.5
+Williams,Richard,male,Niue,10,2020,"Education officer, environmental",2137.29,6.0
+White,Patrick,female,Wallis and Futuna,6,2020,Educational psychologist,1879.26,5.5
+Hayes,Jason,male,Svalbard & Jan Mayen Islands,6,2021,"Education officer, environmental",1943.54,6.3
+Ray,Michael,male,San Marino,9,2022,Clinical cytogeneticist,2115.13,5.4
+Cunningham,Lawrence,male,Wallis and Futuna,9,2020,Educational psychologist,2018.34,5.6
+Boone,Roger,female,Oman,12,2023,"Education officer, environmental",2099.28,9.9
+Mann,Randall,female,South Georgia and the South Sandwich Islands,6,2021,"Education officer, environmental",1879.99,6.3
+Rogers,Samuel,female,Philippines,7,2021,Educational psychologist,1979.37,9.3
+Jackson,Barry,female,Oman,12,2020,Educational psychologist,2083.21,10.0
+King,Larry,male,Algeria,8,2023,Clinical cytogeneticist,1879.56,6.2
+Vasquez,Nicholas,male,Oman,1,2022,Clinical cytogeneticist,2089.38,7.1
+Huynh,Brian,female,Wallis and Futuna,4,2022,"Education officer, environmental",1979.43,9.3
+Thomas,Joseph,male,Philippines,5,2021,Educational psychologist,2056.32,9.2
+Gray,Joshua,male,Oman,1,2023,Educational psychologist,2125.1,10.0
+Myers,Travis,male,South Georgia and the South Sandwich Islands,5,2020,Educational psychologist,2195.17,5.8
+Bishop,Shane,male,Oman,11,2023,Clinical cytogeneticist,1981.92,10.0
+Chapman,James,male,Oman,9,2022,"Education officer, environmental",1883.0,10.0
+Morgan,Gregory,male,Wallis and Futuna,11,2020,Clinical cytogeneticist,1946.44,8.5
+Oliver,Russell,male,Solomon Islands,7,2022,Clinical cytogeneticist,2093.35,5.9
+Olson,Carlos,female,Algeria,10,2022,"Education officer, environmental",1924.14,8.8
+Foley,Wesley,male,South Georgia and the South Sandwich Islands,7,2023,Clinical cytogeneticist,1902.99,8.9
+Morse,William,female,Philippines,4,2020,Educational psychologist,2101.82,9.9
+Rios,Robert,male,Solomon Islands,9,2020,Educational psychologist,2015.15,6.9
+Beltran,Matthew,male,Niue,2,2020,"Education officer, environmental",1999.2,6.2
+Peters,Brandon,female,Wallis and Futuna,10,2020,"Education officer, environmental",2031.81,6.8
+Reese,Michael,male,San Marino,7,2023,Educational psychologist,1904.8,6.9
+Garner,Kevin,male,South Georgia and the South Sandwich Islands,6,2022,Clinical cytogeneticist,1891.51,7.1

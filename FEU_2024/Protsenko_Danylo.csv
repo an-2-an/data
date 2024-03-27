@@ -1,0 +1,262 @@
+last_name,first_name,gender,country,month,year,job,payment,rating
+Davis,Victor,male,Saint Lucia,7,2023,Amenity horticulturist,2171.91,9.5
+Harris,James,female,Saint Lucia,12,2021,Amenity horticulturist,1891.56,6.2
+Walker,Brian,female,Taiwan,5,2023,Garment/textile technologist,1972.7,9.6
+Rollins,William,female,Belarus,9,2023,"Pharmacist, hospital",2021.52,8.4
+Hall,Joseph,female,Taiwan,9,2023,"Pharmacist, hospital",1876.24,8.4
+Smith,Thomas,male,Taiwan,8,2020,Amenity horticulturist,1954.25,6.5
+Crane,Ivan,male,Bangladesh,11,2021,Amenity horticulturist,2263.8,10.0
+Velasquez,William,male,Belarus,1,2020,Amenity horticulturist,1794.52,6.6
+Owens,Samuel,male,Taiwan,5,2021,Garment/textile technologist,2034.68,7.0
+Wilson,Joseph,male,Estonia,5,2023,Retail banker,2118.92,5.9
+Miller,Manuel,female,Bangladesh,9,2021,Retail banker,1956.65,9.6
+Morrison,Jamie,female,Estonia,2,2022,Retail banker,1975.01,7.9
+Burke,Gabriel,male,Estonia,6,2022,Amenity horticulturist,1899.98,6.5
+Lee,Ethan,male,Taiwan,10,2023,"Pharmacist, hospital",1985.58,6.2
+Liu,Philip,male,Mayotte,10,2021,Amenity horticulturist,2104.25,5.2
+Nelson,Keith,male,Saint Lucia,11,2022,Amenity horticulturist,2113.44,6.0
+Martinez,Antonio,male,Mayotte,12,2023,Retail banker,1839.17,7.9
+Thomas,Justin,male,Mayotte,5,2021,Garment/textile technologist,2031.99,7.1
+Russo,Harold,male,Bangladesh,5,2023,Garment/textile technologist,2082.74,9.5
+Estrada,Richard,male,Belarus,8,2020,"Pharmacist, hospital",2116.13,7.8
+Small,Ryan,male,Taiwan,3,2022,Amenity horticulturist,2047.4,6.9
+Clark,Gregory,male,Taiwan,5,2020,Garment/textile technologist,2001.1,9.1
+Johnson,Zachary,male,Estonia,11,2020,Retail banker,1906.02,8.1
+Simon,Christopher,female,Mayotte,10,2020,Retail banker,2093.6,8.3
+Jacobson,Zachary,male,Estonia,7,2022,"Pharmacist, hospital",2017.48,6.8
+Davis,Devin,male,Saint Lucia,9,2021,"Pharmacist, hospital",2062.51,9.3
+Harris,Timothy,male,Bangladesh,12,2022,Amenity horticulturist,2165.45,9.8
+Crawford,Andrew,male,Mayotte,3,2021,Amenity horticulturist,1920.48,9.8
+Morton,Timothy,male,Mayotte,2,2023,"Pharmacist, hospital",1968.88,6.6
+Stephens,William,male,Mayotte,1,2020,Amenity horticulturist,2122.75,8.2
+Lucas,Billy,male,Mayotte,1,2021,Amenity horticulturist,2377.49,7.1
+Elliott,David,male,Saint Lucia,4,2020,Amenity horticulturist,2028.77,5.2
+Payne,Frank,female,Mayotte,9,2021,Garment/textile technologist,2140.34,7.1
+Johnson,Tony,male,Belarus,10,2022,Garment/textile technologist,2190.0,6.8
+Gutierrez,Andrew,male,Bangladesh,6,2022,Amenity horticulturist,2029.56,8.7
+Brown,Joshua,male,Estonia,10,2021,Garment/textile technologist,2148.65,9.4
+Davis,Craig,male,Saint Lucia,7,2022,Amenity horticulturist,1961.3,7.2
+Powell,Willie,male,Belarus,5,2023,Garment/textile technologist,2168.14,9.3
+Jackson,David,female,Estonia,5,2021,Garment/textile technologist,2059.67,7.3
+Williams,Nathan,male,Bangladesh,1,2023,Garment/textile technologist,1897.59,10.0
+Reed,Michael,male,Taiwan,12,2021,Amenity horticulturist,1988.3,5.3
+Mckinney,Kevin,female,Estonia,3,2022,Garment/textile technologist,1982.11,8.1
+Guzman,Joshua,male,Estonia,11,2020,Amenity horticulturist,2196.11,8.6
+Alexander,Brian,male,Saint Lucia,10,2021,Retail banker,1877.19,8.3
+Berg,Steven,female,Estonia,10,2022,"Pharmacist, hospital",2046.71,6.4
+Parsons,Pedro,male,Mayotte,1,2020,Amenity horticulturist,1856.04,7.1
+Guerra,Roger,male,Mayotte,7,2023,"Pharmacist, hospital",1983.85,6.4
+Tucker,Brandon,male,Belarus,3,2021,Amenity horticulturist,2231.02,9.0
+Gomez,Justin,female,Taiwan,7,2022,"Pharmacist, hospital",1747.78,6.9
+Curry,Steven,female,Saint Lucia,9,2022,Amenity horticulturist,1905.97,9.7
+Mathews,Bryan,male,Estonia,8,2023,Garment/textile technologist,1885.5,9.6
+Thomas,Christopher,male,Bangladesh,12,2023,Garment/textile technologist,1999.23,8.3
+Jackson,Aaron,male,Estonia,1,2021,Amenity horticulturist,2082.85,9.4
+Simmons,Christopher,male,Mayotte,3,2023,Garment/textile technologist,2174.87,5.3
+Turner,Eric,male,Saint Lucia,12,2021,Retail banker,1944.12,8.8
+Medina,Anthony,male,Taiwan,3,2021,"Pharmacist, hospital",2024.08,5.7
+Miller,Michael,male,Estonia,3,2020,Garment/textile technologist,2201.76,6.8
+Parsons,Matthew,male,Belarus,7,2023,Amenity horticulturist,1966.37,6.5
+Odonnell,Timothy,male,Taiwan,2,2022,Retail banker,2247.78,5.9
+Whitaker,Barry,female,Bangladesh,5,2022,Retail banker,2016.16,10.0
+Vasquez,Mark,male,Belarus,9,2021,Garment/textile technologist,2179.0,5.0
+Johnson,Matthew,male,Mayotte,6,2021,Retail banker,2063.85,6.8
+Rios,David,female,Bangladesh,4,2021,Amenity horticulturist,1972.81,10.0
+Carroll,Clayton,male,Taiwan,8,2021,Amenity horticulturist,2098.11,6.6
+Gould,Tanner,male,Estonia,7,2023,Amenity horticulturist,2027.68,5.2
+Nguyen,David,male,Estonia,2,2022,Garment/textile technologist,2036.91,8.5
+Cook,Jason,female,Bangladesh,5,2021,Amenity horticulturist,2080.31,8.1
+Bean,Roger,male,Estonia,2,2023,Amenity horticulturist,1942.57,6.1
+Frost,Michael,male,Belarus,7,2023,Amenity horticulturist,2009.44,8.5
+Pearson,Jose,female,Estonia,4,2020,"Pharmacist, hospital",2107.0,9.5
+Christian,Jacob,female,Mayotte,5,2021,Retail banker,1716.35,5.4
+Clark,Andres,male,Bangladesh,5,2021,Garment/textile technologist,2014.79,8.9
+George,Michael,male,Estonia,1,2021,Garment/textile technologist,1993.05,6.1
+Cook,Michael,male,Mayotte,9,2020,Garment/textile technologist,2069.3,9.2
+Walker,Thomas,female,Saint Lucia,7,2022,"Pharmacist, hospital",1916.76,5.3
+Jimenez,Peter,male,Estonia,6,2021,Retail banker,2016.23,6.4
+Avery,Scott,male,Taiwan,12,2020,"Pharmacist, hospital",2039.68,8.5
+Caldwell,Michael,male,Saint Lucia,11,2021,Garment/textile technologist,2044.04,5.1
+Brown,Darren,male,Bangladesh,11,2020,Retail banker,2001.06,10.0
+Gallagher,Blake,male,Belarus,1,2022,Garment/textile technologist,1999.91,5.4
+Sampson,Randall,male,Bangladesh,11,2020,Garment/textile technologist,1790.68,9.1
+Martin,Eric,female,Saint Lucia,5,2021,Garment/textile technologist,1885.73,8.4
+Barber,William,male,Belarus,6,2023,"Pharmacist, hospital",1947.99,9.6
+Mcdonald,Douglas,female,Bangladesh,8,2021,Amenity horticulturist,2075.37,8.6
+Mueller,James,male,Taiwan,8,2023,Garment/textile technologist,1963.33,9.4
+Williams,John,female,Estonia,8,2023,Garment/textile technologist,1981.88,6.4
+Parsons,Patrick,male,Bangladesh,5,2023,Garment/textile technologist,2045.67,7.3
+Tucker,Donald,male,Taiwan,4,2023,Amenity horticulturist,1992.3,5.0
+Rodriguez,Jimmy,female,Taiwan,8,2022,"Pharmacist, hospital",1973.76,9.1
+Allen,Thomas,male,Estonia,10,2021,Amenity horticulturist,1908.98,9.4
+Brooks,Corey,male,Taiwan,7,2020,"Pharmacist, hospital",1950.64,9.1
+Ellis,Jason,female,Bangladesh,3,2023,"Pharmacist, hospital",1984.6,7.2
+Aguilar,Shawn,male,Taiwan,10,2022,Garment/textile technologist,1762.81,6.7
+Day,Eugene,female,Taiwan,2,2023,Retail banker,2063.24,7.3
+Sharp,Troy,male,Estonia,2,2022,Garment/textile technologist,1978.27,7.1
+Mason,Jonathan,male,Estonia,4,2022,Amenity horticulturist,1902.37,9.1
+Morris,Frank,female,Mayotte,8,2022,"Pharmacist, hospital",2012.36,7.5
+Navarro,Scott,male,Estonia,3,2021,"Pharmacist, hospital",2013.31,7.9
+Taylor,Johnny,female,Taiwan,10,2021,"Pharmacist, hospital",2041.81,5.4
+Robbins,Michael,male,Saint Lucia,9,2020,Garment/textile technologist,1929.54,7.4
+Rich,Sean,male,Belarus,2,2020,Garment/textile technologist,1894.4,9.3
+Preston,William,male,Bangladesh,7,2022,Garment/textile technologist,2057.06,10.0
+Lopez,Cole,female,Saint Lucia,12,2023,Retail banker,1950.71,6.2
+Johnson,Nicholas,male,Estonia,11,2023,Garment/textile technologist,2053.77,5.9
+Cortez,Bob,male,Mayotte,6,2023,Retail banker,1903.3,5.3
+Collins,David,male,Mayotte,7,2023,"Pharmacist, hospital",1972.27,8.5
+Aguilar,James,male,Mayotte,6,2022,Garment/textile technologist,1928.14,7.4
+Castaneda,Charles,female,Belarus,6,2021,Garment/textile technologist,2151.89,7.2
+Rivas,Marc,male,Belarus,2,2020,Garment/textile technologist,2048.61,7.0
+Lawrence,Raymond,male,Bangladesh,8,2023,"Pharmacist, hospital",2160.28,10.0
+Wright,Daniel,female,Belarus,5,2022,Garment/textile technologist,2152.05,7.5
+Stewart,Jared,male,Bangladesh,9,2020,Garment/textile technologist,1991.96,10.0
+Perry,Robert,female,Taiwan,4,2021,Garment/textile technologist,2036.1,8.5
+Garcia,Michael,female,Estonia,7,2023,Retail banker,2030.82,8.6
+Jones,Christopher,female,Mayotte,7,2021,"Pharmacist, hospital",1926.33,8.2
+Gardner,Curtis,female,Belarus,11,2023,Garment/textile technologist,1874.72,7.5
+Hernandez,Bryan,male,Estonia,2,2022,Amenity horticulturist,1851.18,5.6
+Jones,Matthew,male,Estonia,2,2021,Amenity horticulturist,2062.05,9.6
+Reed,Matthew,male,Bangladesh,5,2023,"Pharmacist, hospital",2028.48,8.1
+Herring,Jordan,male,Saint Lucia,8,2020,Amenity horticulturist,1884.25,7.1
+Higgins,Ryan,male,Estonia,2,2020,Garment/textile technologist,2149.27,8.3
+Nicholson,John,male,Estonia,8,2020,Retail banker,1998.27,7.4
+Lamb,Roger,male,Bangladesh,7,2021,Garment/textile technologist,2047.14,7.1
+Pena,Daniel,female,Saint Lucia,6,2022,Amenity horticulturist,2044.69,9.5
+Clark,Philip,male,Belarus,2,2021,Amenity horticulturist,1809.03,7.4
+Hayes,Robert,female,Taiwan,6,2023,Retail banker,2055.3,5.8
+Wall,David,male,Mayotte,5,2023,Amenity horticulturist,2037.72,5.1
+Turner,Justin,female,Bangladesh,8,2022,Amenity horticulturist,2092.57,8.0
+Moreno,Jared,male,Saint Lucia,2,2023,Retail banker,2032.72,9.2
+Blackwell,Geoffrey,female,Mayotte,6,2022,Garment/textile technologist,1937.53,7.5
+Schmidt,Charles,male,Mayotte,12,2022,"Pharmacist, hospital",2047.58,9.3
+Bennett,Brent,male,Saint Lucia,2,2021,Amenity horticulturist,2077.57,9.1
+Jones,James,male,Bangladesh,5,2021,Garment/textile technologist,1969.36,10.0
+Martinez,Alexander,male,Belarus,5,2023,Retail banker,2043.15,6.7
+Mosley,Steven,male,Belarus,12,2021,"Pharmacist, hospital",2045.31,6.5
+Perez,Christopher,male,Taiwan,1,2020,Retail banker,2021.44,9.1
+Robinson,Clayton,male,Estonia,3,2020,Garment/textile technologist,1979.42,8.1
+Williams,David,male,Saint Lucia,3,2021,Retail banker,1906.24,5.7
+Smith,Trevor,male,Mayotte,7,2023,Amenity horticulturist,1898.79,7.3
+Franco,Ryan,male,Taiwan,7,2021,"Pharmacist, hospital",1915.15,9.5
+Spence,Rodney,female,Taiwan,4,2022,Amenity horticulturist,1905.81,6.4
+Garcia,Matthew,male,Bangladesh,9,2023,Amenity horticulturist,2190.63,9.5
+Parrish,Steven,male,Taiwan,7,2020,Amenity horticulturist,2089.53,9.6
+Bell,Aaron,male,Taiwan,6,2022,Garment/textile technologist,2107.93,6.1
+Mercado,Kevin,male,Estonia,4,2021,"Pharmacist, hospital",1955.94,9.3
+Hamilton,Scott,male,Taiwan,2,2020,Garment/textile technologist,2077.62,9.2
+Hardy,Robert,male,Bangladesh,1,2023,Garment/textile technologist,1948.66,10.0
+Smith,Todd,male,Mayotte,3,2022,Amenity horticulturist,1887.17,5.9
+Scott,Corey,male,Belarus,2,2022,"Pharmacist, hospital",1820.64,8.7
+Velez,Alan,male,Saint Lucia,5,2020,Amenity horticulturist,2066.29,7.8
+Marquez,Scott,male,Taiwan,7,2021,Amenity horticulturist,1879.59,6.1
+Perry,Aaron,female,Bangladesh,1,2023,Garment/textile technologist,2044.79,9.5
+Murphy,William,male,Belarus,8,2021,Retail banker,2027.72,5.2
+Rodriguez,James,female,Mayotte,8,2020,Retail banker,2044.21,6.2
+Taylor,Alejandro,male,Taiwan,5,2021,Garment/textile technologist,2074.93,8.9
+Phillips,Alexander,male,Estonia,6,2023,"Pharmacist, hospital",2069.21,8.7
+Nguyen,Robert,male,Mayotte,2,2020,Amenity horticulturist,1961.14,5.4
+Warren,James,male,Estonia,8,2021,Amenity horticulturist,2012.05,9.9
+May,Brian,male,Estonia,10,2022,"Pharmacist, hospital",1845.33,8.4
+Macias,Brandon,male,Bangladesh,3,2023,Amenity horticulturist,1879.37,10.0
+Coleman,David,male,Belarus,3,2020,Amenity horticulturist,2099.34,7.9
+Price,David,male,Bangladesh,12,2022,Amenity horticulturist,2086.41,8.6
+Todd,Peter,female,Mayotte,3,2022,Amenity horticulturist,1980.87,7.3
+Yu,Jeremy,male,Estonia,2,2023,Garment/textile technologist,2019.19,5.8
+Jackson,Aaron,male,Taiwan,10,2022,"Pharmacist, hospital",2034.34,8.8
+Wade,David,female,Saint Lucia,8,2020,Garment/textile technologist,2107.87,5.5
+Tran,Travis,male,Mayotte,7,2022,Garment/textile technologist,1903.52,8.6
+Waters,Steven,male,Saint Lucia,7,2023,Garment/textile technologist,2012.39,5.9
+Hunt,Roger,male,Bangladesh,12,2022,Garment/textile technologist,1946.92,7.4
+Haley,Joseph,female,Mayotte,3,2021,Amenity horticulturist,2075.96,5.0
+Gibbs,James,male,Bangladesh,9,2021,Amenity horticulturist,2008.63,10.0
+Grimes,Michael,female,Belarus,6,2023,Amenity horticulturist,1829.21,9.6
+Bennett,Paul,male,Taiwan,8,2023,Garment/textile technologist,1982.54,5.1
+Miller,Carl,male,Bangladesh,11,2022,Garment/textile technologist,1941.79,8.3
+Schmitt,Leslie,male,Saint Lucia,5,2021,"Pharmacist, hospital",2101.85,7.4
+Thompson,Andrew,male,Mayotte,11,2023,Amenity horticulturist,1917.49,9.7
+Alvarez,Christopher,male,Mayotte,9,2023,Amenity horticulturist,2058.56,8.8
+Rivera,Pedro,male,Saint Lucia,1,2021,Garment/textile technologist,2126.41,8.5
+Castillo,John,male,Taiwan,3,2020,"Pharmacist, hospital",1801.94,7.9
+Cameron,Timothy,female,Bangladesh,2,2023,Retail banker,1802.0,10.0
+Davis,Marcus,male,Belarus,3,2023,Amenity horticulturist,2051.16,9.8
+Olson,Adam,male,Belarus,12,2020,Amenity horticulturist,1712.88,8.7
+Foster,Justin,male,Belarus,6,2021,"Pharmacist, hospital",1964.04,7.5
+Lester,Jeremy,male,Belarus,8,2021,Amenity horticulturist,2094.28,8.5
+Serrano,Daniel,female,Belarus,8,2021,Garment/textile technologist,1983.87,9.5
+Johnson,Jason,male,Taiwan,7,2022,Garment/textile technologist,1926.06,5.8
+Banks,Ryan,male,Bangladesh,7,2023,"Pharmacist, hospital",1927.19,8.9
+Atkins,Christopher,female,Belarus,10,2021,Retail banker,2015.28,7.8
+Brown,Joshua,male,Mayotte,6,2020,"Pharmacist, hospital",1884.95,7.1
+Church,Corey,male,Estonia,2,2022,Amenity horticulturist,1913.09,7.8
+Lewis,Matthew,male,Taiwan,12,2023,Amenity horticulturist,1966.44,7.2
+Gray,Ronald,male,Estonia,8,2022,"Pharmacist, hospital",1977.47,5.1
+Ferguson,Earl,male,Saint Lucia,11,2021,Garment/textile technologist,2010.11,5.5
+Williams,Michael,male,Taiwan,6,2022,Amenity horticulturist,1982.74,8.8
+Wilson,Anthony,male,Taiwan,2,2020,"Pharmacist, hospital",1891.22,9.4
+Wilson,William,male,Taiwan,9,2020,Garment/textile technologist,1977.07,5.6
+Payne,Derek,male,Mayotte,5,2023,"Pharmacist, hospital",2139.86,9.8
+King,Christopher,male,Bangladesh,1,2023,Garment/textile technologist,2001.02,10.0
+Miller,Matthew,male,Estonia,7,2020,Garment/textile technologist,2080.46,8.9
+Henson,Mark,male,Bangladesh,12,2021,"Pharmacist, hospital",2183.12,9.1
+Davis,Larry,male,Estonia,7,2021,Amenity horticulturist,1991.08,6.8
+Barnes,Michael,male,Belarus,9,2023,Amenity horticulturist,1933.79,9.9
+Griffin,Allen,female,Taiwan,5,2022,Garment/textile technologist,1998.01,8.6
+Wagner,Joshua,male,Saint Lucia,10,2021,Garment/textile technologist,2090.61,6.0
+Martinez,Frank,male,Estonia,7,2022,Garment/textile technologist,2105.51,6.5
+Soto,William,male,Bangladesh,8,2020,"Pharmacist, hospital",1965.01,9.4
+Wheeler,Frank,male,Taiwan,11,2022,"Pharmacist, hospital",1905.63,9.0
+Montes,Justin,male,Taiwan,3,2021,Garment/textile technologist,2085.69,5.8
+Dickson,Benjamin,male,Bangladesh,7,2021,Amenity horticulturist,1928.35,8.2
+Deleon,Russell,female,Bangladesh,8,2020,Amenity horticulturist,2173.86,7.6
+Nash,John,female,Taiwan,2,2023,Amenity horticulturist,1950.74,5.7
+West,Justin,male,Saint Lucia,1,2023,Retail banker,2167.84,6.4
+Martin,James,male,Saint Lucia,2,2021,Amenity horticulturist,1906.99,9.6
+Avery,Joseph,male,Belarus,6,2021,Amenity horticulturist,1956.46,9.0
+West,Andre,female,Belarus,4,2023,"Pharmacist, hospital",1987.29,9.0
+Richard,Jonathan,male,Estonia,1,2020,"Pharmacist, hospital",2171.72,8.0
+Davis,Paul,male,Bangladesh,9,2020,Garment/textile technologist,1850.44,10.0
+Powell,Eric,male,Saint Lucia,7,2021,"Pharmacist, hospital",1887.06,7.8
+Downs,Jacob,male,Bangladesh,8,2021,Amenity horticulturist,2178.98,9.4
+Avila,Blake,male,Mayotte,5,2023,Retail banker,2042.05,7.3
+Rose,Kurt,female,Saint Lucia,6,2020,Amenity horticulturist,2243.69,9.9
+Roman,Michael,male,Mayotte,9,2023,Garment/textile technologist,2087.09,5.6
+Robinson,Albert,female,Estonia,11,2020,Amenity horticulturist,1887.75,5.3
+Ford,Thomas,male,Belarus,10,2021,Garment/textile technologist,2112.18,8.1
+Jones,David,female,Mayotte,9,2021,"Pharmacist, hospital",1864.75,10.0
+Price,William,male,Bangladesh,1,2021,"Pharmacist, hospital",1872.87,8.6
+Chavez,James,male,Belarus,3,2022,"Pharmacist, hospital",2153.47,8.4
+Murillo,Travis,male,Mayotte,6,2023,Garment/textile technologist,2046.22,9.6
+Jarvis,Matthew,male,Taiwan,2,2023,Garment/textile technologist,2007.65,6.9
+Leach,Jason,male,Bangladesh,10,2020,Retail banker,1891.4,10.0
+Roberts,Jimmy,male,Belarus,5,2021,Amenity horticulturist,1935.48,7.2
+Rhodes,Christopher,male,Belarus,7,2022,Garment/textile technologist,1997.24,9.3
+Williams,Travis,male,Belarus,3,2023,Garment/textile technologist,2225.59,7.3
+Russell,Robert,male,Estonia,5,2021,"Pharmacist, hospital",2098.65,7.9
+Rodriguez,Frank,male,Estonia,12,2020,Retail banker,2057.22,8.4
+Swanson,Matthew,male,Bangladesh,7,2021,Garment/textile technologist,1921.69,10.0
+Hansen,Robert,male,Saint Lucia,5,2021,Amenity horticulturist,2021.63,5.0
+Ramos,Shaun,male,Belarus,2,2023,"Pharmacist, hospital",2039.18,9.9
+Watson,Anthony,male,Taiwan,5,2021,"Pharmacist, hospital",2046.8,5.3
+Johnson,Ronnie,male,Taiwan,9,2023,Retail banker,2070.43,9.3
+Williams,Thomas,male,Estonia,5,2022,Garment/textile technologist,2117.85,9.7
+Elliott,Gerald,male,Saint Lucia,6,2022,Garment/textile technologist,1911.64,9.3
+Grant,Christopher,male,Taiwan,8,2020,Garment/textile technologist,2107.29,6.4
+Nunez,Tyrone,male,Saint Lucia,12,2022,Garment/textile technologist,2083.64,7.4
+Gonzalez,Billy,female,Estonia,9,2022,"Pharmacist, hospital",2059.54,8.2
+Johnson,Aaron,male,Belarus,6,2023,"Pharmacist, hospital",2026.61,7.4
+Larson,Franklin,male,Belarus,10,2020,Amenity horticulturist,1965.4,8.3
+Johnson,Steven,female,Belarus,4,2020,Amenity horticulturist,1849.18,8.4
+Perkins,Anthony,male,Bangladesh,7,2022,"Pharmacist, hospital",1886.42,10.0
+Sanford,David,male,Estonia,9,2020,Garment/textile technologist,2081.52,7.3
+Gonzales,Ian,male,Bangladesh,5,2020,Garment/textile technologist,1951.47,10.0
+Cox,Joel,male,Belarus,4,2023,Amenity horticulturist,1940.36,7.2
+Shepherd,Thomas,male,Estonia,5,2022,Garment/textile technologist,2029.45,7.1
+David,Jackson,male,Estonia,1,2023,Amenity horticulturist,1905.04,6.2
+Hendricks,Frank,male,Taiwan,12,2023,"Pharmacist, hospital",2246.93,7.7
+Payne,Justin,male,Belarus,3,2021,Garment/textile technologist,1808.43,7.5
+Myers,Justin,male,Taiwan,11,2023,"Pharmacist, hospital",1996.97,6.4
+Smith,Bryce,male,Mayotte,12,2021,Retail banker,1907.39,8.3
+Smith,Michael,female,Bangladesh,3,2022,Garment/textile technologist,1924.26,8.9
+Miller,Aaron,male,Bangladesh,10,2020,Retail banker,1951.07,8.4
+Thomas,Robert,female,Belarus,2,2022,"Pharmacist, hospital",1946.11,5.5

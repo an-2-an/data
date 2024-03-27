@@ -1,0 +1,273 @@
+last_name,first_name,gender,country,month,year,job,payment,rating
+Ward,Robert,male,Congo,8,2022,Clothing/textile technologist,1964.96,6.0
+Perez,Donald,male,Grenada,5,2023,Television camera operator,2078.76,9.5
+Williams,Michael,male,Dominica,9,2020,Systems analyst,1915.09,6.3
+Fox,Andrew,male,Congo,2,2021,Clothing/textile technologist,1990.31,9.7
+Robinson,Ian,male,Grenada,12,2020,Systems analyst,2035.34,5.5
+Brown,Kyle,male,Congo,10,2023,Analytical chemist,1999.58,6.4
+Harris,Jimmy,male,Grenada,2,2020,Clothing/textile technologist,1930.01,5.8
+Rodriguez,Matthew,male,Congo,7,2022,Metallurgist,2118.59,8.0
+Howe,Richard,male,Congo,10,2022,Metallurgist,2110.26,5.5
+Pineda,Kenneth,male,Grenada,8,2022,Systems analyst,1954.56,7.4
+Wong,Joe,male,Kiribati,12,2023,Systems analyst,1999.92,10.0
+Adams,Marcus,male,Palestinian Territory,11,2022,Analytical chemist,1999.33,6.0
+Jenkins,Michael,male,Dominica,4,2023,Systems analyst,2112.73,6.8
+Valdez,Joshua,male,Kiribati,7,2023,Systems analyst,2198.85,9.4
+Ochoa,Nicholas,female,Congo,12,2022,Clothing/textile technologist,2048.55,7.7
+Wilson,Daniel,male,Congo,10,2022,Clothing/textile technologist,2076.97,8.3
+Martinez,James,male,Palestinian Territory,7,2021,Metallurgist,1947.56,5.1
+Williams,Kevin,female,Dominica,4,2021,Clothing/textile technologist,1935.26,9.0
+May,Omar,female,Congo,5,2023,Metallurgist,1961.89,6.1
+Anderson,Matthew,female,Grenada,9,2020,Systems analyst,2018.06,9.3
+Hill,Steven,male,Palestinian Territory,11,2023,Chartered accountant,1875.78,6.9
+Schmidt,William,male,Kiribati,6,2023,Clothing/textile technologist,1859.88,8.4
+Rubio,Marcus,female,Bahrain,5,2022,Analytical chemist,2061.07,7.6
+Franco,Dustin,male,Kiribati,2,2021,Television camera operator,2062.0,10.0
+Delgado,Daniel,male,Congo,10,2022,Systems analyst,2025.39,7.8
+Phillips,Dennis,male,Congo,11,2023,Television camera operator,2068.72,8.4
+Cantrell,Matthew,female,Palestinian Territory,9,2020,Metallurgist,2072.41,5.4
+Coleman,Peter,male,Dominica,4,2021,Metallurgist,1997.4,6.4
+Patterson,Ruben,male,Kiribati,12,2020,Television camera operator,1887.22,8.9
+Schmitt,Jose,male,Congo,7,2020,Metallurgist,1956.74,9.4
+Delgado,Edward,male,Congo,7,2021,Systems analyst,2195.13,9.6
+Brown,Dennis,male,Grenada,4,2022,Systems analyst,1994.28,8.6
+Armstrong,Steven,male,Palestinian Territory,1,2020,Systems analyst,2103.47,5.3
+Martin,John,female,Dominica,3,2020,Metallurgist,2057.01,9.7
+Rogers,Jacob,male,Palestinian Territory,4,2020,Systems analyst,1959.4,7.7
+Scott,Darrell,male,Kiribati,12,2020,Systems analyst,1922.04,9.7
+Brooks,Matthew,male,Congo,10,2022,Systems analyst,2074.38,7.3
+Haas,Juan,male,Bahrain,11,2023,Television camera operator,2133.33,9.3
+Anderson,Eric,male,Kiribati,9,2021,Metallurgist,2072.26,9.3
+Ryan,Michael,male,Congo,12,2022,Metallurgist,2039.76,5.6
+Villarreal,Max,male,Kiribati,6,2022,Systems analyst,2166.0,7.0
+Williams,Alexander,male,Palestinian Territory,5,2022,Analytical chemist,1840.73,6.5
+West,Connor,female,Palestinian Territory,6,2022,Metallurgist,2100.45,5.2
+Stephenson,John,female,Palestinian Territory,1,2020,Chartered accountant,1861.31,8.5
+Thompson,Roy,male,Palestinian Territory,7,2020,Clothing/textile technologist,2016.27,9.2
+Cummings,Charles,female,Palestinian Territory,7,2020,Systems analyst,2095.99,7.5
+Johnson,Jay,male,Palestinian Territory,1,2022,Television camera operator,2099.33,5.6
+Morrow,Rodney,male,Dominica,4,2023,Television camera operator,2040.15,6.1
+Kirby,Luke,male,Kiribati,6,2020,Systems analyst,2132.56,10.0
+Martinez,Brandon,female,Bahrain,12,2021,Metallurgist,1838.77,5.8
+Chambers,Nathan,male,Congo,10,2023,Clothing/textile technologist,2021.37,8.6
+Howard,Christian,male,Dominica,7,2021,Metallurgist,2009.72,9.2
+Johnson,John,male,Kiribati,3,2020,Analytical chemist,1938.96,7.3
+Andrews,Jon,male,Bahrain,2,2023,Clothing/textile technologist,2059.32,9.2
+Adams,Casey,male,Palestinian Territory,6,2020,Television camera operator,1978.25,5.1
+Grant,Jose,male,Kiribati,6,2021,Analytical chemist,2073.05,7.1
+Cantu,Tony,male,Dominica,1,2021,Systems analyst,1953.63,6.5
+Waters,Tony,female,Grenada,5,2023,Systems analyst,2047.8,6.7
+Owens,James,male,Grenada,11,2020,Analytical chemist,2093.98,7.7
+Martinez,Stephen,female,Grenada,4,2021,Television camera operator,1809.33,7.8
+Klein,Jerry,male,Dominica,6,2023,Television camera operator,2030.78,7.8
+Brown,Jared,male,Bahrain,5,2023,Television camera operator,1890.19,6.2
+Allen,Stephen,male,Palestinian Territory,2,2020,Television camera operator,2018.03,6.0
+Morgan,Benjamin,male,Palestinian Territory,12,2023,Systems analyst,1768.69,8.2
+Fisher,Christopher,male,Kiribati,3,2023,Clothing/textile technologist,1983.44,8.1
+Galvan,Ryan,female,Grenada,5,2021,Television camera operator,1944.62,9.8
+Martinez,Richard,female,Palestinian Territory,7,2023,Clothing/textile technologist,2117.31,5.7
+Woodward,Devin,male,Kiribati,6,2023,Chartered accountant,2036.1,8.2
+Cole,Brian,male,Congo,1,2022,Systems analyst,1973.04,9.1
+Simmons,Phillip,male,Palestinian Territory,2,2020,Chartered accountant,2299.33,9.9
+Hogan,Christopher,female,Congo,9,2023,Chartered accountant,1996.72,9.2
+Smith,David,male,Palestinian Territory,9,2021,Systems analyst,2077.98,6.2
+Martin,Wayne,male,Congo,3,2022,Chartered accountant,2005.94,8.1
+Roach,Nicholas,female,Kiribati,11,2021,Television camera operator,2068.53,10.0
+Castro,Joseph,male,Bahrain,6,2023,Metallurgist,1999.6,9.4
+Martinez,Joshua,male,Palestinian Territory,2,2021,Metallurgist,1916.79,7.3
+Farrell,Michael,female,Kiribati,5,2020,Analytical chemist,1944.33,7.2
+Hays,Marcus,male,Bahrain,6,2022,Systems analyst,1967.47,6.1
+Mercado,Keith,male,Dominica,9,2023,Analytical chemist,2014.35,6.5
+Gibbs,Matthew,male,Kiribati,7,2023,Systems analyst,2108.67,7.5
+Mccoy,John,male,Kiribati,10,2021,Television camera operator,1960.52,10.0
+Williams,Donald,male,Congo,10,2020,Chartered accountant,1917.13,8.4
+Thompson,David,female,Dominica,8,2020,Chartered accountant,2155.06,7.5
+Brooks,Robert,male,Palestinian Territory,9,2021,Clothing/textile technologist,1986.12,7.6
+Pratt,Jason,male,Dominica,9,2022,Metallurgist,2115.79,9.1
+Phillips,Scott,male,Congo,11,2021,Metallurgist,2051.36,6.1
+Carter,Reginald,female,Grenada,5,2021,Systems analyst,2026.01,7.1
+Nelson,David,female,Congo,8,2023,Systems analyst,1904.19,6.7
+Campbell,James,male,Dominica,1,2022,Systems analyst,2041.55,7.5
+Vazquez,Keith,male,Bahrain,6,2021,Systems analyst,2124.01,7.0
+Rodriguez,Jermaine,male,Kiribati,1,2020,Metallurgist,2207.78,8.8
+Young,Terry,male,Kiribati,9,2023,Metallurgist,1838.25,8.3
+Howard,Scott,female,Kiribati,5,2020,Metallurgist,1908.51,10.0
+Nichols,William,female,Congo,3,2022,Chartered accountant,2078.37,6.9
+Christensen,Dean,female,Palestinian Territory,12,2021,Clothing/textile technologist,2080.43,7.3
+Hanson,Stephen,female,Palestinian Territory,1,2021,Metallurgist,1939.86,5.5
+Hoffman,Benjamin,male,Kiribati,3,2023,Metallurgist,2033.14,10.0
+Mcmillan,Michael,female,Palestinian Territory,9,2022,Television camera operator,1901.56,9.7
+Fry,Justin,male,Dominica,7,2023,Systems analyst,1898.84,9.7
+Salazar,Thomas,female,Grenada,9,2022,Chartered accountant,1952.65,6.6
+Lawrence,Benjamin,male,Congo,8,2022,Analytical chemist,2144.98,5.4
+Stewart,Steven,female,Bahrain,1,2022,Television camera operator,1945.26,5.7
+West,Trevor,female,Kiribati,12,2020,Metallurgist,2137.57,10.0
+Wallace,Richard,male,Dominica,4,2020,Metallurgist,2041.52,6.7
+Carey,Cole,male,Bahrain,5,2023,Systems analyst,2048.61,9.3
+Moore,Erik,male,Palestinian Territory,11,2022,Clothing/textile technologist,1897.37,9.8
+Stevenson,Stephen,male,Bahrain,4,2022,Analytical chemist,2159.74,9.6
+Garcia,Luis,male,Grenada,12,2023,Systems analyst,2109.11,8.8
+Lowe,Gregory,female,Bahrain,8,2021,Metallurgist,2076.68,8.9
+Lopez,Jason,male,Kiribati,8,2022,Analytical chemist,2021.95,9.0
+Rivas,Steven,male,Kiribati,8,2021,Metallurgist,1994.13,10.0
+Myers,Michael,male,Palestinian Territory,2,2020,Television camera operator,1870.47,9.6
+Johnson,Ralph,female,Bahrain,10,2020,Systems analyst,2046.08,9.9
+Wilkinson,Gregory,male,Dominica,12,2023,Systems analyst,2159.93,7.4
+Stephens,Patrick,male,Kiribati,7,2020,Systems analyst,1775.6,10.0
+Villa,Scott,male,Bahrain,12,2022,Clothing/textile technologist,2035.69,8.0
+Salazar,Robert,male,Congo,7,2021,Analytical chemist,2076.56,9.5
+Baldwin,Shawn,female,Congo,8,2022,Television camera operator,1948.99,8.5
+Gonzales,Christopher,male,Palestinian Territory,9,2020,Chartered accountant,1972.16,8.4
+Shepard,Ryan,female,Dominica,7,2023,Systems analyst,1925.69,6.0
+Ramirez,Christian,male,Grenada,1,2023,Systems analyst,2074.29,5.7
+Sharp,Hector,male,Kiribati,11,2021,Chartered accountant,2060.5,10.0
+Edwards,Jeremy,male,Congo,6,2023,Clothing/textile technologist,1820.81,8.5
+Sullivan,Eric,male,Bahrain,4,2021,Clothing/textile technologist,1785.51,7.6
+Martinez,Barry,male,Dominica,5,2021,Metallurgist,2087.26,9.0
+Ingram,James,male,Palestinian Territory,11,2023,Clothing/textile technologist,2103.51,7.8
+Perez,Charles,male,Congo,2,2020,Clothing/textile technologist,2063.54,9.8
+Wilson,Robert,male,Bahrain,7,2021,Analytical chemist,2111.19,5.7
+Lee,Justin,male,Grenada,6,2023,Chartered accountant,2003.79,8.8
+Silva,Rodney,male,Bahrain,4,2021,Television camera operator,1907.7,9.0
+Wilson,Raymond,female,Kiribati,6,2022,Systems analyst,2021.17,9.9
+Moore,Stanley,male,Bahrain,6,2021,Metallurgist,1995.65,5.9
+Garcia,Donald,male,Grenada,10,2023,Systems analyst,1956.26,7.3
+Santos,Micheal,male,Grenada,6,2020,Systems analyst,1988.0,8.2
+Allen,Kevin,male,Grenada,10,2020,Systems analyst,2049.23,8.8
+Harris,James,female,Bahrain,2,2022,Systems analyst,1970.62,5.0
+Henderson,Zachary,male,Congo,12,2020,Systems analyst,1901.08,7.0
+Salinas,Derek,male,Palestinian Territory,10,2022,Systems analyst,2020.2,5.7
+Gomez,Ralph,female,Grenada,9,2020,Metallurgist,2025.31,9.4
+West,Scott,male,Bahrain,12,2023,Metallurgist,2027.67,7.3
+Neal,Scott,female,Congo,9,2023,Systems analyst,1921.7,9.7
+Ortega,Peter,male,Palestinian Territory,12,2023,Clothing/textile technologist,2114.76,6.4
+Black,Brian,male,Dominica,7,2023,Systems analyst,2100.29,5.8
+Lopez,Andrew,male,Bahrain,8,2022,Clothing/textile technologist,1932.86,8.9
+Fritz,Anthony,male,Congo,12,2021,Systems analyst,2061.49,8.2
+Clark,Christopher,male,Palestinian Territory,3,2022,Clothing/textile technologist,1993.61,9.0
+Terry,Daniel,female,Congo,12,2020,Systems analyst,2216.85,7.9
+Mora,Jonathan,female,Grenada,12,2020,Chartered accountant,2060.27,6.7
+Gonzalez,Christopher,male,Kiribati,6,2022,Television camera operator,1833.83,10.0
+Jones,Ian,male,Palestinian Territory,3,2021,Systems analyst,2037.3,6.2
+Powell,Zachary,female,Palestinian Territory,5,2023,Clothing/textile technologist,1875.42,5.9
+Burke,Robert,male,Kiribati,4,2023,Analytical chemist,2039.96,10.0
+Norman,Aaron,male,Congo,3,2023,Television camera operator,2087.87,5.0
+Santos,Marc,female,Palestinian Territory,3,2023,Systems analyst,2064.89,5.0
+Love,Philip,male,Kiribati,7,2022,Systems analyst,2103.37,10.0
+Preston,Christopher,male,Kiribati,1,2021,Clothing/textile technologist,1952.51,8.2
+Meyers,Robert,male,Palestinian Territory,10,2023,Metallurgist,2101.84,9.7
+Mcgrath,Christopher,male,Bahrain,7,2023,Metallurgist,2008.65,9.6
+Ramirez,Phillip,male,Kiribati,10,2021,Television camera operator,2179.58,10.0
+Gonzalez,Jose,male,Congo,8,2023,Television camera operator,2140.07,8.0
+Price,Shane,male,Congo,8,2022,Television camera operator,2119.9,8.6
+Lane,Jesse,male,Palestinian Territory,7,2023,Metallurgist,1853.42,8.5
+Brown,Bradley,male,Kiribati,2,2022,Chartered accountant,1895.94,10.0
+Henderson,John,female,Kiribati,6,2021,Systems analyst,1908.7,7.6
+Holt,Evan,male,Congo,8,2022,Analytical chemist,2106.56,5.4
+Brown,Gregory,male,Congo,10,2020,Clothing/textile technologist,2008.02,9.7
+Martinez,Austin,male,Congo,8,2022,Chartered accountant,1958.27,5.9
+Murphy,Grant,male,Congo,10,2022,Analytical chemist,2045.71,8.2
+Fischer,Scott,male,Dominica,12,2022,Metallurgist,1859.92,8.2
+Vasquez,David,male,Congo,3,2021,Systems analyst,2173.44,7.7
+Henderson,Matthew,male,Palestinian Territory,10,2023,Metallurgist,2000.11,5.0
+Underwood,Paul,male,Bahrain,1,2020,Television camera operator,1957.34,8.0
+Edwards,Eric,male,Palestinian Territory,6,2023,Chartered accountant,2100.06,7.1
+Dorsey,Jason,male,Kiribati,1,2023,Analytical chemist,1965.97,8.1
+Rush,Christopher,male,Kiribati,4,2021,Television camera operator,2007.77,7.5
+Duffy,Tyler,male,Bahrain,4,2022,Chartered accountant,2056.08,6.8
+Estrada,Ralph,male,Grenada,9,2022,Analytical chemist,2012.76,6.0
+Conley,Joseph,male,Kiribati,11,2020,Metallurgist,2100.01,9.2
+Davenport,Timothy,male,Congo,4,2022,Chartered accountant,1997.85,8.2
+Cook,Bruce,male,Kiribati,8,2022,Clothing/textile technologist,1994.09,8.3
+Edwards,Richard,male,Bahrain,6,2023,Clothing/textile technologist,2078.91,6.0
+Dixon,Charles,male,Kiribati,5,2020,Metallurgist,2148.56,9.7
+Stephens,Roberto,male,Palestinian Territory,7,2023,Metallurgist,1911.43,9.2
+Mcdaniel,Samuel,male,Bahrain,12,2022,Clothing/textile technologist,1967.87,7.5
+Mueller,Patrick,male,Congo,6,2022,Metallurgist,2183.88,8.4
+Moore,Brandon,male,Kiribati,6,2020,Systems analyst,1905.54,10.0
+Morton,David,male,Palestinian Territory,3,2023,Television camera operator,1838.48,8.0
+Cox,Charles,male,Kiribati,5,2020,Chartered accountant,2054.71,9.6
+Rodriguez,Barry,male,Palestinian Territory,8,2020,Systems analyst,2094.23,8.7
+Ruiz,David,male,Congo,5,2022,Metallurgist,1955.32,6.4
+Suarez,Timothy,male,Palestinian Territory,9,2022,Metallurgist,1884.91,9.9
+Smith,William,female,Kiribati,6,2021,Television camera operator,1922.58,7.8
+Cox,Chris,male,Kiribati,12,2022,Clothing/textile technologist,1876.4,10.0
+Galloway,Matthew,male,Palestinian Territory,12,2020,Clothing/textile technologist,2023.31,9.0
+Gonzalez,Paul,female,Palestinian Territory,2,2022,Systems analyst,2059.68,7.5
+Wade,Brian,male,Grenada,6,2022,Metallurgist,2051.52,7.6
+Thompson,Richard,male,Palestinian Territory,12,2023,Metallurgist,1804.06,8.4
+Brown,Thomas,male,Bahrain,12,2022,Systems analyst,2004.64,5.4
+Smith,Gregory,male,Bahrain,6,2021,Metallurgist,2172.34,8.1
+Simmons,Andrew,female,Bahrain,12,2020,Analytical chemist,2009.64,5.1
+Scott,Andrew,male,Palestinian Territory,8,2023,Metallurgist,1903.31,6.3
+Morales,Ivan,male,Congo,7,2023,Systems analyst,2111.56,8.1
+Oconnor,Christopher,male,Bahrain,2,2022,Analytical chemist,2008.58,8.0
+Smith,Gregory,female,Dominica,1,2020,Systems analyst,2065.88,6.5
+Navarro,Louis,male,Dominica,10,2021,Chartered accountant,1972.58,6.8
+Tucker,Aaron,female,Bahrain,7,2021,Metallurgist,2071.08,6.9
+Smith,Brandon,male,Dominica,3,2022,Metallurgist,2049.29,9.2
+Medina,Ryan,female,Palestinian Territory,11,2022,Systems analyst,1842.79,6.5
+Hunt,Ryan,male,Bahrain,5,2021,Systems analyst,1888.26,8.7
+Barron,Arthur,male,Congo,9,2023,Metallurgist,2068.16,7.5
+Rivera,Kevin,male,Dominica,4,2022,Metallurgist,2050.71,7.2
+Owens,Robert,male,Grenada,2,2022,Analytical chemist,2196.51,6.5
+Lara,Jacob,female,Grenada,3,2020,Metallurgist,2019.35,7.5
+Ford,Mark,male,Bahrain,11,2020,Analytical chemist,2054.43,8.9
+Martinez,Justin,female,Palestinian Territory,5,2022,Clothing/textile technologist,1828.59,8.6
+Johnson,Joseph,male,Congo,10,2023,Metallurgist,1987.02,8.3
+Wade,Tony,male,Kiribati,7,2021,Metallurgist,1994.79,8.2
+Cantu,Larry,male,Palestinian Territory,8,2020,Television camera operator,2035.5,8.7
+Patterson,James,female,Grenada,10,2021,Chartered accountant,2085.63,7.7
+Jackson,Lance,male,Bahrain,3,2022,Systems analyst,2064.26,5.8
+King,Brent,male,Palestinian Territory,3,2022,Systems analyst,2067.37,9.5
+Carter,Lawrence,male,Congo,5,2021,Clothing/textile technologist,1893.43,8.4
+Chen,Mark,male,Palestinian Territory,11,2023,Chartered accountant,2112.67,5.2
+Morris,Christopher,female,Congo,1,2021,Chartered accountant,1743.33,5.5
+Shepard,Grant,male,Bahrain,9,2023,Television camera operator,2008.85,8.2
+Long,Kenneth,female,Dominica,5,2022,Metallurgist,1985.41,6.8
+Cunningham,Peter,male,Palestinian Territory,2,2022,Systems analyst,2007.37,9.8
+Richardson,Erik,male,Bahrain,2,2020,Analytical chemist,1832.49,6.4
+Odom,Joshua,male,Congo,1,2020,Analytical chemist,1943.07,9.6
+Anderson,Edward,male,Kiribati,9,2021,Systems analyst,2020.46,10.0
+Ballard,William,female,Dominica,7,2021,Clothing/textile technologist,1859.32,6.1
+Mitchell,Dustin,male,Congo,7,2022,Clothing/textile technologist,2060.33,6.2
+Church,Matthew,female,Palestinian Territory,7,2020,Systems analyst,1959.22,6.7
+Anderson,Matthew,male,Palestinian Territory,5,2020,Systems analyst,2138.73,6.7
+Montes,Kyle,male,Bahrain,12,2023,Television camera operator,2056.44,5.2
+Davis,Jeffrey,female,Bahrain,2,2020,Systems analyst,2040.78,5.3
+Randall,Robert,male,Bahrain,5,2021,Television camera operator,2135.66,5.1
+Jones,Kenneth,female,Dominica,3,2023,Television camera operator,2056.96,8.4
+Reed,Jeffery,male,Palestinian Territory,3,2020,Analytical chemist,1928.92,9.0
+Clements,Stephen,male,Congo,12,2022,Systems analyst,1857.55,5.5
+Conway,Kenneth,male,Bahrain,9,2022,Television camera operator,1887.4,5.4
+King,Brian,female,Bahrain,2,2020,Television camera operator,2041.85,8.5
+Smith,Jonathan,male,Dominica,7,2023,Television camera operator,2143.93,7.4
+Richards,Ricky,female,Kiribati,8,2021,Metallurgist,2107.26,7.6
+Pruitt,Daniel,male,Kiribati,12,2022,Systems analyst,2029.28,7.8
+Reynolds,Jacob,male,Palestinian Territory,6,2022,Analytical chemist,2042.03,5.2
+West,Matthew,male,Congo,5,2020,Chartered accountant,1961.23,8.1
+Thomas,Aaron,male,Kiribati,10,2023,Systems analyst,1900.12,10.0
+Webb,Johnathan,male,Grenada,4,2023,Systems analyst,2047.07,7.7
+Harper,Thomas,male,Grenada,6,2021,Chartered accountant,1887.18,9.0
+Vazquez,Eric,male,Dominica,5,2023,Metallurgist,2106.4,9.9
+Richards,Michael,female,Grenada,12,2020,Clothing/textile technologist,1795.93,6.4
+Jensen,Bradley,male,Kiribati,12,2021,Chartered accountant,1916.88,7.5
+Graham,William,male,Bahrain,1,2020,Analytical chemist,1966.16,5.5
+Robinson,Ronald,male,Congo,6,2022,Chartered accountant,1848.42,5.3
+Lopez,Samuel,male,Congo,8,2020,Television camera operator,1948.89,7.5
+Holmes,Bradley,male,Dominica,2,2022,Systems analyst,2044.94,9.6
+Mata,Cameron,male,Bahrain,4,2022,Television camera operator,1896.64,5.7
+Mack,Adam,male,Dominica,11,2023,Metallurgist,1960.49,5.6
+Castro,Robert,male,Congo,12,2020,Chartered accountant,2026.57,7.2
+Rhodes,Kevin,male,Palestinian Territory,10,2023,Chartered accountant,1979.68,5.1
+Jennings,Randall,male,Congo,3,2021,Clothing/textile technologist,2221.57,6.3
+Smith,Samuel,male,Bahrain,9,2020,Systems analyst,2017.39,8.3
+Ramos,Thomas,male,Palestinian Territory,1,2021,Analytical chemist,2174.89,8.5
+Griffin,John,male,Palestinian Territory,1,2023,Systems analyst,2066.59,8.3
+Reeves,Ryan,male,Palestinian Territory,2,2020,Television camera operator,2047.65,8.6
+Foster,Thomas,male,Bahrain,8,2020,Systems analyst,2145.78,9.5
+Diaz,Ronald,female,Dominica,11,2021,Chartered accountant,1759.97,8.9
+Figueroa,Curtis,female,Palestinian Territory,10,2020,Metallurgist,1772.09,9.5
+Bruce,Bryan,male,Bahrain,3,2022,Systems analyst,1911.6,9.3
+Rivera,Christian,male,Kiribati,8,2023,Systems analyst,1905.94,8.5
+Pittman,Kenneth,male,Congo,12,2023,Clothing/textile technologist,1929.87,9.7

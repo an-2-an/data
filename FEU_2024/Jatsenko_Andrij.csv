@@ -1,0 +1,314 @@
+last_name,first_name,gender,country,month,year,job,payment,rating
+Castaneda,Brian,female,Cook Islands,7,2020,IT consultant,2017.08,8.7
+Taylor,Daniel,female,Spain,8,2023,Jewellery designer,1956.84,5.4
+Calderon,Jonathan,female,Spain,12,2023,IT consultant,1991.4,8.9
+Schmidt,Jamie,male,Equatorial Guinea,10,2020,Animal nutritionist,2075.96,5.7
+Sanchez,James,male,Cook Islands,6,2020,IT consultant,2028.54,8.5
+Knight,Keith,female,Slovenia,6,2022,Jewellery designer,1887.94,7.4
+Walls,Sean,male,Sweden,12,2020,Jewellery designer,2232.17,8.8
+Soto,Stephen,female,Equatorial Guinea,3,2021,Jewellery designer,2012.35,8.5
+Lee,Peter,female,Spain,3,2021,IT consultant,1891.54,8.4
+Peterson,Derrick,female,Saint Vincent and the Grenadines,10,2021,IT consultant,2176.08,8.6
+Nichols,James,female,Sweden,12,2023,IT consultant,1961.0,9.1
+Nichols,Brad,female,Spain,4,2021,Animal nutritionist,2094.46,9.3
+Wagner,Brian,female,Equatorial Guinea,11,2020,IT consultant,2064.19,9.2
+Thompson,Roberto,male,Sweden,10,2023,IT consultant,1955.07,9.4
+Berry,Charles,female,Saint Vincent and the Grenadines,2,2022,Animal nutritionist,1904.07,6.7
+Huber,Robert,male,Saint Vincent and the Grenadines,5,2022,IT consultant,1985.52,5.2
+Kaufman,Steven,female,Saint Vincent and the Grenadines,10,2022,IT consultant,2115.68,5.5
+Mcclure,Omar,male,Saint Vincent and the Grenadines,3,2021,Jewellery designer,1920.87,5.5
+Norton,Joshua,female,Saint Vincent and the Grenadines,11,2020,Animal nutritionist,1939.62,6.7
+Butler,Austin,male,Spain,11,2020,Animal nutritionist,1816.57,8.4
+Dyer,William,male,Saint Vincent and the Grenadines,12,2020,Animal nutritionist,1926.86,8.7
+Quinn,Antonio,female,Spain,11,2023,IT consultant,2021.23,9.8
+Johnson,Marcus,female,Slovenia,11,2021,Animal nutritionist,2050.08,5.7
+Santos,Victor,female,Saint Vincent and the Grenadines,10,2021,IT consultant,1842.71,7.9
+Armstrong,Andrew,female,Sweden,7,2023,IT consultant,1938.21,8.5
+Payne,Jason,female,Spain,4,2023,Jewellery designer,1902.33,5.1
+Baldwin,David,female,Spain,6,2020,Animal nutritionist,1877.61,7.6
+Schneider,Wesley,female,Equatorial Guinea,4,2020,IT consultant,2013.84,6.4
+Torres,Aaron,female,Cook Islands,12,2020,Animal nutritionist,2152.34,6.8
+Morgan,Jonathan,female,Spain,12,2022,IT consultant,2138.68,7.9
+Ortiz,Robert,male,Spain,7,2020,IT consultant,1986.63,9.9
+Graves,John,male,Cook Islands,10,2022,Jewellery designer,1955.5,6.6
+Lara,Patrick,male,Cook Islands,1,2022,Jewellery designer,2120.36,7.7
+Roberts,James,female,Spain,1,2022,Jewellery designer,2072.38,5.0
+Adkins,Justin,female,Equatorial Guinea,11,2021,Animal nutritionist,2091.72,7.7
+Skinner,Joshua,female,Saint Vincent and the Grenadines,11,2020,Jewellery designer,2083.65,9.0
+Bell,George,female,Saint Vincent and the Grenadines,8,2022,IT consultant,2062.3,9.5
+Hamilton,William,female,Cook Islands,1,2022,Animal nutritionist,1871.46,6.6
+Craig,Michael,male,Spain,12,2022,Jewellery designer,2005.8,6.1
+Dunn,Craig,female,Spain,6,2022,IT consultant,2045.06,5.1
+Russell,Jamie,female,Cook Islands,3,2020,Jewellery designer,1968.56,9.8
+Gutierrez,Carlos,female,Spain,10,2023,Animal nutritionist,1914.52,9.1
+Johnson,Gregory,male,Slovenia,8,2022,Jewellery designer,1928.74,8.0
+Casey,Nathan,male,Sweden,3,2020,Animal nutritionist,1998.85,8.6
+White,Aaron,female,Saint Vincent and the Grenadines,6,2022,Animal nutritionist,1905.79,5.8
+Lopez,Timothy,female,Saint Vincent and the Grenadines,11,2021,IT consultant,2077.16,9.5
+Morrow,John,female,Spain,3,2023,IT consultant,1964.72,9.2
+Powell,Antonio,female,Saint Vincent and the Grenadines,8,2020,Animal nutritionist,2027.61,9.2
+Herrera,Thomas,male,Equatorial Guinea,10,2021,Animal nutritionist,1958.42,5.3
+Gonzalez,Jason,female,Slovenia,5,2021,IT consultant,2062.11,9.9
+Leon,Aaron,female,Saint Vincent and the Grenadines,8,2020,Animal nutritionist,2178.42,9.0
+Parks,John,female,Equatorial Guinea,12,2023,Animal nutritionist,1984.31,6.8
+Padilla,Michael,female,Spain,4,2023,IT consultant,1896.3,5.1
+Schwartz,Jerome,female,Spain,1,2020,Jewellery designer,1983.94,8.3
+Bowers,Kevin,male,Sweden,5,2022,Animal nutritionist,1971.99,10.0
+Bailey,Shawn,female,Spain,1,2020,Animal nutritionist,1976.74,5.1
+Martin,Jason,female,Cook Islands,10,2021,Animal nutritionist,1852.52,5.0
+Norris,Scott,female,Sweden,2,2022,Animal nutritionist,2067.3,7.0
+Sparks,Daniel,male,Sweden,8,2023,Jewellery designer,1923.74,10.0
+Jenkins,Michael,female,Cook Islands,6,2020,Animal nutritionist,1842.95,5.6
+Doyle,William,male,Slovenia,1,2022,Animal nutritionist,1951.13,9.1
+Hurst,David,female,Cook Islands,3,2022,Jewellery designer,1908.45,6.8
+Williams,Christian,female,Equatorial Guinea,4,2022,Jewellery designer,2006.16,9.0
+Wilson,John,female,Cook Islands,6,2022,IT consultant,2064.3,8.0
+Matthews,Ronald,female,Spain,3,2021,Jewellery designer,1833.34,5.6
+Wilson,Joseph,female,Cook Islands,11,2020,Animal nutritionist,1992.27,7.8
+Jacobs,Jack,female,Sweden,12,2023,Animal nutritionist,1927.04,10.0
+Frederick,Joshua,male,Spain,10,2023,Jewellery designer,2192.5,9.3
+Cole,John,female,Spain,9,2022,Jewellery designer,1880.2,9.1
+Osborne,Aaron,male,Equatorial Guinea,11,2020,IT consultant,2064.54,9.9
+Jones,Jason,female,Saint Vincent and the Grenadines,9,2023,Animal nutritionist,2269.73,8.3
+Mullins,Joseph,female,Cook Islands,6,2020,Animal nutritionist,1969.27,8.7
+Holmes,Brendan,female,Saint Vincent and the Grenadines,7,2022,IT consultant,1959.01,7.6
+Cooley,Brandon,female,Saint Vincent and the Grenadines,11,2020,IT consultant,2004.93,5.1
+Brown,Gregory,male,Slovenia,5,2021,Animal nutritionist,1970.74,6.6
+Miller,Joshua,female,Saint Vincent and the Grenadines,8,2022,IT consultant,1883.19,6.8
+Clark,John,female,Cook Islands,8,2020,Jewellery designer,1949.33,7.7
+Griffin,Zachary,female,Saint Vincent and the Grenadines,2,2020,IT consultant,2088.39,5.1
+Rodriguez,Wyatt,female,Saint Vincent and the Grenadines,9,2022,Animal nutritionist,2177.42,8.7
+Nguyen,Andrew,male,Spain,12,2021,IT consultant,1798.88,9.8
+Hamilton,Kevin,female,Sweden,2,2022,IT consultant,1919.83,10.0
+Murphy,Brian,female,Slovenia,10,2021,Animal nutritionist,1901.86,8.1
+Hill,Jeffrey,female,Spain,6,2021,Animal nutritionist,1929.77,9.3
+Williams,Robert,female,Cook Islands,12,2022,IT consultant,1908.22,8.6
+Jones,Todd,male,Equatorial Guinea,3,2021,Animal nutritionist,1945.92,9.2
+Smith,Brent,female,Equatorial Guinea,12,2021,Animal nutritionist,1976.11,5.6
+Madden,Jeff,female,Equatorial Guinea,8,2020,Jewellery designer,2008.44,9.8
+Lynch,Adrian,female,Spain,8,2023,Animal nutritionist,2100.36,8.0
+Watkins,Joel,female,Equatorial Guinea,4,2022,Jewellery designer,1983.37,5.4
+Mcbride,Peter,female,Spain,8,2023,IT consultant,2099.36,9.2
+Warren,Charles,female,Saint Vincent and the Grenadines,11,2022,Animal nutritionist,1893.08,9.3
+Washington,Stanley,female,Slovenia,11,2023,Jewellery designer,2059.01,6.6
+Garcia,Mark,female,Slovenia,10,2022,Animal nutritionist,2001.47,9.6
+Wright,Robert,female,Equatorial Guinea,3,2020,Animal nutritionist,1802.05,7.7
+Morris,Daniel,female,Saint Vincent and the Grenadines,1,2022,Animal nutritionist,2098.53,9.9
+Aguilar,Thomas,male,Slovenia,2,2022,Animal nutritionist,1978.99,6.3
+Meza,Larry,female,Spain,9,2022,IT consultant,2085.84,8.7
+Logan,Timothy,female,Saint Vincent and the Grenadines,2,2022,Animal nutritionist,1931.91,9.9
+Powell,Hunter,male,Equatorial Guinea,6,2022,Jewellery designer,2087.24,7.9
+Weaver,Jared,female,Sweden,2,2022,IT consultant,2027.54,9.9
+Lawson,Darrell,male,Equatorial Guinea,12,2020,Animal nutritionist,1891.2,7.9
+Jones,Derek,male,Equatorial Guinea,1,2020,IT consultant,2042.67,9.2
+Wilson,Jesse,female,Equatorial Guinea,7,2020,IT consultant,2121.37,7.6
+Lucas,William,female,Equatorial Guinea,6,2023,IT consultant,1868.5,8.4
+Garner,Joshua,male,Saint Vincent and the Grenadines,7,2023,IT consultant,2028.38,7.5
+Parker,Matthew,female,Slovenia,4,2021,IT consultant,2244.24,7.6
+Wall,Bruce,female,Equatorial Guinea,2,2021,IT consultant,2244.22,7.1
+Garrison,Tony,female,Sweden,1,2021,Jewellery designer,2085.34,7.5
+Jensen,Henry,female,Spain,6,2023,Jewellery designer,1921.73,6.4
+Hardin,Kevin,female,Spain,4,2022,IT consultant,2037.87,9.4
+Bell,Kevin,female,Sweden,11,2022,IT consultant,1949.96,10.0
+Washington,Michael,female,Cook Islands,4,2022,Jewellery designer,2029.48,9.8
+Marshall,Brian,female,Equatorial Guinea,5,2021,Animal nutritionist,1866.8,6.3
+Spence,Anthony,female,Sweden,3,2023,Jewellery designer,1951.72,10.0
+Gonzalez,Steven,male,Sweden,9,2022,Jewellery designer,2086.13,9.3
+York,Christopher,female,Spain,1,2020,Animal nutritionist,1933.88,7.8
+Mcguire,Matthew,female,Equatorial Guinea,6,2022,IT consultant,1895.23,8.3
+Nguyen,Tyler,female,Spain,7,2021,IT consultant,1925.42,7.0
+Taylor,William,female,Spain,2,2021,Jewellery designer,2005.43,8.9
+Brooks,Richard,female,Sweden,7,2020,IT consultant,2116.41,10.0
+Dunn,Marcus,female,Equatorial Guinea,1,2020,Animal nutritionist,2161.67,8.7
+Nash,Daniel,female,Saint Vincent and the Grenadines,6,2020,IT consultant,2031.72,5.5
+Gibson,Anthony,female,Spain,5,2021,IT consultant,1983.19,5.0
+Fisher,Matthew,female,Sweden,7,2020,IT consultant,1891.63,7.4
+Smith,Michael,female,Spain,10,2022,Jewellery designer,1996.08,9.4
+Gardner,Timothy,female,Equatorial Guinea,6,2020,Jewellery designer,1809.93,9.5
+Moore,Randall,male,Equatorial Guinea,6,2023,IT consultant,1881.71,5.5
+Chase,Thomas,female,Spain,2,2021,Jewellery designer,2041.1,9.6
+Barnett,Daniel,male,Sweden,9,2020,Animal nutritionist,2059.71,8.8
+Donaldson,Joshua,female,Slovenia,6,2021,IT consultant,2127.14,9.2
+Flores,William,female,Saint Vincent and the Grenadines,11,2023,Animal nutritionist,1865.93,7.3
+Allen,Anthony,male,Equatorial Guinea,7,2022,Animal nutritionist,1872.74,7.4
+Benton,Steven,female,Sweden,10,2022,Animal nutritionist,1994.75,8.8
+Stewart,Craig,female,Saint Vincent and the Grenadines,5,2021,Jewellery designer,2159.08,6.0
+Smith,Brandon,male,Equatorial Guinea,8,2023,Animal nutritionist,2153.49,7.9
+Yoder,James,female,Cook Islands,10,2020,Animal nutritionist,2097.86,8.9
+Patrick,Edward,female,Saint Vincent and the Grenadines,3,2020,Animal nutritionist,2138.85,9.3
+Morris,Jonathan,female,Spain,12,2022,Jewellery designer,1994.05,7.9
+Garcia,Marcus,female,Equatorial Guinea,10,2022,IT consultant,2084.69,7.1
+Bennett,Nicholas,male,Equatorial Guinea,10,2020,IT consultant,2049.49,6.5
+Lawrence,Wyatt,female,Equatorial Guinea,8,2023,Animal nutritionist,2009.97,6.6
+Harris,Jordan,male,Saint Vincent and the Grenadines,9,2020,Animal nutritionist,1919.02,6.1
+Brown,Brian,male,Spain,2,2022,Jewellery designer,2117.77,7.7
+Vargas,David,female,Spain,6,2020,IT consultant,2003.53,9.0
+Powell,Jacob,female,Saint Vincent and the Grenadines,7,2021,IT consultant,1927.07,9.3
+Jones,Thomas,female,Saint Vincent and the Grenadines,12,2020,IT consultant,2098.85,7.9
+White,Evan,female,Cook Islands,3,2021,Jewellery designer,2075.95,7.6
+Allen,Michael,male,Spain,9,2021,IT consultant,2189.16,6.0
+Green,Caleb,male,Cook Islands,10,2021,IT consultant,2103.92,6.0
+Mclean,Thomas,male,Spain,6,2020,IT consultant,2114.85,9.3
+Rodriguez,Stephen,female,Saint Vincent and the Grenadines,10,2023,IT consultant,1892.37,9.3
+Ellis,Bryan,male,Equatorial Guinea,8,2020,IT consultant,2068.24,6.9
+Larsen,Spencer,male,Slovenia,10,2020,IT consultant,2033.04,7.1
+Moore,Richard,female,Saint Vincent and the Grenadines,7,2023,IT consultant,1897.88,5.1
+Marsh,Michael,female,Spain,12,2021,IT consultant,2112.01,7.4
+Jackson,John,female,Saint Vincent and the Grenadines,6,2021,IT consultant,1930.9,9.0
+Malone,Travis,female,Spain,8,2020,Animal nutritionist,2142.19,5.5
+Miller,John,male,Sweden,5,2020,Animal nutritionist,1864.77,9.3
+Jackson,Rodney,female,Sweden,10,2021,Jewellery designer,2075.96,8.9
+Hart,Adrian,female,Saint Vincent and the Grenadines,7,2023,Animal nutritionist,2194.45,7.1
+Wall,Austin,female,Equatorial Guinea,10,2021,IT consultant,1920.54,7.7
+Carroll,Michael,female,Spain,6,2021,IT consultant,2038.51,7.6
+Bradford,Glen,female,Spain,9,2020,Animal nutritionist,2040.06,9.7
+Powell,Charles,female,Saint Vincent and the Grenadines,9,2023,Jewellery designer,2006.49,8.0
+Miller,Jose,male,Sweden,12,2022,IT consultant,1987.18,10.0
+Ball,Michael,female,Saint Vincent and the Grenadines,4,2021,Animal nutritionist,1953.9,8.2
+Baird,Roger,male,Saint Vincent and the Grenadines,8,2021,IT consultant,1958.31,8.6
+Knapp,John,female,Equatorial Guinea,6,2020,Animal nutritionist,1960.71,7.4
+Sanchez,Gregory,female,Slovenia,6,2021,Animal nutritionist,1965.78,5.3
+Meadows,William,male,Saint Vincent and the Grenadines,12,2022,Jewellery designer,2010.48,5.7
+Terry,Jonathan,female,Cook Islands,8,2023,Jewellery designer,1967.07,7.4
+Salazar,Justin,female,Spain,9,2022,IT consultant,1846.9,7.5
+Newton,Matthew,female,Spain,10,2021,IT consultant,2079.93,7.8
+Kelly,Melvin,female,Saint Vincent and the Grenadines,10,2021,Animal nutritionist,1855.77,6.9
+Patterson,Brian,male,Equatorial Guinea,2,2023,Jewellery designer,1965.81,5.1
+Copeland,Edward,female,Saint Vincent and the Grenadines,6,2020,Jewellery designer,1953.99,8.0
+Sanders,James,female,Spain,4,2021,IT consultant,1983.22,7.3
+Wheeler,Bruce,female,Spain,6,2022,Animal nutritionist,2018.37,8.8
+Johnson,Christopher,male,Saint Vincent and the Grenadines,1,2023,IT consultant,2205.89,9.0
+Martinez,Shane,female,Spain,7,2021,Animal nutritionist,2056.06,5.4
+Schwartz,Curtis,female,Sweden,9,2022,Jewellery designer,2013.59,8.2
+Griffith,Zachary,male,Spain,8,2022,Animal nutritionist,2015.12,6.6
+Collins,Michael,male,Cook Islands,1,2022,Jewellery designer,2051.74,6.8
+Morton,Scott,female,Spain,12,2020,Animal nutritionist,1869.99,9.5
+Jenkins,Christopher,female,Spain,8,2020,Animal nutritionist,2075.92,8.0
+Martinez,Christopher,female,Equatorial Guinea,4,2023,Animal nutritionist,2056.95,5.5
+Barnes,Joshua,female,Spain,6,2023,IT consultant,2126.52,7.5
+Martinez,Raymond,female,Slovenia,8,2021,IT consultant,2018.99,5.1
+Mercado,Tanner,female,Cook Islands,7,2020,Animal nutritionist,2129.37,8.8
+Ruiz,Kevin,female,Saint Vincent and the Grenadines,7,2022,Animal nutritionist,2074.6,8.3
+Mccormick,Scott,female,Spain,10,2020,Animal nutritionist,2040.13,6.3
+Jackson,Billy,female,Equatorial Guinea,7,2022,IT consultant,1961.82,7.4
+Smith,Edward,female,Slovenia,3,2023,IT consultant,1877.82,8.5
+Roberts,Vincent,female,Equatorial Guinea,2,2023,Jewellery designer,2119.27,5.1
+Anderson,Chris,male,Cook Islands,7,2020,Jewellery designer,1876.34,5.3
+Norris,James,female,Sweden,12,2020,IT consultant,1948.59,10.0
+Gutierrez,Michael,female,Spain,3,2022,Jewellery designer,2095.62,5.1
+Johnson,Cody,male,Cook Islands,7,2022,IT consultant,1978.01,5.0
+Mack,Dennis,female,Sweden,12,2023,Animal nutritionist,1936.42,10.0
+Bright,Jeffrey,female,Sweden,12,2020,Animal nutritionist,1854.58,8.3
+Thompson,Edward,male,Spain,4,2022,Animal nutritionist,1993.77,9.2
+Hernandez,Patrick,female,Saint Vincent and the Grenadines,6,2021,Jewellery designer,2202.95,8.7
+Clay,Christopher,female,Slovenia,4,2022,IT consultant,1952.01,7.3
+Brown,Lawrence,female,Equatorial Guinea,12,2020,IT consultant,2003.82,6.8
+Avila,Andrew,female,Saint Vincent and the Grenadines,12,2022,IT consultant,1932.72,5.6
+Clark,Danny,female,Slovenia,11,2022,Jewellery designer,1988.32,8.0
+Castillo,Anthony,female,Spain,12,2022,IT consultant,2038.87,6.0
+Walker,Michael,female,Saint Vincent and the Grenadines,1,2020,Animal nutritionist,1925.84,8.0
+Ray,William,female,Cook Islands,9,2021,Jewellery designer,1886.68,7.8
+Chavez,Robert,male,Saint Vincent and the Grenadines,5,2021,Jewellery designer,2219.86,6.0
+Jones,Jason,female,Spain,5,2023,Animal nutritionist,2138.6,7.0
+Long,Matthew,female,Spain,6,2020,Jewellery designer,2098.88,8.4
+Weiss,Michael,female,Equatorial Guinea,2,2022,IT consultant,1940.27,9.4
+Bright,Carl,female,Equatorial Guinea,5,2022,Jewellery designer,2014.47,5.4
+Wright,David,male,Spain,12,2021,IT consultant,2061.85,10.0
+York,Scott,female,Spain,5,2023,IT consultant,2054.2,8.6
+Hart,Mark,female,Spain,2,2022,Animal nutritionist,2003.08,5.0
+Turner,George,female,Equatorial Guinea,6,2023,Jewellery designer,1943.99,6.2
+Johnson,Dennis,female,Spain,4,2021,Jewellery designer,1985.74,7.8
+Dixon,Kyle,female,Spain,8,2023,Jewellery designer,1918.6,8.8
+Johnson,Justin,female,Equatorial Guinea,12,2020,Animal nutritionist,1960.32,7.5
+Jones,Michael,female,Cook Islands,4,2021,Jewellery designer,2048.13,5.2
+Copeland,Dakota,female,Sweden,7,2022,Jewellery designer,2159.01,9.7
+Johns,Steven,female,Saint Vincent and the Grenadines,5,2022,IT consultant,2124.17,8.8
+Griffin,James,female,Equatorial Guinea,5,2023,Animal nutritionist,1973.57,7.7
+Williams,Tyler,male,Saint Vincent and the Grenadines,1,2021,IT consultant,2098.65,7.5
+Krueger,Jeremy,female,Slovenia,10,2023,Animal nutritionist,2131.47,8.5
+Jackson,Paul,female,Spain,12,2022,Jewellery designer,1896.07,8.5
+Gutierrez,Todd,male,Sweden,2,2020,Animal nutritionist,1959.26,8.2
+Rivera,Shawn,male,Saint Vincent and the Grenadines,5,2023,IT consultant,1967.16,7.1
+Jenkins,Steven,female,Saint Vincent and the Grenadines,2,2021,Jewellery designer,1978.82,7.5
+Brown,Michael,female,Saint Vincent and the Grenadines,2,2020,IT consultant,2105.08,7.9
+Hart,Jeff,female,Cook Islands,8,2020,Animal nutritionist,1907.27,5.4
+Becker,Daniel,female,Spain,5,2020,Animal nutritionist,2081.11,5.9
+Green,Steven,female,Sweden,5,2021,Animal nutritionist,1805.16,10.0
+Fisher,Isaiah,male,Spain,1,2023,Jewellery designer,2068.0,6.1
+Tate,Bryan,female,Spain,4,2023,Animal nutritionist,1989.33,8.8
+Gibson,Edward,female,Equatorial Guinea,7,2023,IT consultant,1887.55,6.6
+Barber,Benjamin,female,Saint Vincent and the Grenadines,11,2021,IT consultant,2029.3,5.9
+Johnson,George,male,Slovenia,6,2021,Animal nutritionist,2127.17,5.2
+Carter,Shawn,female,Saint Vincent and the Grenadines,7,2020,Jewellery designer,2098.1,8.6
+Chavez,Johnny,male,Saint Vincent and the Grenadines,6,2023,Animal nutritionist,2008.06,10.0
+Shelton,Mason,female,Equatorial Guinea,4,2023,Jewellery designer,1780.03,6.3
+Reed,Chad,female,Saint Vincent and the Grenadines,6,2023,IT consultant,1956.12,6.7
+Horton,Jon,male,Slovenia,1,2020,Jewellery designer,1920.16,9.5
+Chen,Daniel,female,Sweden,6,2020,IT consultant,1954.0,9.3
+Tucker,Douglas,female,Saint Vincent and the Grenadines,11,2022,IT consultant,1820.3,7.1
+Jones,Patrick,male,Spain,3,2022,IT consultant,2072.01,6.5
+Murphy,Steven,female,Equatorial Guinea,7,2020,Jewellery designer,2037.64,9.9
+Garcia,Troy,female,Equatorial Guinea,6,2022,Jewellery designer,2070.24,6.1
+Anderson,Ethan,male,Sweden,10,2023,IT consultant,2034.81,7.1
+Anderson,Anthony,female,Equatorial Guinea,2,2021,Animal nutritionist,2103.8,8.1
+Mcdonald,Gary,male,Saint Vincent and the Grenadines,8,2021,IT consultant,1913.2,7.1
+Austin,Dale,female,Equatorial Guinea,7,2022,IT consultant,1928.96,9.9
+Brown,Christopher,female,Saint Vincent and the Grenadines,6,2020,Animal nutritionist,2017.37,7.3
+Jacobs,James,male,Spain,5,2020,Jewellery designer,1893.78,7.8
+Hart,Andrew,female,Cook Islands,9,2021,Jewellery designer,2040.43,7.6
+Hooper,Brian,male,Slovenia,5,2021,IT consultant,1966.5,6.4
+Ho,Gregory,female,Cook Islands,8,2021,Jewellery designer,2055.64,6.8
+Lee,John,female,Saint Vincent and the Grenadines,10,2020,Jewellery designer,2016.39,6.4
+Martin,Stephen,female,Saint Vincent and the Grenadines,5,2020,IT consultant,2096.51,6.7
+Chase,Jonathan,female,Equatorial Guinea,8,2021,Animal nutritionist,2021.02,9.9
+Mcneil,Jason,female,Slovenia,9,2020,Animal nutritionist,2054.79,5.7
+Austin,Christopher,male,Spain,7,2022,Animal nutritionist,2119.39,9.7
+Parks,Dustin,female,Spain,12,2023,IT consultant,1948.48,6.9
+Martin,John,female,Saint Vincent and the Grenadines,6,2022,Jewellery designer,2064.81,6.2
+Lee,Michael,female,Spain,2,2021,IT consultant,1960.99,8.0
+Garcia,Marcus,female,Saint Vincent and the Grenadines,12,2023,Animal nutritionist,2055.54,6.3
+Vincent,Jonathan,female,Spain,10,2023,Jewellery designer,2039.36,5.7
+Schroeder,Blake,female,Spain,12,2021,IT consultant,1948.56,6.0
+Martin,Gary,male,Saint Vincent and the Grenadines,3,2020,IT consultant,2107.42,8.0
+Vargas,Martin,female,Saint Vincent and the Grenadines,7,2020,Jewellery designer,2113.98,9.9
+Norman,Joshua,male,Spain,4,2022,Jewellery designer,2120.18,7.6
+Martin,Kerry,male,Saint Vincent and the Grenadines,8,2022,Jewellery designer,1932.62,9.8
+White,Jason,female,Slovenia,8,2020,Jewellery designer,2017.39,7.8
+Leon,Richard,female,Saint Vincent and the Grenadines,3,2021,IT consultant,1955.22,9.9
+Mcdonald,Jason,male,Sweden,3,2021,IT consultant,1943.31,9.1
+Scott,Christopher,male,Slovenia,6,2022,Jewellery designer,1975.34,7.0
+Martin,William,female,Spain,5,2020,Jewellery designer,2029.47,8.5
+Robinson,Connor,female,Saint Vincent and the Grenadines,2,2020,Animal nutritionist,1847.74,8.2
+Lewis,Daniel,female,Sweden,5,2023,Animal nutritionist,1890.17,8.2
+Johnson,Cameron,female,Cook Islands,4,2022,Animal nutritionist,1890.65,6.5
+Harris,Larry,male,Slovenia,5,2022,Animal nutritionist,2032.39,5.4
+Brennan,Danny,female,Saint Vincent and the Grenadines,4,2020,IT consultant,1988.65,6.0
+Lamb,Joseph,female,Saint Vincent and the Grenadines,3,2023,Animal nutritionist,1735.26,9.0
+Moreno,Jerry,female,Slovenia,7,2020,Jewellery designer,2022.57,7.7
+Richardson,Taylor,male,Slovenia,7,2020,Jewellery designer,1981.44,5.4
+French,Michael,female,Saint Vincent and the Grenadines,5,2020,IT consultant,2155.33,9.1
+Frazier,Brett,female,Equatorial Guinea,1,2022,Animal nutritionist,1964.71,6.9
+Taylor,Jeffrey,male,Sweden,1,2020,Animal nutritionist,1993.72,8.7
+Tucker,Sean,female,Cook Islands,2,2022,Animal nutritionist,1979.08,5.3
+Oneill,Michael,female,Spain,10,2021,Animal nutritionist,1794.12,6.4
+Hunter,Nicholas,female,Sweden,8,2021,IT consultant,1788.46,7.9
+Wagner,Charles,male,Equatorial Guinea,11,2020,Jewellery designer,2036.28,7.6
+Lopez,Antonio,female,Cook Islands,9,2022,IT consultant,1966.07,8.2
+Calderon,Tyler,female,Equatorial Guinea,10,2020,IT consultant,2085.03,5.5
+Ross,Keith,female,Saint Vincent and the Grenadines,1,2020,IT consultant,2001.48,9.4
+Williams,Anthony,female,Spain,7,2022,Jewellery designer,1971.16,7.1
+Lee,Steven,female,Spain,6,2023,Animal nutritionist,1981.19,5.2
+Jackson,Scott,female,Sweden,5,2023,Animal nutritionist,1948.54,7.8
+Garcia,Henry,female,Slovenia,9,2020,Jewellery designer,1921.59,6.3
+Martinez,Miguel,female,Equatorial Guinea,8,2023,Jewellery designer,2074.09,7.6
+Ford,Joseph,female,Cook Islands,11,2020,Animal nutritionist,2117.21,8.8
+Soto,Christopher,female,Equatorial Guinea,2,2022,Animal nutritionist,2013.38,7.0
+Johnson,David,female,Equatorial Guinea,1,2020,IT consultant,1929.09,8.7
+Foster,Eric,female,Sweden,2,2020,Animal nutritionist,1999.89,8.8
+Vasquez,Ricky,female,Cook Islands,7,2022,Jewellery designer,2068.74,7.7
+Ruiz,Brent,female,Sweden,12,2021,Jewellery designer,1754.12,10.0
+Turner,Kyle,female,Saint Vincent and the Grenadines,1,2020,IT consultant,1924.39,7.7
+Ramirez,Michael,male,Equatorial Guinea,7,2023,IT consultant,2045.31,7.8
+Wright,Stephen,male,Saint Vincent and the Grenadines,8,2022,IT consultant,2090.61,6.7
+Sanchez,Jose,female,Slovenia,3,2020,Animal nutritionist,1847.92,7.8
+Wilson,Daniel,female,Saint Vincent and the Grenadines,7,2023,Jewellery designer,1977.98,6.0

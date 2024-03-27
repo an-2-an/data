@@ -1,0 +1,249 @@
+last_name,first_name,gender,country,month,year,job,payment,rating
+Murray,John,male,Sao Tome and Principe,7,2021,Financial manager,2019.88,6.4
+Johnson,Gary,male,Kazakhstan,4,2023,Financial manager,1948.37,8.8
+Wilson,Daniel,male,Saint Pierre and Miquelon,5,2021,Games developer,2063.95,7.6
+Stevens,Lance,female,Kazakhstan,6,2020,"Engineer, structural",2123.36,8.8
+Hayden,Alan,female,Sao Tome and Principe,5,2022,"Engineer, structural",2084.68,9.3
+Williams,Logan,female,Cote d'Ivoire,6,2022,Land/geomatics surveyor,1970.75,9.5
+Pratt,Erik,female,Kazakhstan,5,2023,"Engineer, structural",1971.91,9.3
+Page,David,male,Kazakhstan,7,2022,"Engineer, structural",2051.75,8.4
+Walker,John,male,Kazakhstan,8,2023,Financial manager,2047.52,7.9
+Bartlett,Dylan,male,Kazakhstan,3,2022,"Engineer, structural",2178.05,8.7
+Powell,James,female,Sao Tome and Principe,9,2021,Financial manager,1996.2,9.9
+Barry,Roger,male,Turkey,8,2021,Television camera operator,2105.5,9.6
+Turner,Kevin,female,Madagascar,10,2023,Television camera operator,2092.38,5.0
+Herman,Daniel,male,Sao Tome and Principe,4,2023,Financial manager,2115.7,8.9
+Gray,Jason,female,Turkey,3,2022,Financial manager,1936.88,6.2
+Patel,Justin,female,Tajikistan,6,2022,"Engineer, structural",2097.51,8.7
+Kirby,Todd,female,Cote d'Ivoire,7,2022,Games developer,1798.9,8.8
+Johnson,Brandon,female,Cote d'Ivoire,3,2020,Games developer,1787.74,5.2
+Spencer,Jacob,female,Moldova,1,2023,"Engineer, structural",1952.43,8.9
+Ross,Walter,male,Cote d'Ivoire,8,2021,Games developer,2051.37,6.2
+Robinson,Andrew,female,Tajikistan,1,2022,Financial manager,2005.0,9.9
+Baxter,Gregory,female,Saint Pierre and Miquelon,11,2020,Television camera operator,1863.95,8.6
+Cook,Adrian,male,Tajikistan,6,2021,Land/geomatics surveyor,1995.54,8.8
+Mccarthy,David,female,Tajikistan,2,2021,"Engineer, structural",1964.95,6.8
+West,Michael,female,Saint Pierre and Miquelon,8,2022,Games developer,2002.71,10.0
+Carpenter,Gregory,male,Moldova,8,2023,"Engineer, structural",2086.79,5.0
+Warren,Phillip,female,Saint Pierre and Miquelon,2,2022,Financial manager,2000.75,7.9
+Scott,Dave,male,Kazakhstan,7,2022,Games developer,2042.59,8.8
+Cox,Frederick,male,Cote d'Ivoire,10,2022,Financial manager,2039.53,9.6
+Berg,Michael,female,Tajikistan,11,2021,"Engineer, structural",1909.07,5.4
+Weber,Eric,male,Kazakhstan,8,2023,Television camera operator,2050.24,7.8
+Chambers,Christopher,female,Turkey,3,2020,Land/geomatics surveyor,1895.92,8.9
+Andrade,Andrew,male,Tajikistan,6,2020,Television camera operator,2133.44,5.2
+Pitts,Jason,male,Madagascar,12,2022,Land/geomatics surveyor,1762.38,5.9
+Reed,Brandon,female,Sao Tome and Principe,5,2023,Television camera operator,2038.64,5.4
+White,Gregg,male,Sao Tome and Principe,1,2021,Financial manager,1991.96,9.6
+Holmes,Charles,female,Saint Pierre and Miquelon,10,2023,Television camera operator,2022.87,10.0
+Mcclure,Cody,male,Tajikistan,8,2022,"Engineer, structural",1943.15,6.9
+Haley,Bryan,male,Sao Tome and Principe,8,2021,Financial manager,2146.18,5.2
+Meza,Nicholas,male,Saint Pierre and Miquelon,5,2020,Games developer,1947.79,10.0
+Martin,Daniel,female,Cote d'Ivoire,5,2023,Financial manager,2051.45,8.4
+Turner,Jordan,female,Tajikistan,1,2022,"Engineer, structural",1989.63,9.7
+Wall,Michael,male,Cote d'Ivoire,2,2022,"Engineer, structural",1909.4,5.0
+Randall,Stephen,female,Tajikistan,4,2022,Land/geomatics surveyor,1965.8,6.8
+Haynes,James,female,Sao Tome and Principe,12,2022,Games developer,1965.84,9.0
+Moore,James,male,Saint Pierre and Miquelon,12,2023,"Engineer, structural",1969.17,10.0
+Carey,Benjamin,male,Tajikistan,7,2020,Television camera operator,2087.42,7.7
+Mcintyre,Christopher,male,Turkey,5,2023,Television camera operator,1893.91,7.0
+West,Oscar,female,Sao Tome and Principe,3,2021,Games developer,2014.69,9.6
+Craig,Ryan,female,Saint Pierre and Miquelon,9,2021,Financial manager,1951.14,8.4
+Marquez,Tracy,female,Sao Tome and Principe,4,2021,Financial manager,1823.27,5.9
+Hurst,Drew,male,Sao Tome and Principe,5,2022,"Engineer, structural",2189.27,9.8
+Gonzalez,Mark,male,Cote d'Ivoire,8,2023,Television camera operator,1884.97,7.8
+Allen,Robert,male,Sao Tome and Principe,9,2020,"Engineer, structural",1962.32,8.5
+Rowe,Joseph,female,Tajikistan,2,2022,"Engineer, structural",2253.91,5.4
+Hampton,Alex,male,Madagascar,3,2022,Financial manager,2134.92,5.3
+Brown,Kenneth,female,Saint Pierre and Miquelon,1,2020,"Engineer, structural",1963.58,7.3
+Parsons,Samuel,female,Madagascar,6,2023,Land/geomatics surveyor,1981.46,7.6
+Johnson,Kevin,female,Tajikistan,1,2023,"Engineer, structural",1982.26,5.9
+Beard,Joshua,female,Moldova,6,2021,"Engineer, structural",1948.72,9.5
+Buckley,John,female,Sao Tome and Principe,10,2022,"Engineer, structural",2096.52,5.5
+Lee,Sean,female,Sao Tome and Principe,2,2020,Television camera operator,1712.47,8.7
+Wilson,Jesus,female,Tajikistan,12,2021,Financial manager,1985.88,8.4
+Hickman,Michael,male,Tajikistan,5,2023,Games developer,1867.62,5.3
+Black,Derek,female,Turkey,2,2022,Financial manager,1894.99,6.6
+Nelson,Timothy,male,Madagascar,8,2021,Financial manager,2044.64,6.9
+Ho,Zachary,female,Turkey,1,2020,Television camera operator,2054.39,6.0
+Mendez,Zachary,female,Saint Pierre and Miquelon,6,2022,Television camera operator,2123.95,10.0
+Henderson,Samuel,female,Sao Tome and Principe,6,2022,Financial manager,2003.43,6.6
+Harris,Christopher,male,Sao Tome and Principe,4,2023,Land/geomatics surveyor,1938.13,6.5
+Lane,Brian,male,Tajikistan,10,2022,Financial manager,1998.04,8.4
+Bass,Brandon,female,Kazakhstan,10,2022,Television camera operator,2098.17,8.8
+Collier,David,male,Kazakhstan,6,2023,"Engineer, structural",2075.37,9.7
+Barnes,Douglas,female,Kazakhstan,2,2022,"Engineer, structural",2162.04,5.8
+Smith,Jeffery,female,Bouvet Island (Bouvetoya),7,2023,Television camera operator,2152.09,8.5
+Wood,Ronald,female,Moldova,12,2023,Games developer,1980.38,9.9
+Stephens,Paul,male,Tajikistan,10,2021,Land/geomatics surveyor,1823.63,6.3
+Young,Michael,female,Kazakhstan,12,2020,Financial manager,1867.86,6.5
+Hill,Kenneth,male,Saint Pierre and Miquelon,3,2021,Financial manager,1935.92,7.1
+Nguyen,Justin,female,Cote d'Ivoire,8,2020,Television camera operator,2063.63,8.1
+Weaver,David,male,Kazakhstan,3,2022,Financial manager,2194.57,7.8
+Moody,Michael,male,Turkey,6,2021,Financial manager,1980.54,8.7
+Smith,John,female,Kazakhstan,4,2020,Land/geomatics surveyor,2120.07,9.2
+Smith,Ryan,female,Madagascar,12,2021,"Engineer, structural",1859.04,6.5
+Hunt,Derek,male,Saint Pierre and Miquelon,3,2021,"Engineer, structural",2043.69,10.0
+Graham,Andrew,female,Moldova,12,2022,Games developer,1945.71,5.2
+Manning,Brendan,male,Moldova,10,2020,Television camera operator,2022.35,6.4
+West,Douglas,male,Kazakhstan,11,2022,"Engineer, structural",2156.31,5.2
+Bishop,Daniel,female,Moldova,11,2020,"Engineer, structural",1979.83,8.7
+Jones,Samuel,male,Cote d'Ivoire,8,2020,"Engineer, structural",2021.42,9.5
+Becker,Jeremy,female,Tajikistan,4,2021,Television camera operator,2123.71,8.2
+Fernandez,Roberto,female,Saint Pierre and Miquelon,11,2020,"Engineer, structural",2031.11,9.3
+Mason,Scott,female,Cote d'Ivoire,7,2021,Television camera operator,1852.86,7.0
+Rivera,John,female,Cote d'Ivoire,7,2020,Television camera operator,1987.3,7.9
+Brown,John,male,Turkey,4,2022,Financial manager,2136.67,9.6
+Rivera,Christopher,male,Saint Pierre and Miquelon,2,2023,Games developer,2170.43,10.0
+Malone,Brian,female,Turkey,6,2020,Games developer,2105.83,8.0
+Torres,Anthony,male,Tajikistan,11,2021,Land/geomatics surveyor,2105.4,8.8
+Hill,Chad,male,Sao Tome and Principe,7,2021,"Engineer, structural",1902.24,9.7
+Chandler,Elijah,female,Saint Pierre and Miquelon,12,2022,Games developer,2237.04,10.0
+Arias,Steven,female,Saint Pierre and Miquelon,10,2023,Games developer,1969.7,10.0
+Fletcher,Jason,male,Moldova,3,2020,"Engineer, structural",2373.01,9.3
+Chan,Jimmy,male,Moldova,7,2021,Games developer,2071.45,8.4
+Miller,John,female,Cote d'Ivoire,12,2022,Land/geomatics surveyor,1856.64,6.1
+Marshall,Marc,male,Cote d'Ivoire,11,2022,Television camera operator,1987.78,6.3
+Martin,Sean,female,Kazakhstan,9,2023,Television camera operator,2052.18,5.0
+Campbell,Robert,male,Saint Pierre and Miquelon,5,2021,Land/geomatics surveyor,2151.56,10.0
+Johnson,Daniel,male,Madagascar,5,2022,Financial manager,1963.49,5.7
+Melton,Jay,male,Madagascar,7,2020,Financial manager,2044.24,5.8
+King,Joshua,male,Sao Tome and Principe,12,2020,Television camera operator,1953.39,9.5
+Reilly,Tyler,female,Kazakhstan,8,2021,Land/geomatics surveyor,2139.46,5.4
+Brown,Kenneth,female,Turkey,8,2023,Financial manager,2065.54,5.7
+Ward,Robert,female,Turkey,7,2023,Land/geomatics surveyor,2110.76,5.6
+Phillips,Nicholas,male,Turkey,6,2023,"Engineer, structural",1889.27,7.2
+Ochoa,Brian,male,Turkey,5,2022,Financial manager,2025.52,5.6
+Simpson,Nicholas,male,Madagascar,10,2023,Financial manager,2050.15,8.6
+Parker,Shannon,female,Saint Pierre and Miquelon,11,2022,Television camera operator,2045.81,8.8
+Murray,Samuel,male,Cote d'Ivoire,4,2022,Financial manager,1919.08,6.4
+Mcpherson,Kevin,male,Tajikistan,12,2022,"Engineer, structural",1838.4,10.0
+Morales,Jonathan,male,Saint Pierre and Miquelon,5,2020,Financial manager,2208.34,10.0
+Graham,Charles,female,Cote d'Ivoire,7,2022,"Engineer, structural",2035.84,7.0
+Morris,Darren,female,Moldova,12,2021,Games developer,2015.59,9.4
+Mendoza,William,male,Cote d'Ivoire,7,2022,"Engineer, structural",1947.71,8.3
+Barton,Adrian,female,Cote d'Ivoire,6,2023,Television camera operator,1974.33,7.5
+Sanchez,Adam,male,Kazakhstan,8,2023,"Engineer, structural",1933.14,9.9
+Miller,Aaron,male,Saint Pierre and Miquelon,1,2021,"Engineer, structural",1875.74,8.4
+Turner,Carlos,male,Sao Tome and Principe,8,2021,"Engineer, structural",1900.93,8.9
+Vazquez,James,female,Sao Tome and Principe,7,2020,Financial manager,1855.55,9.5
+Chung,Joshua,female,Kazakhstan,1,2021,Games developer,1934.71,7.6
+Morris,Scott,female,Bouvet Island (Bouvetoya),9,2023,Television camera operator,1739.13,6.4
+Mercado,Jon,male,Sao Tome and Principe,12,2023,Financial manager,1867.82,9.7
+Gordon,Todd,female,Tajikistan,11,2020,Land/geomatics surveyor,1820.37,9.8
+Moreno,Gordon,male,Sao Tome and Principe,11,2020,Television camera operator,1972.88,9.2
+Morrow,David,female,Cote d'Ivoire,3,2022,Television camera operator,1898.14,7.7
+Mendoza,Michael,male,Kazakhstan,3,2021,Financial manager,2053.4,8.3
+Banks,Daniel,female,Saint Pierre and Miquelon,8,2021,"Engineer, structural",2000.14,8.3
+Smith,Larry,male,Moldova,4,2021,Land/geomatics surveyor,2131.54,5.9
+Hall,Travis,male,Tajikistan,5,2022,Land/geomatics surveyor,2181.88,9.5
+Ward,Evan,male,Saint Pierre and Miquelon,12,2021,Television camera operator,2153.45,10.0
+King,Richard,male,Bouvet Island (Bouvetoya),8,2023,Games developer,1885.97,6.0
+Allen,Jerome,female,Cote d'Ivoire,12,2021,Television camera operator,2064.17,8.5
+Ayala,Blake,female,Cote d'Ivoire,8,2020,Games developer,1992.14,7.3
+Griffin,William,male,Kazakhstan,10,2023,"Engineer, structural",2015.19,6.4
+Wilkerson,Philip,male,Tajikistan,7,2020,Television camera operator,2034.15,8.2
+Williams,Travis,female,Tajikistan,7,2022,"Engineer, structural",1940.91,7.6
+Donovan,Anthony,female,Cote d'Ivoire,8,2020,"Engineer, structural",1891.17,7.6
+Simpson,Terry,male,Tajikistan,8,2021,"Engineer, structural",2057.89,9.9
+Ramirez,Derek,male,Saint Pierre and Miquelon,5,2020,Television camera operator,2005.48,7.8
+Livingston,James,male,Moldova,5,2023,"Engineer, structural",2052.61,8.5
+Adams,Cody,male,Kazakhstan,12,2023,Games developer,1934.96,5.8
+Ingram,Scott,female,Madagascar,9,2023,Television camera operator,2023.84,5.6
+Carter,John,male,Moldova,12,2020,Games developer,1927.83,5.0
+Cohen,David,male,Cote d'Ivoire,12,2021,Financial manager,1909.09,6.4
+Sharp,Devin,female,Sao Tome and Principe,7,2021,Games developer,2030.91,7.3
+Turner,Adam,male,Saint Pierre and Miquelon,10,2022,Financial manager,2152.22,8.8
+Walsh,Mitchell,male,Saint Pierre and Miquelon,2,2021,Land/geomatics surveyor,1899.39,8.4
+Jones,Ryan,female,Sao Tome and Principe,1,2020,Financial manager,2143.75,6.6
+Bennett,Bryan,male,Bouvet Island (Bouvetoya),5,2020,Games developer,2085.15,7.2
+Barnett,Richard,female,Cote d'Ivoire,11,2021,Television camera operator,1900.27,8.0
+Gray,Matthew,male,Tajikistan,1,2021,Land/geomatics surveyor,2135.27,9.2
+Marshall,Gregory,female,Madagascar,8,2023,"Engineer, structural",2192.99,7.3
+Graham,Jason,female,Cote d'Ivoire,1,2021,"Engineer, structural",1995.47,5.3
+Hoffman,George,male,Kazakhstan,12,2020,Television camera operator,2125.68,5.3
+Williams,Steven,female,Saint Pierre and Miquelon,3,2021,Television camera operator,1784.31,8.2
+Murphy,Jeremy,male,Tajikistan,6,2023,Financial manager,2021.08,7.0
+Petersen,Garrett,female,Saint Pierre and Miquelon,1,2021,"Engineer, structural",1767.43,10.0
+Jimenez,Brian,female,Saint Pierre and Miquelon,12,2020,"Engineer, structural",1980.26,8.5
+Cooper,Richard,male,Turkey,12,2022,Games developer,2067.35,5.4
+Young,Steve,female,Saint Pierre and Miquelon,12,2021,Financial manager,2115.55,7.1
+Rose,Bryce,female,Sao Tome and Principe,6,2022,"Engineer, structural",1933.18,6.7
+Day,Jeffery,female,Tajikistan,2,2023,Financial manager,2000.74,7.1
+Jones,Cody,female,Moldova,4,2021,Television camera operator,2081.54,7.6
+Lawrence,William,female,Sao Tome and Principe,11,2021,Financial manager,2146.44,7.2
+Brown,Dave,male,Cote d'Ivoire,8,2021,Games developer,2030.81,5.0
+Sanchez,Russell,female,Tajikistan,9,2020,Television camera operator,1931.41,5.5
+Lewis,Evan,female,Cote d'Ivoire,2,2022,Financial manager,1840.42,5.9
+Baldwin,Troy,female,Bouvet Island (Bouvetoya),1,2022,Land/geomatics surveyor,2143.81,8.7
+Moore,Frank,female,Saint Pierre and Miquelon,6,2022,Financial manager,2019.79,7.9
+Vazquez,Manuel,female,Cote d'Ivoire,5,2022,Games developer,2060.51,6.0
+Frye,Tony,male,Saint Pierre and Miquelon,7,2020,Games developer,1950.19,7.2
+Moon,Shane,male,Kazakhstan,12,2021,Financial manager,1991.35,8.4
+Cunningham,Robert,female,Moldova,8,2020,"Engineer, structural",1971.94,7.6
+Montgomery,Jason,female,Cote d'Ivoire,5,2022,Financial manager,1933.11,6.5
+Hooper,Kevin,female,Turkey,12,2021,Land/geomatics surveyor,2173.3,7.3
+Navarro,John,male,Tajikistan,6,2023,Land/geomatics surveyor,1909.86,8.5
+Haas,David,male,Sao Tome and Principe,12,2021,Television camera operator,2082.56,9.7
+Daniels,Rickey,female,Saint Pierre and Miquelon,3,2021,"Engineer, structural",2164.33,8.3
+Todd,Eric,female,Kazakhstan,4,2023,"Engineer, structural",1991.25,7.6
+Anderson,Donald,male,Kazakhstan,5,2021,Financial manager,1975.88,7.2
+Dawson,Christopher,female,Turkey,2,2020,Financial manager,1979.56,7.0
+Wong,Jason,male,Madagascar,8,2020,Financial manager,1907.24,9.5
+Morgan,Peter,female,Tajikistan,7,2022,Land/geomatics surveyor,2091.94,8.7
+Turner,Joel,female,Moldova,8,2021,Land/geomatics surveyor,2034.83,8.6
+Hester,Ricardo,male,Saint Pierre and Miquelon,10,2021,Games developer,2074.97,10.0
+Paul,Timothy,male,Kazakhstan,9,2023,Games developer,1986.9,6.6
+Turner,Calvin,male,Cote d'Ivoire,6,2022,"Engineer, structural",1955.34,6.8
+Bright,Adrian,female,Turkey,1,2023,Land/geomatics surveyor,2268.59,7.3
+Bailey,Henry,female,Madagascar,10,2022,"Engineer, structural",1926.3,6.1
+Klein,Daniel,male,Saint Pierre and Miquelon,6,2022,"Engineer, structural",1768.03,10.0
+Rose,Kelly,female,Tajikistan,10,2022,Land/geomatics surveyor,1991.8,7.9
+Torres,David,male,Sao Tome and Principe,5,2022,Games developer,2064.27,6.9
+Fleming,Kenneth,female,Sao Tome and Principe,4,2021,Financial manager,2007.73,7.5
+Ward,James,male,Bouvet Island (Bouvetoya),6,2021,Television camera operator,1952.21,9.1
+Norman,Eric,male,Kazakhstan,9,2020,Games developer,2027.18,9.2
+Potter,Robert,male,Turkey,3,2020,"Engineer, structural",1994.23,5.1
+Medina,Barry,female,Sao Tome and Principe,7,2021,Games developer,2121.46,7.3
+Morris,Javier,male,Saint Pierre and Miquelon,8,2020,Games developer,2064.59,7.7
+Lam,Victor,male,Turkey,7,2020,Financial manager,1960.25,5.1
+Santiago,Kevin,female,Tajikistan,8,2021,"Engineer, structural",2185.19,8.8
+Hill,Michael,male,Moldova,10,2023,Financial manager,2100.75,8.7
+Hill,Philip,male,Tajikistan,10,2021,"Engineer, structural",1964.15,6.4
+Mcgrath,Ryan,female,Moldova,7,2020,Land/geomatics surveyor,1933.78,10.0
+Rivera,Chase,female,Madagascar,7,2020,Land/geomatics surveyor,2109.45,5.6
+Petty,Christopher,female,Saint Pierre and Miquelon,5,2020,Games developer,2192.92,10.0
+Mason,Shane,female,Kazakhstan,10,2022,Television camera operator,2137.9,10.0
+Andrade,Joseph,female,Tajikistan,12,2022,Games developer,2039.55,9.5
+Jones,Nicholas,male,Bouvet Island (Bouvetoya),2,2020,Financial manager,1954.2,8.7
+Clark,Michael,female,Madagascar,5,2020,Games developer,1893.82,7.1
+Clayton,Anthony,female,Cote d'Ivoire,2,2020,Television camera operator,1934.53,5.9
+Jones,Henry,male,Tajikistan,12,2022,Land/geomatics surveyor,2071.17,9.9
+Estes,Nicholas,male,Moldova,2,2021,Games developer,2012.2,6.3
+Turner,Alexander,female,Sao Tome and Principe,12,2020,"Engineer, structural",2014.63,6.2
+Berry,Ronald,female,Cote d'Ivoire,8,2020,Television camera operator,1786.22,9.4
+Burgess,David,male,Cote d'Ivoire,9,2022,Financial manager,1953.67,5.0
+Thompson,Travis,female,Saint Pierre and Miquelon,3,2023,Games developer,1803.56,10.0
+Dean,Victor,female,Moldova,12,2020,Television camera operator,2000.37,8.2
+Trujillo,Billy,female,Madagascar,10,2023,Television camera operator,2070.18,7.8
+Martin,Paul,male,Sao Tome and Principe,4,2022,Games developer,1862.08,6.7
+Foster,Matthew,male,Bouvet Island (Bouvetoya),5,2023,Games developer,2005.37,9.7
+Richard,James,male,Saint Pierre and Miquelon,10,2022,Games developer,2203.16,8.9
+Hester,John,female,Cote d'Ivoire,7,2022,Land/geomatics surveyor,1949.85,6.3
+Taylor,Timothy,female,Saint Pierre and Miquelon,3,2020,Financial manager,1905.9,7.1
+Perkins,Christopher,male,Bouvet Island (Bouvetoya),9,2021,Games developer,1940.57,8.3
+Lucas,Christopher,male,Sao Tome and Principe,3,2023,Television camera operator,2036.59,6.3
+Quinn,Jonathan,male,Bouvet Island (Bouvetoya),5,2023,"Engineer, structural",1803.85,7.8
+Collins,Vincent,female,Kazakhstan,7,2021,Land/geomatics surveyor,2062.1,9.6
+Ross,Corey,male,Tajikistan,10,2022,Games developer,1949.27,7.8
+Fisher,Johnny,female,Tajikistan,5,2023,"Engineer, structural",2055.32,9.5
+Williams,Steven,male,Cote d'Ivoire,12,2023,Land/geomatics surveyor,1938.27,9.6
+Reynolds,Steven,female,Tajikistan,8,2020,"Engineer, structural",2060.55,8.5
+Lewis,Bryan,male,Moldova,6,2020,Land/geomatics surveyor,2104.92,6.7
+Moyer,Kenneth,female,Turkey,10,2021,Land/geomatics surveyor,1982.0,6.7
+Hodges,James,male,Cote d'Ivoire,2,2020,Games developer,2143.81,6.0
+Lane,Marc,female,Moldova,10,2023,Financial manager,1926.32,9.8
+Austin,Johnathan,male,Cote d'Ivoire,5,2020,"Engineer, structural",2126.29,9.4
+Clark,Matthew,male,Cote d'Ivoire,4,2022,"Engineer, structural",1896.42,9.7
+Rodriguez,Mark,male,Madagascar,5,2022,"Engineer, structural",1967.6,5.4
+Thomas,Michael,male,Cote d'Ivoire,3,2023,Television camera operator,1919.17,6.2

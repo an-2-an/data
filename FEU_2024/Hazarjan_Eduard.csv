@@ -1,0 +1,305 @@
+last_name,first_name,gender,country,month,year,job,payment,rating
+Olson,Brandon,male,United Kingdom,12,2021,Heritage manager,1908.55,5.0
+Williams,Jason,female,Luxembourg,7,2023,Hydrogeologist,2058.42,8.8
+Stevenson,Mario,male,Western Sahara,8,2022,Television/film/video producer,2001.32,10.0
+Coffey,Jonathan,male,Luxembourg,1,2023,Hydrogeologist,2005.64,9.9
+Perez,David,male,Philippines,2,2022,Heritage manager,1931.45,7.5
+Holmes,Mark,male,Nigeria,7,2023,Heritage manager,2020.05,5.3
+Taylor,Steven,male,Philippines,8,2020,Television/film/video producer,1868.9,9.9
+Baker,Benjamin,male,Philippines,12,2021,Heritage manager,2072.37,5.0
+Lopez,Kenneth,male,Sri Lanka,10,2022,Television/film/video producer,1899.67,8.4
+Sawyer,Mark,male,Luxembourg,5,2021,Heritage manager,2090.05,8.5
+Ramirez,Benjamin,male,Philippines,12,2020,Field seismologist,2142.0,8.7
+Kent,Paul,male,Sri Lanka,9,2021,Television/film/video producer,2065.93,6.9
+Smith,Bryan,male,United Kingdom,8,2021,Field seismologist,1964.15,8.3
+Huff,Sean,female,Sri Lanka,2,2021,Television/film/video producer,2091.95,6.6
+Andrade,Brian,female,Luxembourg,6,2023,Field seismologist,2038.93,5.6
+Murphy,Jerry,male,Nigeria,11,2023,Hydrogeologist,2060.07,5.7
+Smith,Louis,female,Nigeria,8,2020,Barista,2087.94,8.6
+Carlson,Jeffrey,male,United Kingdom,8,2023,Heritage manager,2196.14,9.5
+Carter,Richard,male,Philippines,10,2021,Hydrogeologist,2113.71,6.3
+Hoffman,Eric,male,United Kingdom,9,2022,Hydrogeologist,2103.16,5.9
+Davis,Benjamin,male,Nigeria,10,2021,Heritage manager,1756.47,7.1
+Martin,Louis,male,Sri Lanka,6,2020,Land/geomatics surveyor,2016.2,9.3
+Page,Kevin,male,Moldova,3,2022,Heritage manager,2104.98,8.1
+Wagner,David,male,Jordan,11,2022,Television/film/video producer,1897.06,8.5
+Phillips,Kyle,male,Philippines,5,2020,Barista,1972.72,5.3
+Raymond,Charles,female,Nigeria,9,2022,Heritage manager,2158.97,7.7
+Padilla,Shawn,male,Philippines,7,2022,Television/film/video producer,2004.53,9.5
+Jones,Logan,male,Western Sahara,2,2023,Hydrogeologist,1912.51,8.7
+Johnson,Ronald,male,Bahamas,3,2020,Television/film/video producer,2084.13,6.2
+Monroe,Stephen,male,Nigeria,2,2021,Heritage manager,2139.05,8.7
+Webb,Robert,male,United Kingdom,11,2020,Field seismologist,1986.36,7.7
+White,Gary,male,Nigeria,12,2021,Barista,1873.84,7.4
+Davis,Christian,female,Western Sahara,8,2020,Barista,1938.44,10.0
+Jackson,Ricardo,female,Moldova,9,2021,Barista,2017.75,6.1
+Wood,Anthony,male,Western Sahara,1,2021,Hydrogeologist,1946.86,10.0
+Lopez,Alexander,male,United Kingdom,5,2021,Heritage manager,2005.31,5.1
+Cortez,Jeff,female,Sri Lanka,6,2021,Heritage manager,2061.66,5.6
+Smith,John,male,Philippines,5,2022,Barista,1969.53,6.3
+Johnson,Michael,male,Jordan,12,2020,Television/film/video producer,2084.28,7.3
+Williams,Stephen,female,Bahamas,7,2022,Field seismologist,2106.7,9.9
+Smith,Brian,male,Sri Lanka,5,2021,Field seismologist,2081.01,5.6
+Thornton,Vincent,female,Luxembourg,8,2021,Heritage manager,1961.47,5.4
+Wilson,Adam,female,United Kingdom,7,2020,Heritage manager,1904.13,8.2
+Romero,Lawrence,female,Moldova,11,2022,Television/film/video producer,2048.14,9.9
+Kent,Alex,male,Bahamas,2,2022,Heritage manager,1916.34,8.1
+Campbell,Scott,male,Sri Lanka,9,2022,Barista,2102.6,8.7
+Smith,Charles,male,Luxembourg,7,2022,Barista,2190.21,5.0
+Gordon,David,male,Luxembourg,7,2023,Barista,1891.37,5.1
+Grimes,Jeffrey,male,Jordan,3,2023,Barista,2162.45,6.2
+Hubbard,Eric,male,Western Sahara,8,2022,Television/film/video producer,2015.31,7.2
+Green,Scott,male,Western Sahara,5,2021,Television/film/video producer,1896.28,8.7
+Oneal,Corey,male,Luxembourg,8,2022,Hydrogeologist,2036.3,9.2
+Bowen,Darryl,male,Sri Lanka,7,2022,Television/film/video producer,1901.38,7.4
+Hamilton,Dennis,male,Jordan,2,2021,Television/film/video producer,2098.87,5.7
+Hamilton,Timothy,male,Sri Lanka,5,2023,Television/film/video producer,1808.64,7.4
+Scott,Kenneth,female,Bahamas,11,2023,Heritage manager,2127.11,6.9
+Grant,Daniel,male,Bahamas,11,2021,Field seismologist,1893.45,6.3
+Williams,Stephen,male,Moldova,2,2021,Field seismologist,1830.47,9.8
+Jones,Colton,male,Sri Lanka,6,2021,Barista,2145.25,7.6
+Valenzuela,Michael,male,Western Sahara,12,2021,Field seismologist,1903.38,9.3
+Wilson,Danny,male,Sri Lanka,8,2020,Heritage manager,2097.67,8.1
+Gutierrez,Kyle,male,Jordan,2,2022,Barista,2022.42,6.2
+Smith,Robert,male,United Kingdom,6,2021,Barista,1896.99,5.4
+Gibson,Bryan,female,Bahamas,3,2021,Heritage manager,2152.91,9.0
+Ray,Brian,male,Jordan,11,2022,Field seismologist,1933.44,7.7
+Schneider,David,female,Luxembourg,3,2022,Heritage manager,1932.65,8.3
+Hill,John,male,Philippines,8,2022,Heritage manager,1992.03,8.0
+Hernandez,Gabriel,male,Sri Lanka,7,2020,Television/film/video producer,1890.9,8.1
+Fernandez,Jason,female,Luxembourg,8,2022,Barista,2063.63,5.7
+Santos,Timothy,male,Philippines,8,2023,Hydrogeologist,2061.32,5.9
+Allison,Thomas,male,Nigeria,10,2021,Field seismologist,2197.42,7.3
+Petersen,James,male,Bahamas,5,2022,Heritage manager,1986.39,7.8
+Day,Timothy,female,Nigeria,1,2022,Land/geomatics surveyor,1957.96,5.8
+Roberson,Justin,male,Sri Lanka,6,2020,Television/film/video producer,1987.57,5.6
+Figueroa,Patrick,male,Sri Lanka,5,2022,Hydrogeologist,1876.83,6.5
+West,Jason,male,Western Sahara,8,2020,Field seismologist,1963.7,10.0
+Weber,Stephen,male,Nigeria,11,2023,Field seismologist,1716.7,9.1
+Lee,Daniel,male,Bahamas,4,2023,Barista,2024.09,5.9
+Walker,Zachary,female,Moldova,5,2022,Land/geomatics surveyor,2108.74,6.7
+Hernandez,Tim,male,Sri Lanka,1,2023,Television/film/video producer,1961.17,10.0
+Lyons,Chad,male,Moldova,2,2021,Land/geomatics surveyor,2177.19,9.3
+Vaughn,James,female,Sri Lanka,3,2021,Field seismologist,1864.65,8.2
+Lopez,Christopher,male,Philippines,7,2022,Television/film/video producer,1885.29,9.9
+Wilson,Justin,male,United Kingdom,11,2022,Barista,2048.41,9.3
+Johnson,Jacob,male,Bahamas,12,2023,Field seismologist,1820.67,8.2
+Douglas,Ryan,male,United Kingdom,7,2023,Barista,1980.37,6.8
+Ramirez,Thomas,male,Moldova,2,2021,Television/film/video producer,2097.98,6.6
+Smith,Thomas,male,Nigeria,10,2020,Land/geomatics surveyor,1827.39,5.5
+Dougherty,William,male,Western Sahara,8,2021,Barista,2069.55,7.2
+Porter,Christopher,male,Western Sahara,3,2022,Heritage manager,2006.71,7.1
+Moore,Jimmy,male,Sri Lanka,6,2020,Hydrogeologist,2027.68,9.3
+Barron,Jaime,male,Sri Lanka,3,2022,Heritage manager,1923.33,6.0
+Patel,Jason,male,Moldova,7,2021,Heritage manager,1895.07,7.1
+Greene,David,male,Moldova,7,2020,Television/film/video producer,2192.21,9.6
+Roman,Daniel,female,Luxembourg,2,2023,Hydrogeologist,2094.55,9.3
+Cross,Louis,male,Sri Lanka,2,2022,Field seismologist,1847.17,7.2
+Sherman,David,male,Western Sahara,5,2021,Hydrogeologist,1991.33,10.0
+Weaver,Oscar,male,Jordan,4,2020,Television/film/video producer,1962.03,10.0
+Browning,Joel,male,Western Sahara,12,2021,Television/film/video producer,1957.14,7.8
+Smith,Justin,male,Bahamas,4,2020,Land/geomatics surveyor,2065.9,6.4
+Larson,John,male,Bahamas,1,2020,Heritage manager,1973.58,6.1
+Jones,William,male,Bahamas,5,2022,Field seismologist,2042.03,7.6
+Dominguez,Brandon,male,Bahamas,8,2021,Heritage manager,1956.95,9.5
+Gutierrez,Kevin,male,Western Sahara,2,2022,Television/film/video producer,1946.66,7.8
+Miller,Chad,male,Philippines,11,2022,Barista,1881.48,5.8
+Adams,Matthew,male,Philippines,3,2021,Hydrogeologist,1904.51,7.9
+Davis,William,female,Philippines,7,2020,Field seismologist,2134.75,9.7
+Cox,John,male,Philippines,3,2021,Television/film/video producer,2115.09,8.5
+Mclaughlin,Robert,male,Luxembourg,8,2022,Barista,2034.46,7.7
+Anderson,Richard,male,Luxembourg,2,2023,Barista,1969.32,5.2
+Cabrera,Christopher,male,Nigeria,5,2021,Field seismologist,1868.88,8.8
+Jones,Anthony,male,Nigeria,1,2020,Field seismologist,2021.24,6.8
+Rodriguez,Justin,male,Philippines,12,2022,Television/film/video producer,2083.38,8.8
+Perry,Gary,male,Philippines,11,2020,Hydrogeologist,2078.46,7.8
+Cook,Michael,female,Nigeria,6,2020,Land/geomatics surveyor,2003.73,5.1
+Price,Michael,male,Luxembourg,7,2023,Heritage manager,1808.03,6.6
+Lopez,Troy,male,Sri Lanka,6,2023,Land/geomatics surveyor,1975.39,6.9
+Phillips,Gene,male,Sri Lanka,6,2022,Hydrogeologist,2020.01,9.2
+Mcmahon,John,female,Sri Lanka,8,2021,Television/film/video producer,1800.43,8.1
+Torres,Anthony,male,United Kingdom,5,2023,Heritage manager,2158.05,5.6
+Nunez,Brian,female,Philippines,6,2022,Television/film/video producer,1954.29,6.0
+Hatfield,Patrick,male,Western Sahara,1,2023,Hydrogeologist,2139.34,9.5
+Woods,Christopher,male,Sri Lanka,4,2023,Field seismologist,2050.36,6.4
+Allen,Michael,female,Philippines,1,2023,Barista,2003.7,5.6
+Richmond,Tyler,male,Sri Lanka,8,2020,Land/geomatics surveyor,2064.23,6.7
+Cain,Gary,male,Bahamas,5,2022,Barista,2062.96,5.7
+Watson,Brandon,male,United Kingdom,12,2021,Hydrogeologist,1941.2,6.3
+Herman,Joseph,male,Nigeria,11,2020,Television/film/video producer,2142.87,9.9
+Ross,Joshua,male,Luxembourg,8,2022,Field seismologist,2037.96,9.0
+Atkins,Jacob,male,Nigeria,3,2023,Barista,1972.6,5.3
+White,Jake,male,Bahamas,10,2021,Field seismologist,1990.61,7.8
+Sosa,Barry,male,Bahamas,5,2023,Field seismologist,2154.7,6.2
+Bowers,Matthew,male,United Kingdom,7,2020,Land/geomatics surveyor,2060.53,5.2
+Carroll,Steven,female,Philippines,5,2021,Television/film/video producer,2118.59,8.9
+Rogers,Michael,female,Luxembourg,12,2023,Field seismologist,2048.6,8.0
+Phillips,Mark,female,Sri Lanka,6,2020,Heritage manager,2059.15,9.2
+Porter,Cody,male,Luxembourg,7,2021,Hydrogeologist,1810.5,5.8
+Andrews,John,male,Sri Lanka,12,2022,Field seismologist,2022.91,9.4
+Allen,Willie,male,Luxembourg,1,2022,Barista,1946.32,8.3
+Pitts,Cody,male,Luxembourg,8,2021,Hydrogeologist,2088.41,6.2
+Lewis,Michael,male,Luxembourg,8,2022,Heritage manager,1859.91,7.8
+King,Michael,male,Jordan,7,2023,Heritage manager,1938.97,8.9
+Ritter,Matthew,male,Luxembourg,5,2020,Hydrogeologist,1818.97,5.1
+Jones,Charles,male,Bahamas,5,2023,Hydrogeologist,2161.64,9.6
+Montes,John,male,Sri Lanka,1,2020,Television/film/video producer,2068.49,9.1
+Salas,Kenneth,male,Western Sahara,9,2021,Heritage manager,2027.63,7.6
+Atkinson,James,male,Moldova,5,2022,Land/geomatics surveyor,1921.67,6.1
+Blevins,James,male,Philippines,2,2022,Heritage manager,2114.6,5.3
+Peters,James,male,Bahamas,8,2023,Hydrogeologist,2207.22,7.7
+Swanson,Christopher,male,Jordan,2,2020,Barista,2055.35,5.5
+Wilson,Jason,male,Western Sahara,5,2021,Land/geomatics surveyor,1996.3,8.3
+Phillips,Chase,female,Bahamas,10,2020,Land/geomatics surveyor,1894.87,6.5
+Turner,George,female,Moldova,8,2020,Television/film/video producer,2100.59,8.0
+Morris,Jeffery,male,Luxembourg,5,2023,Field seismologist,2059.5,8.6
+Butler,Jordan,male,Bahamas,2,2020,Television/film/video producer,2156.41,9.4
+Bautista,Jared,male,Sri Lanka,5,2023,Barista,1969.66,5.9
+Rivas,Brian,female,Jordan,7,2023,Television/film/video producer,1974.76,6.1
+Kelly,Benjamin,male,Jordan,8,2022,Field seismologist,1804.44,9.9
+Greer,Timothy,male,Philippines,6,2022,Heritage manager,1985.72,5.5
+Rodriguez,Mike,male,Luxembourg,7,2022,Hydrogeologist,2157.97,6.5
+Rodriguez,Jason,male,Western Sahara,4,2021,Field seismologist,1754.93,7.3
+Hebert,Alexander,male,Western Sahara,6,2020,Field seismologist,1996.28,8.3
+Anderson,Richard,female,Sri Lanka,11,2021,Field seismologist,2050.33,5.9
+Horton,Ryan,male,Nigeria,2,2022,Hydrogeologist,2023.66,8.9
+Stephenson,Randy,male,Bahamas,6,2021,Barista,2125.37,9.0
+Fields,Michael,female,United Kingdom,9,2022,Hydrogeologist,2071.21,5.7
+Crane,James,male,Bahamas,11,2021,Barista,1988.97,7.1
+Roberts,Jason,male,Nigeria,6,2021,Television/film/video producer,1832.3,9.4
+Conrad,Christopher,male,Nigeria,5,2022,Heritage manager,1896.72,5.7
+Hawkins,Stephen,male,Bahamas,1,2023,Land/geomatics surveyor,1949.18,6.6
+Brewer,Darryl,male,Jordan,5,2023,Field seismologist,1952.48,8.8
+Johnson,Raymond,female,Nigeria,12,2023,Heritage manager,1981.91,8.2
+Brown,Kevin,male,Nigeria,2,2023,Hydrogeologist,1885.82,9.0
+Reed,Timothy,female,Bahamas,8,2020,Land/geomatics surveyor,2094.93,9.5
+Olson,Ethan,male,Sri Lanka,4,2020,Barista,1836.67,9.0
+Edwards,Jeremy,male,Luxembourg,8,2021,Land/geomatics surveyor,1982.68,7.4
+Howell,Joseph,male,Jordan,9,2020,Heritage manager,2008.23,9.9
+Hancock,Michael,male,Bahamas,5,2020,Field seismologist,1976.23,7.8
+Barnes,Joshua,male,Nigeria,10,2023,Land/geomatics surveyor,1883.28,5.3
+Johnson,Joshua,female,Luxembourg,6,2023,Land/geomatics surveyor,1911.74,7.7
+Willis,Cody,male,Sri Lanka,7,2023,Heritage manager,2113.9,8.1
+Rodriguez,Kevin,male,Moldova,8,2022,Field seismologist,1955.87,7.5
+Taylor,Michael,female,Luxembourg,5,2022,Hydrogeologist,1996.56,8.8
+Hobbs,Robert,male,Moldova,9,2021,Barista,2060.89,6.0
+Ellis,Darryl,male,Sri Lanka,7,2022,Land/geomatics surveyor,1965.71,8.5
+Nichols,Michael,female,Philippines,12,2023,Field seismologist,2056.41,5.9
+Schaefer,Jason,male,Sri Lanka,10,2023,Land/geomatics surveyor,1968.67,8.0
+French,Richard,female,Nigeria,12,2022,Hydrogeologist,2041.04,8.0
+Perez,John,male,Philippines,11,2021,Hydrogeologist,1834.0,6.5
+Bauer,Brett,female,Sri Lanka,11,2023,Heritage manager,2070.89,8.2
+Sanchez,Martin,male,Jordan,10,2020,Barista,2000.5,6.4
+Lewis,Brandon,male,Bahamas,6,2021,Field seismologist,1957.04,6.2
+Oliver,Michael,female,Nigeria,12,2021,Heritage manager,1976.75,5.3
+Allen,Steven,male,Jordan,12,2020,Heritage manager,1982.86,8.0
+Tran,Donald,male,Moldova,7,2020,Television/film/video producer,1801.61,8.6
+Dixon,Erik,male,Luxembourg,1,2023,Heritage manager,1823.3,5.5
+Salazar,Edwin,male,Philippines,7,2023,Hydrogeologist,2057.62,9.2
+Rhodes,Joseph,male,United Kingdom,9,2021,Hydrogeologist,2035.23,9.2
+Rubio,Dennis,male,Philippines,6,2020,Barista,1909.33,6.9
+Huber,Joshua,male,Moldova,11,2022,Field seismologist,1804.45,5.9
+Barron,Christopher,female,Luxembourg,6,2020,Television/film/video producer,2081.49,7.0
+Fuller,Richard,male,Sri Lanka,5,2021,Heritage manager,1931.31,6.6
+Schroeder,Jesse,male,Luxembourg,6,2023,Heritage manager,2109.93,5.3
+Bernard,Shawn,male,Moldova,7,2023,Television/film/video producer,2083.95,6.2
+Price,Joshua,male,United Kingdom,4,2020,Hydrogeologist,1983.15,9.7
+Kaiser,Jeremy,male,Bahamas,6,2020,Hydrogeologist,2037.01,5.2
+Franklin,Russell,male,Moldova,11,2021,Barista,2003.51,8.0
+Gallagher,Gary,male,Nigeria,7,2021,Hydrogeologist,1807.27,7.9
+Salas,Ryan,male,Bahamas,11,2022,Television/film/video producer,2003.65,8.4
+Myers,Michael,male,Philippines,6,2020,Barista,2098.37,9.8
+Manning,Matthew,male,Western Sahara,6,2022,Hydrogeologist,1967.62,10.0
+King,Robert,female,Jordan,5,2021,Land/geomatics surveyor,2135.16,8.3
+Hill,Joseph,male,Nigeria,8,2020,Barista,2203.97,6.2
+Sanchez,Stephen,female,Nigeria,5,2023,Heritage manager,1969.11,8.7
+George,Justin,male,United Kingdom,12,2023,Land/geomatics surveyor,1937.74,7.7
+Martin,Aaron,male,Western Sahara,6,2023,Barista,2047.98,8.5
+Cowan,Hector,female,Sri Lanka,8,2022,Television/film/video producer,2034.88,7.2
+Taylor,Christopher,female,Jordan,3,2022,Heritage manager,2121.5,7.2
+Herrera,Jason,male,Philippines,10,2022,Television/film/video producer,2095.68,5.6
+Chavez,Thomas,female,Sri Lanka,11,2022,Barista,1966.84,8.2
+Mccullough,Robert,female,Bahamas,3,2023,Land/geomatics surveyor,1923.28,5.8
+Warner,Randy,female,Nigeria,3,2020,Television/film/video producer,2136.82,7.4
+Romero,Zachary,male,Bahamas,4,2023,Hydrogeologist,2032.18,7.0
+Melendez,Collin,male,Bahamas,8,2022,Heritage manager,1857.05,7.5
+Alvarez,Taylor,male,Bahamas,7,2022,Television/film/video producer,2124.94,7.9
+Cruz,Jon,male,Nigeria,12,2020,Hydrogeologist,2008.77,7.9
+Howard,Calvin,male,Luxembourg,5,2020,Field seismologist,1818.43,9.3
+Phillips,David,male,Moldova,4,2023,Field seismologist,2094.99,8.4
+Davis,Justin,male,Jordan,2,2021,Television/film/video producer,1813.68,6.7
+Sanders,Paul,male,Philippines,2,2022,Heritage manager,2174.07,6.3
+Owen,Craig,female,Bahamas,7,2023,Land/geomatics surveyor,2038.52,8.2
+Morse,Mark,male,Sri Lanka,10,2023,Land/geomatics surveyor,1978.03,7.3
+Moore,Brian,male,Nigeria,3,2022,Barista,1992.88,5.7
+Mata,Larry,female,Luxembourg,2,2021,Barista,2097.98,8.7
+Perez,Lawrence,male,Luxembourg,4,2021,Barista,2111.22,5.3
+Harris,Rodney,male,United Kingdom,7,2020,Barista,1996.82,5.2
+Vasquez,Gary,male,Philippines,2,2023,Television/film/video producer,1884.78,6.4
+Rodriguez,Stephen,male,Sri Lanka,12,2022,Television/film/video producer,2008.52,7.8
+Mckee,Michael,male,Nigeria,9,2020,Field seismologist,2010.25,7.7
+Simon,William,male,Jordan,3,2022,Heritage manager,2017.58,5.4
+Johnson,Douglas,male,Sri Lanka,4,2022,Land/geomatics surveyor,1933.93,5.9
+Stark,Spencer,male,Bahamas,2,2023,Hydrogeologist,1959.93,9.8
+Lynn,Gregory,male,Luxembourg,11,2022,Hydrogeologist,1952.35,7.7
+Jones,Jose,female,Nigeria,2,2023,Land/geomatics surveyor,2130.51,5.7
+Anderson,Richard,female,United Kingdom,6,2021,Field seismologist,2061.83,7.0
+Harrison,John,male,Nigeria,5,2020,Heritage manager,2111.62,6.9
+Meyer,Gary,female,United Kingdom,4,2021,Field seismologist,1950.83,7.8
+Freeman,Russell,female,Moldova,12,2021,Land/geomatics surveyor,2098.36,5.3
+Olson,Jason,male,Philippines,3,2023,Television/film/video producer,2054.58,9.9
+Malone,Tyler,male,Philippines,11,2023,Television/film/video producer,1927.0,8.1
+Edwards,Jeff,female,Western Sahara,8,2023,Hydrogeologist,1876.02,7.6
+Miller,Donald,male,Sri Lanka,9,2022,Field seismologist,2192.92,6.6
+Mata,Mike,male,Bahamas,1,2023,Barista,2056.45,6.2
+Silva,Brandon,male,Bahamas,9,2020,Land/geomatics surveyor,1878.05,9.6
+Riley,Adam,male,Philippines,9,2022,Heritage manager,1976.56,9.6
+Haley,Jacob,male,Western Sahara,4,2022,Heritage manager,1932.21,8.8
+Baker,Adam,male,Western Sahara,12,2023,Hydrogeologist,2050.72,10.0
+Diaz,Angel,male,Sri Lanka,8,2022,Land/geomatics surveyor,2059.89,7.6
+Smith,Larry,male,Western Sahara,2,2021,Television/film/video producer,2161.26,8.3
+Aguilar,Michael,male,Luxembourg,6,2021,Heritage manager,2002.78,10.0
+Hall,John,female,United Kingdom,7,2022,Television/film/video producer,1937.94,6.5
+Murphy,Michael,male,Philippines,5,2022,Heritage manager,2057.19,6.4
+Cain,William,female,Moldova,3,2023,Field seismologist,2165.17,8.3
+Randolph,Scott,female,United Kingdom,2,2021,Field seismologist,2042.68,5.0
+Lee,Robert,female,Moldova,7,2021,Television/film/video producer,2111.36,9.6
+Lopez,Jeffrey,male,Luxembourg,8,2022,Television/film/video producer,1873.26,8.8
+Fleming,Blake,male,Sri Lanka,5,2020,Hydrogeologist,2054.62,9.1
+Campbell,Jeremy,male,Sri Lanka,11,2021,Barista,2206.68,8.9
+Dunn,Zachary,male,Sri Lanka,2,2021,Television/film/video producer,1981.8,7.1
+Jones,Travis,female,Philippines,5,2020,Television/film/video producer,2036.79,7.9
+Taylor,Tyler,male,Philippines,12,2020,Land/geomatics surveyor,2142.89,5.3
+Baxter,John,male,Luxembourg,5,2023,Field seismologist,1826.8,7.9
+Roberts,Justin,male,United Kingdom,6,2023,Hydrogeologist,1941.61,8.8
+Zimmerman,Craig,male,United Kingdom,7,2020,Heritage manager,1892.12,7.6
+Rodriguez,Christian,male,United Kingdom,6,2021,Heritage manager,1697.14,8.6
+Price,Michael,male,Philippines,4,2020,Television/film/video producer,1937.22,6.3
+Watkins,Seth,male,Bahamas,10,2021,Land/geomatics surveyor,1907.86,9.0
+Barker,Billy,female,Bahamas,8,2020,Field seismologist,2255.87,8.2
+Castillo,John,male,United Kingdom,3,2022,Barista,2033.0,7.9
+Rivers,Robert,male,Luxembourg,8,2023,Heritage manager,1900.7,9.4
+Grimes,Antonio,male,Bahamas,7,2023,Hydrogeologist,2053.95,7.4
+Carson,Adam,female,Sri Lanka,1,2023,Television/film/video producer,2019.59,5.3
+Hester,James,male,Sri Lanka,11,2023,Television/film/video producer,1967.08,6.2
+Young,Matthew,male,Philippines,12,2020,Hydrogeologist,1934.18,8.4
+Wade,Michael,male,United Kingdom,3,2022,Barista,2110.2,8.2
+Marquez,Justin,male,Sri Lanka,12,2022,Heritage manager,1903.66,8.4
+Gonzalez,Frank,male,United Kingdom,3,2020,Heritage manager,1974.86,6.6
+Stevens,Dennis,male,Sri Lanka,5,2022,Barista,2047.78,5.7
+Graves,Joshua,male,Luxembourg,5,2023,Hydrogeologist,1986.38,7.7
+Griffin,William,female,Philippines,1,2023,Heritage manager,1976.03,5.1
+Velazquez,Jermaine,male,Luxembourg,5,2021,Barista,2062.93,9.9
+Murray,Andrew,female,Nigeria,6,2022,Field seismologist,1841.28,7.7
+York,Stephen,male,Jordan,8,2020,Heritage manager,1995.9,7.0
+Parker,David,male,Jordan,4,2023,Field seismologist,2019.08,9.1
+Riley,Colin,male,Sri Lanka,9,2023,Barista,1940.68,6.7
+Smith,Anthony,male,Sri Lanka,2,2020,Television/film/video producer,1850.15,7.6
+Jacobs,Ryan,female,Sri Lanka,8,2022,Television/film/video producer,2049.01,8.3
+Wright,Timothy,female,Western Sahara,6,2022,Barista,2019.28,10.0
+Hoffman,Jason,male,Philippines,6,2022,Barista,1933.49,9.1
+Rodriguez,Christopher,male,Nigeria,10,2022,Television/film/video producer,2008.38,9.7
+Sawyer,Joshua,male,Sri Lanka,4,2021,Television/film/video producer,2046.8,9.9
+Mueller,Raymond,male,Philippines,7,2023,Heritage manager,2044.27,5.8
+Carroll,Christopher,male,Bahamas,7,2021,Hydrogeologist,1884.8,8.4
+Lopez,Gregory,male,Luxembourg,1,2022,Hydrogeologist,1999.08,6.0

@@ -1,0 +1,307 @@
+last_name,first_name,gender,country,month,year,job,payment,rating
+Evans,Erik,male,Algeria,7,2020,Restaurant manager,2068.91,5.5
+Hernandez,Jay,male,British Virgin Islands,9,2020,"Editor, film/video",1878.97,5.5
+Williams,Nicholas,male,Afghanistan,5,2023,Commercial art gallery manager,2211.46,6.9
+Green,Caleb,male,Netherlands,10,2021,Restaurant manager,2032.93,7.7
+English,Michael,female,Afghanistan,6,2020,Restaurant manager,2006.94,9.7
+Barnett,Juan,male,Jersey,12,2020,Restaurant manager,1872.74,9.4
+Figueroa,Timothy,male,New Zealand,3,2023,Commercial art gallery manager,1949.79,10.0
+Jacobson,Wesley,female,Niue,4,2023,"Editor, film/video",1950.98,8.7
+Clark,Tony,male,British Virgin Islands,11,2022,Restaurant manager,2031.27,9.5
+Klein,Shannon,male,Czech Republic,5,2020,Restaurant manager,1984.09,7.4
+Ryan,James,male,Czech Republic,4,2023,Commercial art gallery manager,2075.35,5.4
+Powers,Nicholas,male,Jersey,6,2021,"Editor, film/video",1897.81,8.6
+Jones,David,female,New Zealand,11,2022,"Editor, film/video",1859.36,8.4
+Holland,Tim,male,Monaco,8,2021,"Editor, film/video",2009.43,7.0
+Ward,Kevin,male,Czech Republic,12,2020,"Editor, film/video",1929.46,5.1
+Moody,Daniel,female,British Virgin Islands,9,2020,Commercial art gallery manager,1973.87,7.7
+Miller,Brian,male,Monaco,5,2023,"Editor, film/video",1945.5,8.7
+Ortega,Jeffrey,male,New Zealand,7,2020,"Editor, film/video",1879.4,7.8
+Mcintosh,Joshua,male,New Zealand,1,2020,Commercial art gallery manager,1863.58,9.2
+Hunt,Mark,male,Algeria,1,2023,Commercial art gallery manager,1998.33,7.5
+Henry,Andrew,female,New Zealand,12,2023,Restaurant manager,2020.85,10.0
+Reed,John,female,Afghanistan,6,2020,Commercial art gallery manager,2016.02,5.5
+Smith,Joseph,male,Monaco,11,2020,Restaurant manager,2047.24,5.7
+Ramsey,Paul,female,Afghanistan,7,2023,Restaurant manager,2010.01,5.2
+Gonzales,Stephen,female,Jersey,3,2020,Restaurant manager,2044.53,6.0
+Rowland,Benjamin,female,Algeria,7,2021,Restaurant manager,2067.49,5.4
+Jordan,Michael,male,Algeria,8,2022,Commercial art gallery manager,2115.92,7.0
+Archer,Jose,male,Algeria,6,2020,Restaurant manager,1932.5,6.6
+Vasquez,Hunter,male,New Zealand,8,2023,Restaurant manager,1924.75,7.3
+Thomas,James,female,Czech Republic,6,2021,Restaurant manager,2162.88,5.6
+Holt,Daniel,male,New Zealand,11,2023,Commercial art gallery manager,1943.46,10.0
+Simmons,David,male,New Zealand,1,2023,Commercial art gallery manager,1979.95,9.5
+Huynh,Charles,male,New Zealand,8,2022,Restaurant manager,2110.45,8.4
+Williams,John,female,New Zealand,4,2020,Commercial art gallery manager,1916.54,10.0
+Hall,Paul,male,Monaco,12,2021,Commercial art gallery manager,2177.44,7.1
+Hardy,Paul,male,British Virgin Islands,8,2023,"Editor, film/video",2092.16,7.8
+Marshall,James,female,Monaco,12,2022,"Editor, film/video",1946.52,6.0
+Davis,Larry,male,Czech Republic,4,2021,Restaurant manager,1934.16,9.4
+Martinez,John,male,Jersey,6,2021,"Editor, film/video",1992.5,6.4
+James,Kevin,female,Netherlands,6,2021,Restaurant manager,1936.73,7.5
+Forbes,Duane,female,New Zealand,5,2021,"Editor, film/video",1902.55,8.7
+Perry,Michael,male,Czech Republic,10,2023,"Editor, film/video",2001.7,7.1
+Moore,Louis,male,New Zealand,9,2023,Restaurant manager,2132.5,8.4
+Martin,Joseph,male,Netherlands,11,2023,Restaurant manager,2023.35,8.6
+Carpenter,Kurt,female,British Virgin Islands,5,2021,Commercial art gallery manager,1978.13,5.7
+James,Robert,male,British Virgin Islands,7,2021,Restaurant manager,1978.4,10.0
+Gonzalez,Steve,male,New Zealand,8,2021,Commercial art gallery manager,2030.21,8.6
+Davenport,Jeremy,male,Afghanistan,1,2022,Commercial art gallery manager,2106.09,8.4
+Brooks,Jonathan,male,Monaco,5,2022,Restaurant manager,1899.48,8.3
+White,Paul,male,British Virgin Islands,1,2021,Restaurant manager,1771.53,9.3
+Soto,Nicholas,female,Afghanistan,8,2021,Commercial art gallery manager,1872.55,9.6
+Davis,Matthew,male,New Zealand,8,2023,Restaurant manager,2111.14,10.0
+Peterson,Eric,female,British Virgin Islands,11,2021,Restaurant manager,2110.17,5.7
+Parker,Andrew,male,Jersey,3,2020,Restaurant manager,1908.88,7.1
+Norton,Steven,male,New Zealand,6,2023,Restaurant manager,1975.56,10.0
+Huang,Christopher,male,Algeria,1,2022,Commercial art gallery manager,1942.91,8.7
+Moore,Daniel,male,Niue,11,2022,"Editor, film/video",1944.78,8.0
+Mason,Lawrence,male,Algeria,3,2021,Restaurant manager,1932.72,9.1
+Salinas,Kyle,female,British Virgin Islands,12,2023,"Editor, film/video",2141.44,5.6
+Ellis,Aaron,female,Monaco,9,2021,"Editor, film/video",2035.04,8.6
+Heath,Scott,male,British Virgin Islands,12,2022,Commercial art gallery manager,1970.91,7.3
+Stone,Jonathan,male,Niue,2,2022,Restaurant manager,2018.77,5.5
+Powell,Richard,male,New Zealand,10,2023,"Editor, film/video",1963.12,8.7
+Douglas,Craig,male,Netherlands,1,2022,"Editor, film/video",2155.78,6.9
+Roman,Carlos,male,Jersey,7,2020,"Editor, film/video",1937.14,5.1
+Romero,Jeremy,male,Niue,8,2022,Restaurant manager,2034.17,6.7
+Hall,Ian,male,British Virgin Islands,6,2021,"Editor, film/video",2038.1,6.1
+Miller,Jackson,male,Netherlands,3,2021,Restaurant manager,1983.23,5.8
+Brown,Kevin,male,Netherlands,8,2021,Restaurant manager,2035.55,5.0
+Brooks,Michael,male,Czech Republic,4,2021,Restaurant manager,1976.23,9.2
+Duarte,Bradley,male,Japan,8,2021,Commercial art gallery manager,2090.92,9.4
+Nguyen,Andrew,male,Algeria,2,2021,"Editor, film/video",1952.81,8.6
+Taylor,Daniel,male,Netherlands,7,2022,Commercial art gallery manager,1964.23,8.8
+Lee,James,male,British Virgin Islands,7,2022,Restaurant manager,1992.43,7.1
+Moore,Evan,male,Algeria,8,2023,Restaurant manager,2154.7,7.7
+Walker,Ryan,male,Algeria,10,2020,Commercial art gallery manager,2040.21,8.4
+Garcia,Justin,male,British Virgin Islands,8,2021,Commercial art gallery manager,2043.57,6.1
+Moreno,Gabriel,male,Monaco,10,2023,Restaurant manager,2008.45,7.8
+Hall,Devon,female,Algeria,5,2023,"Editor, film/video",2111.74,7.5
+Moore,Brandon,female,New Zealand,3,2023,"Editor, film/video",2059.18,10.0
+Rhodes,David,female,Jersey,1,2021,Commercial art gallery manager,2080.05,5.0
+Mccann,Michael,male,Niue,11,2023,Commercial art gallery manager,2077.69,7.8
+Sharp,Michael,male,Monaco,4,2023,Commercial art gallery manager,2023.47,7.3
+Torres,John,male,New Zealand,12,2022,Restaurant manager,2157.44,9.8
+Sandoval,Matthew,female,Afghanistan,7,2020,"Editor, film/video",1983.67,8.5
+Rivers,Michael,male,Afghanistan,3,2023,"Editor, film/video",1937.94,9.9
+Cole,Tim,male,Monaco,6,2020,Commercial art gallery manager,2113.91,7.7
+Mathis,James,male,Czech Republic,4,2022,Restaurant manager,2077.48,8.2
+Gross,William,male,Algeria,7,2021,Restaurant manager,2088.86,5.2
+Williams,Dustin,male,British Virgin Islands,2,2023,Restaurant manager,1922.07,8.5
+Smith,Jim,female,British Virgin Islands,7,2023,Restaurant manager,2039.41,9.3
+Carlson,William,male,Monaco,2,2021,Restaurant manager,2039.43,6.8
+Parker,Robert,male,New Zealand,7,2022,Restaurant manager,2087.55,9.2
+Wagner,Alexander,male,Jersey,12,2021,Restaurant manager,2054.82,9.3
+Hicks,Jonathan,male,New Zealand,5,2021,Restaurant manager,2088.02,9.6
+Rosales,Erik,male,New Zealand,9,2020,"Editor, film/video",2004.45,10.0
+Wallace,Joseph,male,Netherlands,1,2020,Restaurant manager,1998.45,6.9
+Stewart,Cameron,female,Niue,8,2020,"Editor, film/video",2105.46,6.3
+Gilbert,Nathaniel,male,Jersey,11,2020,Restaurant manager,2100.58,5.2
+Flores,Wesley,female,Niue,10,2023,"Editor, film/video",2151.52,8.1
+Booth,Zachary,male,Jersey,12,2022,"Editor, film/video",2201.15,9.5
+Moyer,Jon,male,Niue,1,2021,"Editor, film/video",2059.46,6.7
+Jacobs,Alvin,male,New Zealand,8,2022,"Editor, film/video",2000.18,10.0
+Howe,Aaron,male,Japan,12,2020,Commercial art gallery manager,2069.48,8.2
+Ball,Mark,male,Niue,1,2021,Commercial art gallery manager,1839.39,5.7
+Delgado,Stephen,male,Czech Republic,2,2020,"Editor, film/video",1823.8,9.4
+Wong,Ryan,male,Monaco,10,2022,Commercial art gallery manager,1965.42,7.2
+Pennington,John,male,Afghanistan,8,2020,"Editor, film/video",1906.23,5.1
+Stevens,Mark,male,Japan,10,2021,Restaurant manager,2281.77,7.7
+Alexander,Alec,male,Japan,8,2023,Restaurant manager,1920.14,9.3
+Curtis,Travis,male,Afghanistan,4,2021,Commercial art gallery manager,2012.48,7.8
+Evans,Andrew,male,British Virgin Islands,7,2023,"Editor, film/video",1992.05,6.4
+Russell,Jordan,male,Niue,5,2022,Restaurant manager,1899.55,8.7
+Wright,William,female,Monaco,10,2021,Restaurant manager,2018.68,6.6
+Jones,Michael,male,Monaco,12,2023,Restaurant manager,2005.4,7.6
+Ho,Justin,male,Japan,8,2023,Restaurant manager,2009.71,6.0
+Bridges,Christopher,male,Jersey,11,2020,"Editor, film/video",1902.95,9.3
+Hardin,Gary,male,Netherlands,8,2021,"Editor, film/video",1911.33,5.1
+Valenzuela,Robert,male,New Zealand,2,2022,Commercial art gallery manager,1746.06,8.5
+Smith,Micheal,male,New Zealand,4,2023,Restaurant manager,2165.78,10.0
+Burton,Travis,female,Japan,3,2022,"Editor, film/video",2055.89,5.4
+White,Joseph,female,Japan,5,2023,"Editor, film/video",1963.1,8.7
+Scott,Samuel,female,Niue,3,2022,Commercial art gallery manager,2092.47,7.0
+Singleton,Daniel,male,Niue,10,2023,"Editor, film/video",2017.15,5.4
+Mayer,Blake,male,Netherlands,9,2020,Restaurant manager,1960.82,9.2
+Turner,Joshua,male,Algeria,3,2022,"Editor, film/video",1936.23,7.9
+Farrell,Rodney,male,Afghanistan,4,2023,Commercial art gallery manager,1920.69,9.5
+Bailey,Taylor,male,Monaco,8,2023,"Editor, film/video",2054.6,5.8
+Grant,Michael,male,Niue,8,2022,Commercial art gallery manager,2083.32,6.7
+Hernandez,Jason,male,Algeria,4,2021,Restaurant manager,2062.61,5.2
+Nelson,Sean,male,Niue,9,2022,Commercial art gallery manager,2170.94,8.9
+Johnston,Michael,male,Afghanistan,5,2022,Restaurant manager,2054.52,9.7
+Collins,Michael,male,New Zealand,11,2023,Restaurant manager,2074.62,7.0
+Lowe,Chad,male,Algeria,1,2022,Commercial art gallery manager,1984.44,9.8
+Perkins,Daniel,male,British Virgin Islands,5,2023,Restaurant manager,2136.99,8.2
+Diaz,Mark,male,New Zealand,8,2023,Restaurant manager,2052.12,10.0
+Bernard,Manuel,male,Japan,2,2020,Commercial art gallery manager,1994.21,8.3
+Myers,Justin,male,New Zealand,9,2023,"Editor, film/video",2075.65,10.0
+Ryan,Christopher,female,New Zealand,5,2022,Restaurant manager,1775.22,9.0
+Mahoney,Michael,male,Algeria,5,2020,Restaurant manager,1961.37,8.2
+Jones,Donald,male,Afghanistan,8,2023,"Editor, film/video",2040.55,5.1
+Lee,Brian,male,Netherlands,10,2023,Restaurant manager,1842.08,8.9
+Ramirez,Nicholas,male,Niue,7,2022,Restaurant manager,1896.03,8.0
+Decker,Gregory,male,New Zealand,8,2022,"Editor, film/video",1912.89,10.0
+Perez,Nicholas,male,Algeria,2,2021,Restaurant manager,1829.12,7.4
+Wilson,Brian,male,Netherlands,3,2020,"Editor, film/video",2130.07,7.2
+Miller,William,male,British Virgin Islands,7,2023,Restaurant manager,1879.23,6.3
+Shelton,Joshua,male,Algeria,2,2021,Commercial art gallery manager,2159.58,8.0
+Gilbert,Michael,male,Czech Republic,2,2021,Restaurant manager,1697.23,8.6
+Smith,Robert,male,Niue,4,2021,Restaurant manager,2091.25,5.3
+Carrillo,Aaron,male,Niue,8,2021,Commercial art gallery manager,2061.14,6.8
+Brown,Christopher,male,Monaco,8,2021,Commercial art gallery manager,2226.67,8.4
+Hart,Keith,male,British Virgin Islands,2,2020,Commercial art gallery manager,1920.49,8.2
+Johnson,Shane,male,Netherlands,11,2022,"Editor, film/video",1930.05,5.5
+Martinez,Donald,male,Netherlands,3,2022,Restaurant manager,1960.7,5.5
+Dixon,Wesley,male,New Zealand,6,2023,"Editor, film/video",1882.96,9.9
+Lowe,Kevin,male,British Virgin Islands,6,2021,Commercial art gallery manager,1994.79,9.4
+Johnson,Jonathan,male,Japan,10,2020,Restaurant manager,2037.55,8.0
+Espinoza,Michael,male,Niue,7,2021,"Editor, film/video",1921.82,5.3
+Hunter,Kevin,male,Netherlands,10,2022,Restaurant manager,2085.36,6.6
+Robinson,Richard,male,Afghanistan,7,2020,"Editor, film/video",2010.15,7.5
+Watkins,Sean,female,Jersey,2,2021,"Editor, film/video",2127.03,9.6
+Jones,Aaron,male,New Zealand,6,2021,Restaurant manager,2189.44,9.0
+Beltran,John,male,Netherlands,10,2021,Restaurant manager,2026.65,8.5
+Vargas,Benjamin,male,Czech Republic,9,2022,Restaurant manager,2000.89,7.3
+Zhang,Jeffrey,male,Afghanistan,3,2023,"Editor, film/video",1880.06,9.8
+Smith,Phillip,male,Monaco,3,2020,"Editor, film/video",2173.14,5.6
+Brown,Michael,male,Niue,6,2021,"Editor, film/video",2118.17,8.1
+Wallace,Tyler,male,Jersey,9,2021,Commercial art gallery manager,1858.85,7.7
+Waters,Logan,male,Afghanistan,8,2020,Restaurant manager,1886.62,6.1
+Nixon,Leon,male,Algeria,8,2020,"Editor, film/video",2078.95,9.4
+Skinner,Spencer,male,Netherlands,3,2023,"Editor, film/video",1943.75,8.9
+Decker,Patrick,female,Japan,1,2020,Restaurant manager,2017.81,9.7
+Martin,Matthew,male,Netherlands,9,2023,Commercial art gallery manager,2072.68,7.4
+Marshall,Edward,male,Niue,8,2020,"Editor, film/video",1747.23,6.9
+Wright,Brian,male,Jersey,7,2023,"Editor, film/video",2088.94,5.9
+Blackwell,Justin,male,Niue,12,2021,Commercial art gallery manager,2091.49,5.3
+Lopez,Anthony,male,Japan,1,2022,"Editor, film/video",1974.55,7.3
+Mcdonald,Juan,male,Monaco,4,2021,Commercial art gallery manager,1945.05,9.4
+Collins,Michael,male,New Zealand,11,2020,Restaurant manager,1994.08,8.6
+Good,Todd,female,New Zealand,1,2023,"Editor, film/video",1992.79,10.0
+Thomas,Dale,male,New Zealand,1,2021,Restaurant manager,2014.63,10.0
+Ramirez,Brian,male,Netherlands,12,2023,"Editor, film/video",2069.28,6.4
+Chapman,Keith,male,Algeria,6,2023,Restaurant manager,2052.62,8.7
+Hester,Brian,male,Netherlands,9,2021,Restaurant manager,1891.68,7.5
+Thompson,Steven,male,Japan,8,2021,Restaurant manager,2261.66,5.8
+Mills,Zachary,male,Niue,3,2022,Commercial art gallery manager,2010.14,8.9
+Sanchez,Bobby,male,Jersey,6,2023,"Editor, film/video",1990.63,8.5
+Parker,Christopher,male,Niue,3,2022,Commercial art gallery manager,2040.91,9.9
+Martinez,Bryan,male,Afghanistan,4,2023,"Editor, film/video",2147.91,9.9
+Brown,James,male,Jersey,8,2020,"Editor, film/video",1942.13,7.6
+Carlson,Robert,male,Netherlands,1,2021,Restaurant manager,1972.89,5.3
+Butler,Kyle,female,Netherlands,5,2021,Restaurant manager,2122.31,6.5
+Meyer,Dylan,female,New Zealand,7,2021,Restaurant manager,1970.03,7.9
+Brennan,Timothy,male,Monaco,10,2021,Commercial art gallery manager,1925.0,5.7
+Payne,Samuel,female,Jersey,6,2021,"Editor, film/video",2138.22,8.5
+Clay,Paul,male,Jersey,7,2020,"Editor, film/video",2055.58,8.3
+Walsh,William,male,Afghanistan,2,2022,Commercial art gallery manager,2206.76,5.6
+Jones,Andrew,male,Netherlands,6,2020,Restaurant manager,2071.53,8.4
+Blanchard,Chase,female,Jersey,12,2022,Restaurant manager,2052.54,9.1
+Stein,Timothy,male,Algeria,2,2021,"Editor, film/video",1984.04,8.7
+Washington,Walter,male,New Zealand,12,2020,Commercial art gallery manager,1895.53,10.0
+Henderson,James,male,Jersey,7,2021,"Editor, film/video",1974.03,6.9
+Robinson,Aaron,female,Afghanistan,6,2023,"Editor, film/video",1998.02,6.2
+Nguyen,Jeffrey,male,Netherlands,5,2023,"Editor, film/video",2082.81,9.3
+Potts,James,male,Monaco,6,2023,Commercial art gallery manager,2084.07,6.2
+Brown,Shawn,male,Algeria,9,2021,"Editor, film/video",1868.66,8.9
+Williams,Craig,male,Czech Republic,6,2023,Commercial art gallery manager,1975.11,7.6
+Lopez,Paul,male,Algeria,7,2022,Commercial art gallery manager,2079.42,9.3
+Calderon,Franklin,male,New Zealand,11,2022,Commercial art gallery manager,2108.2,10.0
+Morton,Gavin,male,Jersey,4,2020,"Editor, film/video",2001.79,6.5
+Wilkinson,Jared,female,Afghanistan,11,2022,Commercial art gallery manager,1994.78,7.3
+Mahoney,Richard,male,British Virgin Islands,7,2023,"Editor, film/video",2127.49,7.1
+Green,Michael,male,Netherlands,6,2021,Restaurant manager,1959.14,8.7
+Robinson,Jimmy,male,Netherlands,6,2022,"Editor, film/video",2034.42,6.6
+Reyes,Johnny,male,Monaco,5,2020,Restaurant manager,2115.08,9.7
+Dennis,Peter,female,Jersey,7,2020,Restaurant manager,1905.24,5.1
+Rodriguez,Joe,male,Jersey,3,2022,Restaurant manager,2082.52,5.6
+Hurst,Dennis,male,British Virgin Islands,6,2021,"Editor, film/video",2140.99,5.9
+Peters,Brian,female,Jersey,6,2020,"Editor, film/video",1976.51,5.6
+Sparks,Kevin,male,Monaco,11,2021,Restaurant manager,2089.98,5.6
+Norton,George,female,British Virgin Islands,8,2023,Restaurant manager,2008.15,5.2
+Barajas,Leonard,male,Netherlands,12,2021,Commercial art gallery manager,2058.99,8.7
+Thomas,Melvin,male,Jersey,7,2023,Restaurant manager,1862.76,9.6
+Carroll,Alan,male,Japan,8,2023,Restaurant manager,1739.78,8.6
+Romero,Vincent,male,New Zealand,9,2020,Commercial art gallery manager,2063.46,8.2
+Case,Marcus,male,New Zealand,8,2022,Restaurant manager,2041.03,10.0
+Phillips,Louis,male,New Zealand,2,2023,"Editor, film/video",1816.56,9.1
+Fox,Justin,male,Algeria,12,2021,Restaurant manager,1990.63,9.6
+Gomez,Christopher,male,Jersey,3,2023,Commercial art gallery manager,2084.97,10.0
+Anderson,Alexander,male,Afghanistan,6,2021,Commercial art gallery manager,1989.81,9.8
+Crawford,Justin,male,Jersey,10,2022,"Editor, film/video",2016.89,9.0
+Martin,Jared,male,Japan,11,2023,Commercial art gallery manager,2144.08,6.1
+Davis,Jesse,male,British Virgin Islands,5,2020,"Editor, film/video",2118.59,7.3
+Phillips,Brian,female,Niue,10,2023,Commercial art gallery manager,2084.78,9.3
+Carroll,James,male,Jersey,8,2021,Restaurant manager,1854.35,5.1
+Watson,John,female,Jersey,8,2022,"Editor, film/video",2001.56,7.6
+Baker,Jonathan,male,Afghanistan,9,2021,Restaurant manager,1906.28,10.0
+Pham,Francis,male,New Zealand,9,2022,Restaurant manager,1775.84,8.6
+Newman,James,male,Netherlands,8,2020,Commercial art gallery manager,2027.89,7.0
+Kaufman,Tommy,male,Jersey,7,2021,"Editor, film/video",1975.96,9.5
+Jenkins,Thomas,male,New Zealand,6,2021,Commercial art gallery manager,1805.0,9.7
+Sanchez,Jonathan,male,British Virgin Islands,11,2021,Restaurant manager,2020.88,6.6
+Taylor,Brian,male,New Zealand,5,2023,Commercial art gallery manager,2041.62,10.0
+Anderson,George,male,Netherlands,5,2020,Restaurant manager,2038.74,5.3
+Campos,Gregory,male,Jersey,4,2022,Restaurant manager,2173.84,9.9
+Jennings,John,male,Monaco,1,2022,"Editor, film/video",2010.13,7.0
+King,Donald,male,Monaco,5,2022,Restaurant manager,2047.44,5.1
+Greene,Michael,male,New Zealand,4,2023,Restaurant manager,2154.79,10.0
+Bowers,Derrick,male,New Zealand,5,2020,Restaurant manager,1930.06,8.8
+Blair,Matthew,male,Jersey,3,2021,"Editor, film/video",2019.09,6.8
+Dougherty,Matthew,male,Netherlands,7,2023,Restaurant manager,2054.35,9.7
+Wilkinson,Terry,male,Netherlands,9,2020,"Editor, film/video",1867.49,9.6
+Howard,Kenneth,female,Monaco,12,2020,Commercial art gallery manager,1979.79,5.8
+Davis,Timothy,male,New Zealand,9,2021,Commercial art gallery manager,2024.82,10.0
+Blake,Jeffery,male,Jersey,10,2022,Restaurant manager,2095.86,7.2
+Hall,Daniel,male,Netherlands,6,2022,Restaurant manager,2066.48,9.5
+Chavez,Jack,male,Czech Republic,1,2022,Restaurant manager,2043.03,5.2
+Rodriguez,Carlos,male,Czech Republic,4,2023,Commercial art gallery manager,2066.68,9.1
+Jones,Marcus,male,Afghanistan,11,2021,"Editor, film/video",1982.81,6.2
+Smith,Roy,female,Jersey,11,2020,Commercial art gallery manager,1882.98,9.5
+Cherry,Stuart,male,Japan,12,2022,Restaurant manager,2079.21,9.9
+Carpenter,Derek,female,Jersey,2,2021,Commercial art gallery manager,2044.59,6.8
+Richards,Matthew,female,British Virgin Islands,5,2022,Restaurant manager,2114.68,9.6
+Cooper,Erik,male,New Zealand,10,2022,Restaurant manager,2002.14,10.0
+Dickson,Michael,male,Afghanistan,12,2022,Commercial art gallery manager,2066.08,8.4
+Beltran,Gregory,male,Japan,12,2020,Restaurant manager,1918.74,9.6
+Ford,George,female,New Zealand,7,2023,"Editor, film/video",1995.63,9.3
+Ramirez,Eric,male,New Zealand,9,2022,"Editor, film/video",2099.57,8.7
+Ramos,Daniel,female,Jersey,3,2023,Restaurant manager,2013.02,6.5
+Moore,Alec,male,Jersey,12,2021,Restaurant manager,1901.93,5.4
+Anderson,Joseph,male,Czech Republic,4,2021,Restaurant manager,2085.44,9.2
+Mendez,Bradley,male,Czech Republic,8,2021,"Editor, film/video",2008.01,8.6
+Cooper,Michael,male,Jersey,6,2023,"Editor, film/video",1924.15,8.1
+Coleman,William,female,Afghanistan,12,2023,Restaurant manager,1975.59,8.1
+Hernandez,Matthew,male,Algeria,5,2023,Restaurant manager,1975.97,5.8
+Freeman,Daniel,male,British Virgin Islands,12,2020,Restaurant manager,1801.05,5.6
+Richardson,Brian,female,Algeria,8,2023,Restaurant manager,1851.33,7.5
+Camacho,Paul,female,Jersey,8,2020,"Editor, film/video",2005.49,9.2
+Bray,Darrell,male,Algeria,8,2022,Restaurant manager,2017.41,7.8
+Lewis,Edward,male,Jersey,3,2020,"Editor, film/video",1982.87,8.4
+Reyes,Benjamin,female,Jersey,5,2021,"Editor, film/video",2212.72,7.3
+Short,Nicholas,male,New Zealand,8,2021,Restaurant manager,1968.74,9.7
+Beck,Casey,male,Czech Republic,8,2021,"Editor, film/video",2156.94,8.9
+Crosby,Anthony,male,Algeria,7,2021,"Editor, film/video",1853.09,6.9
+Kerr,James,male,Algeria,12,2020,"Editor, film/video",2082.27,5.1
+Lewis,Mason,female,Niue,10,2022,Restaurant manager,1986.64,7.3
+Smith,Danny,male,Jersey,12,2021,Commercial art gallery manager,2068.93,7.3
+Flowers,Michael,male,Afghanistan,12,2020,"Editor, film/video",2094.25,5.1
+Oliver,James,male,Algeria,8,2022,"Editor, film/video",2023.84,7.7
+Harvey,Christopher,male,British Virgin Islands,3,2022,"Editor, film/video",2090.62,6.0
+Mathews,Robert,male,British Virgin Islands,4,2021,Commercial art gallery manager,1898.75,8.3
+Robbins,Daniel,male,New Zealand,10,2022,Restaurant manager,2117.11,10.0
+Montoya,Jaime,male,British Virgin Islands,8,2022,Restaurant manager,1887.29,5.2
+Nichols,Zachary,male,Afghanistan,8,2021,Commercial art gallery manager,2093.54,6.5
+Dudley,Scott,male,Jersey,6,2021,Restaurant manager,1977.74,6.6
+Taylor,Walter,female,Jersey,7,2023,Restaurant manager,2001.28,6.0
+Shea,Kevin,female,New Zealand,11,2021,"Editor, film/video",2067.94,10.0
+Decker,Gary,male,British Virgin Islands,11,2020,"Editor, film/video",2090.2,9.9
+Cummings,Steven,male,Algeria,3,2023,Commercial art gallery manager,1933.82,8.5
+Haynes,Ronald,male,Jersey,3,2022,"Editor, film/video",1958.74,5.9
+Mack,Michael,male,Niue,2,2023,Restaurant manager,1888.59,7.3
+Lopez,Timothy,male,Niue,12,2020,Commercial art gallery manager,1946.46,6.2
+Dyer,Benjamin,male,British Virgin Islands,11,2023,Commercial art gallery manager,2017.18,6.5
+Gomez,Manuel,male,New Zealand,3,2023,"Editor, film/video",1931.22,9.7
+Burnett,Angel,male,Algeria,10,2023,"Editor, film/video",1908.05,8.4

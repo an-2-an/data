@@ -1,0 +1,290 @@
+last_name,first_name,gender,country,month,year,job,payment,rating
+Moore,Anthony,female,British Virgin Islands,9,2020,"Scientist, research (physical sciences)",2049.89,5.6
+White,Derrick,female,Bosnia and Herzegovina,8,2023,"Scientist, research (physical sciences)",2185.25,7.6
+Rojas,Ricky,female,British Virgin Islands,9,2022,"Scientist, research (physical sciences)",2094.84,8.3
+Tucker,Richard,female,Jordan,6,2020,Operational investment banker,1854.97,5.2
+Schultz,Brian,female,Jordan,8,2022,Operational investment banker,1959.58,7.9
+Campbell,Donald,female,Guinea-Bissau,11,2020,"Scientist, research (physical sciences)",1960.59,5.1
+Martinez,Jordan,female,Kiribati,10,2020,Operational investment banker,1931.03,5.9
+Flores,Gregory,female,Kiribati,4,2021,Operational investment banker,2229.56,8.6
+Harris,Robert,female,Kiribati,10,2021,"Scientist, research (physical sciences)",1992.48,6.7
+Johnson,John,female,Saint Helena,7,2022,Operational investment banker,2127.1,6.9
+Warren,Jerry,female,Jordan,6,2022,"Scientist, research (physical sciences)",2103.78,6.6
+Thomas,Robert,female,Guatemala,11,2020,Lobbyist,1870.84,8.1
+Moran,Keith,female,Kiribati,12,2021,"Scientist, research (physical sciences)",1864.99,5.5
+Patterson,Scott,female,British Virgin Islands,5,2020,Industrial buyer,2069.07,5.5
+Jordan,Paul,female,British Virgin Islands,3,2022,"Scientist, research (physical sciences)",1958.24,9.7
+Wu,Aaron,female,Bosnia and Herzegovina,3,2021,"Scientist, research (physical sciences)",2025.52,5.7
+Thompson,Timothy,female,Jordan,9,2022,Operational investment banker,2082.61,7.9
+Campbell,Brian,female,Jordan,8,2021,Lobbyist,2033.42,8.2
+Webster,Thomas,female,Saint Helena,3,2023,Operational investment banker,2087.95,6.3
+Cameron,Ryan,female,Guinea-Bissau,1,2021,Operational investment banker,1962.36,8.8
+Turner,Gregory,female,United States of America,5,2021,Lobbyist,1987.96,7.4
+Schwartz,Daniel,female,Guatemala,9,2023,Industrial buyer,2018.12,6.2
+Anderson,Brian,female,Guinea-Bissau,1,2023,Industrial buyer,1959.87,8.4
+Hanson,Gabriel,female,United States of America,7,2023,"Scientist, research (physical sciences)",2022.68,10.0
+Wilson,Earl,female,Guinea-Bissau,11,2022,Lobbyist,1998.04,9.9
+Mendoza,Joseph,female,Kiribati,5,2020,Lobbyist,2058.92,8.1
+Kelly,Lucas,male,Guinea-Bissau,8,2020,Industrial buyer,2001.17,8.2
+Bruce,Jeffrey,female,Bosnia and Herzegovina,5,2023,"Scientist, research (physical sciences)",1975.93,5.4
+Stevenson,Stephen,female,Guinea-Bissau,1,2023,"Scientist, research (physical sciences)",1901.3,8.8
+Kelly,Roger,female,Guatemala,3,2020,"Scientist, research (physical sciences)",2055.36,9.5
+Barnes,Matthew,female,United States of America,6,2021,Operational investment banker,2215.94,8.0
+Henderson,Christopher,female,Guinea-Bissau,11,2020,Industrial buyer,1806.02,7.5
+Williams,Raymond,female,Guinea-Bissau,12,2021,Industrial buyer,2053.58,5.4
+Morris,Charles,female,United States of America,3,2023,Operational investment banker,1842.2,10.0
+Baird,Kevin,female,British Virgin Islands,3,2021,Industrial buyer,1982.72,6.0
+Miller,Eric,female,United States of America,4,2020,Operational investment banker,1897.35,9.9
+Williamson,Jordan,male,Kiribati,8,2021,"Scientist, research (physical sciences)",2066.8,5.9
+Olsen,Daniel,female,United States of America,2,2023,Lobbyist,2138.6,7.6
+Garcia,Michael,male,Bosnia and Herzegovina,7,2022,"Scientist, research (physical sciences)",1996.19,5.8
+Guerrero,Ronald,female,Guinea-Bissau,9,2023,Lobbyist,2111.34,6.8
+White,Alexander,female,Kiribati,10,2020,Lobbyist,1966.86,5.2
+Simmons,Jeffrey,female,United States of America,12,2023,Industrial buyer,2031.02,8.2
+Clarke,Dennis,female,Guatemala,12,2020,Operational investment banker,2008.74,7.2
+Anderson,Jerry,female,Saint Helena,11,2022,"Scientist, research (physical sciences)",1990.67,5.0
+Lee,Timothy,female,Guatemala,1,2021,Lobbyist,1948.25,7.2
+Hurst,William,female,British Virgin Islands,8,2022,Lobbyist,1895.55,6.6
+Vargas,Pedro,female,Kiribati,8,2020,Lobbyist,1868.7,5.9
+Lowe,Michael,female,Saint Helena,8,2022,"Scientist, research (physical sciences)",2101.5,8.7
+Moore,Martin,female,British Virgin Islands,9,2023,"Scientist, research (physical sciences)",2206.05,7.8
+Moore,William,female,British Virgin Islands,11,2023,Lobbyist,1967.93,8.2
+Mason,Matthew,female,British Virgin Islands,2,2023,Lobbyist,1871.73,6.4
+Campbell,John,female,Kiribati,4,2023,Operational investment banker,1795.98,7.9
+Wiggins,Adam,female,Bosnia and Herzegovina,5,2020,Operational investment banker,1868.0,9.9
+Gonzales,Jonathan,female,Guinea-Bissau,5,2021,Operational investment banker,2032.46,5.2
+Morales,Roger,female,United States of America,12,2020,"Scientist, research (physical sciences)",1928.5,10.0
+Glass,Evan,female,Guinea-Bissau,11,2021,Operational investment banker,2027.78,8.9
+Sims,Anthony,female,Saint Helena,8,2023,"Scientist, research (physical sciences)",1996.16,6.4
+Williams,Lance,female,Slovakia (Slovak Republic),12,2021,Lobbyist,2134.56,8.6
+Moore,Jason,female,United States of America,11,2022,Operational investment banker,2018.72,10.0
+Richards,Steve,female,British Virgin Islands,1,2021,Lobbyist,1942.22,8.2
+Thomas,Robert,female,Kiribati,6,2021,"Scientist, research (physical sciences)",2049.69,5.2
+Perez,Robert,female,British Virgin Islands,7,2021,Lobbyist,2043.86,7.7
+Schaefer,Clarence,female,British Virgin Islands,11,2022,Operational investment banker,2115.03,6.9
+Charles,David,female,British Virgin Islands,4,2023,Operational investment banker,1827.19,7.7
+Walters,Terry,female,Kiribati,6,2022,Lobbyist,2014.61,9.1
+Escobar,Shawn,female,Kiribati,12,2023,Industrial buyer,1922.65,5.4
+Ray,Christopher,female,Kiribati,2,2022,"Scientist, research (physical sciences)",1858.29,9.9
+Ramsey,Timothy,female,Guatemala,12,2021,Operational investment banker,2027.76,6.8
+Brooks,Thomas,female,Bosnia and Herzegovina,3,2023,Lobbyist,1979.9,6.8
+Kim,David,male,Slovakia (Slovak Republic),6,2022,Industrial buyer,2056.3,9.5
+Reyes,Levi,female,British Virgin Islands,7,2020,Industrial buyer,1993.95,8.1
+Lynn,Joshua,female,Guinea-Bissau,12,2023,Industrial buyer,2017.11,7.5
+Nguyen,Manuel,female,Saint Helena,12,2020,"Scientist, research (physical sciences)",2035.85,8.0
+Delgado,Reginald,female,Kiribati,7,2023,Lobbyist,2196.88,6.7
+Khan,Douglas,female,Guinea-Bissau,6,2020,Lobbyist,2074.97,9.3
+Graham,Jose,female,Guatemala,8,2020,Industrial buyer,1998.45,5.5
+Wilson,Matthew,female,British Virgin Islands,4,2023,Operational investment banker,2039.14,8.7
+Nixon,Seth,female,Guinea-Bissau,6,2022,Operational investment banker,2011.66,5.1
+Hood,Angel,female,British Virgin Islands,11,2020,Operational investment banker,2158.81,6.2
+Jones,Robert,female,Slovakia (Slovak Republic),1,2022,Lobbyist,1777.99,6.6
+Jones,Michael,female,Guinea-Bissau,8,2021,Lobbyist,1966.81,7.6
+Parker,John,female,Guatemala,7,2020,Operational investment banker,2004.81,8.4
+Weeks,Matthew,female,Guatemala,12,2021,"Scientist, research (physical sciences)",1895.93,5.8
+Barajas,Edward,female,Guinea-Bissau,3,2020,Industrial buyer,1908.59,7.2
+Thompson,Matthew,female,Guatemala,7,2020,Operational investment banker,1921.38,9.6
+Allen,Michael,female,Guinea-Bissau,2,2021,Operational investment banker,2081.0,6.9
+Daniel,Zachary,female,United States of America,5,2021,Operational investment banker,2024.42,9.2
+Garcia,Michael,female,Kiribati,7,2022,"Scientist, research (physical sciences)",1778.12,9.1
+Jimenez,Christopher,female,Guinea-Bissau,6,2022,Operational investment banker,1906.91,9.2
+Powell,Gary,female,Kiribati,6,2021,Industrial buyer,1955.51,5.5
+Arnold,Micheal,female,Bosnia and Herzegovina,9,2022,Lobbyist,2033.72,5.6
+Ramos,William,female,Guinea-Bissau,4,2023,Industrial buyer,1856.88,9.0
+Wong,Christopher,female,Slovakia (Slovak Republic),7,2022,Lobbyist,2153.25,6.7
+Clark,Mark,female,British Virgin Islands,7,2020,Industrial buyer,2161.36,7.8
+Benson,Bryan,female,Kiribati,12,2020,"Scientist, research (physical sciences)",1937.07,5.9
+Rhodes,Justin,female,Jordan,9,2020,Operational investment banker,1945.31,6.3
+Buck,David,female,Bosnia and Herzegovina,8,2022,Lobbyist,2037.15,7.2
+Garcia,Jordan,female,United States of America,6,2022,Lobbyist,2184.64,9.9
+Griffin,Matthew,female,Bosnia and Herzegovina,12,2022,Lobbyist,1905.22,7.8
+Glass,Kenneth,female,British Virgin Islands,6,2022,Lobbyist,2058.71,6.1
+Bennett,Adam,female,Bosnia and Herzegovina,12,2023,Lobbyist,2113.28,6.6
+Rodriguez,Andrew,female,British Virgin Islands,1,2023,Industrial buyer,1917.06,6.4
+Fowler,Robert,female,British Virgin Islands,3,2022,Operational investment banker,2007.55,5.3
+Reyes,Mark,female,British Virgin Islands,5,2022,Industrial buyer,1960.14,5.1
+Glover,Thomas,female,Guinea-Bissau,3,2022,"Scientist, research (physical sciences)",1898.72,8.5
+Carson,Gerald,female,United States of America,4,2022,"Scientist, research (physical sciences)",1949.76,10.0
+Bell,Robert,female,British Virgin Islands,5,2023,Lobbyist,2115.08,6.0
+Barajas,Andrew,female,Guinea-Bissau,12,2023,"Scientist, research (physical sciences)",2014.12,6.0
+Morrison,Ryan,female,Bosnia and Herzegovina,10,2023,Lobbyist,1879.12,8.9
+Allen,Michael,female,Bosnia and Herzegovina,10,2020,"Scientist, research (physical sciences)",1827.34,5.5
+Bernard,Todd,female,Jordan,3,2023,Operational investment banker,1971.34,8.4
+Brown,John,female,Slovakia (Slovak Republic),2,2020,Lobbyist,2043.97,10.0
+Herrera,Scott,female,British Virgin Islands,1,2021,Industrial buyer,1903.85,9.7
+Howard,Ryan,female,Kiribati,12,2022,Lobbyist,2158.23,9.1
+Flores,Thomas,female,Bosnia and Herzegovina,9,2022,Operational investment banker,2011.75,6.7
+Moreno,Ryan,female,United States of America,3,2020,Operational investment banker,1988.37,7.3
+Gregory,Kevin,female,Slovakia (Slovak Republic),3,2023,"Scientist, research (physical sciences)",2029.75,7.1
+Evans,Carlos,female,British Virgin Islands,7,2022,"Scientist, research (physical sciences)",2017.22,7.9
+Freeman,Nicholas,female,Slovakia (Slovak Republic),12,2021,Lobbyist,1928.29,6.8
+Wagner,Jeremy,female,British Virgin Islands,10,2020,"Scientist, research (physical sciences)",2059.81,5.3
+Jordan,Matthew,female,British Virgin Islands,10,2020,Operational investment banker,2017.22,6.7
+Golden,Richard,female,British Virgin Islands,1,2022,"Scientist, research (physical sciences)",2018.54,9.0
+Dalton,Daniel,female,Kiribati,8,2020,Lobbyist,1858.73,6.5
+Mason,Matthew,male,Jordan,10,2023,Lobbyist,1817.82,5.8
+Morris,Cody,female,Guatemala,9,2020,Lobbyist,1923.72,6.4
+Melendez,Christopher,female,British Virgin Islands,3,2020,"Scientist, research (physical sciences)",2089.57,5.9
+Leonard,William,female,Guatemala,2,2023,Lobbyist,2128.76,9.0
+Mitchell,Matthew,female,Guinea-Bissau,10,2023,"Scientist, research (physical sciences)",2197.72,7.5
+Brown,Scott,female,Saint Helena,2,2021,Lobbyist,2189.66,8.1
+Lopez,Timothy,female,Jordan,9,2021,Industrial buyer,2083.16,5.6
+Ellis,Alex,female,Guinea-Bissau,7,2021,Industrial buyer,2102.34,9.2
+Collins,Joseph,female,Guinea-Bissau,9,2020,"Scientist, research (physical sciences)",1961.08,7.2
+Nelson,Carlos,female,Kiribati,6,2022,"Scientist, research (physical sciences)",1992.2,9.8
+West,Christopher,female,United States of America,12,2020,Operational investment banker,1973.56,9.2
+Edwards,Nathaniel,female,Saint Helena,5,2021,Operational investment banker,2139.29,8.6
+Martin,Daniel,female,United States of America,6,2021,"Scientist, research (physical sciences)",1970.68,10.0
+Gay,Paul,female,Slovakia (Slovak Republic),7,2021,"Scientist, research (physical sciences)",1978.4,7.3
+Myers,Nicholas,female,Guatemala,9,2021,"Scientist, research (physical sciences)",1984.5,6.7
+Carlson,Jason,female,Bosnia and Herzegovina,8,2020,"Scientist, research (physical sciences)",2178.66,5.4
+Harrison,Gabriel,female,Guatemala,4,2023,Lobbyist,2071.31,9.3
+Smith,Stanley,male,Kiribati,8,2021,"Scientist, research (physical sciences)",1986.22,8.7
+Sosa,Gabriel,female,Kiribati,9,2021,"Scientist, research (physical sciences)",2174.43,5.3
+Cook,Gary,female,United States of America,2,2023,Operational investment banker,2097.02,7.9
+Moon,Daniel,female,Guatemala,12,2023,Lobbyist,2057.58,8.6
+Dougherty,Juan,female,British Virgin Islands,12,2020,Lobbyist,1885.0,6.7
+Chen,Alejandro,female,Guinea-Bissau,10,2020,Industrial buyer,1895.68,8.2
+Huang,Carl,male,United States of America,8,2020,Industrial buyer,1996.89,10.0
+Hancock,Dylan,female,United States of America,5,2022,Lobbyist,1958.96,10.0
+Figueroa,William,female,Slovakia (Slovak Republic),9,2023,Industrial buyer,2106.94,9.9
+Campos,Jeffrey,male,Guinea-Bissau,9,2022,Lobbyist,2058.48,6.0
+Wise,Timothy,female,Guinea-Bissau,5,2020,"Scientist, research (physical sciences)",1814.37,9.3
+Clark,John,female,Slovakia (Slovak Republic),11,2022,"Scientist, research (physical sciences)",2123.35,6.5
+Santana,Joel,female,Kiribati,9,2020,Operational investment banker,1906.84,6.6
+Williams,Tyler,male,Guinea-Bissau,9,2021,Operational investment banker,1998.74,9.7
+Jennings,Nicolas,male,British Virgin Islands,11,2022,Lobbyist,2100.02,8.1
+Rivera,Nicholas,female,Bosnia and Herzegovina,8,2021,Operational investment banker,1935.78,8.6
+Edwards,Anthony,female,Slovakia (Slovak Republic),6,2021,"Scientist, research (physical sciences)",1816.88,5.0
+Walker,Joseph,female,Kiribati,2,2020,Operational investment banker,1982.75,6.5
+Johnson,John,female,Guinea-Bissau,7,2023,"Scientist, research (physical sciences)",2292.32,9.9
+Santiago,Wayne,female,Slovakia (Slovak Republic),12,2022,Lobbyist,1752.35,7.2
+Lopez,Ray,female,British Virgin Islands,1,2023,"Scientist, research (physical sciences)",2050.25,9.7
+Sanchez,Steven,female,Guatemala,10,2020,Industrial buyer,2224.58,9.8
+Bush,James,female,British Virgin Islands,9,2021,Operational investment banker,2085.44,7.7
+Carroll,George,female,Guatemala,5,2023,Lobbyist,1968.87,7.6
+Turner,James,female,Jordan,9,2021,Lobbyist,2084.2,7.5
+Buck,Dustin,female,Saint Helena,3,2023,Lobbyist,2122.18,5.8
+Smith,Mario,female,Slovakia (Slovak Republic),5,2021,"Scientist, research (physical sciences)",1991.72,9.5
+Lyons,Daniel,female,Jordan,3,2020,Industrial buyer,2044.4,7.3
+Stevens,Frank,female,Guinea-Bissau,8,2020,Operational investment banker,1876.9,7.6
+Roth,Marvin,female,Guatemala,6,2022,Operational investment banker,1937.33,5.3
+Cabrera,Dwayne,female,Guinea-Bissau,6,2023,Lobbyist,2037.85,8.2
+Rodriguez,Johnathan,female,Bosnia and Herzegovina,2,2023,"Scientist, research (physical sciences)",1805.79,6.1
+Perry,Scott,female,British Virgin Islands,4,2023,"Scientist, research (physical sciences)",2000.58,7.7
+Fitzgerald,Tyler,female,United States of America,7,2023,Lobbyist,1868.42,8.7
+Sandoval,Jeff,female,United States of America,6,2021,"Scientist, research (physical sciences)",1914.96,9.6
+Vasquez,Anthony,female,United States of America,4,2022,Lobbyist,1734.09,9.2
+Thompson,Michael,female,British Virgin Islands,3,2021,"Scientist, research (physical sciences)",1981.67,7.2
+Navarro,William,female,Slovakia (Slovak Republic),6,2023,"Scientist, research (physical sciences)",1952.19,9.3
+Davis,Allen,female,British Virgin Islands,12,2022,Industrial buyer,1950.3,7.8
+Grant,Darren,female,Guinea-Bissau,8,2023,Lobbyist,1930.23,7.8
+Oconnell,Anthony,female,Guinea-Bissau,4,2022,"Scientist, research (physical sciences)",2092.87,5.4
+Bullock,Carlos,male,Guinea-Bissau,11,2023,Operational investment banker,1890.73,5.0
+Bridges,Mark,female,Guatemala,11,2021,"Scientist, research (physical sciences)",1958.46,5.7
+Mcneil,Christopher,female,Jordan,5,2023,Lobbyist,2023.48,8.6
+Alexander,Christopher,female,Guatemala,5,2020,"Scientist, research (physical sciences)",2085.77,7.3
+Norton,Mario,female,British Virgin Islands,12,2023,Operational investment banker,1959.34,6.7
+Knox,Cody,female,Bosnia and Herzegovina,5,2021,"Scientist, research (physical sciences)",1874.79,9.8
+Rios,Luis,female,United States of America,8,2021,Industrial buyer,2107.13,7.1
+Boyd,James,female,Bosnia and Herzegovina,5,2021,"Scientist, research (physical sciences)",2016.94,7.4
+Anderson,Andrew,female,Guinea-Bissau,12,2023,Operational investment banker,1864.06,8.5
+Johnson,Todd,female,United States of America,9,2023,Lobbyist,1913.42,9.0
+Medina,Robert,female,Kiribati,7,2021,Lobbyist,2006.31,7.0
+Conley,Anthony,female,Guatemala,2,2022,"Scientist, research (physical sciences)",1856.99,9.5
+Cruz,Roberto,female,Guinea-Bissau,2,2022,Industrial buyer,1851.89,8.0
+Mills,Jason,female,Guinea-Bissau,11,2023,"Scientist, research (physical sciences)",2076.46,6.6
+Yu,William,male,British Virgin Islands,9,2023,Lobbyist,2025.06,7.4
+Morales,Martin,female,Bosnia and Herzegovina,6,2023,"Scientist, research (physical sciences)",2312.4,6.8
+Jimenez,Ryan,female,Jordan,7,2021,Lobbyist,1853.57,6.4
+Guzman,Raymond,male,Bosnia and Herzegovina,1,2023,Operational investment banker,1943.58,6.8
+Shields,Darryl,female,Guatemala,1,2023,"Scientist, research (physical sciences)",1937.3,8.3
+Richard,Patrick,female,Bosnia and Herzegovina,1,2022,Lobbyist,2046.45,6.8
+Jones,Steven,female,United States of America,7,2021,Operational investment banker,2165.43,7.0
+Rice,Jeremy,female,Kiribati,12,2020,Lobbyist,2151.15,9.2
+Gonzalez,John,female,British Virgin Islands,8,2023,"Scientist, research (physical sciences)",2045.11,7.8
+Simpson,Jeremy,female,British Virgin Islands,1,2020,Lobbyist,2129.38,6.2
+Ferguson,Adam,female,British Virgin Islands,3,2020,Operational investment banker,2091.68,7.9
+Mitchell,Dylan,female,Jordan,1,2022,Industrial buyer,1909.18,6.8
+Wells,Jason,female,Guatemala,11,2020,Industrial buyer,1847.61,9.3
+Daniels,Ryan,female,British Virgin Islands,12,2021,Lobbyist,2127.09,8.1
+Coleman,Johnny,female,Guinea-Bissau,10,2023,"Scientist, research (physical sciences)",2025.24,9.1
+Norris,James,female,Guinea-Bissau,7,2022,Operational investment banker,1995.36,9.7
+Sims,John,female,British Virgin Islands,10,2021,Lobbyist,1930.91,5.8
+Wang,Jeremy,female,Guatemala,6,2022,Industrial buyer,1874.27,5.8
+Ellis,Jesse,male,British Virgin Islands,4,2021,Operational investment banker,1866.77,5.2
+Alvarez,Daniel,female,United States of America,1,2020,Operational investment banker,1821.4,8.0
+Flores,Matthew,female,Guinea-Bissau,1,2021,Operational investment banker,1945.26,6.3
+Hernandez,Adrian,female,British Virgin Islands,12,2023,Lobbyist,1960.06,5.8
+Ruiz,Frank,female,Bosnia and Herzegovina,8,2022,Lobbyist,1876.19,6.1
+Frank,James,female,United States of America,7,2023,Lobbyist,2167.92,10.0
+Harris,Richard,female,United States of America,8,2020,"Scientist, research (physical sciences)",2143.51,10.0
+Meyer,David,female,Guinea-Bissau,2,2023,"Scientist, research (physical sciences)",2085.49,7.0
+Haney,William,female,Bosnia and Herzegovina,11,2020,"Scientist, research (physical sciences)",2059.58,7.2
+Hill,Eric,female,Saint Helena,6,2023,Industrial buyer,2045.59,6.1
+Morales,William,female,Saint Helena,6,2021,"Scientist, research (physical sciences)",2197.02,8.0
+Hill,Michael,female,Guinea-Bissau,7,2022,"Scientist, research (physical sciences)",2001.93,5.7
+Davis,Phillip,female,Guinea-Bissau,2,2020,Operational investment banker,1953.77,7.8
+Lewis,Austin,female,Guinea-Bissau,8,2022,Operational investment banker,2072.46,8.7
+Hoffman,David,female,Guinea-Bissau,4,2022,Lobbyist,2020.11,9.4
+Butler,Marc,female,United States of America,8,2020,Operational investment banker,2070.12,7.1
+Fernandez,Christopher,female,Slovakia (Slovak Republic),7,2022,Lobbyist,2073.72,9.6
+Rice,Joseph,female,United States of America,9,2023,Operational investment banker,1959.72,7.5
+Burns,Carl,female,Kiribati,4,2023,Lobbyist,1968.54,8.8
+Jones,Curtis,female,Bosnia and Herzegovina,7,2021,Lobbyist,1972.48,7.5
+Kline,Kevin,female,Slovakia (Slovak Republic),9,2021,"Scientist, research (physical sciences)",2112.87,8.9
+Bell,Nathan,female,Slovakia (Slovak Republic),11,2023,Lobbyist,2058.39,8.5
+Mills,Clifford,male,Bosnia and Herzegovina,11,2021,Industrial buyer,2098.14,9.3
+Wong,Jason,female,Guatemala,8,2021,Lobbyist,2037.03,5.7
+Diaz,David,female,Kiribati,7,2023,"Scientist, research (physical sciences)",1854.67,6.8
+Thomas,Charles,female,Bosnia and Herzegovina,2,2023,Lobbyist,1897.39,5.5
+Buckley,Marcus,female,Guinea-Bissau,5,2023,Operational investment banker,1901.17,9.4
+Hicks,Jeffrey,female,Guatemala,7,2022,Operational investment banker,2165.83,6.4
+Welch,Spencer,female,Slovakia (Slovak Republic),8,2023,Industrial buyer,1928.84,9.1
+Leonard,Brian,female,Guinea-Bissau,8,2023,"Scientist, research (physical sciences)",2063.31,9.9
+Burke,Cole,female,Guinea-Bissau,2,2022,Lobbyist,2072.41,5.8
+Robinson,Steven,female,Bosnia and Herzegovina,7,2020,"Scientist, research (physical sciences)",1941.99,8.8
+Johnson,John,female,Guatemala,5,2023,"Scientist, research (physical sciences)",1954.68,5.3
+Martin,Anthony,female,United States of America,12,2022,Operational investment banker,2053.82,10.0
+Buckley,Chris,female,Bosnia and Herzegovina,3,2022,Operational investment banker,2048.03,8.8
+Hall,Donald,female,United States of America,2,2021,"Scientist, research (physical sciences)",2074.31,10.0
+Simon,Gregory,female,Bosnia and Herzegovina,12,2023,"Scientist, research (physical sciences)",2000.77,9.9
+Robertson,William,female,Saint Helena,5,2020,Operational investment banker,2073.51,7.2
+Gould,Curtis,female,Guatemala,1,2022,"Scientist, research (physical sciences)",1997.44,7.0
+Flores,Daniel,female,Bosnia and Herzegovina,10,2023,"Scientist, research (physical sciences)",1780.42,7.6
+Leonard,Andrew,female,British Virgin Islands,3,2023,Operational investment banker,1964.63,7.5
+Mccormick,Jacob,female,Kiribati,4,2023,Operational investment banker,1987.04,9.1
+Hall,Joshua,female,Jordan,6,2020,Industrial buyer,1967.83,5.5
+Mills,Michael,female,Guatemala,5,2022,"Scientist, research (physical sciences)",1836.12,8.7
+Johnson,Chris,female,Jordan,12,2021,Operational investment banker,1950.14,7.2
+Smith,John,female,Saint Helena,6,2022,Lobbyist,2031.64,7.7
+Bailey,Nicholas,female,Kiribati,7,2020,Operational investment banker,2050.03,5.3
+Barron,William,female,British Virgin Islands,4,2022,"Scientist, research (physical sciences)",2028.53,6.9
+Smith,Kristopher,female,Kiribati,8,2023,Lobbyist,1970.43,7.6
+Mcmahon,Patrick,female,Saint Helena,6,2023,Lobbyist,1806.66,7.4
+Atkinson,Keith,female,United States of America,5,2020,"Scientist, research (physical sciences)",2067.57,10.0
+Bolton,Jonathon,female,British Virgin Islands,5,2021,Operational investment banker,2018.48,9.0
+Anderson,David,male,British Virgin Islands,10,2022,Industrial buyer,2038.72,7.1
+Kelley,Chris,female,Guinea-Bissau,1,2023,"Scientist, research (physical sciences)",1978.73,9.3
+Long,William,female,Guinea-Bissau,9,2023,Operational investment banker,2058.24,8.0
+Garcia,Travis,female,British Virgin Islands,12,2022,Industrial buyer,2124.23,9.9
+Allison,Robert,female,Kiribati,9,2021,"Scientist, research (physical sciences)",1971.8,7.4
+Hayes,Joshua,female,Guinea-Bissau,8,2023,Operational investment banker,2076.14,7.5
+Howell,David,female,Kiribati,2,2020,"Scientist, research (physical sciences)",2271.74,6.3
+Coffey,Kyle,female,Kiribati,8,2023,Industrial buyer,2009.46,8.0
+Baker,Willie,female,Bosnia and Herzegovina,3,2021,"Scientist, research (physical sciences)",1801.35,9.2
+Davis,Joseph,female,Guinea-Bissau,9,2022,"Scientist, research (physical sciences)",2239.65,6.7
+Christian,Ryan,female,Bosnia and Herzegovina,7,2021,Industrial buyer,1978.55,6.9
+Mahoney,Andrew,female,Guatemala,9,2023,Lobbyist,2049.88,6.5
+Smith,Kenneth,male,Kiribati,8,2020,"Scientist, research (physical sciences)",2157.33,7.1
+Grant,Wayne,male,United States of America,12,2021,Operational investment banker,2115.07,9.6
+Hill,Ronald,female,Slovakia (Slovak Republic),5,2023,Operational investment banker,2063.96,8.7
+Stevens,Michael,female,United States of America,2,2020,Lobbyist,1903.81,10.0
+Rasmussen,John,male,British Virgin Islands,7,2020,Operational investment banker,1995.5,9.3
+Brown,John,male,Guatemala,5,2022,Industrial buyer,2089.81,6.8
+Harvey,Adrian,female,Saint Helena,12,2021,"Scientist, research (physical sciences)",1944.66,9.3
+Johnson,Micheal,female,United States of America,12,2023,"Scientist, research (physical sciences)",1944.61,8.1
+Martinez,Vincent,female,Bosnia and Herzegovina,8,2022,Operational investment banker,2136.88,6.9
+Murphy,Robert,female,Guinea-Bissau,10,2021,"Scientist, research (physical sciences)",2036.88,8.7
+Johnson,Kenneth,female,Guinea-Bissau,10,2022,Operational investment banker,1952.3,7.5
+Chavez,Matthew,female,Guinea-Bissau,6,2020,Lobbyist,2053.51,6.4

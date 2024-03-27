@@ -1,0 +1,303 @@
+last_name,first_name,gender,country,month,year,job,payment,rating
+Cunningham,Robert,male,Tonga,2,2020,Company secretary,2079.61,8.3
+Rogers,Austin,male,Bahamas,2,2020,Furniture conservator/restorer,1974.16,6.4
+Salinas,Frank,male,Equatorial Guinea,4,2020,Furniture conservator/restorer,1936.51,5.1
+Johnson,Craig,male,Tonga,7,2020,Manufacturing systems engineer,2047.9,8.9
+Parker,Thomas,male,Finland,7,2023,Furniture conservator/restorer,1967.08,8.1
+Williams,Eric,male,Equatorial Guinea,2,2021,Manufacturing systems engineer,2041.78,8.5
+Barber,David,male,Switzerland,4,2023,Company secretary,1903.13,8.6
+Lam,Christopher,male,Equatorial Guinea,7,2020,Furniture conservator/restorer,1887.2,8.5
+Smith,James,male,Equatorial Guinea,7,2023,Manufacturing systems engineer,1993.78,6.2
+Barnes,Bryan,male,Bahamas,11,2020,Manufacturing systems engineer,1953.91,9.9
+Medina,Lee,female,Iraq,4,2021,Furniture conservator/restorer,1998.99,9.2
+Mcintyre,James,male,Tonga,4,2022,Manufacturing systems engineer,1892.81,6.6
+Collins,Tyrone,male,Christmas Island,4,2020,Furniture conservator/restorer,2067.93,5.3
+Murphy,Mark,female,Bahamas,9,2023,Furniture conservator/restorer,1994.13,9.5
+Hensley,David,male,Equatorial Guinea,12,2020,Manufacturing systems engineer,2027.79,9.8
+Thomas,Nathan,male,Finland,10,2020,Furniture conservator/restorer,2049.84,5.4
+Ward,Steven,male,Bahamas,9,2020,Company secretary,2036.21,8.0
+Hoffman,Ian,male,Antarctica (the territory South of 60 deg S),8,2023,Furniture conservator/restorer,2003.05,9.3
+Singh,Joshua,male,Antarctica (the territory South of 60 deg S),12,2022,Company secretary,2072.1,7.9
+Young,Michael,male,Bahamas,7,2023,Furniture conservator/restorer,2184.76,7.6
+Lowe,Shannon,male,Micronesia,6,2020,Furniture conservator/restorer,2068.41,7.6
+White,Christopher,female,Switzerland,5,2021,Company secretary,2028.73,9.2
+Mitchell,Eric,male,Tonga,6,2020,Company secretary,1796.77,9.9
+Jones,Brian,male,Finland,1,2023,Furniture conservator/restorer,1878.16,6.9
+Phillips,Alexander,male,Finland,5,2022,Furniture conservator/restorer,1870.48,8.4
+Bass,Nicholas,male,Iraq,7,2023,Furniture conservator/restorer,2104.84,7.3
+James,Brent,male,Lebanon,2,2021,Company secretary,1967.43,5.2
+Nelson,Charles,male,Equatorial Guinea,1,2023,Manufacturing systems engineer,2149.23,6.8
+Davis,Walter,male,Finland,5,2021,Manufacturing systems engineer,2162.42,6.7
+Watson,Joseph,male,Equatorial Guinea,12,2020,Furniture conservator/restorer,2031.3,9.0
+Coleman,Donald,male,Iraq,5,2020,Company secretary,2061.88,8.4
+Sanders,Scott,male,Bahamas,5,2023,Manufacturing systems engineer,2289.53,5.2
+Snyder,Jesus,male,Tonga,6,2022,Manufacturing systems engineer,2119.81,7.0
+Fisher,Cory,male,Bahamas,7,2020,Furniture conservator/restorer,1976.57,6.1
+Johnson,Jeremy,male,Micronesia,1,2021,Manufacturing systems engineer,2065.39,10.0
+Bennett,Christopher,male,Switzerland,9,2021,Manufacturing systems engineer,1970.37,5.6
+Tyler,Brian,male,Bahamas,9,2023,Company secretary,1892.62,6.3
+Bird,John,male,Finland,6,2022,Company secretary,1887.85,6.0
+Fowler,Steven,male,Micronesia,12,2022,Furniture conservator/restorer,1842.23,7.6
+Hess,Joseph,male,Switzerland,2,2022,Company secretary,2002.07,5.9
+Davis,Dakota,male,Iraq,4,2023,Furniture conservator/restorer,2014.58,8.5
+Lowe,Roy,male,Switzerland,7,2022,Furniture conservator/restorer,2114.17,7.8
+Galloway,Isaac,male,Switzerland,5,2020,Furniture conservator/restorer,2008.81,8.1
+Powell,Brian,male,Equatorial Guinea,12,2020,Company secretary,1993.5,5.9
+Price,Jeremy,female,Antarctica (the territory South of 60 deg S),3,2021,Manufacturing systems engineer,1927.51,7.4
+Webster,Jeremy,male,Antarctica (the territory South of 60 deg S),7,2021,Company secretary,2156.42,8.7
+Lynn,George,male,Antarctica (the territory South of 60 deg S),1,2021,Furniture conservator/restorer,1975.45,5.2
+Alvarado,Stephen,male,Tonga,4,2020,Furniture conservator/restorer,2045.12,8.4
+Brown,Robert,male,Finland,6,2021,Company secretary,2252.49,7.6
+Davis,William,male,Iraq,2,2023,Manufacturing systems engineer,1909.85,5.6
+Dodson,Mark,male,Antarctica (the territory South of 60 deg S),7,2023,Manufacturing systems engineer,2161.81,5.5
+Herman,Aaron,female,Equatorial Guinea,9,2021,Manufacturing systems engineer,2041.17,6.3
+White,Kevin,male,Tonga,2,2023,Furniture conservator/restorer,2026.46,7.1
+Fields,Jeffrey,male,Lebanon,5,2022,Manufacturing systems engineer,2169.03,9.3
+Coleman,Charles,male,Micronesia,1,2021,Manufacturing systems engineer,2011.76,10.0
+Clements,David,male,Iraq,5,2020,Furniture conservator/restorer,1977.45,6.7
+Soto,Nathan,male,Equatorial Guinea,7,2023,Company secretary,1983.25,7.1
+Hall,Samuel,male,Christmas Island,5,2023,Company secretary,2014.74,6.1
+Medina,Michael,male,Equatorial Guinea,12,2020,Company secretary,2112.67,7.5
+Stone,Michael,male,Equatorial Guinea,8,2020,Furniture conservator/restorer,1972.59,6.4
+Johnston,Donald,male,Micronesia,4,2021,Company secretary,1833.52,8.2
+Wood,Thomas,male,Iraq,4,2023,Furniture conservator/restorer,1766.55,6.0
+Carter,Brian,male,Finland,6,2021,Company secretary,1911.42,5.3
+Jones,Joshua,male,Iraq,4,2021,Company secretary,1839.42,6.5
+Young,Adam,male,Micronesia,11,2022,Furniture conservator/restorer,2173.05,10.0
+Morris,Gregory,male,Micronesia,10,2023,Manufacturing systems engineer,1932.7,10.0
+Dennis,Daniel,male,Switzerland,6,2021,Company secretary,2039.9,5.7
+Flores,Jason,male,Finland,12,2022,Manufacturing systems engineer,1985.72,7.6
+Ruiz,Sean,male,Finland,2,2023,Furniture conservator/restorer,2098.07,5.3
+Hawkins,Gregory,male,Bahamas,11,2021,Manufacturing systems engineer,2135.96,8.3
+Schwartz,David,male,Switzerland,12,2022,Manufacturing systems engineer,2139.47,7.2
+Wagner,Jason,male,Equatorial Guinea,7,2022,Manufacturing systems engineer,1849.31,5.2
+Vega,Michael,female,Finland,12,2021,Manufacturing systems engineer,2046.79,5.7
+Glenn,Michael,male,Tonga,8,2022,Company secretary,1988.63,5.1
+Gates,Marcus,male,Bahamas,9,2021,Company secretary,1937.74,6.3
+Walsh,Michael,male,Iraq,3,2020,Company secretary,2006.98,9.2
+Lang,Joshua,male,Bahamas,6,2022,Furniture conservator/restorer,2030.32,8.3
+Powell,Todd,male,Micronesia,5,2021,Manufacturing systems engineer,1873.54,10.0
+Guerrero,Michael,male,Finland,7,2022,Company secretary,1877.69,7.3
+Jensen,Sean,female,Christmas Island,5,2020,Company secretary,1951.29,9.8
+Mata,Andrew,male,Antarctica (the territory South of 60 deg S),3,2020,Manufacturing systems engineer,2106.51,8.4
+Scott,Albert,female,Antarctica (the territory South of 60 deg S),5,2022,Manufacturing systems engineer,2003.52,7.8
+Hall,Michael,male,Finland,1,2021,Manufacturing systems engineer,1929.77,8.5
+Bowman,Steven,female,Finland,3,2022,Furniture conservator/restorer,2048.49,9.9
+Coleman,Patrick,male,Equatorial Guinea,7,2022,Manufacturing systems engineer,1935.07,8.6
+Collier,Jason,female,Lebanon,2,2022,Company secretary,1899.43,9.4
+Snyder,Jacob,male,Equatorial Guinea,8,2023,Furniture conservator/restorer,1974.7,8.2
+Parsons,Luis,male,Equatorial Guinea,8,2021,Company secretary,1903.79,6.6
+Wilson,John,male,Micronesia,2,2021,Manufacturing systems engineer,1979.52,10.0
+Clayton,Brian,male,Antarctica (the territory South of 60 deg S),12,2023,Manufacturing systems engineer,1824.21,9.3
+Diaz,Barry,female,Tonga,8,2021,Furniture conservator/restorer,1957.23,5.3
+Conrad,Michael,male,Finland,2,2020,Furniture conservator/restorer,2096.37,5.3
+Gomez,John,male,Switzerland,6,2022,Manufacturing systems engineer,1844.08,7.6
+Gamble,Greg,male,Antarctica (the territory South of 60 deg S),1,2023,Manufacturing systems engineer,1988.78,5.2
+Stewart,Daryl,male,Equatorial Guinea,1,2021,Manufacturing systems engineer,2135.67,9.5
+Martin,Brandon,male,Lebanon,5,2023,Furniture conservator/restorer,1933.89,6.1
+Rose,Todd,male,Antarctica (the territory South of 60 deg S),12,2021,Furniture conservator/restorer,1948.31,9.5
+Gardner,Timothy,male,Finland,6,2021,Company secretary,1930.45,8.1
+Hall,Michael,male,Iraq,6,2020,Manufacturing systems engineer,1986.05,7.5
+Miller,Jack,male,Antarctica (the territory South of 60 deg S),6,2022,Furniture conservator/restorer,1996.3,9.4
+Salinas,Shawn,male,Switzerland,9,2021,Furniture conservator/restorer,2048.19,9.2
+Snyder,David,male,Antarctica (the territory South of 60 deg S),11,2022,Furniture conservator/restorer,2135.21,7.3
+Copeland,James,female,Christmas Island,6,2021,Manufacturing systems engineer,1902.32,5.6
+Morris,Brian,male,Antarctica (the territory South of 60 deg S),8,2021,Furniture conservator/restorer,1671.75,10.0
+Lambert,Steven,male,Christmas Island,4,2021,Furniture conservator/restorer,2086.96,6.6
+Chaney,Carl,male,Equatorial Guinea,4,2021,Furniture conservator/restorer,1951.4,5.7
+Henry,James,male,Bahamas,12,2021,Manufacturing systems engineer,1979.88,6.1
+Ruiz,Samuel,male,Christmas Island,4,2022,Furniture conservator/restorer,2054.38,9.9
+Gregory,Michael,female,Micronesia,12,2021,Company secretary,2031.29,10.0
+Newman,Earl,male,Switzerland,11,2023,Manufacturing systems engineer,2075.85,6.9
+Anderson,Jay,male,Antarctica (the territory South of 60 deg S),5,2020,Manufacturing systems engineer,2059.95,9.4
+Rosario,Dennis,female,Iraq,12,2021,Manufacturing systems engineer,2285.21,9.7
+Mckinney,John,female,Finland,1,2021,Manufacturing systems engineer,2096.68,8.2
+Allen,Jose,male,Switzerland,8,2022,Manufacturing systems engineer,1868.11,9.6
+Nicholson,Mark,male,Finland,7,2020,Company secretary,2187.24,5.0
+Gutierrez,Antonio,male,Iraq,5,2020,Furniture conservator/restorer,1984.7,8.8
+Bradley,Andre,female,Micronesia,8,2023,Manufacturing systems engineer,2031.32,10.0
+Lara,Allen,male,Christmas Island,1,2023,Company secretary,2055.86,5.9
+Curry,Christopher,male,Bahamas,11,2023,Furniture conservator/restorer,2055.83,7.1
+Mckenzie,James,male,Tonga,3,2022,Furniture conservator/restorer,1927.91,5.5
+Daniels,Darrell,male,Finland,9,2021,Manufacturing systems engineer,1956.56,9.3
+Adams,Robert,male,Micronesia,6,2023,Manufacturing systems engineer,2031.8,8.5
+Sanchez,Shawn,male,Tonga,8,2021,Manufacturing systems engineer,1995.88,9.3
+Escobar,Troy,female,Bahamas,2,2020,Furniture conservator/restorer,2014.24,5.6
+Delgado,Robert,male,Equatorial Guinea,7,2022,Company secretary,1966.75,5.3
+Horton,Charles,male,Finland,5,2023,Furniture conservator/restorer,2002.93,7.9
+Kim,Jimmy,male,Lebanon,8,2020,Furniture conservator/restorer,2087.7,9.0
+Lopez,Andrew,male,Tonga,6,2023,Furniture conservator/restorer,1982.04,6.6
+Cameron,Trevor,female,Equatorial Guinea,9,2021,Company secretary,1961.79,9.9
+Odonnell,Richard,male,Tonga,10,2023,Furniture conservator/restorer,1945.96,6.0
+Santiago,Robert,male,Antarctica (the territory South of 60 deg S),6,2022,Company secretary,1865.28,9.5
+Jones,Dustin,male,Tonga,10,2020,Furniture conservator/restorer,1855.93,5.2
+Thomas,Jacob,female,Switzerland,6,2021,Company secretary,2072.65,5.0
+Long,David,male,Equatorial Guinea,7,2021,Furniture conservator/restorer,2040.02,6.9
+Butler,Brandon,male,Micronesia,11,2020,Company secretary,2084.67,8.3
+Bruce,Jeffrey,male,Iraq,8,2021,Manufacturing systems engineer,2024.87,7.5
+Richardson,Tyler,male,Finland,5,2021,Furniture conservator/restorer,1955.08,7.5
+Duncan,Tyler,male,Switzerland,4,2023,Furniture conservator/restorer,1953.54,5.2
+Cummings,Joe,male,Lebanon,12,2022,Manufacturing systems engineer,1903.56,9.9
+Harris,Michael,male,Lebanon,6,2022,Manufacturing systems engineer,2183.58,9.1
+Campbell,Matthew,male,Tonga,9,2020,Company secretary,1977.63,7.1
+Flores,Daniel,male,Equatorial Guinea,1,2021,Furniture conservator/restorer,1972.48,6.5
+Barajas,Robert,male,Bahamas,5,2021,Manufacturing systems engineer,2071.41,8.4
+Moody,Dennis,male,Equatorial Guinea,8,2022,Furniture conservator/restorer,2048.08,5.3
+Sanchez,Donald,male,Finland,8,2021,Furniture conservator/restorer,2010.64,9.5
+Greer,Tony,male,Switzerland,3,2023,Manufacturing systems engineer,2006.33,9.6
+Soto,Aaron,male,Equatorial Guinea,2,2022,Furniture conservator/restorer,1869.77,6.5
+Kerr,Thomas,male,Lebanon,8,2022,Manufacturing systems engineer,2108.3,6.0
+Lara,Keith,male,Iraq,12,2021,Company secretary,2017.34,9.8
+Chan,Edward,male,Antarctica (the territory South of 60 deg S),3,2020,Manufacturing systems engineer,1848.83,8.9
+Camacho,Travis,male,Antarctica (the territory South of 60 deg S),12,2023,Company secretary,1995.23,6.1
+King,Craig,male,Lebanon,12,2020,Company secretary,1740.86,8.7
+Dominguez,Cody,male,Antarctica (the territory South of 60 deg S),2,2020,Manufacturing systems engineer,1719.9,7.9
+Lee,Shane,male,Tonga,11,2020,Furniture conservator/restorer,2137.41,5.9
+Hines,Gregory,female,Tonga,3,2023,Company secretary,1967.7,8.5
+Miller,Jimmy,male,Finland,7,2020,Manufacturing systems engineer,2016.36,6.7
+Hill,Nathan,female,Lebanon,3,2020,Company secretary,2015.37,8.1
+Wallace,John,female,Antarctica (the territory South of 60 deg S),4,2023,Company secretary,2209.24,5.6
+Williams,Christopher,male,Equatorial Guinea,1,2023,Furniture conservator/restorer,1920.05,9.4
+Davis,Mark,male,Iraq,1,2023,Manufacturing systems engineer,2114.08,7.3
+Bradley,Andrew,male,Micronesia,9,2023,Furniture conservator/restorer,1929.11,7.9
+Moore,Joseph,male,Equatorial Guinea,5,2022,Furniture conservator/restorer,1978.15,9.3
+Johnson,William,male,Christmas Island,1,2022,Furniture conservator/restorer,1971.46,9.0
+Williams,Charles,male,Iraq,9,2020,Manufacturing systems engineer,2182.19,9.6
+Rodriguez,William,male,Tonga,8,2023,Furniture conservator/restorer,1907.73,9.4
+Nelson,Michael,male,Switzerland,5,2022,Furniture conservator/restorer,1907.61,7.8
+Rocha,Robert,male,Bahamas,9,2021,Furniture conservator/restorer,2012.04,7.7
+Cisneros,Paul,male,Lebanon,10,2023,Company secretary,1920.4,7.0
+Nguyen,Erik,male,Equatorial Guinea,5,2020,Furniture conservator/restorer,1844.5,6.4
+Gray,Gary,male,Switzerland,10,2020,Manufacturing systems engineer,2034.53,5.6
+Burnett,Brandon,male,Bahamas,12,2022,Furniture conservator/restorer,1978.48,9.1
+Munoz,Jimmy,male,Lebanon,8,2020,Furniture conservator/restorer,2012.93,9.1
+Waters,Christopher,male,Bahamas,4,2022,Company secretary,1968.6,8.9
+Rogers,Shawn,male,Tonga,8,2020,Manufacturing systems engineer,2038.4,5.5
+Bentley,Brian,male,Tonga,7,2021,Furniture conservator/restorer,2187.47,5.0
+Atkinson,William,male,Lebanon,2,2022,Furniture conservator/restorer,1955.78,8.7
+Graham,Kyle,female,Switzerland,9,2021,Furniture conservator/restorer,2003.87,9.2
+Green,Thomas,female,Micronesia,9,2022,Manufacturing systems engineer,2051.99,7.2
+Fitzgerald,Bruce,male,Lebanon,8,2021,Furniture conservator/restorer,2146.5,8.3
+Fernandez,James,male,Finland,10,2023,Furniture conservator/restorer,2085.0,8.0
+Arnold,Brandon,male,Switzerland,5,2022,Manufacturing systems engineer,2043.68,9.9
+Nunez,James,male,Finland,8,2021,Company secretary,2019.0,7.5
+Garcia,Robert,male,Micronesia,9,2020,Manufacturing systems engineer,2029.48,10.0
+Spence,Gary,male,Finland,12,2021,Manufacturing systems engineer,2136.68,7.3
+Long,Wayne,male,Finland,2,2022,Manufacturing systems engineer,1833.81,9.7
+Moore,Daniel,male,Bahamas,3,2021,Company secretary,2084.35,6.7
+Mann,Daniel,male,Equatorial Guinea,10,2020,Manufacturing systems engineer,1950.62,6.4
+Wilkins,Kevin,male,Switzerland,6,2021,Furniture conservator/restorer,1887.57,7.0
+James,Joseph,female,Equatorial Guinea,1,2023,Furniture conservator/restorer,2077.25,7.2
+Young,Joseph,male,Christmas Island,6,2021,Manufacturing systems engineer,1977.94,8.7
+Cox,Kirk,male,Finland,12,2021,Manufacturing systems engineer,2241.51,5.1
+Nichols,Kevin,female,Bahamas,5,2021,Company secretary,2149.42,8.9
+Mendoza,Joshua,female,Switzerland,9,2021,Furniture conservator/restorer,1928.06,6.6
+Clark,Tyler,male,Micronesia,7,2021,Furniture conservator/restorer,1836.46,9.4
+Wilson,Dylan,male,Finland,7,2020,Furniture conservator/restorer,2064.92,8.7
+Boyd,David,female,Tonga,10,2021,Manufacturing systems engineer,1982.03,5.4
+Welch,Bobby,male,Tonga,3,2022,Company secretary,2262.3,9.2
+Ayala,Austin,male,Bahamas,7,2021,Furniture conservator/restorer,1982.19,5.8
+Gomez,Anthony,male,Switzerland,4,2022,Manufacturing systems engineer,1958.0,7.2
+Diaz,Kevin,male,Bahamas,1,2020,Manufacturing systems engineer,1892.91,7.2
+Sexton,David,male,Tonga,8,2023,Furniture conservator/restorer,2019.3,6.4
+Love,Caleb,male,Finland,12,2023,Company secretary,1943.88,9.2
+Webb,Craig,male,Antarctica (the territory South of 60 deg S),3,2022,Furniture conservator/restorer,2092.94,8.2
+Jackson,Frank,male,Christmas Island,12,2023,Company secretary,2132.43,8.7
+Hebert,John,male,Iraq,7,2020,Company secretary,1880.78,5.5
+Dean,Xavier,male,Lebanon,8,2021,Manufacturing systems engineer,2097.41,7.7
+Arias,Wayne,female,Switzerland,9,2023,Furniture conservator/restorer,2181.92,7.1
+Gould,David,male,Micronesia,9,2022,Manufacturing systems engineer,1959.7,9.1
+Le,Barry,female,Micronesia,8,2023,Company secretary,2128.78,10.0
+Rodriguez,Joshua,male,Antarctica (the territory South of 60 deg S),6,2020,Manufacturing systems engineer,1966.92,8.2
+Mejia,Jose,male,Equatorial Guinea,11,2023,Furniture conservator/restorer,2004.85,9.9
+Hughes,Joshua,male,Finland,1,2023,Manufacturing systems engineer,1944.29,8.1
+Miller,Tyler,male,Finland,12,2023,Manufacturing systems engineer,2121.65,5.8
+Terry,Tyrone,male,Antarctica (the territory South of 60 deg S),4,2020,Furniture conservator/restorer,2004.33,9.0
+Kaufman,Travis,male,Equatorial Guinea,6,2021,Furniture conservator/restorer,1852.85,5.8
+Stafford,Joshua,male,Equatorial Guinea,1,2021,Furniture conservator/restorer,2024.31,9.4
+Jordan,Matthew,male,Micronesia,11,2021,Company secretary,2101.22,10.0
+Jones,Bryan,male,Bahamas,9,2022,Company secretary,1988.5,9.7
+West,Brian,male,Micronesia,9,2023,Manufacturing systems engineer,2283.76,10.0
+Peterson,Justin,male,Christmas Island,12,2023,Company secretary,1865.58,5.1
+Mejia,Matthew,male,Switzerland,1,2020,Manufacturing systems engineer,2204.94,6.1
+Bush,William,female,Finland,12,2020,Company secretary,1821.97,9.1
+Clark,Kevin,female,Switzerland,12,2023,Furniture conservator/restorer,1935.73,8.7
+Henderson,Noah,male,Tonga,4,2020,Manufacturing systems engineer,2055.96,5.8
+Torres,James,male,Antarctica (the territory South of 60 deg S),5,2022,Manufacturing systems engineer,2044.15,9.1
+Oneill,Connor,male,Bahamas,7,2020,Company secretary,2019.72,7.9
+Shaw,Michael,male,Bahamas,12,2023,Manufacturing systems engineer,2111.61,9.9
+Haney,Daniel,male,Micronesia,6,2023,Furniture conservator/restorer,2133.14,10.0
+Avila,Jesse,male,Antarctica (the territory South of 60 deg S),8,2021,Furniture conservator/restorer,2118.03,9.5
+Sharp,Shane,male,Iraq,8,2020,Company secretary,2032.42,6.9
+Herrera,John,male,Tonga,5,2022,Furniture conservator/restorer,2072.2,5.1
+Gentry,Rodney,male,Antarctica (the territory South of 60 deg S),12,2022,Manufacturing systems engineer,1940.78,6.8
+Wilson,Gregory,male,Equatorial Guinea,7,2022,Furniture conservator/restorer,1895.65,5.7
+Lee,Donald,male,Micronesia,3,2021,Company secretary,2057.74,9.5
+Harris,Timothy,male,Iraq,3,2023,Company secretary,1988.74,7.5
+Johnson,Brian,male,Equatorial Guinea,12,2022,Company secretary,1849.14,9.7
+Hale,Philip,male,Iraq,5,2022,Furniture conservator/restorer,2164.98,8.2
+Mckinney,John,female,Bahamas,1,2023,Company secretary,2007.64,7.6
+Munoz,Kevin,female,Finland,10,2023,Furniture conservator/restorer,1959.46,9.0
+Hawkins,John,male,Bahamas,10,2020,Furniture conservator/restorer,2087.92,6.8
+Nelson,Timothy,female,Equatorial Guinea,11,2021,Company secretary,2106.64,8.2
+Gibson,Joshua,male,Switzerland,1,2021,Manufacturing systems engineer,1979.74,6.8
+Henderson,Robert,male,Christmas Island,2,2022,Company secretary,1963.8,8.2
+Glass,Steven,male,Antarctica (the territory South of 60 deg S),9,2022,Manufacturing systems engineer,2131.6,6.1
+Bond,Robert,male,Switzerland,4,2023,Company secretary,1939.64,5.2
+Ali,Troy,male,Antarctica (the territory South of 60 deg S),5,2022,Furniture conservator/restorer,2049.91,8.5
+Lewis,Henry,male,Antarctica (the territory South of 60 deg S),2,2022,Company secretary,2046.29,9.4
+Mcmillan,James,female,Tonga,7,2023,Furniture conservator/restorer,2044.0,7.5
+Wilson,Ronnie,male,Christmas Island,6,2020,Furniture conservator/restorer,1930.85,6.3
+Alvarado,Reginald,male,Tonga,2,2020,Furniture conservator/restorer,2033.89,6.1
+Gonzalez,Jason,male,Iraq,12,2023,Company secretary,1955.57,9.5
+Hardy,Ethan,male,Finland,2,2021,Furniture conservator/restorer,2075.67,7.0
+Goodwin,Charles,male,Finland,12,2023,Furniture conservator/restorer,1919.83,6.3
+Nichols,Christopher,male,Bahamas,3,2021,Company secretary,1960.99,8.1
+Evans,Jerry,male,Antarctica (the territory South of 60 deg S),11,2021,Furniture conservator/restorer,2107.19,8.8
+Mullen,Gary,male,Bahamas,3,2021,Company secretary,1984.25,7.8
+Banks,Bryan,male,Bahamas,5,2022,Manufacturing systems engineer,1999.25,7.0
+Reeves,Kevin,male,Lebanon,6,2023,Manufacturing systems engineer,2135.22,8.2
+Obrien,Cesar,male,Finland,4,2020,Manufacturing systems engineer,2041.35,5.3
+Ferrell,Zachary,female,Switzerland,3,2021,Furniture conservator/restorer,1990.29,7.1
+Arellano,Joseph,male,Tonga,3,2021,Furniture conservator/restorer,2163.42,8.6
+Stewart,George,male,Micronesia,10,2020,Furniture conservator/restorer,1933.73,10.0
+Rodgers,Joseph,male,Equatorial Guinea,8,2022,Company secretary,2141.15,6.7
+Johnston,Steven,female,Iraq,6,2023,Company secretary,2104.32,9.6
+Leonard,Joshua,male,Antarctica (the territory South of 60 deg S),9,2023,Company secretary,1909.05,9.9
+Webster,Andrew,male,Switzerland,4,2023,Furniture conservator/restorer,2152.87,6.0
+Summers,Jerry,male,Finland,5,2022,Company secretary,2112.09,5.9
+Terrell,Zachary,female,Switzerland,11,2022,Company secretary,2013.64,9.7
+Freeman,Matthew,male,Switzerland,2,2020,Manufacturing systems engineer,2000.15,9.2
+Brown,Michael,male,Finland,5,2022,Furniture conservator/restorer,2080.61,10.0
+Robinson,Michael,female,Equatorial Guinea,9,2022,Furniture conservator/restorer,2001.38,7.7
+Schroeder,William,male,Tonga,2,2023,Manufacturing systems engineer,2059.1,6.0
+Boyle,Jacob,male,Bahamas,1,2023,Company secretary,1976.59,9.7
+Wood,Zachary,male,Equatorial Guinea,5,2020,Furniture conservator/restorer,2117.02,5.7
+Taylor,Paul,male,Switzerland,1,2023,Furniture conservator/restorer,1865.65,6.8
+Richards,James,male,Iraq,3,2022,Company secretary,2169.96,7.4
+Padilla,Corey,male,Antarctica (the territory South of 60 deg S),6,2021,Furniture conservator/restorer,2208.4,5.3
+Meza,Phillip,male,Christmas Island,7,2021,Company secretary,1842.99,8.7
+Edwards,Dennis,male,Tonga,9,2021,Furniture conservator/restorer,2108.53,5.4
+Rivas,Adam,male,Iraq,5,2022,Manufacturing systems engineer,1966.11,8.8
+Mckenzie,Bryan,male,Finland,1,2020,Furniture conservator/restorer,1840.06,8.4
+Smith,James,male,Tonga,1,2021,Company secretary,2012.41,8.2
+Stewart,John,male,Iraq,5,2021,Furniture conservator/restorer,1939.61,5.2
+Marsh,Dennis,male,Equatorial Guinea,11,2022,Manufacturing systems engineer,1901.62,7.5
+Scott,Harry,male,Iraq,9,2022,Manufacturing systems engineer,1898.41,7.5
+Vincent,Kevin,male,Switzerland,11,2021,Furniture conservator/restorer,2017.84,9.4
+Moore,Samuel,female,Micronesia,1,2023,Manufacturing systems engineer,2021.51,8.9
+Rodriguez,Edward,male,Finland,5,2023,Furniture conservator/restorer,1864.41,8.8
+Mcdowell,Douglas,male,Micronesia,3,2023,Furniture conservator/restorer,2009.88,10.0
+Johnson,Jeffery,male,Lebanon,2,2021,Furniture conservator/restorer,2037.9,6.8
+Lara,William,female,Bahamas,7,2021,Company secretary,2087.84,8.3
+Hanna,Daniel,male,Lebanon,2,2022,Furniture conservator/restorer,2134.94,7.2
+Richards,Timothy,male,Iraq,2,2023,Manufacturing systems engineer,2036.88,5.1
+Reyes,Paul,female,Iraq,3,2023,Furniture conservator/restorer,1980.9,5.7
+Miller,Joseph,male,Iraq,4,2022,Manufacturing systems engineer,1960.22,6.7
+Hernandez,Brent,female,Tonga,6,2022,Manufacturing systems engineer,2105.34,7.3
+Miller,Michael,male,Equatorial Guinea,7,2021,Manufacturing systems engineer,2100.17,9.4
+Cole,Phillip,male,Bahamas,12,2023,Company secretary,2032.36,8.4
+Bennett,Richard,female,Equatorial Guinea,5,2023,Manufacturing systems engineer,1920.51,5.1
+Richardson,Chase,male,Micronesia,8,2020,Company secretary,1878.3,10.0
+Potts,Michael,male,Iraq,2,2022,Manufacturing systems engineer,1926.26,9.5
+Hines,Justin,male,Finland,6,2021,Company secretary,1867.83,7.9

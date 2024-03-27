@@ -1,0 +1,313 @@
+last_name,first_name,gender,country,month,year,job,payment,rating
+Hammond,David,female,Paraguay,9,2020,"Engineer, control and instrumentation",2001.33,5.7
+Sullivan,Matthew,female,Paraguay,8,2020,Operational researcher,1918.77,9.4
+Smith,Alex,female,Liechtenstein,12,2021,Media planner,2219.98,6.4
+Cervantes,Joshua,male,Paraguay,12,2021,Operational researcher,2050.77,6.0
+Phillips,Austin,female,Liechtenstein,7,2023,Operational researcher,1856.33,7.4
+Armstrong,Keith,female,Congo,4,2020,Operational researcher,2036.44,7.0
+Nelson,Philip,female,Liechtenstein,1,2021,"Engineer, control and instrumentation",1910.72,5.3
+Berry,Robert,female,Paraguay,7,2023,Operational researcher,1829.44,7.6
+Hicks,Jared,female,Liechtenstein,9,2022,Media planner,1986.22,7.1
+Glenn,David,male,Congo,2,2022,Optometrist,1963.56,8.4
+Allen,Marvin,male,Congo,9,2022,Media planner,1913.49,5.1
+Robertson,Thomas,male,Switzerland,6,2021,Media planner,2053.25,8.6
+Johnson,Daniel,female,United States Virgin Islands,9,2023,Optometrist,1838.82,9.9
+Stafford,Gabriel,male,Papua New Guinea,11,2023,Operational researcher,2186.17,9.1
+Turner,Eric,male,Congo,4,2023,"Engineer, control and instrumentation",2309.38,8.9
+Mora,Mark,female,Papua New Guinea,12,2023,Optometrist,2004.92,6.4
+Richards,Scott,female,Congo,2,2021,Optometrist,1867.79,5.4
+Harris,Jose,male,Papua New Guinea,6,2021,Media planner,1902.36,6.3
+Lee,Randall,female,Paraguay,12,2021,"Engineer, control and instrumentation",2113.4,8.4
+White,Randy,female,Liechtenstein,2,2023,Operational researcher,2100.44,5.6
+Singh,Michael,female,Papua New Guinea,12,2020,Optometrist,2025.84,9.0
+Cook,Jacob,male,United States Virgin Islands,5,2020,Operational researcher,1930.16,8.7
+Harvey,Justin,male,Papua New Guinea,8,2023,Media planner,1823.96,5.3
+Mckay,Travis,male,Switzerland,6,2021,Media planner,1922.76,5.7
+Parker,Micheal,male,Congo,7,2022,Media planner,2117.0,6.0
+Carroll,Alexander,female,Liechtenstein,1,2021,Operational researcher,2063.32,8.8
+Black,Ricky,male,Papua New Guinea,1,2023,Operational researcher,1947.85,7.5
+Knight,Alexander,female,Liechtenstein,9,2021,Operational researcher,1911.56,7.3
+Padilla,Mike,female,United States Virgin Islands,7,2021,Media planner,1945.17,8.6
+Watson,Jeremy,male,Greenland,5,2021,"Engineer, control and instrumentation",1898.35,6.4
+Morris,Thomas,male,Greenland,6,2023,Media planner,1861.24,9.2
+Ryan,Chad,female,Congo,3,2022,"Engineer, control and instrumentation",2002.71,7.9
+Burgess,Justin,male,Greenland,8,2020,Optometrist,2039.81,7.8
+Cross,James,male,United States Virgin Islands,5,2022,"Engineer, control and instrumentation",1752.56,7.7
+Fields,James,male,Congo,4,2021,Media planner,2060.66,6.3
+Dodson,Lance,male,Greenland,2,2021,Operational researcher,2093.06,8.0
+Turner,Andrew,female,Papua New Guinea,12,2022,Media planner,1932.93,5.2
+Woodard,Shawn,female,Paraguay,11,2021,Media planner,2102.11,9.0
+Mills,Ernest,female,United States Virgin Islands,8,2020,"Engineer, control and instrumentation",2078.37,10.0
+Harrison,Travis,male,Paraguay,12,2023,Media planner,2023.16,8.0
+Russell,Justin,male,Paraguay,12,2020,Optometrist,1867.4,5.7
+Kennedy,Kirk,male,Papua New Guinea,7,2021,Operational researcher,1988.47,7.5
+Riley,Sergio,male,Paraguay,12,2020,Optometrist,2191.02,9.2
+Thomas,Shawn,male,Liechtenstein,12,2023,Optometrist,2055.19,8.9
+Larson,Marcus,female,Switzerland,5,2021,Optometrist,1926.82,5.7
+Smith,James,male,Papua New Guinea,5,2022,Media planner,2038.85,5.2
+Dominguez,Gregory,male,Paraguay,12,2021,"Engineer, control and instrumentation",2035.74,9.6
+Ward,Douglas,female,Liechtenstein,11,2023,Media planner,2099.73,6.6
+Johns,Charles,male,Congo,6,2023,Operational researcher,2068.75,7.0
+Johnson,Philip,male,Greenland,11,2023,"Engineer, control and instrumentation",1964.03,7.8
+Cook,Jose,male,United States Virgin Islands,10,2021,Operational researcher,1829.96,10.0
+Blanchard,Jesus,male,United States Virgin Islands,10,2021,Media planner,1972.24,9.4
+Powell,Jason,male,Paraguay,3,2022,Media planner,1903.09,8.2
+Lowe,Brian,female,Papua New Guinea,10,2020,Media planner,1979.39,6.8
+Lambert,Ryan,female,Paraguay,2,2020,Media planner,2019.32,7.5
+Collins,Robert,male,Papua New Guinea,12,2023,Media planner,2037.65,6.1
+Hernandez,Samuel,male,Papua New Guinea,4,2021,Operational researcher,1951.47,9.6
+Robles,Gerald,female,Switzerland,5,2023,"Engineer, control and instrumentation",1997.89,6.9
+Torres,Francisco,male,Congo,7,2023,Operational researcher,2092.49,8.1
+Morrow,Jeffrey,female,Congo,12,2023,Media planner,1939.4,9.3
+Copeland,Kenneth,female,United States Virgin Islands,7,2020,Operational researcher,2228.12,10.0
+Perez,Kenneth,male,Papua New Guinea,2,2020,Media planner,2052.24,5.9
+Knight,Sean,female,Papua New Guinea,3,2022,Optometrist,2102.78,7.4
+Wang,Hunter,female,Congo,3,2023,"Engineer, control and instrumentation",1868.18,9.0
+Forbes,Michael,female,Switzerland,5,2021,Optometrist,2026.44,7.7
+Lopez,David,male,Liechtenstein,3,2022,Operational researcher,1998.81,7.5
+Ruiz,Kenneth,female,Congo,9,2023,Operational researcher,2091.48,8.7
+Robinson,Nicholas,female,Congo,8,2022,Operational researcher,2164.92,5.5
+Castro,Jonathan,female,Greenland,1,2021,Optometrist,2150.17,5.2
+Graves,Christopher,male,Paraguay,9,2021,Media planner,2111.9,9.3
+Benton,Jesse,female,Paraguay,2,2023,Media planner,2224.82,7.0
+Nelson,Kyle,female,Papua New Guinea,8,2023,Operational researcher,2011.74,5.6
+Clark,Riley,male,Paraguay,3,2021,Media planner,1943.21,9.7
+Jackson,Joshua,male,United States Virgin Islands,1,2021,"Engineer, control and instrumentation",2065.94,10.0
+Carpenter,Joseph,female,Greenland,8,2021,Optometrist,1977.71,6.7
+Green,Daniel,female,Papua New Guinea,3,2020,Operational researcher,1888.3,6.3
+Moreno,Joseph,female,Paraguay,1,2020,Media planner,2038.61,6.6
+Robbins,Daniel,female,Liechtenstein,11,2020,"Engineer, control and instrumentation",2039.69,7.4
+Blevins,Samuel,male,Greenland,3,2022,Media planner,2023.02,5.8
+Edwards,Dalton,male,Congo,4,2023,Optometrist,1943.49,5.2
+Benjamin,Richard,male,Switzerland,12,2021,Optometrist,1858.13,6.8
+Schroeder,Raymond,female,Papua New Guinea,1,2020,"Engineer, control and instrumentation",2130.55,5.1
+James,Brent,male,United States Virgin Islands,2,2020,"Engineer, control and instrumentation",1986.96,9.2
+Sullivan,Albert,male,Switzerland,1,2022,Optometrist,1932.07,8.4
+Schneider,Joseph,male,Greenland,8,2022,Optometrist,1815.89,5.3
+Tanner,Oscar,male,Greenland,1,2021,"Engineer, control and instrumentation",2009.41,7.3
+King,Terry,male,Switzerland,9,2021,Operational researcher,2082.75,6.8
+Taylor,Martin,female,Paraguay,5,2023,"Engineer, control and instrumentation",2097.43,7.4
+Campos,Chase,male,Greenland,8,2023,Media planner,1997.42,9.4
+Miller,Cory,female,Congo,8,2022,Optometrist,2030.44,5.2
+Wade,Jose,male,Paraguay,9,2021,Operational researcher,1984.26,10.0
+Jones,Ryan,male,Congo,11,2020,Media planner,1821.78,5.2
+Peterson,James,male,Papua New Guinea,4,2023,Media planner,1943.41,9.9
+Hayden,Ryan,female,United States Virgin Islands,11,2021,Optometrist,1925.25,7.2
+Fowler,Cody,male,Congo,9,2021,Media planner,1922.82,9.9
+Miller,Christopher,male,Liechtenstein,2,2022,Optometrist,2111.35,5.0
+Glenn,Kyle,male,Liechtenstein,6,2021,Media planner,1891.33,9.0
+Strickland,Daniel,male,Paraguay,9,2020,Operational researcher,2063.92,6.8
+Miller,Christopher,male,Congo,1,2023,Operational researcher,1949.64,5.8
+Martinez,Nathan,male,Papua New Guinea,3,2022,Operational researcher,2036.35,7.0
+Knight,Bradley,female,Paraguay,9,2020,Optometrist,2048.38,6.8
+Weeks,Shawn,male,Paraguay,11,2022,Media planner,2217.15,7.6
+Smith,Brendan,female,Paraguay,8,2021,Media planner,2070.87,7.9
+Wang,Alex,female,Congo,2,2021,"Engineer, control and instrumentation",2005.47,7.5
+Edwards,Jason,male,Switzerland,6,2023,Operational researcher,2154.53,7.1
+Miller,Adam,female,Switzerland,12,2022,Operational researcher,1967.15,6.0
+Graham,Michael,female,Congo,5,2023,Media planner,1898.79,9.2
+Leonard,George,male,Greenland,4,2021,Optometrist,2001.0,8.3
+Black,Christopher,female,Papua New Guinea,6,2021,Operational researcher,2047.56,6.2
+Henderson,Jon,male,United States Virgin Islands,5,2022,Optometrist,2150.86,9.8
+Hudson,Timothy,male,Papua New Guinea,8,2021,Operational researcher,1997.69,6.1
+Tucker,Christopher,male,Congo,4,2020,Media planner,1929.44,9.5
+Lopez,Jonathan,male,Papua New Guinea,7,2022,Operational researcher,1990.35,8.0
+Weber,Michael,male,United States Virgin Islands,1,2022,"Engineer, control and instrumentation",1954.0,8.7
+Austin,Jesse,male,Congo,7,2022,Optometrist,1929.98,7.7
+Riley,Norman,female,Papua New Guinea,5,2023,Optometrist,2065.83,9.4
+Ramsey,Michael,male,Liechtenstein,8,2023,Optometrist,2036.55,8.1
+Chambers,Nicholas,male,United States Virgin Islands,5,2021,Optometrist,1923.34,9.7
+Clark,Andrew,female,Greenland,1,2022,Optometrist,1997.64,7.5
+Young,Douglas,female,United States Virgin Islands,5,2023,Operational researcher,2177.73,9.6
+Hoffman,Bradley,female,Greenland,9,2020,Media planner,1972.74,6.2
+Grimes,Tim,male,United States Virgin Islands,1,2023,"Engineer, control and instrumentation",1958.28,10.0
+Roberts,William,male,Congo,8,2022,Media planner,1992.23,6.0
+Reyes,Willie,male,Paraguay,5,2023,Media planner,1929.19,8.6
+Simmons,Dennis,female,Paraguay,6,2023,Media planner,1995.07,8.0
+Sherman,Ronald,female,Paraguay,7,2023,Operational researcher,1862.1,8.2
+Smith,William,male,Congo,8,2021,"Engineer, control and instrumentation",1926.36,5.5
+Estrada,Bryan,female,Switzerland,5,2022,Operational researcher,1942.9,5.6
+Willis,Lucas,female,Liechtenstein,4,2020,"Engineer, control and instrumentation",1997.67,7.7
+Perry,James,male,Greenland,1,2020,"Engineer, control and instrumentation",1912.08,9.6
+Salazar,Maxwell,female,Switzerland,6,2023,"Engineer, control and instrumentation",2077.38,6.4
+Burgess,Anthony,male,Paraguay,5,2020,Media planner,1880.16,5.2
+Crawford,Hector,male,Congo,2,2023,Media planner,2050.05,8.5
+Stewart,Bradley,male,United States Virgin Islands,12,2023,Operational researcher,1985.18,7.7
+Martinez,John,female,United States Virgin Islands,8,2022,"Engineer, control and instrumentation",1951.24,10.0
+Castro,Travis,female,Liechtenstein,1,2020,Media planner,1997.19,8.1
+Wallace,Michael,female,Liechtenstein,3,2020,Media planner,2018.46,5.6
+Holland,Ryan,male,Paraguay,10,2022,Media planner,1731.94,9.9
+Johnson,Nathan,male,Switzerland,12,2023,"Engineer, control and instrumentation",1968.71,8.2
+Garrett,Joshua,female,Liechtenstein,6,2022,Operational researcher,1867.74,8.1
+Mcguire,Kenneth,female,Switzerland,2,2023,Media planner,2001.36,5.8
+Simon,Joseph,male,United States Virgin Islands,11,2021,Media planner,2025.55,7.9
+Alexander,Thomas,male,Switzerland,5,2023,Operational researcher,1937.54,8.1
+Hawkins,Jared,male,Congo,6,2022,Operational researcher,2006.85,6.4
+Morris,Justin,male,United States Virgin Islands,1,2021,Operational researcher,2013.49,9.6
+Abbott,Matthew,female,Congo,7,2022,Optometrist,2006.72,5.4
+Lee,Corey,female,Liechtenstein,1,2023,Media planner,1867.96,8.1
+Murphy,Edward,male,Congo,12,2023,"Engineer, control and instrumentation",1905.99,9.1
+White,Zachary,female,United States Virgin Islands,5,2023,Media planner,1903.63,10.0
+Valentine,David,male,Papua New Guinea,8,2023,Operational researcher,1928.29,5.0
+Wilson,Robert,male,Switzerland,4,2023,Optometrist,2003.45,8.5
+Lewis,Howard,female,Congo,8,2023,Operational researcher,2054.75,8.2
+Barajas,Timothy,male,Congo,5,2022,Media planner,2199.99,9.8
+Garrett,Justin,female,Switzerland,8,2021,Optometrist,2095.18,9.6
+Harris,Gabriel,female,Switzerland,9,2021,Media planner,2014.92,6.1
+Tate,David,male,Switzerland,6,2021,"Engineer, control and instrumentation",2013.24,5.5
+Stephens,Scott,male,Paraguay,2,2021,Media planner,1993.4,5.6
+Weaver,Ronald,male,Congo,10,2020,"Engineer, control and instrumentation",2046.36,6.9
+Porter,Mark,male,United States Virgin Islands,6,2023,Operational researcher,2052.2,7.5
+Mendez,Kyle,male,Greenland,7,2020,"Engineer, control and instrumentation",2044.55,7.1
+Clark,David,male,Paraguay,1,2023,Media planner,1997.61,5.5
+Pruitt,Eric,male,Paraguay,9,2020,Media planner,2087.21,9.3
+Taylor,Chad,female,Papua New Guinea,1,2022,Media planner,1953.67,5.1
+Brown,Travis,male,Papua New Guinea,4,2021,"Engineer, control and instrumentation",1846.84,8.1
+Mendez,Edward,male,Papua New Guinea,8,2023,Operational researcher,1999.74,7.8
+Fry,Allen,male,Switzerland,7,2023,"Engineer, control and instrumentation",1793.31,7.7
+Henderson,Michael,male,Switzerland,9,2023,"Engineer, control and instrumentation",2009.82,6.7
+Webb,Paul,male,Papua New Guinea,7,2020,"Engineer, control and instrumentation",1846.45,6.8
+Jackson,Thomas,female,United States Virgin Islands,12,2021,Optometrist,1948.76,10.0
+Medina,John,female,Switzerland,6,2020,Optometrist,2129.3,6.7
+Reeves,Andrew,female,Paraguay,7,2021,Media planner,2038.18,9.6
+Wright,Zachary,female,Paraguay,5,2021,Operational researcher,1994.86,5.2
+Lane,Joseph,female,Congo,6,2023,Optometrist,1921.54,6.9
+Castro,Timothy,male,Congo,6,2021,"Engineer, control and instrumentation",1812.3,8.6
+Valencia,Craig,male,Congo,6,2020,Optometrist,2147.96,8.9
+Atkins,Austin,female,Switzerland,11,2020,"Engineer, control and instrumentation",2298.57,5.9
+Ramos,Larry,female,Paraguay,5,2021,Media planner,1984.27,8.1
+Lewis,Michael,male,Congo,7,2020,Operational researcher,2061.94,9.1
+Sullivan,Maurice,female,Paraguay,1,2022,Operational researcher,1728.17,5.1
+Allison,Jeremiah,female,Liechtenstein,12,2022,Optometrist,2055.27,7.0
+Pena,Glenn,male,Congo,5,2020,Media planner,2041.07,8.1
+Harris,Juan,male,Paraguay,10,2023,Operational researcher,2065.5,8.6
+Gomez,Joseph,male,Papua New Guinea,10,2021,"Engineer, control and instrumentation",1999.71,6.5
+Montgomery,Cody,female,Paraguay,10,2021,"Engineer, control and instrumentation",2157.25,8.8
+Hurst,Daniel,female,Greenland,9,2020,Operational researcher,1919.79,7.5
+Fischer,Tyler,male,Liechtenstein,11,2020,Media planner,2220.82,10.0
+Flores,James,male,Congo,8,2022,Optometrist,2157.26,7.5
+Larson,Vincent,female,Paraguay,3,2020,Media planner,1861.59,7.9
+Meyer,Edward,male,Congo,8,2020,Optometrist,2018.51,5.5
+Savage,Jeffrey,male,Liechtenstein,5,2023,Operational researcher,2012.44,5.6
+Soto,Steven,female,Paraguay,11,2022,"Engineer, control and instrumentation",2199.81,6.8
+Riley,Cody,male,Liechtenstein,6,2020,"Engineer, control and instrumentation",2045.64,8.7
+Lopez,Jeremy,male,Switzerland,3,2022,"Engineer, control and instrumentation",1856.53,8.0
+Waller,George,male,Greenland,4,2020,"Engineer, control and instrumentation",1923.06,5.4
+Beck,Jorge,male,Greenland,10,2022,Operational researcher,2061.53,6.0
+Morrison,Daniel,male,Liechtenstein,5,2022,Operational researcher,1899.9,5.2
+Davis,Ronald,female,Greenland,11,2021,Optometrist,2132.64,9.7
+Patterson,Michael,male,United States Virgin Islands,1,2022,"Engineer, control and instrumentation",2100.48,9.8
+Snow,Thomas,male,Paraguay,10,2023,Optometrist,2138.46,8.5
+Duran,Gary,male,Paraguay,12,2021,Operational researcher,1922.29,7.8
+Carpenter,Alexander,male,Paraguay,9,2022,Operational researcher,1917.89,7.3
+Jackson,Thomas,female,Greenland,9,2020,Operational researcher,1997.75,9.9
+Smith,Marc,male,Papua New Guinea,12,2021,Operational researcher,2021.68,9.9
+Wright,Juan,male,Congo,9,2020,"Engineer, control and instrumentation",2053.9,8.3
+Bennett,William,female,Switzerland,7,2022,Media planner,2110.44,7.7
+Bryant,Zachary,male,Congo,10,2020,Optometrist,2031.35,5.0
+Allen,Joseph,male,United States Virgin Islands,9,2020,Optometrist,1942.08,10.0
+Esparza,Jason,male,Switzerland,8,2020,Media planner,1987.43,8.2
+Frye,Michael,female,Switzerland,4,2023,Optometrist,2138.64,6.7
+Bailey,Michael,female,Papua New Guinea,11,2023,"Engineer, control and instrumentation",1973.43,6.7
+Sanchez,Darren,female,United States Virgin Islands,12,2020,"Engineer, control and instrumentation",1951.7,8.2
+Berry,Lawrence,male,Liechtenstein,10,2022,Media planner,1969.55,8.4
+Hernandez,Steven,female,Papua New Guinea,1,2020,Operational researcher,1954.88,9.0
+Young,Joshua,male,Congo,7,2020,Optometrist,2073.2,7.1
+Pena,Wesley,female,Congo,10,2023,"Engineer, control and instrumentation",2013.54,5.8
+Lucas,Cody,male,Liechtenstein,10,2023,"Engineer, control and instrumentation",1957.28,8.5
+Morales,Matthew,female,Switzerland,8,2023,Media planner,1945.73,9.9
+Turner,Robert,female,Switzerland,1,2023,"Engineer, control and instrumentation",2046.66,8.0
+Craig,Don,female,Paraguay,12,2022,"Engineer, control and instrumentation",2014.28,5.4
+Christian,Brandon,male,Switzerland,10,2020,Media planner,1938.93,8.3
+Sharp,James,male,Greenland,6,2021,"Engineer, control and instrumentation",2045.24,9.6
+Burton,Kevin,female,Congo,10,2022,Media planner,2063.31,8.8
+Frederick,William,male,United States Virgin Islands,9,2021,"Engineer, control and instrumentation",1911.38,9.7
+Nixon,Andrew,male,Switzerland,11,2023,"Engineer, control and instrumentation",2003.05,9.8
+Morgan,Adam,male,Liechtenstein,10,2023,Optometrist,1944.31,8.2
+Mcdaniel,Jacob,male,Greenland,7,2021,Optometrist,2057.59,6.1
+Brown,Anthony,female,Liechtenstein,9,2021,Optometrist,1832.76,5.7
+Browning,Jimmy,female,Liechtenstein,6,2020,Media planner,2038.7,9.0
+Baker,Gabriel,male,Papua New Guinea,7,2020,Operational researcher,2059.25,6.7
+Taylor,Dakota,male,Paraguay,5,2020,"Engineer, control and instrumentation",1987.91,8.9
+Lane,Timothy,male,Paraguay,6,2022,Operational researcher,1982.02,6.4
+Bryan,Matthew,male,United States Virgin Islands,6,2020,Operational researcher,2010.83,10.0
+Choi,Christopher,female,Paraguay,5,2020,Media planner,1939.24,5.2
+Duncan,Jason,female,Switzerland,3,2023,Optometrist,2160.68,7.4
+Perez,Timothy,male,Switzerland,12,2020,"Engineer, control and instrumentation",1991.14,5.5
+Morrison,Benjamin,male,Congo,12,2022,Media planner,2068.02,6.3
+Phillips,Marcus,male,Greenland,7,2023,Operational researcher,2062.51,9.3
+Wright,Jonathan,male,Paraguay,4,2020,Operational researcher,1968.18,7.2
+Oneill,Dustin,female,Congo,8,2023,"Engineer, control and instrumentation",2292.81,6.9
+Smith,Jose,female,United States Virgin Islands,6,2023,"Engineer, control and instrumentation",1975.13,10.0
+Guzman,John,female,Greenland,8,2021,Optometrist,2030.48,6.4
+Perkins,James,male,Liechtenstein,4,2020,"Engineer, control and instrumentation",1960.58,7.7
+Robinson,Roy,male,Papua New Guinea,9,2020,"Engineer, control and instrumentation",2047.43,9.4
+Smith,Joshua,male,Paraguay,7,2022,Media planner,2016.23,9.2
+Lawson,Evan,male,Congo,11,2022,Operational researcher,2063.33,7.8
+Wise,Charles,male,Liechtenstein,1,2023,Optometrist,1870.23,9.1
+Robinson,Christopher,female,Paraguay,6,2021,Operational researcher,1992.65,6.3
+Harris,James,male,Greenland,3,2020,Optometrist,1955.94,9.8
+Alvarado,Darrell,male,Greenland,7,2022,Optometrist,2001.43,7.1
+Brown,Raymond,male,Papua New Guinea,5,2021,Media planner,2005.08,5.6
+Galvan,Michael,male,Switzerland,11,2020,Media planner,1960.89,9.5
+Bright,John,male,Liechtenstein,5,2022,"Engineer, control and instrumentation",1810.17,5.7
+Miller,Jason,male,Liechtenstein,3,2022,Optometrist,2004.57,7.9
+Anderson,Matthew,male,Congo,7,2022,Operational researcher,1921.18,7.7
+Mcdonald,Andrew,male,Switzerland,7,2022,Operational researcher,1974.42,7.5
+Gonzalez,Steven,male,Liechtenstein,9,2021,Optometrist,2208.19,5.8
+Gonzalez,Jeffrey,female,Congo,7,2022,Operational researcher,2036.53,9.2
+Wilson,Kirk,female,Congo,12,2020,Operational researcher,1971.83,6.9
+Gonzalez,Stephen,female,Liechtenstein,9,2020,Optometrist,2107.83,7.0
+Tucker,David,male,Switzerland,4,2023,"Engineer, control and instrumentation",1779.63,9.0
+Johnson,Ricky,male,Liechtenstein,6,2020,Media planner,2033.79,6.1
+Banks,Christopher,male,Congo,1,2020,Operational researcher,2061.19,8.4
+Medina,Eric,male,Paraguay,11,2021,"Engineer, control and instrumentation",1996.36,6.1
+Meyer,Dennis,male,Liechtenstein,11,2020,"Engineer, control and instrumentation",1943.18,8.8
+David,Brett,male,Papua New Guinea,8,2022,Media planner,2154.91,9.8
+Ramsey,Raymond,female,Greenland,3,2021,Operational researcher,2052.74,9.8
+Lara,Mark,male,Switzerland,3,2023,Optometrist,2005.2,9.2
+Smith,Joe,female,Greenland,3,2020,Media planner,1954.01,5.2
+Clark,Anthony,female,Switzerland,11,2021,Optometrist,1815.05,9.4
+Boyer,Zachary,male,United States Virgin Islands,2,2021,Operational researcher,2089.22,7.4
+Barnes,Eric,female,Papua New Guinea,6,2021,Operational researcher,1986.32,7.2
+Taylor,David,male,Greenland,9,2023,"Engineer, control and instrumentation",1986.86,7.5
+Ortega,Paul,female,United States Virgin Islands,12,2023,Operational researcher,1978.05,8.9
+Davis,William,female,Switzerland,5,2021,Media planner,2076.28,7.1
+Robinson,Joshua,male,United States Virgin Islands,7,2022,Optometrist,1986.41,10.0
+Whitaker,Martin,male,Greenland,3,2020,Media planner,2167.31,5.9
+Vega,Christopher,male,Paraguay,2,2020,"Engineer, control and instrumentation",2044.68,7.8
+Andrade,Jaime,female,Paraguay,12,2022,Operational researcher,2101.05,5.6
+Thompson,Kevin,male,Greenland,2,2021,"Engineer, control and instrumentation",1817.61,7.6
+Clark,Michael,male,United States Virgin Islands,5,2022,Operational researcher,2008.87,10.0
+Stanley,Edward,female,Papua New Guinea,4,2023,Operational researcher,2033.62,7.2
+Ryan,Eric,male,United States Virgin Islands,5,2021,"Engineer, control and instrumentation",1895.17,9.7
+Sellers,Daniel,male,Congo,12,2022,Media planner,2070.84,6.7
+Schroeder,Jose,male,United States Virgin Islands,8,2021,"Engineer, control and instrumentation",2120.44,7.1
+Salas,Joseph,female,United States Virgin Islands,9,2023,Media planner,2023.99,8.8
+Rodriguez,Jeffrey,male,Liechtenstein,5,2020,Media planner,2017.42,6.8
+Anderson,Anthony,male,United States Virgin Islands,3,2020,Media planner,1999.74,9.6
+Wiggins,Anthony,male,Paraguay,6,2023,Media planner,1928.33,5.8
+Andersen,Christopher,male,Congo,1,2023,Optometrist,1999.16,5.3
+Walker,Mark,female,Congo,5,2023,Media planner,1897.7,8.8
+Norris,Aaron,male,United States Virgin Islands,11,2023,"Engineer, control and instrumentation",2161.15,10.0
+Padilla,Robert,female,Paraguay,10,2021,Media planner,1995.49,8.5
+Velasquez,Jeremy,male,Switzerland,6,2023,Media planner,1931.72,6.7
+Smith,Thomas,male,Papua New Guinea,8,2020,"Engineer, control and instrumentation",1913.13,7.4
+Fuller,Matthew,female,United States Virgin Islands,12,2021,Media planner,2102.57,10.0
+Meyer,Jason,female,Congo,7,2022,Operational researcher,2111.76,6.6
+Taylor,Richard,male,Switzerland,6,2020,Media planner,2083.13,6.9
+Farrell,William,male,Switzerland,6,2022,Optometrist,2007.16,9.1
+Johnson,Tim,male,Congo,6,2023,"Engineer, control and instrumentation",2008.04,6.3
+Allen,Bryan,male,Greenland,3,2021,Optometrist,1994.5,6.7
+George,David,female,Paraguay,1,2020,Optometrist,1789.35,9.1
+Adams,Clayton,male,Congo,6,2021,Operational researcher,2280.54,6.8
+Ramsey,Anthony,female,Switzerland,4,2021,Optometrist,1974.66,9.1
+Wolf,Aaron,female,Congo,11,2023,Media planner,1863.0,7.9
+Goodman,William,male,Congo,8,2021,"Engineer, control and instrumentation",1937.94,9.9
+Wilson,Richard,male,Greenland,4,2023,Operational researcher,2075.05,7.5
+Webb,Jonathan,female,Greenland,3,2023,Operational researcher,1997.89,8.3
+Hernandez,Ronald,male,Greenland,7,2021,"Engineer, control and instrumentation",1950.07,8.0
+Beck,Nicholas,male,Greenland,8,2022,Operational researcher,2078.03,8.7
+Murphy,Nicholas,male,United States Virgin Islands,6,2022,Optometrist,1911.5,9.2
+Clark,Luis,male,United States Virgin Islands,11,2020,Media planner,1942.18,9.0
+Daniels,Joseph,male,Papua New Guinea,4,2020,Media planner,2152.94,5.3
