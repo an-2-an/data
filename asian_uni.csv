@@ -1,0 +1,621 @@
+world_rank;institution;country;national_rank;quality_of_education;alumni_employment;quality_of_faculty;publications;influence;citations;broad_impact;patents;score;year
+55;Peking University;China;1;355;35;210;65;155;250;155;7;55,3;2020
+56;Peking University;China;1;182;38;218;52;131;182;125;20;54,26;2021
+78;Tsinghua University;China;2;309;73;218;63;158;65;156;30;52,21;2021
+87;Tsinghua University;China;2;294;63;210;79;192;134;162;16;52,6;2020
+180;Shanghai Jiao Tong University;China;3;335;143;218;81;267;212;209;198;47,96;2021
+189;Fudan University;China;3;355;126;210;120;264;310;230;100;48,14;2020
+191;Zhejiang University;China;4;367;309;218;71;290;368;265;106;47,66;2021
+195;Shanghai Jiao Tong University;China;4;325;149;210;102;250;250;234;138;48,02;2020
+195;Fudan University;China;5;367;203;218;112;252;368;204;123;47,56;2021
+206;Zhejiang University;China;5;355;293;210;86;318;493;290;94;47,76;2020
+217;Nanjing University;China;6;331;447;210;148;371;363;288;57;47,67;2020
+239;University of Science and Technology of China;China;6;367;192;218;128;269;368;247;452;46,73;2021
+242;Dalian University of Technology;China;7;355;67;210;326;666;406;472;74;47,22;2020
+244;Nanjing University;China;7;342;362;218;134;358;234;265;164;46,61;2021
+270;University of Science and Technology of China;China;8;355;238;210;144;275;363;266;481;46,75;2020
+277;Sun Yat-sen University;China;8;367;254;218;161;393;287;285;221;46,25;2021
+292;Sun Yat-sen University;China;9;355;328;210;198;424;310;313;138;46,42;2020
+305;Dalian University of Technology;China;9;367;104;218;313;667;511;409;131;45,92;2021
+313;Xiamen University;China;10;367;80;218;331;493;645;409;467;45,83;2021
+315;Nankai University;China;11;334;135;218;282;454;321;334;419;45,8;2021
+331;Tianjin University;China;12;367;77;218;348;934;428;606;245;45,61;2021
+349;Nankai University;China;10;318;168;210;311;456;493;361;280;45,87;2020
+354;Xiamen University;China;11;355;100;210;371;507;609;472;307;45,8;2020
+370;Tongji University;China;12;152;102;210;401;547;609;690;204;45,7;2020
+385;Beijing Normal University;China;13;51;478;210;408;490;406;504;737;45,61;2020
+389;Xi'an Jiaotong University;China;13;367;154;218;271;583;812;606;174;45,21;2021
+391;Jilin University;China;14;220;338;218;239;452;645;375;551;45,2;2021
+394;Tianjin University;China;14;355;87;210;406;926;800;663;426;45,57;2020
+396;Beijing Normal University;China;15;57;567;218;363;492;428;480;755;45,17;2021
+399;Xi'an Jiaotong University;China;15;355;127;210;307;595;800;642;181;45,55;2020
+400;Huazhong University of Science and Technology;China;16;367;282;218;219;626;645;480;242;45,16;2021
+408;Huazhong University of Science and Technology;China;16;355;232;210;259;656;609;504;181;45,5;2020
+410;Harbin Institute of Technology;China;17;367;244;218;241;847;645;437;375;45,14;2021
+412;Southeast University;China;17;158;409;210;412;695;609;514;121;45,49;2020
+413;Shandong University;China;18;367;437;218;213;604;511;409;538;45,13;2021
+415;Wuhan University;China;19;367;258;218;274;612;645;396;576;45,13;2021
+420;Tongji University;China;20;153;115;218;346;480;645;671;373;45,1;2021
+423;Peking Union Medical College;China;21;367;567;218;324;297;368;358;797;45,09;2021
+435;Jilin University;China;18;224;469;210;270;467;493;395;373;45,4;2020
+438;Wuhan University;China;19;355;228;210;310;627;609;420;481;45,39;2020
+438;Central South University;China;22;367;131;218;366;783;511;558;444;45,02;2021
+439;South China University of Technology;China;23;367;266;218;347;620;511;471;196;45,02;2021
+443;Southeast University;China;24;168;488;218;369;702;645;480;149;45,01;2021
+457;Shandong University;China;20;355;466;210;245;588;493;437;481;45,27;2020
+465;Central South University;China;21;355;162;210;330;855;609;596;373;45,24;2020
+475;Harbin Institute of Technology;China;22;355;289;210;283;875;609;496;338;45,21;2020
+477;East China University of Science and Technology;China;25;367;567;218;423;828;645;471;184;44,86;2021
+479;Sichuan University;China;26;367;563;218;269;478;645;447;597;44,85;2021
+496;Renmin University of China;China;27;367;100;218;965;936;812;896;715;44,79;2021
+498;South China University of Technology;China;23;355;292;210;403;650;493;514;227;45,12;2020
+514;Lanzhou University;China;28;367;567;218;350;689;645;457;624;44,72;2021
+515;Sichuan University;China;24;355;478;210;306;530;800;472;373;45,05;2020
+528;East China University of Science and Technology;China;25;355;478;210;444;808;609;496;204;45,01;2020
+530;University of Science and Technology Beijing;China;29;367;121;218;542;937;511;886;408;44,7;2021
+553;Hunan University;China;30;367;291;218;464;906;645;529;816;44,62;2021
+560;Beihang University;China;26;355;254;210;523;881;609;800;170;44,93;2020
+571;Lanzhou University;China;27;355;478;210;389;667;493;496;481;44,9;2020
+572;Central China Normal University;China;31;367;567;218;631;855;511;480;778;44,58;2021
+586;East China Normal University;China;32;367;272;218;436;645;812;622;576;44,54;2021
+588;Hunan University;China;28;355;294;210;500;915;800;569;737;44,84;2020
+599;University of Science and Technology Beijing;China;29;355;166;210;592;928;493;897;373;44,82;2020
+610;Central China Normal University;China;30;355;478;210;653;837;493;504;737;44,79;2020
+615;Soochow University (Suzhou);China;33;367;567;218;396;773;812;565;871;44,49;2021
+627;China Agricultural University;China;34;367;534;218;407;362;645;590;572;44,47;2021
+640;Northeast Normal University;China;35;367;567;218;678;765;645;549;871;44,44;2021
+642;Beijing University of Chemical Technology;China;36;367;536;218;558;984;812;715;214;44,44;2021
+659;Donghua University;China;37;367;567;218;805;962;234;622;726;44,41;2021
+669;Northeast Normal University;China;31;355;478;210;716;774;609;554;737;44,69;2020
+672;East China Normal University;China;32;355;431;210;477;614;800;663;481;44,68;2020
+677;Wuhan University of Technology;China;38;367;499;218;738;931;428;590;763;44,39;2021
+684;Shanghai University;China;39;367;567;218;494;929;812;622;782;44,38;2021
+685;Beijing University of Chemical Technology;China;33;355;405;210;619;974;800;749;259;44,67;2020
+700;China Agricultural University;China;34;355;478;210;432;381;609;663;552;44,64;2020
+705;Beihang University;China;40;367;383;218;460;865;645;770;307;44,35;2021
+706;Fuzhou University;China;41;367;399;218;727;984;428;671;463;44,35;2021
+710;Nanjing University of Science and Technology;China;35;355;243;210;852;938;406;843;637;44,63;2020
+713;Soochow University (Suzhou);China;36;355;478;210;466;799;800;642;737;44,63;2020
+715;Fuzhou University;China;37;355;420;210;786;974;609;769;259;44,63;2020
+722;Shanghai University;China;38;355;478;210;508;925;609;642;637;44,62;2020
+731;Donghua University;China;39;355;478;210;833;952;250;690;481;44,61;2020
+749;Beijing Institute of Technology;China;42;367;567;218;528;969;511;699;569;44,3;2021
+751;Wuhan University of Technology;China;40;355;478;210;794;920;493;642;737;44,58;2020
+761;Peking Union Medical College;China;41;355;478;210;281;308;800;909;637;44,57;2020
+774;Chongqing University;China;43;367;283;218;630;892;645;837;809;44,27;2021
+776;Second Military Medical University;China;44;367;567;218;579;664;645;754;395;44,27;2021
+782;Second Military Medical University;China;42;355;478;210;641;725;609;756;307;44,55;2020
+783;University of Electronic Science and Technology of China;China;45;367;308;218;529;912;812;837;552;44,26;2021
+788;Capital Medical University;China;46;367;567;218;525;754;511;741;871;44,26;2021
+790;University of Electronic Science and Technology of China;China;43;355;400;210;589;910;800;897;259;44,54;2020
+795;Zhengzhou University;China;47;367;427;218;663;806;812;754;749;44,25;2021
+804;Nanjing University of Science and Technology;China;48;367;331;218;796;943;368;826;694;44,24;2021
+810;Nanjing University of Technology;China;49;367;567;218;748;984;812;932;217;44,22;2021
+815;Chongqing University;China;44;355;302;210;705;871;609;874;637;44,5;2020
+816;Beijing Institute of Technology;China;45;355;478;210;601;959;609;749;637;44,5;2020
+818;Zhengzhou University;China;46;355;463;210;725;778;800;783;637;44,49;2020
+824;Capital Medical University;China;47;355;478;210;618;800;609;756;737;44,48;2020
+828;Jiangnan University;China;50;367;567;218;783;912;812;770;628;44,2;2021
+842;Nanjing Normal University;China;48;355;436;210;777;699;609;849;552;44,45;2020
+846;Jinan University;China;49;355;290;210;855;880;800;956;481;44,45;2020
+846;Ocean University of China;China;51;367;567;218;648;735;812;809;541;44,19;2021
+858;Huazhong Agricultural University;China;52;367;567;218;651;535;645;837;494;44,17;2021
+864;Nanjing Normal University;China;53;367;456;218;729;709;428;850;742;44,17;2021
+865;Nanjing University of Technology;China;50;355;478;210;810;987;800;948;227;44,44;2020
+866;Nanjing Agricultural University;China;54;367;567;218;617;726;812;837;601;44,16;2021
+870;Ocean University of China;China;51;355;478;210;703;824;800;832;481;44,43;2020
+871;Northeastern University (China);China;55;367;315;218;759;974;812;906;698;44,16;2021
+877;Jiangnan University;China;52;355;478;210;873;922;800;819;552;44,42;2020
+877;Northwest University (China);China;56;367;567;218;904;848;368;837;871;44,15;2021
+883;Huazhong Agricultural University;China;53;355;478;210;691;570;609;849;481;44,41;2020
+883;Hefei University of Technology;China;57;367;302;218;914;974;812;932;871;44,15;2021
+886;Shanghai Normal University;China;54;355;458;210;974;938;800;874;737;44,41;2020
+886;Nanjing Medical University;China;58;367;567;218;582;696;812;867;761;44,14;2021
+888;Shanghai Normal University;China;59;367;463;218;919;950;812;850;871;44,14;2021
+889;Southwest University;China;60;268;567;218;695;897;645;867;669;44,14;2021
+895;Nanjing University of Aeronautics and Astronautics;China;61;367;486;218;709;974;812;867;853;44,14;2021
+896;Nanjing Agricultural University;China;55;355;478;210;674;766;800;849;637;44,4;2020
+899;Fourth Military Medical University;China;62;367;567;218;609;716;645;880;692;44,13;2021
+904;China University of Geosciences (Wuhan);China;63;367;558;218;928;639;428;867;752;44,13;2021
+907;Northeastern University (China);China;56;355;425;210;797;966;800;917;737;44,39;2020
+912;Northwest University (China);China;57;355;478;210;969;751;609;849;737;44,38;2020
+917;Nanjing Medical University;China;58;355;478;210;672;715;800;874;737;44,38;2020
+921;Southwest University;China;59;264;478;210;760;875;609;909;737;44,37;2020
+924;South China Normal University;China;64;367;452;218;674;912;645;906;744;44,11;2021
+932;Fourth Military Medical University;China;60;355;478;210;680;747;609;909;552;44,36;2020
+935;Nanjing University of Aeronautics and Astronautics;China;61;355;478;210;775;974;800;897;737;44,35;2020
+941;Jiangsu University;China;62;355;478;210;836;959;800;985;280;44,34;2020
+942;Third Military Medical University;China;63;355;478;210;800;844;609;923;481;44,34;2020
+943;South China Normal University;China;64;355;478;210;737;932;800;917;637;44,33;2020
+943;Yangzhou University;China;65;367;567;218;891;873;812;896;871;44,09;2021
+945;Xiangtan University;China;65;355;393;210;893;918;800;973;737;44,33;2020
+946;Yangzhou University;China;66;355;478;210;928;907;800;909;737;44,33;2020
+947;Northwestern Polytechnical University;China;67;355;417;210;628;987;800;985;737;44,33;2020
+947;Jiangsu University;China;66;367;556;218;808;969;812;981;323;44,08;2021
+948;Northwestern Polytechnical University;China;67;367;351;218;566;962;812;989;871;44,08;2021
+949;Xiangtan University;China;68;367;384;218;862;935;812;958;778;44,08;2021
+953;Harbin Engineering University;China;69;367;567;218;970;991;645;906;839;44,07;2021
+955;Southern Medical University;China;68;355;478;210;873;737;800;923;637;44,32;2020
+955;Jinan University;China;70;367;336;218;793;897;812;984;688;44,07;2021
+957;Third Military Medical University;China;71;367;567;218;737;809;645;932;721;44,07;2021
+960;Beijing Jiaotong University;China;69;355;478;210;971;987;800;997;280;44,31;2020
+963;Southern Medical University;China;72;367;567;218;801;758;812;932;782;44,06;2021
+968;Hunan Normal University;China;70;355;478;210;923;915;800;937;737;44,3;2020
+969;South China Agricultural University;China;73;367;567;218;877;811;812;932;871;44,06;2021
+972;Hunan Normal University;China;74;367;567;218;923;917;812;932;871;44,06;2021
+973;South China Agricultural University;China;71;355;478;210;946;830;800;948;737;44,3;2020
+975;China Pharmaceutical University;China;72;355;478;210;919;987;800;956;552;44,3;2020
+975;Shenzhen University;China;75;367;410;218;976;778;645;999;318;44,05;2021
+976;Tianjin Medical University;China;76;367;567;218;885;857;812;946;839;44,05;2021
+977;Beijing University of Technology;China;77;367;567;218;780;950;812;969;512;44,05;2021
+980;Xidian University;China;73;355;478;210;888;974;800;985;373;44,29;2020
+981;Zhejiang University of Technology;China;74;355;478;210;917;987;800;966;637;44,28;2020
+982;China Medical University (PRC);China;75;355;478;210;849;709;800;966;737;44,28;2020
+982;China Medical University (PRC);China;78;367;567;218;804;749;645;958;871;44,04;2021
+984;Zhejiang University of Technology;China;79;367;567;218;858;991;812;958;672;44,04;2021
+985;Beijing University of Technology;China;76;355;478;210;809;938;609;973;637;44,27;2020
+986;Guangxi University;China;77;313;478;210;919;974;800;979;637;44,27;2020
+987;Northwest A&F University;China;78;355;478;210;787;894;800;973;737;44,27;2020
+988;Shanxi University;China;79;355;478;210;885;907;800;973;737;44,26;2020
+990;Harbin Medical University;China;80;355;478;210;900;862;800;979;737;44,26;2020
+990;Henan Normal University;China;80;367;567;218;959;991;812;958;871;44,04;2021
+991;Zhejiang Normal University;China;81;355;478;210;905;932;800;979;737;44,26;2020
+991;Xidian University;China;81;367;542;218;830;974;812;984;434;44,03;2021
+993;Southwest Jiaotong University;China;82;367;327;218;937;962;812;998;861;44,03;2021
+998;Shaanxi Normal University;China;82;355;478;210;956;965;800;994;737;44,23;2020
+999;National University of Defense Technology;China;83;355;478;210;860;973;800;999;637;44,21;2020
+1000;Yanbian University;China;84;355;478;210;890;790;800;1000;737;44,18;2020
+1000;China Pharmaceutical University;China;83;367;567;218;861;991;812;981;547;44,02;2021
+551;University of Zagreb;Croatia;1;367;567;218;553;541;428;471;650;44,62;2021
+564;University of Zagreb;Croatia;1;355;478;210;572;528;406;460;426;44,92;2020
+928;University of Cyprus;Cyprus;1;367;567;218;820;896;645;886;816;44,1;2021
+953;University of Cyprus;Cyprus;1;355;478;210;802;887;609;923;737;44,32;2020
+270;Charles University in Prague;Czech Republic;1;238;560;116;228;238;182;227;636;46,32;2021
+313;Charles University in Prague;Czech Republic;1;337;478;210;243;231;220;256;637;46,23;2020
+702;Masaryk University;Czech Republic;2;367;567;218;645;519;645;622;705;44,36;2021
+716;Czech Technical University in Prague;Czech Republic;3;347;567;218;673;816;428;646;582;44,34;2021
+724;Palack? University; Olomouc;Czech Republic;4;367;567;218;739;562;511;659;475;44,33;2021
+742;Masaryk University;Czech Republic;2;355;478;210;667;567;800;642;737;44,59;2020
+771;Czech Technical University in Prague;Czech Republic;3;336;478;210;698;793;406;690;737;44,56;2020
+804;Palack? University; Olomouc;Czech Republic;4;355;478;210;771;559;609;724;481;44,52;2020
+963;University of Chemistry and Technology; Prague;Czech Republic;5;355;478;210;994;871;800;923;737;44,31;2020
+980;University of Chemistry and Technology; Prague;Czech Republic;5;367;567;218;991;868;812;946;778;44,05;2021
+155;University of Hong Kong;Hong Kong;1;272;116;210;98;195;176;118;481;49,1;2020
+170;University of Hong Kong;Hong Kong;1;287;128;218;139;204;128;147;205;48,15;2021
+202;Chinese University of Hong Kong;Hong Kong;2;90;478;88;171;386;159;203;204;47,83;2020
+220;Chinese University of Hong Kong;Hong Kong;2;100;479;116;162;356;212;209;168;47,05;2021
+291;Hong Kong University of Science and Technology;Hong Kong;3;355;279;210;256;469;363;295;128;46,42;2020
+319;Hong Kong University of Science and Technology;Hong Kong;3;367;359;218;256;466;368;300;185;45,77;2021
+354;Hong Kong Polytechnic University;Hong Kong;4;367;166;218;259;764;511;375;329;45,47;2021
+373;City University of Hong Kong;Hong Kong;5;367;567;218;252;874;511;339;387;45,33;2021
+375;City University of Hong Kong;Hong Kong;4;355;478;210;255;893;493;343;259;45,67;2020
+381;Hong Kong Polytechnic University;Hong Kong;5;355;189;210;261;764;406;395;481;45,65;2020
+649;Hong Kong Baptist University;Hong Kong;6;367;516;218;592;937;511;565;691;44,43;2021
+678;Hong Kong Baptist University;Hong Kong;6;355;478;210;591;922;609;585;637;44,67;2020
+371;E?tv?s Lor?nd University;Hungary;1;87;478;104;539;403;250;430;637;45,69;2020
+458;E?tv?s Lor?nd University;Hungary;1;89;567;116;559;444;287;495;724;44,92;2021
+598;Semmelweis University;Hungary;2;355;478;210;668;517;493;496;552;44,82;2020
+617;Semmelweis University;Hungary;2;367;567;218;650;481;511;529;670;44,48;2021
+667;University of Debrecen;Hungary;3;367;567;218;687;621;428;590;499;44,4;2021
+673;University of Debrecen;Hungary;3;355;478;210;660;586;406;585;552;44,68;2020
+712;University of Szeged;Hungary;4;355;478;198;651;765;800;618;552;44,63;2020
+731;University of Szeged;Hungary;4;367;567;205;657;720;812;659;532;44,32;2021
+811;Budapest University of Technology and Economics;Hungary;5;238;478;210;714;758;800;769;552;44,51;2020
+819;Budapest University of Technology and Economics;Hungary;5;256;567;218;740;761;645;781;529;44,21;2021
+862;University of P?cs;Hungary;6;355;478;210;963;834;800;832;373;44,44;2020
+892;University of P?cs;Hungary;6;367;567;218;962;812;812;850;501;44,14;2021
+461;University of Iceland;Iceland;1;367;567;218;612;295;321;369;839;44,91;2021
+516;University of Iceland;Iceland;1;355;478;210;629;311;310;409;737;45,05;2020
+328;Indian Institute of Technology Delhi;India;1;355;57;210;644;928;800;756;426;46,1;2020
+341;Indian Institute of Technology Delhi;India;1;367;59;218;635;943;812;781;625;45,54;2021
+379;University of Delhi;India;2;240;72;218;703;763;812;796;797;45,3;2021
+436;University of Delhi;India;2;263;88;210;701;732;800;769;637;45,4;2020
+448;Indian Institute of Science;India;3;367;332;218;315;537;511;447;239;44,96;2021
+491;Panjab University;India;4;333;167;218;720;786;368;540;824;44,8;2021
+501;Indian Institute of Science;India;3;355;478;210;305;495;609;472;280;45,11;2020
+534;Indian Institute of Technology Madras;India;5;367;147;218;523;943;812;796;317;44,68;2021
+535;Indian Institute of Technology Bombay;India;4;355;478;210;522;785;609;724;121;45;2020
+543;Panjab University;India;5;332;212;210;708;722;363;569;737;44,97;2020
+569;Indian Institute of Technology Kanpur;India;6;153;308;210;536;846;609;724;227;44,91;2020
+574;Indian Institute of Technology Kharagpur;India;7;355;201;210;501;966;800;703;426;44,89;2020
+576;Indian Institute of Technology Madras;India;8;355;206;210;532;928;406;756;280;44,89;2020
+592;Tata Institute of Fundamental Research;India;9;355;478;210;458;420;310;523;737;44,83;2020
+596;Indian Institute of Technology Bombay;India;6;367;507;218;521;815;645;699;176;44,52;2021
+601;Tata Institute of Fundamental Research;India;7;367;567;218;468;450;368;540;792;44,51;2021
+611;Indian Institute of Technology Roorkee;India;10;355;307;210;845;846;609;554;737;44,79;2020
+614;Indian Institute of Technology Kharagpur;India;8;367;242;218;500;974;812;686;644;44,49;2021
+638;Indian Institute of Technology Roorkee;India;9;367;395;218;839;931;428;565;871;44,44;2021
+667;Banaras Hindu University;India;11;237;285;210;746;927;363;756;737;44,69;2020
+679;Banaras Hindu University;India;10;243;260;218;754;904;511;741;871;44,39;2021
+714;Indian Institute of Technology Kanpur;India;11;174;503;218;561;848;645;715;450;44,34;2021
+777;Jawaharlal Nehru Centre for Advanced Scientific Research;India;12;355;478;210;865;642;493;703;426;44,55;2020
+777;Jawaharlal Nehru Centre for Advanced Scientific Research;India;12;367;567;218;868;650;645;715;453;44,27;2021
+851;All India Institute of Medical Sciences; New Delhi;India;13;367;567;218;887;886;645;781;839;44,18;2021
+868;All India Institute of Medical Sciences; New Delhi;India;13;355;478;210;879;853;609;800;637;44,43;2020
+891;University of Calcutta;India;14;140;346;209;964;900;645;994;424;44,14;2021
+904;Jadavpur University;India;14;355;478;210;871;987;493;849;737;44,39;2020
+911;University of Hyderabad;India;15;355;478;210;857;938;800;849;737;44,38;2020
+923;Jadavpur University;India;15;367;515;218;849;991;428;886;735;44,11;2021
+925;University of Hyderabad;India;16;367;567;218;879;910;812;880;871;44,11;2021
+697;Sharif University of Technology;Iran;1;116;567;218;563;950;511;732;871;44,37;2021
+749;University of Tehran;Iran;1;171;478;210;519;974;800;769;737;44,58;2020
+768;University of Tehran;Iran;2;181;567;218;489;984;812;770;871;44,28;2021
+833;Sharif University of Technology;Iran;2;355;478;210;588;938;493;783;737;44,47;2020
+849;Tehran University of Medical Sciences;Iran;3;355;478;210;603;903;800;800;737;44,45;2020
+854;Tehran University of Medical Sciences;Iran;3;367;567;218;771;899;812;796;871;44,18;2021
+912;Tarbiat Modares University;Iran;4;367;567;218;769;991;812;867;871;44,12;2021
+914;Isfahan University of Technology;Iran;5;367;567;218;682;923;645;880;871;44,12;2021
+931;Shahid Beheshti University of Medical Sciences;Iran;6;367;567;218;833;920;812;886;871;44,1;2021
+938;Isfahan University of Technology;Iran;4;355;478;210;722;904;609;909;737;44,34;2020
+956;Shiraz University;Iran;5;355;478;210;860;952;609;923;737;44,32;2020
+956;Shiraz University;Iran;7;367;567;218;865;962;645;921;871;44,07;2021
+958;Amirkabir University of Technology;Iran;8;367;567;218;725;962;645;932;871;44,07;2021
+959;Amirkabir University of Technology;Iran;6;355;478;210;769;952;609;937;737;44,31;2020
+976;Tarbiat Modares University;Iran;7;355;478;210;811;987;800;956;737;44,29;2020
+993;Iran University of Science and Technology;Iran;8;355;478;210;822;987;493;989;737;44,25;2020
+185;Trinity College; Dublin;Ireland;1;338;78;200;289;233;115;204;153;47,73;2021
+200;Trinity College; Dublin;Ireland;1;319;68;193;301;249;150;201;227;47,96;2020
+238;University College Dublin;Ireland;2;241;112;218;288;285;128;247;278;46,79;2021
+269;University College Dublin;Ireland;2;227;182;210;276;280;150;251;307;46,77;2020
+436;University College Cork;Ireland;3;367;430;218;426;431;368;402;195;45,03;2021
+463;University College Cork;Ireland;3;355;359;210;423;464;406;420;227;45,25;2020
+558;National University of Ireland; Galway;Ireland;4;367;567;218;588;546;645;503;293;44,61;2021
+600;National University of Ireland; Galway;Ireland;4;355;478;210;593;597;609;531;307;44,82;2020
+647;Royal College of Surgeons in Ireland;Ireland;5;355;478;210;813;724;310;554;552;44,72;2020
+711;Royal College of Surgeons in Ireland;Ireland;5;367;567;218;888;714;368;646;446;44,35;2021
+819;Dublin City University;Ireland;6;355;478;210;807;959;493;843;280;44,49;2020
+820;National University of Ireland; Maynooth;Ireland;7;215;478;210;1000;716;800;800;552;44,49;2020
+843;Dublin City University;Ireland;6;367;567;218;803;933;511;850;347;44,19;2021
+853;National University of Ireland; Maynooth;Ireland;7;244;567;218;992;710;812;809;561;44,18;2021
+944;University of Limerick;Ireland;8;355;478;210;897;868;800;948;373;44,33;2020
+981;University of Limerick;Ireland;8;367;529;218;892;863;812;969;516;44,05;2021
+18;Weizmann Institute of Science;Israel;1;4;101;22;101;67;101;140;29;65,09;2012
+21;Hebrew University of Jerusalem;Israel;1;15;101;15;101;96;101;150;24;59,98;2013
+22;Hebrew University of Jerusalem;Israel;2;24;93;13;101;91;101;155;28;60,76;2012
+22;Hebrew University of Jerusalem;Israel;1;15;255;16;114;94;493;151;40;66,76;2020
+23;Hebrew University of Jerusalem;Israel;1;15;164;15;120;97;368;143;35;65,71;2021
+33;Weizmann Institute of Science;Israel;2;18;101;23;101;85;101;135;48;54,34;2013
+38;Weizmann Institute of Science;Israel;2;18;478;22;233;63;250;137;51;59,17;2020
+39;Weizmann Institute of Science;Israel;2;19;567;22;246;63;234;143;45;57,17;2021
+51;Technion – Israel Institute of Technology;Israel;3;45;89;36;101;101;101;124;51;50,01;2012
+56;Tel Aviv University;Israel;4;97;101;51;72;101;101;155;35;48,76;2012
+57;Tel Aviv University;Israel;3;84;101;54;83;101;101;174;32;48,72;2013
+66;Technion – Israel Institute of Technology;Israel;4;50;101;36;101;101;101;154;73;47,45;2013
+86;Tel Aviv University;Israel;3;74;122;56;95;116;176;151;28;52,63;2020
+86;Tel Aviv University;Israel;3;77;107;50;98;117;136;154;39;51,75;2021
+109;Technion – Israel Institute of Technology;Israel;4;41;221;39;180;226;187;207;100;50,89;2020
+136;Technion – Israel Institute of Technology;Israel;4;45;180;55;186;221;161;209;88;49,12;2021
+349;Ben-Gurion University of the Negev;Israel;5;367;567;218;277;379;428;381;118;45,49;2021
+362;Ben-Gurion University of the Negev;Israel;5;355;478;165;280;382;406;386;138;45,76;2020
+503;Bar-Ilan University;Israel;6;266;408;210;415;392;609;482;259;45,11;2020
+521;Bar-Ilan University;Israel;6;280;392;218;404;410;645;495;338;44,71;2021
+697;University of Haifa;Israel;7;355;363;210;587;448;609;690;552;44,65;2020
+700;University of Haifa;Israel;7;367;372;218;535;479;812;686;503;44,36;2021
+13;University of Tokyo;Japan;1;17;3;33;12;16;28;26;14;80,64;2020
+13;University of Tokyo;Japan;1;16;3;38;14;19;31;29;7;78,23;2021
+14;University of Tokyo;Japan;1;17;3;32;14;23;29;35;5;76,23;2013
+15;Kyoto University;Japan;2;32;17;14;28;46;58;55;13;69,46;2013
+16;Kyoto University;Japan;2;30;23;15;27;41;61;51;18;73,21;2020
+17;Kyoto University;Japan;2;42;38;19;25;36;43;102;23;65,76;2012
+17;Kyoto University;Japan;2;22;16;24;30;42;88;60;16;68,6;2021
+32;Osaka University;Japan;3;77;101;44;39;44;51;70;11;54,43;2012
+34;Keio University;Japan;3;271;5;210;299;243;310;266;159;59,84;2020
+34;Keio University;Japan;3;284;5;218;309;246;368;270;80;59,84;2021
+35;Osaka University;Japan;3;77;91;44;55;56;72;500;17;52,79;2013
+38;Waseda University;Japan;4;288;8;218;406;389;368;388;248;58,17;2021
+40;Waseda University;Japan;4;355;7;210;391;384;283;380;204;58,69;2020
+43;Osaka University;Japan;5;69;36;48;43;55;114;56;34;58,35;2020
+45;Osaka University;Japan;5;46;39;75;50;58;182;67;18;56,03;2021
+70;Keio University;Japan;4;101;6;101;101;101;101;100;73;47,05;2013
+72;Tohoku University;Japan;6;40;241;210;56;112;107;112;21;53,65;2020
+73;Tohoku University;Japan;6;41;170;218;68;127;115;119;22;52,57;2021
+74;Nagoya University;Japan;4;56;101;69;101;101;101;120;46;46,89;2012
+79;Tohoku University;Japan;5;53;101;101;49;100;67;152;29;45,82;2012
+91;Nagoya University;Japan;5;72;101;71;101;101;101;135;58;44,78;2013
+92;Kyushu University;Japan;7;355;41;210;135;170;283;207;27;51,96;2020
+95;Tohoku University;Japan;6;43;101;101;65;101;91;208;26;44,52;2013
+96;Tokyo Institute of Technology;Japan;8;208;48;119;150;157;87;180;44;51,53;2020
+100;Kyushu University;Japan;7;367;49;218;152;182;264;200;37;50,6;2021
+109;Tokyo Institute of Technology;Japan;8;170;50;128;169;169;136;190;52;50,13;2021
+125;Nagoya University;Japan;9;39;322;53;138;140;146;195;78;49,57;2021
+132;Nagoya University;Japan;9;67;356;69;119;141;134;192;68;49,82;2020
+150;Osaka City University;Japan;10;19;320;210;460;520;283;437;373;49,25;2020
+153;Kobe University;Japan;11;22;362;96;349;259;283;318;307;49,18;2020
+178;Hokkaido University;Japan;10;279;277;135;148;173;287;251;53;47,97;2021
+188;Hokkaido University;Japan;12;260;378;126;138;172;283;251;61;48,18;2020
+245;Okayama University;Japan;11;367;288;218;353;335;287;318;60;46,59;2021
+253;University of Tsukuba;Japan;13;183;478;108;226;239;176;220;259;47;2020
+262;University of Tsukuba;Japan;12;202;567;107;230;255;212;242;213;46,41;2021
+279;Hiroshima University;Japan;14;355;478;210;294;274;283;266;109;46,59;2020
+281;Okayama University;Japan;15;355;226;210;332;335;250;322;94;46,57;2020
+290;Hiroshima University;Japan;13;367;567;218;304;287;428;273;112;46,12;2021
+320;Kobe University;Japan;14;95;240;116;368;271;321;335;301;45,74;2021
+339;Yokohama National University;Japan;16;52;135;126;841;812;609;749;338;45,97;2020
+376;Tokyo Medical and Dental University;Japan;17;355;478;210;442;299;609;306;307;45,67;2020
+386;Chiba University;Japan;18;355;478;210;342;315;406;343;204;45,6;2020
+392;Tokyo Medical and Dental University;Japan;15;367;567;218;473;352;645;335;272;45,2;2021
+407;Kumamoto University;Japan;19;279;325;210;473;400;493;380;170;45,51;2020
+413;Tokyo University of Science;Japan;20;355;478;210;504;516;406;402;128;45,48;2020
+417;Nagasaki University;Japan;21;274;128;210;567;579;493;514;307;45,46;2020
+418;Chiba University;Japan;16;367;567;218;361;343;368;362;267;45,11;2021
+419;Kumamoto University;Japan;17;308;353;218;495;441;428;409;152;45,11;2021
+424;Niigata University;Japan;22;355;217;210;503;506;363;420;204;45,43;2020
+444;University of Tokushima;Japan;23;109;478;210;603;455;493;504;149;45,36;2020
+454;Kanazawa University;Japan;24;355;327;210;455;409;493;375;373;45,29;2020
+457;Kanazawa University;Japan;18;367;416;218;474;419;511;381;350;44,92;2021
+461;Yokohama City University;Japan;25;355;196;210;650;362;800;460;338;45,26;2020
+465;Juntendo University;Japan;19;367;567;218;653;498;428;362;853;44,9;2021
+468;Niigata University;Japan;20;367;285;218;527;514;511;447;238;44,88;2021
+471;Shinshu University;Japan;26;355;333;210;564;568;283;442;204;45,22;2020
+473;Nihon University;Japan;21;301;565;218;599;588;812;637;113;44,86;2021
+474;Osaka City University;Japan;22;108;414;218;484;536;321;471;374;44,86;2021
+481;Tokyo University of Science;Japan;23;367;567;218;530;530;428;457;191;44,84;2021
+484;Juntendo University;Japan;27;355;478;210;645;482;406;366;737;45,18;2020
+486;Nagasaki University;Japan;24;299;214;218;614;607;645;529;233;44,82;2021
+501;Tokyo Metropolitan University;Japan;25;367;415;218;593;460;321;413;574;44,78;2021
+502;Tokyo Metropolitan University;Japan;28;355;322;210;550;450;310;420;637;45,11;2020
+509;Graduate University for Advanced Studies;Japan;29;355;478;210;607;269;493;386;737;45,09;2020
+512;University of Tokushima;Japan;26;107;567;218;643;453;645;529;247;44,73;2021
+513;Yokohama City University;Japan;27;367;231;218;685;370;645;520;359;44,73;2021
+518;Yokohama National University;Japan;28;88;217;135;909;865;645;809;440;44,72;2021
+524;Graduate University for Advanced Studies;Japan;29;367;567;218;613;291;645;420;871;44,7;2021
+529;Shinshu University;Japan;30;367;517;218;594;602;368;486;244;44,7;2021
+539;Nihon University;Japan;30;307;474;210;573;611;800;642;149;44,98;2020
+542;Tokyo Women's Medical University;Japan;31;355;478;210;763;609;493;460;259;44,98;2020
+547;Nara Institute of Science and Technology;Japan;32;355;478;210;715;304;493;437;426;44,96;2020
+547;Nara Institute of Science and Technology;Japan;31;367;567;218;773;329;645;495;270;44,63;2021
+555;Nagoya City University;Japan;33;355;306;210;764;531;310;531;307;44,94;2020
+555;Tokyo Women's Medical University;Japan;32;367;567;218;787;594;511;480;362;44,61;2021
+570;Kagoshima University;Japan;34;355;211;210;694;648;493;642;373;44,9;2020
+573;Shizuoka University;Japan;35;355;478;210;586;589;406;703;149;44,89;2020
+581;Ehime University;Japan;36;355;324;210;585;564;493;554;338;44,85;2020
+584;Tottori University;Japan;37;355;199;210;846;710;493;724;373;44,85;2020
+589;Tokai University;Japan;38;355;478;210;697;608;493;488;481;44,84;2020
+594;Osaka Prefecture University;Japan;39;355;316;210;646;682;609;675;204;44,83;2020
+598;Osaka Prefecture University;Japan;33;367;411;218;688;671;812;686;187;44,52;2021
+599;Nagoya City University;Japan;34;367;333;218;785;525;368;565;400;44,52;2021
+603;Tokyo University of Agriculture and Technology;Japan;40;355;478;210;574;707;609;585;227;44,81;2020
+608;Gunma University;Japan;35;367;567;218;627;531;511;590;252;44,5;2021
+619;Kagoshima University;Japan;36;367;281;218;733;706;511;715;251;44,48;2021
+622;Tokai University;Japan;37;367;567;218;721;644;645;540;448;44,48;2021
+624;Tokyo University of Agriculture and Technology;Japan;38;367;567;218;641;756;511;606;264;44,47;2021
+648;Shizuoka University;Japan;39;367;476;218;834;708;645;826;163;44,43;2021
+651;Ehime University;Japan;40;367;514;218;619;582;511;590;418;44,43;2021
+652;Gunma University;Japan;41;355;478;210;599;519;493;596;338;44,71;2020
+654;Gifu University;Japan;42;355;478;210;648;664;493;569;426;44,71;2020
+657;Yamaguchi University;Japan;41;367;567;218;753;787;645;732;202;44,42;2021
+658;Kindai University;Japan;43;355;478;210;655;721;493;585;373;44,7;2020
+666;Sapporo Medical University;Japan;44;355;478;210;929;823;609;618;280;44,69;2020
+666;University of Toyama;Japan;42;367;307;218;685;760;645;646;871;44,41;2021
+670;Gifu University;Japan;43;367;567;218;701;658;645;606;403;44,4;2021
+684;Toho University;Japan;45;355;478;154;800;788;800;690;552;44,67;2020
+690;University of Toyama;Japan;46;355;323;210;659;736;609;675;737;44,66;2020
+694;Jichi Medical University;Japan;47;355;478;210;894;621;609;585;552;44,65;2020
+713;Sapporo Medical University;Japan;44;367;567;218;975;837;645;637;441;44,35;2021
+721;Kyoto Prefectural University of Medicine;Japan;48;355;478;210;823;712;609;605;737;44,62;2020
+722;Jichi Medical University;Japan;45;367;567;218;930;633;511;637;641;44,33;2021
+726;Kitasato University;Japan;49;355;478;210;706;510;800;618;737;44,61;2020
+727;Toho University;Japan;46;367;567;159;836;824;812;699;787;44,33;2021
+728;Kyoto Prefectural University of Medicine;Japan;47;367;567;218;852;752;645;637;871;44,33;2021
+732;Kitasato University;Japan;48;367;567;218;725;595;812;646;871;44,32;2021
+734;Mie University;Japan;50;355;478;210;805;834;609;675;338;44,6;2020
+736;Tottori University;Japan;49;367;343;218;908;721;511;741;390;44,32;2021
+737;Kindai University;Japan;50;367;567;218;680;712;428;686;437;44,32;2021
+743;Yamaguchi University;Japan;51;355;478;210;719;735;609;716;307;44,59;2020
+744;University of Yamanashi;Japan;52;355;478;210;858;895;406;663;481;44,59;2020
+745;Showa University;Japan;53;355;478;210;945;760;609;628;737;44,59;2020
+752;University of Hyogo;Japan;54;355;478;210;765;463;493;663;552;44,58;2020
+756;Jikei University School of Medicine;Japan;55;355;478;210;975;711;609;642;637;44,58;2020
+759;University of Yamanashi;Japan;51;367;567;218;869;862;645;715;382;44,29;2021
+760;Kurume University;Japan;56;355;478;210;981;727;800;642;737;44,57;2020
+760;Yamagata University;Japan;52;367;567;218;775;736;812;686;535;44,29;2021
+762;Yamagata University;Japan;57;355;478;210;760;719;609;675;481;44,57;2020
+763;University of Hyogo;Japan;53;367;567;218;813;475;511;686;787;44,28;2021
+765;Saga University;Japan;58;355;478;210;773;757;800;675;481;44,57;2020
+771;Kurume University;Japan;54;367;567;218;986;770;812;699;473;44,27;2021
+772;Saitama Medical University;Japan;59;355;478;210;912;635;609;690;426;44,56;2020
+773;Saga University;Japan;55;367;567;218;808;791;812;715;435;44,27;2021
+775;University of Electro-Communications;Japan;60;140;478;210;846;866;609;874;373;44,56;2020
+775;Jikei University School of Medicine;Japan;56;367;567;218;959;711;645;686;797;44,27;2021
+780;Mie University;Japan;57;367;567;218;835;860;645;741;368;44,27;2021
+781;University of Miyazaki;Japan;61;259;478;210;924;690;609;800;280;44,55;2020
+786;Fukuoka University;Japan;62;355;478;210;972;852;800;783;259;44,54;2020
+787;Nagoya Institute of Technology;Japan;63;355;310;210;775;948;609;897;280;44,54;2020
+798;Saitama Medical University;Japan;58;367;567;218;993;586;645;732;488;44,25;2021
+800;Showa University;Japan;59;367;567;218;985;759;645;715;727;44,24;2021
+827;Nagoya Institute of Technology;Japan;60;367;504;218;825;958;645;921;229;44,2;2021
+830;K?chi University;Japan;64;355;478;210;925;788;800;769;426;44,47;2020
+838;K?chi University;Japan;61;367;567;218;942;788;812;781;536;44,19;2021
+839;University of Miyazaki;Japan;62;290;567;218;952;692;645;826;393;44,19;2021
+840;Ritsumeikan University;Japan;65;355;281;210;870;884;493;973;426;44,46;2020
+840;University of Electro-Communications;Japan;63;161;567;218;857;833;645;906;332;44,19;2021
+850;University of the Ryukyus;Japan;66;355;478;210;887;657;609;783;552;44,45;2020
+855;University of the Ryukyus;Japan;64;367;567;218;922;663;645;796;618;44,18;2021
+858;Saitama University;Japan;67;355;318;210;912;603;493;909;637;44,44;2020
+860;Hamamatsu University School of Medicine;Japan;68;355;478;210;966;901;609;783;637;44,44;2020
+862;Fukuoka University;Japan;65;367;567;218;971;876;812;837;416;44,17;2021
+863;University of Fukui;Japan;69;355;478;210;879;761;800;783;737;44,44;2020
+863;Hamamatsu University School of Medicine;Japan;66;367;567;218;990;917;645;826;470;44,17;2021
+869;Kyoto Institute of Technology;Japan;70;355;478;210;927;831;800;874;307;44,43;2020
+873;Hirosaki University;Japan;71;355;478;210;952;819;609;832;426;44,43;2020
+876;Teikyo University;Japan;72;355;478;210;965;738;800;800;737;44,42;2020
+887;Kyoto Institute of Technology;Japan;67;367;567;218;982;868;812;921;287;44,14;2021
+888;Shimane University;Japan;73;355;478;210;922;693;609;832;637;44,41;2020
+900;University of Fukui;Japan;68;367;567;218;950;797;812;850;610;44,13;2021
+903;Shimane University;Japan;69;367;567;218;956;717;645;850;695;44,13;2021
+908;Teikyo University;Japan;70;367;567;218;966;767;812;850;803;44,12;2021
+909;Saitama University;Japan;71;367;349;218;959;609;511;932;545;44,12;2021
+926;Ritsumeikan University;Japan;72;367;325;218;906;882;511;984;430;44,1;2021
+945;Hirosaki University;Japan;73;367;505;218;951;844;511;906;693;44,08;2021
+949;Ibaraki University;Japan;74;355;478;210;995;439;609;917;737;44,33;2020
+970;Ibaraki University;Japan;74;367;567;218;999;448;645;946;562;44,06;2021
+561;American University of Beirut;Lebanon;1;103;205;210;892;850;800;849;737;44,93;2020
+682;American University of Beirut;Lebanon;1;114;247;218;915;892;812;880;871;44,38;2021
+791;Vilnius University;Lithuania;1;340;567;218;799;642;645;715;684;44,25;2021
+838;Vilnius University;Lithuania;1;326;478;210;790;728;609;769;737;44,46;2020
+315;University of Science; Malaysia;Malaysia;1;355;478;210;700;877;609;819;42;46,23;2020
+482;University of Science; Malaysia;Malaysia;1;367;567;218;669;888;428;809;94;44,84;2021
+492;University of Malaya;Malaysia;2;355;115;210;670;910;493;769;426;45,15;2020
+498;University of Malaya;Malaysia;2;367;138;218;572;877;428;741;274;44,79;2021
+610;Putra University; Malaysia;Malaysia;3;367;567;218;860;900;812;989;114;44,49;2021
+778;Putra University; Malaysia;Malaysia;3;355;478;210;932;897;800;979;159;44,55;2020
+48;Lomonosov Moscow State University;Russia;1;14;210;50;264;247;310;361;737;56,42;2020
+59;Lomonosov Moscow State University;Russia;1;14;175;48;268;254;287;344;861;54,19;2021
+250;Moscow Institute of Physics and Technology;Russia;2;23;339;218;949;605;812;1000;839;46,55;2021
+285;Saint Petersburg State University;Russia;2;37;129;210;619;620;609;756;737;46,49;2020
+406;Saint Petersburg State University;Russia;3;47;250;218;621;574;645;754;816;45,14;2021
+755;National Research Nuclear University MEPhI;Russia;4;306;567;218;957;699;428;671;871;44,29;2021
+916;Novosibirsk State University;Russia;3;147;478;210;875;910;609;994;737;44,38;2020
+985;Novosibirsk State University;Russia;5;167;567;218;819;858;645;991;871;44,04;2021
+420;King Saud University;Saudi Arabia;1;355;133;210;611;537;800;897;115;45,45;2020
+569;King Saud University;Saudi Arabia;1;367;182;218;560;539;645;837;232;44,59;2021
+668;King Abdullah University of Science and Technology;Saudi Arabia;2;355;478;117;799;640;800;989;159;44,69;2020
+704;King Abdullah University of Science and Technology;Saudi Arabia;2;367;567;126;691;529;812;946;182;44,36;2021
+807;King Fahd University of Petroleum and Minerals;Saudi Arabia;3;355;230;210;954;938;800;970;737;44,52;2020
+847;King Fahd University of Petroleum and Minerals;Saudi Arabia;3;367;234;218;934;950;812;984;871;44,19;2021
+992;King Abdulaziz University;Saudi Arabia;4;355;470;210;843;688;609;998;637;44,26;2020
+995;King Abdulaziz University;Saudi Arabia;4;367;449;218;595;430;645;994;839;44,03;2021
+24;Seoul National University;South Korea;1;355;9;210;38;165;87;107;5;66,06;2020
+24;Seoul National University;South Korea;1;367;9;218;36;163;146;112;6;64,82;2021
+40;Seoul National University;South Korea;1;101;13;101;48;101;76;;4;51,31;2013
+75;Seoul National University;South Korea;1;101;34;101;44;101;69;;4;46,74;2012
+98;Yonsei University;South Korea;2;367;45;218;140;326;321;235;23;51,02;2021
+107;Yonsei University;South Korea;2;355;61;210;143;330;250;251;15;50,95;2020
+115;Korea University;South Korea;3;367;58;218;172;411;321;273;26;49,79;2021
+128;Korea Advanced Institute of Science and Technology (KAIST);South Korea;3;355;85;210;186;262;363;306;11;49,88;2020
+130;Korea University;South Korea;4;355;58;210;182;428;220;293;34;49,84;2020
+144;Korea Advanced Institute of Science and Technology (KAIST);South Korea;4;367;194;218;183;283;368;289;8;48,95;2021
+165;Pohang University of Science and Technology;South Korea;5;367;567;218;285;355;212;281;24;48,24;2021
+174;Hanyang University;South Korea;5;355;69;210;292;481;406;415;28;48,63;2020
+186;Pohang University of Science and Technology;South Korea;6;355;478;210;279;346;220;295;25;48,35;2020
+192;Hanyang University;South Korea;6;367;168;218;286;471;368;396;31;47,6;2021
+204;Sungkyunkwan University;South Korea;7;355;191;210;206;331;187;295;54;47,79;2020
+211;Sungkyunkwan University;South Korea;7;367;225;218;194;317;161;270;69;47,19;2021
+307;Kyungpook National University;South Korea;8;367;412;218;355;625;321;413;66;45,92;2021
+310;Gwangju Institute of Science and Technology;South Korea;9;367;567;218;540;538;368;529;54;45,88;2021
+314;Kyungpook National University;South Korea;8;355;446;210;358;661;283;420;68;46,23;2020
+334;Gwangju Institute of Science and Technology;South Korea;9;355;478;210;528;565;406;543;57;46,02;2020
+374;Ewha Womans University;South Korea;10;355;478;210;474;505;609;452;89;45,67;2020
+380;Kyung Hee University;South Korea;11;239;445;210;398;626;609;569;84;45,66;2020
+384;Chonnam National University;South Korea;10;367;547;218;405;589;511;437;109;45,27;2021
+390;Ewha Womans University;South Korea;11;367;567;218;462;509;645;457;107;45,2;2021
+400;Chonnam National University;South Korea;12;355;478;210;411;652;363;430;115;45,55;2020
+401;Kyung Hee University;South Korea;12;245;495;218;380;584;645;558;95;45,16;2021
+406;Chonbuk National University;South Korea;13;355;478;210;512;741;800;618;78;45,51;2020
+422;Chonbuk National University;South Korea;13;367;567;218;507;774;812;646;83;45,09;2021
+428;Sogang University;South Korea;14;355;478;210;781;792;800;889;68;45,43;2020
+429;Gyeongsang National University;South Korea;15;355;478;210;626;663;800;618;84;45,43;2020
+433;Ajou University;South Korea;14;367;426;218;646;729;645;671;89;45,04;2021
+434;Gyeongsang National University;South Korea;15;367;567;218;633;673;645;606;93;45,04;2021
+440;Pusan National University;South Korea;16;355;422;210;395;511;363;496;128;45,38;2020
+447;Ajou University;South Korea;17;355;343;210;646;802;609;663;94;45,35;2020
+452;Pusan National University;South Korea;16;367;401;218;398;488;428;503;147;44,94;2021
+493;University of Ulsan;South Korea;18;355;247;210;437;662;609;460;637;45,14;2020
+495;University of Ulsan;South Korea;17;367;436;218;421;599;645;424;370;44,79;2021
+511;Catholic University of Korea;South Korea;18;367;567;218;576;792;645;590;139;44,74;2021
+513;Dongguk University;South Korea;19;355;395;210;954;915;800;979;89;45,07;2020
+529;Konkuk University;South Korea;20;355;403;210;564;730;800;724;128;45,01;2020
+560;Dongguk University;South Korea;19;367;305;218;927;917;812;997;108;44,61;2021
+578;Inha University;South Korea;20;367;381;218;568;780;511;565;273;44,56;2021
+581;Sogang University;South Korea;21;367;567;218;806;798;812;921;115;44,56;2021
+601;Dankook University;South Korea;21;355;478;210;896;934;609;897;121;44,82;2020
+602;Konkuk University;South Korea;22;367;388;218;533;748;812;686;204;44,51;2021
+615;Inha University;South Korea;22;355;387;210;543;770;609;569;481;44,78;2020
+619;Chungnam National University;South Korea;23;355;478;210;472;561;493;585;307;44,77;2020
+628;Chungnam National University;South Korea;23;367;567;218;470;563;645;622;290;44,47;2021
+629;Catholic University of Korea;South Korea;24;355;478;210;598;798;800;628;227;44,74;2020
+756;Chung-Ang University;South Korea;24;367;461;218;637;781;511;886;218;44,29;2021
+768;Inje University;South Korea;25;355;478;210;828;902;800;800;227;44,56;2020
+770;Yeungnam University;South Korea;25;367;417;218;761;974;812;867;231;44,27;2021
+776;Yeungnam University;South Korea;26;355;454;210;768;966;800;874;227;44,55;2020
+806;Chungbuk National University;South Korea;26;367;567;218;745;859;812;809;319;44,23;2021
+812;Kangwon National University;South Korea;27;367;567;218;706;819;645;781;428;44,22;2021
+813;Inje University;South Korea;28;367;567;218;838;928;812;809;331;44,22;2021
+821;Kangwon National University;South Korea;27;355;478;210;707;850;609;800;338;44,49;2020
+829;Chungbuk National University;South Korea;28;355;478;210;751;863;800;819;338;44,47;2020
+832;Sejong University;South Korea;29;355;478;210;778;826;800;800;373;44,47;2020
+834;Chung-Ang University;South Korea;30;355;478;210;676;775;609;874;280;44,47;2020
+834;Dankook University;South Korea;29;367;567;218;888;948;645;896;241;44,2;2021
+837;Chosun University;South Korea;31;355;478;210;918;974;800;970;194;44,46;2020
+860;University of Seoul;South Korea;30;367;567;218;989;907;645;921;259;44,17;2021
+868;Sejong University;South Korea;31;367;567;218;788;845;812;837;466;44,16;2021
+878;Chosun University;South Korea;32;367;567;218;942;984;812;991;209;44,15;2021
+898;Pukyong National University;South Korea;33;367;567;218;906;962;812;896;356;44,13;2021
+905;Pukyong National University;South Korea;32;355;478;210;904;952;800;889;373;44,39;2020
+931;Hallym University;South Korea;33;355;478;210;942;950;800;889;552;44,36;2020
+951;Gachon University;South Korea;34;367;567;218;918;880;812;932;451;44,08;2021
+952;Hallym University;South Korea;35;367;567;218;884;908;812;921;565;44,08;2021
+970;University of Seoul;South Korea;34;355;478;210;997;938;609;948;552;44,3;2020
+973;Ulsan National Institute of Science and Technology;South Korea;36;367;567;218;880;912;645;984;349;44,06;2021
+57;National Taiwan University;Taiwan;1;92;25;218;46;223;182;204;695;54,23;2021
+65;National Taiwan University;Taiwan;1;113;24;210;46;216;283;215;637;54,19;2020
+226;National Cheng Kung University;Taiwan;2;367;52;218;164;485;812;388;436;46,97;2021
+246;National Cheng Kung University;Taiwan;2;355;60;210;157;545;800;395;307;47,16;2020
+386;National Chiao Tung University;Taiwan;3;367;206;218;240;651;428;413;871;45,24;2021
+407;National Tsing Hua University;Taiwan;4;262;520;218;238;425;428;375;731;45,14;2021
+411;National Chiao Tung University;Taiwan;3;355;220;210;232;638;609;442;737;45,49;2020
+418;National Tsing Hua University;Taiwan;4;244;478;210;230;406;493;386;552;45,46;2020
+534;National Yang-Ming University;Taiwan;5;355;478;210;355;502;406;452;737;45,01;2020
+542;National Yang-Ming University;Taiwan;5;367;567;218;345;517;511;495;824;44,65;2021
+544;National Chung Hsing University;Taiwan;6;367;211;218;412;682;511;606;871;44,65;2021
+563;Chang Gung University;Taiwan;7;367;567;218;344;598;812;520;824;44,6;2021
+564;National Central University;Taiwan;8;225;567;218;384;468;511;520;839;44,6;2021
+565;National Central University;Taiwan;6;204;478;210;369;438;609;523;637;44,92;2020
+595;Chang Gung University;Taiwan;7;355;478;210;357;582;800;536;737;44,82;2020
+635;National Chung Hsing University;Taiwan;8;355;364;210;405;692;609;642;737;44,74;2020
+696;Chung Yuan Christian University;Taiwan;9;225;230;210;754;952;800;897;737;44,65;2020
+708;China Medical University (Taiwan);Taiwan;9;367;567;218;428;686;812;671;871;44,35;2021
+757;Kaohsiung Medical University;Taiwan;10;367;567;218;539;854;812;699;661;44,29;2021
+774;Kaohsiung Medical University;Taiwan;10;355;478;210;562;854;800;703;552;44,56;2020
+791;National Sun Yat-sen University;Taiwan;11;355;478;210;453;897;800;739;737;44,54;2020
+798;China Medical University (Taiwan);Taiwan;12;355;478;210;475;680;800;739;737;44,53;2020
+803;National Sun Yat-sen University;Taiwan;11;367;567;218;461;950;511;781;871;44,24;2021
+805;Taipei Medical University;Taiwan;13;355;478;210;542;888;493;749;552;44,52;2020
+807;Taipei Medical University;Taiwan;12;367;567;218;499;883;645;781;661;44,23;2021
+855;National Chung Cheng University;Taiwan;14;355;478;210;760;987;800;783;737;44,44;2020
+857;National Taiwan Normal University;Taiwan;15;355;345;210;721;890;493;897;737;44,44;2020
+865;National Chung Cheng University;Taiwan;13;367;567;218;796;991;645;809;871;44,17;2021
+875;Chung Yuan Christian University;Taiwan;14;249;320;218;779;962;812;921;871;44,16;2021
+893;National Taiwan University of Science and Technology;Taiwan;16;355;478;210;610;974;800;849;737;44,4;2020
+899;National Taiwan Ocean University;Taiwan;17;355;317;210;774;934;800;956;737;44,39;2020
+916;National Taiwan University of Science and Technology;Taiwan;15;367;567;218;598;991;812;886;823;44,12;2021
+928;Feng Chia University;Taiwan;18;355;376;210;869;987;800;956;737;44,36;2020
+932;National Taiwan Normal University;Taiwan;16;367;478;218;731;939;645;906;871;44,1;2021
+946;National Taiwan Ocean University;Taiwan;17;367;413;218;790;940;812;946;871;44,08;2021
+950;Chung Shan Medical University;Taiwan;19;355;478;210;750;987;609;923;737;44,32;2020
+952;Yuan Ze University;Taiwan;20;355;478;210;894;974;800;917;737;44,32;2020
+967;Chung Shan Medical University;Taiwan;18;367;567;218;727;973;645;946;871;44,06;2021
+971;Fu Jen Catholic University;Taiwan;19;367;446;218;984;887;812;958;824;44,06;2021
+974;Fu Jen Catholic University;Taiwan;21;355;478;210;978;891;800;948;737;44,3;2020
+979;Yuan Ze University;Taiwan;20;367;567;218;923;984;812;946;871;44,05;2021
+983;Feng Chia University;Taiwan;21;367;434;218;902;991;812;975;871;44,04;2021
+989;Tamkang University;Taiwan;22;355;478;210;929;974;800;973;737;44,26;2020
+994;I-Shou University;Taiwan;23;355;478;210;878;987;800;989;737;44,24;2020
+996;National Dong Hwa University;Taiwan;24;355;478;210;901;934;800;989;737;44,24;2020
+997;National Taipei University of Technology;Taiwan;25;355;478;210;867;987;800;994;737;44,24;2020
+283;Chulalongkorn University;Thailand;1;355;51;210;580;752;406;585;737;46,55;2020
+311;Chulalongkorn University;Thailand;1;367;57;218;584;734;511;558;871;45,86;2021
+532;Mahidol University;Thailand;2;367;567;218;476;372;368;447;861;44,69;2021
+550;Mahidol University;Thailand;2;355;478;210;479;366;406;442;737;44,96;2020
+818;Chiang Mai University;Thailand;3;367;550;218;847;753;511;754;871;44,21;2021
+871;Chiang Mai University;Thailand;3;355;478;210;838;706;609;800;737;44,43;2020
+396;Middle East Technical University;Turkey;1;355;79;210;529;904;493;724;737;45,57;2020
+470;Middle East Technical University;Turkey;1;367;120;218;550;879;511;659;871;44,87;2021
+602;Istanbul University;Turkey;2;255;337;210;681;580;609;554;737;44,81;2020
+623;Istanbul University;Turkey;2;253;386;218;684;560;645;558;871;44,48;2021
+634;Hacettepe University;Turkey;3;367;567;218;658;630;428;549;871;44,45;2021
+655;Hacettepe University;Turkey;3;355;478;210;636;636;406;554;737;44,71;2020
+725;Ankara University;Turkey;4;367;341;218;743;728;511;699;871;44,33;2021
+742;Istanbul Technical University;Turkey;5;367;440;218;646;875;368;699;839;44,31;2021
+773;Istanbul Technical University;Turkey;4;355;388;210;641;858;363;769;637;44,56;2020
+779;Ege University;Turkey;6;367;567;218;761;839;511;699;871;44,27;2021
+788;Ankara University;Turkey;5;355;461;210;751;723;493;739;737;44,54;2020
+808;Ege University;Turkey;6;355;478;210;734;822;406;724;737;44,52;2020
+837;Bo?azi?i University;Turkey;7;367;519;218;843;766;511;781;824;44,19;2021
+842;Bilkent University;Turkey;8;367;475;218;781;789;812;796;871;44,19;2021
+852;Gazi University;Turkey;9;367;468;218;750;942;645;809;871;44,18;2021
+856;Bilkent University;Turkey;7;355;478;210;788;782;609;783;737;44,44;2020
+900;Gazi University;Turkey;8;355;478;210;742;952;609;849;737;44,39;2020
+903;Bo?azi?i University;Turkey;9;355;478;210;817;820;493;849;737;44,39;2020
+934;Dokuz Eyl?l University;Turkey;10;355;478;210;948;914;800;889;737;44,35;2020
+954;Dokuz Eyl?l University;Turkey;10;367;567;218;931;957;812;906;871;44,07;2021
