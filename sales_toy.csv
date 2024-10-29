@@ -1,375 +1,375 @@
-category,name,price,customer,gender,country,quantity,revenue
-food,chicken sandwich,5.0,Samantha Johnson,F,USA,1,5.0
-food,chicken sandwich,5.0,Jeffrey James,M,USA,4,20.0
-food,bread,2.99,Michael Bradley,M,GB,4,11.96
-food,butter,11.5,Danielle Acosta,F,USA,6,69.0
-drinks,milk,7.5,Richard Chung,M,GB,6,45.0
-food,butter,11.5,Brittney Martin,F,GB,7,80.5
-food,shrimp,15.3,Mrs. Amy Nichols MD,F,USA,3,45.900000000000006
-food,shrimp,15.3,Caroline Murphy,F,GB,6,91.80000000000001
-food,shrimp,15.3,Amber Flores,F,GB,2,30.6
-drinks,beer,11.0,Devin Scott,M,GB,7,77.0
-food,butter,11.5,Theresa Elliott,F,USA,2,23.0
-food,bread,2.99,Douglas Sanchez,M,USA,5,14.950000000000001
-food,chicken sandwich,5.0,Adrienne Taylor,F,USA,7,35.0
-food,butter,11.5,Lisa Turner,F,USA,1,11.5
-drinks,wine,21.99,Jacob Roach,M,GB,8,175.92
-food,chicken sandwich,5.0,Jean Cooper,F,USA,10,50.0
-drinks,cola,1.99,Katherine Campbell,F,USA,3,5.97
-food,bread,2.99,James Payne,M,USA,5,14.950000000000001
-food,chicken sandwich,5.0,Wesley Taylor,M,China,2,10.0
-food,shrimp,15.3,Robert Hansen,M,GB,4,61.2
-food,bread,2.99,Scott Guerra,M,USA,10,29.900000000000002
-food,butter,11.5,Jillian Walker,F,GB,5,57.5
-drinks,beer,11.0,Ryan Daniels,M,China,8,88.0
-food,shrimp,15.3,Francisco Smith,M,China,9,137.70000000000002
-drinks,wine,21.99,Steve Flores,M,USA,7,153.92999999999998
-food,shrimp,15.3,Adam Moore,M,China,5,76.5
-food,butter,11.5,Madeline Andrews,F,USA,6,69.0
-food,bread,2.99,Derrick Jackson,M,China,5,14.950000000000001
-food,shrimp,15.3,Jesus Lambert,M,GB,3,45.900000000000006
-food,bread,2.99,Stephen Mcgee,M,USA,3,8.97
-food,chicken sandwich,5.0,Edward Brown,M,China,1,5.0
-food,shrimp,15.3,Stacey Hernandez,F,USA,8,122.4
-drinks,wine,21.99,William Liu,M,GB,3,65.97
-food,butter,11.5,Mary Welch,F,GB,3,34.5
-drinks,beer,11.0,Lauren Horn,F,China,10,110.0
-drinks,cola,1.99,Chelsea Fernandez,F,USA,7,13.93
-food,shrimp,15.3,Steve Owen,M,USA,6,91.80000000000001
-food,chicken sandwich,5.0,Catherine Vargas,F,GB,7,35.0
-food,chicken sandwich,5.0,Heather Dennis,F,USA,8,40.0
-food,butter,11.5,Joshua Harvey,M,GB,1,11.5
-food,shrimp,15.3,James Tanner,M,GB,7,107.10000000000001
-food,bread,2.99,Philip Harris,M,USA,8,23.92
-food,bread,2.99,Jonathan Brown,M,USA,10,29.900000000000002
-drinks,cola,1.99,Derrick Williams,M,China,8,15.92
-drinks,cola,1.99,Trevor Davis,M,USA,3,5.97
-drinks,milk,7.5,Paul Morgan,M,USA,9,67.5
-drinks,wine,21.99,Melissa Dunn,F,USA,5,109.94999999999999
-food,butter,11.5,Kristen Church,F,USA,1,11.5
-food,butter,11.5,Jonathan Cooper,M,USA,3,34.5
-food,butter,11.5,Jacqueline Cummings,F,GB,1,11.5
-food,shrimp,15.3,James Murray,M,USA,4,61.2
-food,bread,2.99,Thomas Dawson,M,China,3,8.97
-drinks,wine,21.99,Lisa Sanchez,F,USA,5,109.94999999999999
-drinks,milk,7.5,Nicholas Weaver,M,USA,5,37.5
-drinks,milk,7.5,Bryan Taylor,M,China,6,45.0
-food,shrimp,15.3,Shannon Barnes,M,USA,3,45.900000000000006
-drinks,wine,21.99,Dustin Bennett,M,China,2,43.98
-drinks,beer,11.0,Melissa Kemp,F,USA,6,66.0
-food,bread,2.99,Brittney Cervantes,F,GB,8,23.92
-drinks,beer,11.0,Leslie Buck,F,China,9,99.0
-drinks,beer,11.0,Maria Davis,F,USA,10,110.0
-food,chicken sandwich,5.0,Miguel Garcia,M,GB,3,15.0
-drinks,beer,11.0,Erik Singh,M,USA,8,88.0
-food,shrimp,15.3,Brandon Perkins,M,GB,10,153.0
-drinks,milk,7.5,Wayne Matthews,M,USA,2,15.0
-drinks,wine,21.99,Justin Hamilton,M,USA,1,21.99
-drinks,milk,7.5,Andre Fitzpatrick,M,GB,7,52.5
-food,butter,11.5,Sophia Casey,F,GB,8,92.0
-food,shrimp,15.3,Lori Lawrence,F,USA,4,61.2
-food,shrimp,15.3,Erik Cooper,M,USA,6,91.80000000000001
-food,bread,2.99,Richard Cummings,M,GB,5,14.950000000000001
-food,chicken sandwich,5.0,Ronald Johnson,M,China,4,20.0
-food,bread,2.99,Martin Reid,M,GB,7,20.93
-drinks,wine,21.99,Gary Wilkins,M,GB,2,43.98
-drinks,milk,7.5,Kathryn Ramirez,F,GB,5,37.5
-drinks,wine,21.99,Marcia Carter,F,USA,2,43.98
-drinks,cola,1.99,Tina Pennington,F,USA,3,5.97
-food,shrimp,15.3,Eric Williams,M,GB,9,137.70000000000002
-food,chicken sandwich,5.0,Derek Brown,M,USA,7,35.0
-drinks,beer,11.0,Stephanie Cunningham,F,China,10,110.0
-food,shrimp,15.3,Jeffrey Bradley,M,USA,2,30.6
-food,bread,2.99,Brad Delgado,M,China,4,11.96
-drinks,milk,7.5,Jesse Butler,M,USA,2,15.0
-drinks,wine,21.99,David Fox,M,USA,10,219.89999999999998
-drinks,wine,21.99,Billy Harris,M,USA,10,219.89999999999998
-drinks,wine,21.99,Karen Bell,F,China,1,21.99
-drinks,beer,11.0,Wayne Castro,M,GB,2,22.0
-drinks,wine,21.99,Jennifer Hammond,F,China,4,87.96
-drinks,beer,11.0,Melissa Mora,F,USA,7,77.0
-drinks,beer,11.0,Christian Riley,M,USA,5,55.0
-drinks,beer,11.0,Mallory Spencer,F,USA,1,11.0
-drinks,cola,1.99,Paul Moore,M,China,4,7.96
-food,bread,2.99,Timothy Cross,M,USA,5,14.950000000000001
-drinks,milk,7.5,Alejandra Macdonald,F,USA,5,37.5
-drinks,beer,11.0,Matthew Delacruz,M,USA,9,99.0
-food,chicken sandwich,5.0,Andrew Morris,M,USA,9,45.0
-drinks,beer,11.0,Benjamin Wells,M,GB,1,11.0
-drinks,milk,7.5,Christopher Terry,M,USA,7,52.5
-drinks,milk,7.5,Michael Turner,M,USA,7,52.5
-drinks,cola,1.99,Scott Li,M,USA,6,11.94
-drinks,milk,7.5,Joshua Turner,M,USA,6,45.0
-drinks,wine,21.99,Jordan Taylor,M,GB,7,153.92999999999998
-drinks,cola,1.99,Charles Duffy,M,GB,4,7.96
-food,bread,2.99,Joshua Moran,M,China,3,8.97
-food,shrimp,15.3,Charles Gilbert,M,GB,9,137.70000000000002
-drinks,milk,7.5,Jeremy Williams,M,USA,7,52.5
-drinks,milk,7.5,Paul Butler,M,GB,2,15.0
-food,chicken sandwich,5.0,Jean Calderon,F,GB,4,20.0
-drinks,milk,7.5,Janet Baker,F,GB,3,22.5
-food,chicken sandwich,5.0,Maria Conner,F,USA,9,45.0
-drinks,wine,21.99,Jason Cook,M,China,1,21.99
-drinks,beer,11.0,Kevin Ramos,M,China,9,99.0
-drinks,wine,21.99,Jacqueline Dunlap,F,USA,2,43.98
-drinks,beer,11.0,Carol Franco,F,China,3,33.0
-drinks,milk,7.5,Justin Stevens,M,USA,7,52.5
-food,bread,2.99,Lindsey Tucker,F,USA,10,29.900000000000002
-food,shrimp,15.3,Tanner Rios,M,USA,4,61.2
-drinks,milk,7.5,Scott Flowers PhD,M,USA,7,52.5
-food,shrimp,15.3,Christopher Elliott Jr.,M,GB,8,122.4
-drinks,beer,11.0,Christopher Chavez,M,China,1,11.0
-drinks,wine,21.99,Cory Rangel,M,USA,1,21.99
-drinks,milk,7.5,Joshua Taylor,M,USA,2,15.0
-food,chicken sandwich,5.0,Nathan Blevins,M,China,6,30.0
-food,chicken sandwich,5.0,Michele Crawford,F,China,8,40.0
-food,chicken sandwich,5.0,Joseph Hamilton,M,USA,4,20.0
-drinks,wine,21.99,Allison Pierce,F,USA,9,197.91
-drinks,wine,21.99,Brian Holt,M,USA,10,219.89999999999998
-drinks,cola,1.99,Brent Hall,M,USA,2,3.98
-food,chicken sandwich,5.0,Douglas Buchanan,M,USA,8,40.0
-food,bread,2.99,Sarah Thomas,F,USA,3,8.97
-drinks,beer,11.0,Erica Massey,F,GB,9,99.0
-drinks,beer,11.0,Mariah Macdonald,F,USA,7,77.0
-drinks,milk,7.5,Robert Smith,M,USA,9,67.5
-drinks,milk,7.5,Mr. John Bernard PhD,M,USA,2,15.0
-food,bread,2.99,Jason Acosta,M,USA,1,2.99
-drinks,wine,21.99,Jennifer Mathews,F,USA,2,43.98
-drinks,milk,7.5,Patrick Tyler,M,USA,8,60.0
-drinks,wine,21.99,Sarah Freeman,F,USA,4,87.96
-drinks,beer,11.0,Michael Carter,M,USA,10,110.0
-drinks,cola,1.99,Carrie Mueller,F,USA,3,5.97
-drinks,cola,1.99,Catherine Lucas,F,GB,7,13.93
-drinks,beer,11.0,Patrick Harris,M,USA,2,22.0
-drinks,cola,1.99,Richard Browning,M,USA,9,17.91
-drinks,cola,1.99,David Gallagher,M,USA,9,17.91
-drinks,beer,11.0,Leslie Smith,F,GB,5,55.0
-food,bread,2.99,Lance Hall,M,USA,9,26.910000000000004
-drinks,milk,7.5,Joyce Johnson,F,GB,7,52.5
-food,shrimp,15.3,Brandon Palmer,M,USA,9,137.70000000000002
-food,bread,2.99,Brett Mccormick,M,China,6,17.94
-food,chicken sandwich,5.0,Christopher Calderon,M,USA,9,45.0
-food,butter,11.5,Debra Rodriguez,F,USA,5,57.5
-food,butter,11.5,Robert Howard,M,China,5,57.5
-food,chicken sandwich,5.0,Mark Jackson,M,GB,5,25.0
-drinks,milk,7.5,William Butler,M,USA,4,30.0
-food,shrimp,15.3,Robert Davis,M,USA,10,153.0
-food,shrimp,15.3,Misty Bradshaw,F,USA,1,15.3
-food,bread,2.99,Kenneth Barber,M,USA,5,14.950000000000001
-food,chicken sandwich,5.0,Mary Luna,F,USA,1,5.0
-drinks,beer,11.0,Christopher Tapia,M,USA,5,55.0
-drinks,cola,1.99,Gabriel Paul,M,USA,8,15.92
-drinks,beer,11.0,Mark Jones,M,USA,8,88.0
-drinks,milk,7.5,William Stone,M,USA,1,7.5
-drinks,cola,1.99,Laura Bean,F,GB,6,11.94
-food,bread,2.99,Elizabeth Cook,F,USA,6,17.94
-drinks,beer,11.0,Ashley Russell,F,China,3,33.0
-drinks,milk,7.5,Scott Williams,M,China,9,67.5
-food,bread,2.99,Robert Moore,M,China,7,20.93
-drinks,wine,21.99,John Burke MD,M,USA,6,131.94
-drinks,wine,21.99,Darlene Shaffer,F,GB,8,175.92
-drinks,wine,21.99,Joseph Ritter,M,USA,9,197.91
-drinks,milk,7.5,Tina Hodges,F,USA,8,60.0
-drinks,cola,1.99,Dawn Williamson,F,GB,6,11.94
-food,shrimp,15.3,Sara Hernandez,F,China,3,45.900000000000006
-drinks,wine,21.99,Nancy Wilson,F,USA,10,219.89999999999998
-food,chicken sandwich,5.0,Megan Hartman,F,GB,4,20.0
-drinks,beer,11.0,James Mathews,M,China,3,33.0
-drinks,wine,21.99,Keith Barry,M,China,3,65.97
-drinks,beer,11.0,John Salinas,M,GB,6,66.0
-drinks,cola,1.99,Justin Goodman,M,USA,4,7.96
-food,chicken sandwich,5.0,Willie Atkinson,M,GB,10,50.0
-food,bread,2.99,Scott Rodriguez,M,GB,5,14.950000000000001
-drinks,cola,1.99,Eric Bell,M,China,1,1.99
-food,shrimp,15.3,Brandon Young,M,USA,1,15.3
-drinks,beer,11.0,Sandra Allen,F,USA,9,99.0
-food,bread,2.99,Ashley Coleman,F,China,7,20.93
-food,shrimp,15.3,Cathy Stephenson,F,USA,5,76.5
-food,chicken sandwich,5.0,Susan Nguyen,F,USA,4,20.0
-drinks,milk,7.5,Nicholas Jones,M,GB,2,15.0
-drinks,milk,7.5,Kristin Baker,F,USA,10,75.0
-food,chicken sandwich,5.0,Brandon Waters,M,China,10,50.0
-drinks,cola,1.99,Joshua Baker,M,USA,3,5.97
-food,butter,11.5,Maria Thomas,F,USA,1,11.5
-food,butter,11.5,Lisa Wilson,F,GB,5,57.5
-drinks,milk,7.5,Barbara Cox,F,GB,2,15.0
-food,butter,11.5,Joseph Lewis,M,USA,7,80.5
-food,bread,2.99,Ronald Chang,M,China,10,29.900000000000002
-food,butter,11.5,Jennifer Smith,F,USA,8,92.0
-food,chicken sandwich,5.0,Christopher Jennings,M,China,9,45.0
-drinks,milk,7.5,Jeffrey Hamilton,M,GB,8,60.0
-drinks,milk,7.5,Breanna Hall,F,China,7,52.5
-food,butter,11.5,Angela Horne,F,GB,5,57.5
-drinks,beer,11.0,Laura Garcia,F,USA,8,88.0
-drinks,wine,21.99,Joseph Salinas,M,USA,4,87.96
-drinks,milk,7.5,Ashley Shepherd,F,China,2,15.0
-food,shrimp,15.3,Dylan Jimenez,M,China,6,91.80000000000001
-food,shrimp,15.3,Derek Thomas,M,USA,6,91.80000000000001
-food,chicken sandwich,5.0,Wendy Huynh,F,USA,3,15.0
-drinks,wine,21.99,Adrian Warren,M,GB,6,131.94
-food,chicken sandwich,5.0,Lee Stanton,M,GB,1,5.0
-drinks,wine,21.99,Mary Morgan,F,China,2,43.98
-drinks,beer,11.0,Laura Diaz,F,GB,6,66.0
-drinks,milk,7.5,Erin Gaines,F,GB,8,60.0
-food,shrimp,15.3,James Ingram,M,China,9,137.70000000000002
-drinks,beer,11.0,Ryan Colon,M,USA,8,88.0
-drinks,wine,21.99,Jose Martinez,M,USA,8,175.92
-food,butter,11.5,Jennifer Smith,F,USA,3,34.5
-food,shrimp,15.3,Lisa Kirby,F,China,6,91.80000000000001
-food,bread,2.99,Joseph Bowen,M,GB,3,8.97
-food,shrimp,15.3,Mackenzie Costa,F,China,4,61.2
-drinks,milk,7.5,Michael Phillips Jr.,M,China,7,52.5
-drinks,wine,21.99,Jose Robinson,M,USA,6,131.94
-drinks,cola,1.99,Melissa Smith,F,USA,8,15.92
-food,shrimp,15.3,Marcus Pham,M,USA,10,153.0
-food,butter,11.5,Robert Barber,M,China,4,46.0
-food,chicken sandwich,5.0,Sonya Mann,F,GB,2,10.0
-drinks,cola,1.99,Denise Powell,F,USA,1,1.99
-drinks,beer,11.0,Melanie Mclean,F,GB,2,22.0
-food,shrimp,15.3,Theresa Butler,F,USA,10,153.0
-food,bread,2.99,Derek Baker,M,China,9,26.910000000000004
-food,chicken sandwich,5.0,Jennifer Stone,F,China,10,50.0
-food,bread,2.99,Patricia White,F,GB,4,11.96
-food,butter,11.5,Jeffrey Payne,M,GB,8,92.0
-food,butter,11.5,Micheal Bailey,M,GB,1,11.5
-drinks,milk,7.5,Bernard Green,M,USA,7,52.5
-food,shrimp,15.3,Carol Holland,F,USA,6,91.80000000000001
-food,chicken sandwich,5.0,Christopher Scott,M,USA,7,35.0
-food,chicken sandwich,5.0,Lisa Hudson,F,GB,2,10.0
-drinks,milk,7.5,Derek Gross,M,USA,2,15.0
-drinks,wine,21.99,Morgan Edwards,F,GB,6,131.94
-drinks,beer,11.0,Nicholas Neal,M,China,3,33.0
-food,chicken sandwich,5.0,Eileen Weaver,F,GB,4,20.0
-food,chicken sandwich,5.0,Justin Cox,M,USA,3,15.0
-food,chicken sandwich,5.0,Reginald Stanley,M,USA,4,20.0
-drinks,milk,7.5,Brian Jacobson,M,USA,10,75.0
-food,shrimp,15.3,Natasha Pena,F,USA,1,15.3
-food,chicken sandwich,5.0,Logan Long,M,USA,3,15.0
-food,butter,11.5,Andrew Barker,M,USA,4,46.0
-drinks,milk,7.5,William Reynolds,M,China,2,15.0
-food,chicken sandwich,5.0,John Brown,M,USA,1,5.0
-drinks,cola,1.99,Michael Pierce,M,China,3,5.97
-food,butter,11.5,Kimberly Martinez,F,China,7,80.5
-food,chicken sandwich,5.0,Madison Andrews,F,USA,4,20.0
-drinks,milk,7.5,Ashley Hoffman,F,China,4,30.0
-food,shrimp,15.3,Patrick Robinson,M,USA,3,45.900000000000006
-food,butter,11.5,Alexis Meyers,F,USA,4,46.0
-drinks,cola,1.99,Stanley Jacobs,M,GB,9,17.91
-food,bread,2.99,Charlotte Williamson,F,USA,3,8.97
-food,shrimp,15.3,Chad Parker,M,GB,10,153.0
-food,chicken sandwich,5.0,Russell Garrett,M,GB,5,25.0
-food,chicken sandwich,5.0,Jennifer Black,F,GB,8,40.0
-food,bread,2.99,John Grimes,M,GB,10,29.900000000000002
-food,butter,11.5,Christopher Patrick,M,USA,8,92.0
-drinks,wine,21.99,Marcus Colon,M,GB,5,109.94999999999999
-food,chicken sandwich,5.0,Joshua Farley,M,China,1,5.0
-drinks,cola,1.99,Katelyn Young,F,USA,10,19.9
-food,chicken sandwich,5.0,Billy Cummings,M,China,4,20.0
-drinks,cola,1.99,Dr. Christopher Clark,M,USA,8,15.92
-drinks,beer,11.0,Jessica Hines,F,USA,2,22.0
-food,butter,11.5,Brett Mosley,M,USA,8,92.0
-drinks,cola,1.99,Dr. Roger Stafford,M,China,7,13.93
-drinks,beer,11.0,Charles Jones,M,USA,4,44.0
-drinks,wine,21.99,Harold Young,M,USA,6,131.94
-food,butter,11.5,Matthew Mcdaniel,M,GB,4,46.0
-food,shrimp,15.3,Kayla Richardson,F,GB,4,61.2
-drinks,cola,1.99,Andrew Gomez,M,GB,1,1.99
-food,butter,11.5,Gary Robinson,M,GB,10,115.0
-food,shrimp,15.3,Danny Casey,M,USA,7,107.10000000000001
-food,bread,2.99,Zachary Taylor DVM,M,USA,7,20.93
-drinks,milk,7.5,Melissa Sanchez,F,USA,3,22.5
-drinks,milk,7.5,Jennifer Lynch,F,USA,8,60.0
-drinks,milk,7.5,Barbara Oconnor,F,USA,9,67.5
-drinks,beer,11.0,Kristin Perez,F,GB,9,99.0
-food,shrimp,15.3,Justin Norman,M,USA,1,15.3
-drinks,wine,21.99,Lisa Barker,F,USA,10,219.89999999999998
-drinks,wine,21.99,Holly Jacobs,F,China,2,43.98
-drinks,beer,11.0,Jessica Clark,F,GB,8,88.0
-food,butter,11.5,Jeanette Miller,F,USA,4,46.0
-food,butter,11.5,Christina Sanchez,F,USA,4,46.0
-food,chicken sandwich,5.0,Sean Roach,M,China,9,45.0
-food,shrimp,15.3,Robert Barron,M,USA,3,45.900000000000006
-drinks,beer,11.0,Jessica Moore,F,USA,1,11.0
-food,butter,11.5,Michele Turner,F,USA,7,80.5
-food,butter,11.5,Allen Wheeler,M,USA,6,69.0
-food,chicken sandwich,5.0,Bryan Castillo,M,GB,3,15.0
-food,shrimp,15.3,Christopher Jimenez,M,GB,5,76.5
-food,shrimp,15.3,Lindsey Barrett,F,USA,1,15.3
-food,shrimp,15.3,Frank Luna,M,GB,5,76.5
-drinks,milk,7.5,Alexander Mcintosh,M,China,6,45.0
-food,bread,2.99,Amy Daniels,F,China,10,29.900000000000002
-food,bread,2.99,Jonathan Rodgers,M,GB,10,29.900000000000002
-food,butter,11.5,Glenn Wolf,M,USA,6,69.0
-food,bread,2.99,Andrea Nichols,F,China,2,5.98
-drinks,cola,1.99,Lindsey Smith,F,China,2,3.98
-drinks,beer,11.0,Patricia Martin,F,USA,6,66.0
-drinks,wine,21.99,Sherry Johnson,F,USA,8,175.92
-drinks,beer,11.0,Vincent Knight,M,USA,7,77.0
-food,chicken sandwich,5.0,Larry Flowers,M,GB,4,20.0
-food,shrimp,15.3,Barbara Kaufman,F,China,7,107.10000000000001
-food,shrimp,15.3,Nicholas Potts,M,USA,6,91.80000000000001
-food,bread,2.99,Robert Ferguson,M,China,2,5.98
-drinks,beer,11.0,David Robinson,M,USA,3,33.0
-drinks,cola,1.99,Kimberly Smith,F,USA,1,1.99
-drinks,cola,1.99,Mark Gonzales,M,USA,3,5.97
-food,butter,11.5,Kevin Harrington,M,USA,2,23.0
-food,bread,2.99,Eric Perez,M,USA,8,23.92
-drinks,cola,1.99,James Townsend,M,GB,10,19.9
-drinks,beer,11.0,Jacob Webb,M,USA,4,44.0
-drinks,wine,21.99,Melissa Flores,F,USA,2,43.98
-food,butter,11.5,Jennifer George,F,China,2,23.0
-food,chicken sandwich,5.0,Erika Miller,F,USA,8,40.0
-food,chicken sandwich,5.0,Robert Smith,M,GB,8,40.0
-drinks,wine,21.99,Kimberly Reilly,F,USA,9,197.91
-drinks,wine,21.99,Todd Pope,M,GB,1,21.99
-drinks,milk,7.5,Todd Love,M,China,8,60.0
-food,chicken sandwich,5.0,Kayla Massey,F,China,6,30.0
-drinks,cola,1.99,Edward Rivas,M,GB,10,19.9
-food,chicken sandwich,5.0,Michael White,M,USA,10,50.0
-drinks,beer,11.0,Michelle Johnson,F,USA,7,77.0
-drinks,beer,11.0,Tammy Hawkins,F,China,6,66.0
-food,chicken sandwich,5.0,Christina Daniels,F,USA,10,50.0
-drinks,wine,21.99,Elizabeth Nelson,F,USA,8,175.92
-food,shrimp,15.3,Rebecca Martinez,F,GB,6,91.80000000000001
-food,shrimp,15.3,Nicholas Evans,M,USA,6,91.80000000000001
-food,butter,11.5,Michael Hamilton,M,China,7,80.5
-food,chicken sandwich,5.0,Thomas Johnson,M,USA,3,15.0
-drinks,cola,1.99,Michael Clark,M,USA,6,11.94
-food,shrimp,15.3,Michael Oconnell,M,China,9,137.70000000000002
-food,butter,11.5,Logan Chapman,M,China,5,57.5
-food,shrimp,15.3,Chris Leach,M,China,2,30.6
-food,chicken sandwich,5.0,Megan Gutierrez,F,USA,5,25.0
-drinks,milk,7.5,Kristen Hernandez,F,GB,7,52.5
-food,bread,2.99,Rebecca King,F,GB,6,17.94
-drinks,milk,7.5,Christopher Walker,M,USA,5,37.5
-food,butter,11.5,Sheri Butler,F,USA,3,34.5
-drinks,beer,11.0,Caitlyn Perez,F,USA,9,99.0
-food,bread,2.99,Shirley Anderson,F,USA,9,26.910000000000004
-drinks,wine,21.99,Timothy Mcdonald,M,USA,2,43.98
-food,chicken sandwich,5.0,Jessica Ortiz,F,USA,5,25.0
-food,shrimp,15.3,Priscilla Bell,F,GB,4,61.2
-drinks,beer,11.0,Brendan Beard,M,USA,7,77.0
-drinks,wine,21.99,Anthony Mullen,M,GB,2,43.98
-drinks,beer,11.0,John Flores,M,USA,9,99.0
-drinks,milk,7.5,Cheryl Simpson,F,GB,5,37.5
-drinks,milk,7.5,Thomas Jones,M,USA,8,60.0
-food,chicken sandwich,5.0,Anne Davila,F,USA,3,15.0
-food,shrimp,15.3,Susan Stewart,F,China,10,153.0
-food,bread,2.99,Terry Hamilton,M,USA,10,29.900000000000002
-food,bread,2.99,Ashley Hunter,F,China,7,20.93
-food,chicken sandwich,5.0,John Hopkins,M,China,8,40.0
-drinks,wine,21.99,Victor Nichols,M,USA,10,219.89999999999998
-food,butter,11.5,Annette Reynolds,F,GB,6,69.0
-drinks,milk,7.5,Lori Sullivan,F,China,1,7.5
-food,bread,2.99,Crystal Buck,F,GB,2,5.98
-drinks,beer,11.0,Steven Beck,M,USA,5,55.0
-drinks,wine,21.99,Ryan Fleming,M,GB,2,43.98
-food,chicken sandwich,5.0,Samuel Smith,M,USA,2,10.0
-drinks,milk,7.5,Justin Fox,M,GB,1,7.5
-drinks,wine,21.99,Cynthia Powers,F,USA,5,109.94999999999999
-food,shrimp,15.3,John Simmons,M,China,1,15.3
-food,butter,11.5,Thomas Smith,M,USA,7,80.5
-food,shrimp,15.3,Chad Noble,M,China,3,45.900000000000006
-food,butter,11.5,Keith Lawson,M,USA,8,92.0
-drinks,milk,7.5,Amanda Harrington,F,China,10,75.0
-drinks,beer,11.0,Kiara Thompson,F,USA,1,11.0
+category,name,price,customer,gender,country,quantity
+food,chicken sandwich,5.0,Samantha Johnson,F,USA,1
+food,chicken sandwich,5.0,Jeffrey James,M,USA,4
+food,bread,2.99,Michael Bradley,M,GB,4
+food,butter,11.5,Danielle Acosta,F,USA,6
+drinks,milk,7.5,Richard Chung,M,GB,6
+food,butter,11.5,Brittney Martin,F,GB,7
+food,shrimp,15.3,Mrs. Amy Nichols MD,F,USA,3
+food,shrimp,15.3,Caroline Murphy,F,GB,6
+food,shrimp,15.3,Amber Flores,F,GB,2
+drinks,beer,11.0,Devin Scott,M,GB,7
+food,butter,11.5,Theresa Elliott,F,USA,2
+food,bread,2.99,Douglas Sanchez,M,USA,5
+food,chicken sandwich,5.0,Adrienne Taylor,F,USA,7
+food,butter,11.5,Lisa Turner,F,USA,1
+drinks,wine,21.99,Jacob Roach,M,GB,8
+food,chicken sandwich,5.0,Jean Cooper,F,USA,10
+drinks,cola,1.99,Katherine Campbell,F,USA,3
+food,bread,2.99,James Payne,M,USA,5
+food,chicken sandwich,5.0,Wesley Taylor,M,China,2
+food,shrimp,15.3,Robert Hansen,M,GB,4
+food,bread,2.99,Scott Guerra,M,USA,10
+food,butter,11.5,Jillian Walker,F,GB,5
+drinks,beer,11.0,Ryan Daniels,M,China,8
+food,shrimp,15.3,Francisco Smith,M,China,9
+drinks,wine,21.99,Steve Flores,M,USA,7
+food,shrimp,15.3,Adam Moore,M,China,5
+food,butter,11.5,Madeline Andrews,F,USA,6
+food,bread,2.99,Derrick Jackson,M,China,5
+food,shrimp,15.3,Jesus Lambert,M,GB,3
+food,bread,2.99,Stephen Mcgee,M,USA,3
+food,chicken sandwich,5.0,Edward Brown,M,China,1
+food,shrimp,15.3,Stacey Hernandez,F,USA,8
+drinks,wine,21.99,William Liu,M,GB,3
+food,butter,11.5,Mary Welch,F,GB,3
+drinks,beer,11.0,Lauren Horn,F,China,10
+drinks,cola,1.99,Chelsea Fernandez,F,USA,7
+food,shrimp,15.3,Steve Owen,M,USA,6
+food,chicken sandwich,5.0,Catherine Vargas,F,GB,7
+food,chicken sandwich,5.0,Heather Dennis,F,USA,8
+food,butter,11.5,Joshua Harvey,M,GB,1
+food,shrimp,15.3,James Tanner,M,GB,7
+food,bread,2.99,Philip Harris,M,USA,8
+food,bread,2.99,Jonathan Brown,M,USA,10
+drinks,cola,1.99,Derrick Williams,M,China,8
+drinks,cola,1.99,Trevor Davis,M,USA,3
+drinks,milk,7.5,Paul Morgan,M,USA,9
+drinks,wine,21.99,Melissa Dunn,F,USA,5
+food,butter,11.5,Kristen Church,F,USA,1
+food,butter,11.5,Jonathan Cooper,M,USA,3
+food,butter,11.5,Jacqueline Cummings,F,GB,1
+food,shrimp,15.3,James Murray,M,USA,4
+food,bread,2.99,Thomas Dawson,M,China,3
+drinks,wine,21.99,Lisa Sanchez,F,USA,5
+drinks,milk,7.5,Nicholas Weaver,M,USA,5
+drinks,milk,7.5,Bryan Taylor,M,China,6
+food,shrimp,15.3,Shannon Barnes,M,USA,3
+drinks,wine,21.99,Dustin Bennett,M,China,2
+drinks,beer,11.0,Melissa Kemp,F,USA,6
+food,bread,2.99,Brittney Cervantes,F,GB,8
+drinks,beer,11.0,Leslie Buck,F,China,9
+drinks,beer,11.0,Maria Davis,F,USA,10
+food,chicken sandwich,5.0,Miguel Garcia,M,GB,3
+drinks,beer,11.0,Erik Singh,M,USA,8
+food,shrimp,15.3,Brandon Perkins,M,GB,10
+drinks,milk,7.5,Wayne Matthews,M,USA,2
+drinks,wine,21.99,Justin Hamilton,M,USA,1
+drinks,milk,7.5,Andre Fitzpatrick,M,GB,7
+food,butter,11.5,Sophia Casey,F,GB,8
+food,shrimp,15.3,Lori Lawrence,F,USA,4
+food,shrimp,15.3,Erik Cooper,M,USA,6
+food,bread,2.99,Richard Cummings,M,GB,5
+food,chicken sandwich,5.0,Ronald Johnson,M,China,4
+food,bread,2.99,Martin Reid,M,GB,7
+drinks,wine,21.99,Gary Wilkins,M,GB,2
+drinks,milk,7.5,Kathryn Ramirez,F,GB,5
+drinks,wine,21.99,Marcia Carter,F,USA,2
+drinks,cola,1.99,Tina Pennington,F,USA,3
+food,shrimp,15.3,Eric Williams,M,GB,9
+food,chicken sandwich,5.0,Derek Brown,M,USA,7
+drinks,beer,11.0,Stephanie Cunningham,F,China,10
+food,shrimp,15.3,Jeffrey Bradley,M,USA,2
+food,bread,2.99,Brad Delgado,M,China,4
+drinks,milk,7.5,Jesse Butler,M,USA,2
+drinks,wine,21.99,David Fox,M,USA,10
+drinks,wine,21.99,Billy Harris,M,USA,10
+drinks,wine,21.99,Karen Bell,F,China,1
+drinks,beer,11.0,Wayne Castro,M,GB,2
+drinks,wine,21.99,Jennifer Hammond,F,China,4
+drinks,beer,11.0,Melissa Mora,F,USA,7
+drinks,beer,11.0,Christian Riley,M,USA,5
+drinks,beer,11.0,Mallory Spencer,F,USA,1
+drinks,cola,1.99,Paul Moore,M,China,4
+food,bread,2.99,Timothy Cross,M,USA,5
+drinks,milk,7.5,Alejandra Macdonald,F,USA,5
+drinks,beer,11.0,Matthew Delacruz,M,USA,9
+food,chicken sandwich,5.0,Andrew Morris,M,USA,9
+drinks,beer,11.0,Benjamin Wells,M,GB,1
+drinks,milk,7.5,Christopher Terry,M,USA,7
+drinks,milk,7.5,Michael Turner,M,USA,7
+drinks,cola,1.99,Scott Li,M,USA,6
+drinks,milk,7.5,Joshua Turner,M,USA,6
+drinks,wine,21.99,Jordan Taylor,M,GB,7
+drinks,cola,1.99,Charles Duffy,M,GB,4
+food,bread,2.99,Joshua Moran,M,China,3
+food,shrimp,15.3,Charles Gilbert,M,GB,9
+drinks,milk,7.5,Jeremy Williams,M,USA,7
+drinks,milk,7.5,Paul Butler,M,GB,2
+food,chicken sandwich,5.0,Jean Calderon,F,GB,4
+drinks,milk,7.5,Janet Baker,F,GB,3
+food,chicken sandwich,5.0,Maria Conner,F,USA,9
+drinks,wine,21.99,Jason Cook,M,China,1
+drinks,beer,11.0,Kevin Ramos,M,China,9
+drinks,wine,21.99,Jacqueline Dunlap,F,USA,2
+drinks,beer,11.0,Carol Franco,F,China,3
+drinks,milk,7.5,Justin Stevens,M,USA,7
+food,bread,2.99,Lindsey Tucker,F,USA,10
+food,shrimp,15.3,Tanner Rios,M,USA,4
+drinks,milk,7.5,Scott Flowers PhD,M,USA,7
+food,shrimp,15.3,Christopher Elliott Jr.,M,GB,8
+drinks,beer,11.0,Christopher Chavez,M,China,1
+drinks,wine,21.99,Cory Rangel,M,USA,1
+drinks,milk,7.5,Joshua Taylor,M,USA,2
+food,chicken sandwich,5.0,Nathan Blevins,M,China,6
+food,chicken sandwich,5.0,Michele Crawford,F,China,8
+food,chicken sandwich,5.0,Joseph Hamilton,M,USA,4
+drinks,wine,21.99,Allison Pierce,F,USA,9
+drinks,wine,21.99,Brian Holt,M,USA,10
+drinks,cola,1.99,Brent Hall,M,USA,2
+food,chicken sandwich,5.0,Douglas Buchanan,M,USA,8
+food,bread,2.99,Sarah Thomas,F,USA,3
+drinks,beer,11.0,Erica Massey,F,GB,9
+drinks,beer,11.0,Mariah Macdonald,F,USA,7
+drinks,milk,7.5,Robert Smith,M,USA,9
+drinks,milk,7.5,Mr. John Bernard PhD,M,USA,2
+food,bread,2.99,Jason Acosta,M,USA,1
+drinks,wine,21.99,Jennifer Mathews,F,USA,2
+drinks,milk,7.5,Patrick Tyler,M,USA,8
+drinks,wine,21.99,Sarah Freeman,F,USA,4
+drinks,beer,11.0,Michael Carter,M,USA,10
+drinks,cola,1.99,Carrie Mueller,F,USA,3
+drinks,cola,1.99,Catherine Lucas,F,GB,7
+drinks,beer,11.0,Patrick Harris,M,USA,2
+drinks,cola,1.99,Richard Browning,M,USA,9
+drinks,cola,1.99,David Gallagher,M,USA,9
+drinks,beer,11.0,Leslie Smith,F,GB,5
+food,bread,2.99,Lance Hall,M,USA,9
+drinks,milk,7.5,Joyce Johnson,F,GB,7
+food,shrimp,15.3,Brandon Palmer,M,USA,9
+food,bread,2.99,Brett Mccormick,M,China,6
+food,chicken sandwich,5.0,Christopher Calderon,M,USA,9
+food,butter,11.5,Debra Rodriguez,F,USA,5
+food,butter,11.5,Robert Howard,M,China,5
+food,chicken sandwich,5.0,Mark Jackson,M,GB,5
+drinks,milk,7.5,William Butler,M,USA,4
+food,shrimp,15.3,Robert Davis,M,USA,10
+food,shrimp,15.3,Misty Bradshaw,F,USA,1
+food,bread,2.99,Kenneth Barber,M,USA,5
+food,chicken sandwich,5.0,Mary Luna,F,USA,1
+drinks,beer,11.0,Christopher Tapia,M,USA,5
+drinks,cola,1.99,Gabriel Paul,M,USA,8
+drinks,beer,11.0,Mark Jones,M,USA,8
+drinks,milk,7.5,William Stone,M,USA,1
+drinks,cola,1.99,Laura Bean,F,GB,6
+food,bread,2.99,Elizabeth Cook,F,USA,6
+drinks,beer,11.0,Ashley Russell,F,China,3
+drinks,milk,7.5,Scott Williams,M,China,9
+food,bread,2.99,Robert Moore,M,China,7
+drinks,wine,21.99,John Burke MD,M,USA,6
+drinks,wine,21.99,Darlene Shaffer,F,GB,8
+drinks,wine,21.99,Joseph Ritter,M,USA,9
+drinks,milk,7.5,Tina Hodges,F,USA,8
+drinks,cola,1.99,Dawn Williamson,F,GB,6
+food,shrimp,15.3,Sara Hernandez,F,China,3
+drinks,wine,21.99,Nancy Wilson,F,USA,10
+food,chicken sandwich,5.0,Megan Hartman,F,GB,4
+drinks,beer,11.0,James Mathews,M,China,3
+drinks,wine,21.99,Keith Barry,M,China,3
+drinks,beer,11.0,John Salinas,M,GB,6
+drinks,cola,1.99,Justin Goodman,M,USA,4
+food,chicken sandwich,5.0,Willie Atkinson,M,GB,10
+food,bread,2.99,Scott Rodriguez,M,GB,5
+drinks,cola,1.99,Eric Bell,M,China,1
+food,shrimp,15.3,Brandon Young,M,USA,1
+drinks,beer,11.0,Sandra Allen,F,USA,9
+food,bread,2.99,Ashley Coleman,F,China,7
+food,shrimp,15.3,Cathy Stephenson,F,USA,5
+food,chicken sandwich,5.0,Susan Nguyen,F,USA,4
+drinks,milk,7.5,Nicholas Jones,M,GB,2
+drinks,milk,7.5,Kristin Baker,F,USA,10
+food,chicken sandwich,5.0,Brandon Waters,M,China,10
+drinks,cola,1.99,Joshua Baker,M,USA,3
+food,butter,11.5,Maria Thomas,F,USA,1
+food,butter,11.5,Lisa Wilson,F,GB,5
+drinks,milk,7.5,Barbara Cox,F,GB,2
+food,butter,11.5,Joseph Lewis,M,USA,7
+food,bread,2.99,Ronald Chang,M,China,10
+food,butter,11.5,Jennifer Smith,F,USA,8
+food,chicken sandwich,5.0,Christopher Jennings,M,China,9
+drinks,milk,7.5,Jeffrey Hamilton,M,GB,8
+drinks,milk,7.5,Breanna Hall,F,China,7
+food,butter,11.5,Angela Horne,F,GB,5
+drinks,beer,11.0,Laura Garcia,F,USA,8
+drinks,wine,21.99,Joseph Salinas,M,USA,4
+drinks,milk,7.5,Ashley Shepherd,F,China,2
+food,shrimp,15.3,Dylan Jimenez,M,China,6
+food,shrimp,15.3,Derek Thomas,M,USA,6
+food,chicken sandwich,5.0,Wendy Huynh,F,USA,3
+drinks,wine,21.99,Adrian Warren,M,GB,6
+food,chicken sandwich,5.0,Lee Stanton,M,GB,1
+drinks,wine,21.99,Mary Morgan,F,China,2
+drinks,beer,11.0,Laura Diaz,F,GB,6
+drinks,milk,7.5,Erin Gaines,F,GB,8
+food,shrimp,15.3,James Ingram,M,China,9
+drinks,beer,11.0,Ryan Colon,M,USA,8
+drinks,wine,21.99,Jose Martinez,M,USA,8
+food,butter,11.5,Jennifer Smith,F,USA,3
+food,shrimp,15.3,Lisa Kirby,F,China,6
+food,bread,2.99,Joseph Bowen,M,GB,3
+food,shrimp,15.3,Mackenzie Costa,F,China,4
+drinks,milk,7.5,Michael Phillips Jr.,M,China,7
+drinks,wine,21.99,Jose Robinson,M,USA,6
+drinks,cola,1.99,Melissa Smith,F,USA,8
+food,shrimp,15.3,Marcus Pham,M,USA,10
+food,butter,11.5,Robert Barber,M,China,4
+food,chicken sandwich,5.0,Sonya Mann,F,GB,2
+drinks,cola,1.99,Denise Powell,F,USA,1
+drinks,beer,11.0,Melanie Mclean,F,GB,2
+food,shrimp,15.3,Theresa Butler,F,USA,10
+food,bread,2.99,Derek Baker,M,China,9
+food,chicken sandwich,5.0,Jennifer Stone,F,China,10
+food,bread,2.99,Patricia White,F,GB,4
+food,butter,11.5,Jeffrey Payne,M,GB,8
+food,butter,11.5,Micheal Bailey,M,GB,1
+drinks,milk,7.5,Bernard Green,M,USA,7
+food,shrimp,15.3,Carol Holland,F,USA,6
+food,chicken sandwich,5.0,Christopher Scott,M,USA,7
+food,chicken sandwich,5.0,Lisa Hudson,F,GB,2
+drinks,milk,7.5,Derek Gross,M,USA,2
+drinks,wine,21.99,Morgan Edwards,F,GB,6
+drinks,beer,11.0,Nicholas Neal,M,China,3
+food,chicken sandwich,5.0,Eileen Weaver,F,GB,4
+food,chicken sandwich,5.0,Justin Cox,M,USA,3
+food,chicken sandwich,5.0,Reginald Stanley,M,USA,4
+drinks,milk,7.5,Brian Jacobson,M,USA,10
+food,shrimp,15.3,Natasha Pena,F,USA,1
+food,chicken sandwich,5.0,Logan Long,M,USA,3
+food,butter,11.5,Andrew Barker,M,USA,4
+drinks,milk,7.5,William Reynolds,M,China,2
+food,chicken sandwich,5.0,John Brown,M,USA,1
+drinks,cola,1.99,Michael Pierce,M,China,3
+food,butter,11.5,Kimberly Martinez,F,China,7
+food,chicken sandwich,5.0,Madison Andrews,F,USA,4
+drinks,milk,7.5,Ashley Hoffman,F,China,4
+food,shrimp,15.3,Patrick Robinson,M,USA,3
+food,butter,11.5,Alexis Meyers,F,USA,4
+drinks,cola,1.99,Stanley Jacobs,M,GB,9
+food,bread,2.99,Charlotte Williamson,F,USA,3
+food,shrimp,15.3,Chad Parker,M,GB,10
+food,chicken sandwich,5.0,Russell Garrett,M,GB,5
+food,chicken sandwich,5.0,Jennifer Black,F,GB,8
+food,bread,2.99,John Grimes,M,GB,10
+food,butter,11.5,Christopher Patrick,M,USA,8
+drinks,wine,21.99,Marcus Colon,M,GB,5
+food,chicken sandwich,5.0,Joshua Farley,M,China,1
+drinks,cola,1.99,Katelyn Young,F,USA,10
+food,chicken sandwich,5.0,Billy Cummings,M,China,4
+drinks,cola,1.99,Dr. Christopher Clark,M,USA,8
+drinks,beer,11.0,Jessica Hines,F,USA,2
+food,butter,11.5,Brett Mosley,M,USA,8
+drinks,cola,1.99,Dr. Roger Stafford,M,China,7
+drinks,beer,11.0,Charles Jones,M,USA,4
+drinks,wine,21.99,Harold Young,M,USA,6
+food,butter,11.5,Matthew Mcdaniel,M,GB,4
+food,shrimp,15.3,Kayla Richardson,F,GB,4
+drinks,cola,1.99,Andrew Gomez,M,GB,1
+food,butter,11.5,Gary Robinson,M,GB,10
+food,shrimp,15.3,Danny Casey,M,USA,7
+food,bread,2.99,Zachary Taylor DVM,M,USA,7
+drinks,milk,7.5,Melissa Sanchez,F,USA,3
+drinks,milk,7.5,Jennifer Lynch,F,USA,8
+drinks,milk,7.5,Barbara Oconnor,F,USA,9
+drinks,beer,11.0,Kristin Perez,F,GB,9
+food,shrimp,15.3,Justin Norman,M,USA,1
+drinks,wine,21.99,Lisa Barker,F,USA,10
+drinks,wine,21.99,Holly Jacobs,F,China,2
+drinks,beer,11.0,Jessica Clark,F,GB,8
+food,butter,11.5,Jeanette Miller,F,USA,4
+food,butter,11.5,Christina Sanchez,F,USA,4
+food,chicken sandwich,5.0,Sean Roach,M,China,9
+food,shrimp,15.3,Robert Barron,M,USA,3
+drinks,beer,11.0,Jessica Moore,F,USA,1
+food,butter,11.5,Michele Turner,F,USA,7
+food,butter,11.5,Allen Wheeler,M,USA,6
+food,chicken sandwich,5.0,Bryan Castillo,M,GB,3
+food,shrimp,15.3,Christopher Jimenez,M,GB,5
+food,shrimp,15.3,Lindsey Barrett,F,USA,1
+food,shrimp,15.3,Frank Luna,M,GB,5
+drinks,milk,7.5,Alexander Mcintosh,M,China,6
+food,bread,2.99,Amy Daniels,F,China,10
+food,bread,2.99,Jonathan Rodgers,M,GB,10
+food,butter,11.5,Glenn Wolf,M,USA,6
+food,bread,2.99,Andrea Nichols,F,China,2
+drinks,cola,1.99,Lindsey Smith,F,China,2
+drinks,beer,11.0,Patricia Martin,F,USA,6
+drinks,wine,21.99,Sherry Johnson,F,USA,8
+drinks,beer,11.0,Vincent Knight,M,USA,7
+food,chicken sandwich,5.0,Larry Flowers,M,GB,4
+food,shrimp,15.3,Barbara Kaufman,F,China,7
+food,shrimp,15.3,Nicholas Potts,M,USA,6
+food,bread,2.99,Robert Ferguson,M,China,2
+drinks,beer,11.0,David Robinson,M,USA,3
+drinks,cola,1.99,Kimberly Smith,F,USA,1
+drinks,cola,1.99,Mark Gonzales,M,USA,3
+food,butter,11.5,Kevin Harrington,M,USA,2
+food,bread,2.99,Eric Perez,M,USA,8
+drinks,cola,1.99,James Townsend,M,GB,10
+drinks,beer,11.0,Jacob Webb,M,USA,4
+drinks,wine,21.99,Melissa Flores,F,USA,2
+food,butter,11.5,Jennifer George,F,China,2
+food,chicken sandwich,5.0,Erika Miller,F,USA,8
+food,chicken sandwich,5.0,Robert Smith,M,GB,8
+drinks,wine,21.99,Kimberly Reilly,F,USA,9
+drinks,wine,21.99,Todd Pope,M,GB,1
+drinks,milk,7.5,Todd Love,M,China,8
+food,chicken sandwich,5.0,Kayla Massey,F,China,6
+drinks,cola,1.99,Edward Rivas,M,GB,10
+food,chicken sandwich,5.0,Michael White,M,USA,10
+drinks,beer,11.0,Michelle Johnson,F,USA,7
+drinks,beer,11.0,Tammy Hawkins,F,China,6
+food,chicken sandwich,5.0,Christina Daniels,F,USA,10
+drinks,wine,21.99,Elizabeth Nelson,F,USA,8
+food,shrimp,15.3,Rebecca Martinez,F,GB,6
+food,shrimp,15.3,Nicholas Evans,M,USA,6
+food,butter,11.5,Michael Hamilton,M,China,7
+food,chicken sandwich,5.0,Thomas Johnson,M,USA,3
+drinks,cola,1.99,Michael Clark,M,USA,6
+food,shrimp,15.3,Michael Oconnell,M,China,9
+food,butter,11.5,Logan Chapman,M,China,5
+food,shrimp,15.3,Chris Leach,M,China,2
+food,chicken sandwich,5.0,Megan Gutierrez,F,USA,5
+drinks,milk,7.5,Kristen Hernandez,F,GB,7
+food,bread,2.99,Rebecca King,F,GB,6
+drinks,milk,7.5,Christopher Walker,M,USA,5
+food,butter,11.5,Sheri Butler,F,USA,3
+drinks,beer,11.0,Caitlyn Perez,F,USA,9
+food,bread,2.99,Shirley Anderson,F,USA,9
+drinks,wine,21.99,Timothy Mcdonald,M,USA,2
+food,chicken sandwich,5.0,Jessica Ortiz,F,USA,5
+food,shrimp,15.3,Priscilla Bell,F,GB,4
+drinks,beer,11.0,Brendan Beard,M,USA,7
+drinks,wine,21.99,Anthony Mullen,M,GB,2
+drinks,beer,11.0,John Flores,M,USA,9
+drinks,milk,7.5,Cheryl Simpson,F,GB,5
+drinks,milk,7.5,Thomas Jones,M,USA,8
+food,chicken sandwich,5.0,Anne Davila,F,USA,3
+food,shrimp,15.3,Susan Stewart,F,China,10
+food,bread,2.99,Terry Hamilton,M,USA,10
+food,bread,2.99,Ashley Hunter,F,China,7
+food,chicken sandwich,5.0,John Hopkins,M,China,8
+drinks,wine,21.99,Victor Nichols,M,USA,10
+food,butter,11.5,Annette Reynolds,F,GB,6
+drinks,milk,7.5,Lori Sullivan,F,China,1
+food,bread,2.99,Crystal Buck,F,GB,2
+drinks,beer,11.0,Steven Beck,M,USA,5
+drinks,wine,21.99,Ryan Fleming,M,GB,2
+food,chicken sandwich,5.0,Samuel Smith,M,USA,2
+drinks,milk,7.5,Justin Fox,M,GB,1
+drinks,wine,21.99,Cynthia Powers,F,USA,5
+food,shrimp,15.3,John Simmons,M,China,1
+food,butter,11.5,Thomas Smith,M,USA,7
+food,shrimp,15.3,Chad Noble,M,China,3
+food,butter,11.5,Keith Lawson,M,USA,8
+drinks,milk,7.5,Amanda Harrington,F,China,10
+drinks,beer,11.0,Kiara Thompson,F,USA,1
