@@ -3,16 +3,6 @@
 Django ER Diagram
 ---
 erDiagram
-LogEntry {
-    AutoField id
-    DateTimeField action_time
-    ForeignKey user
-    ForeignKey content_type
-    TextField object_id
-    CharField object_repr
-    PositiveSmallIntegerField action_flag
-    TextField change_message
-}
 Permission {
     AutoField id
     CharField name
@@ -76,8 +66,6 @@ Couple {
     IntegerField num_games
     FloatField weight
 }
-LogEntry }|--|| User : user
-LogEntry }|--|| ContentType : content_type
 Permission }|--|| ContentType : content_type
 Group }|--|{ Permission : permissions
 User }|--|{ Group : groups
