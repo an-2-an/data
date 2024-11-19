@@ -1,14 +1,90 @@
 ```mermaid
 ---
-title: Simple Approach to Cause and Effect Diagrams (Flowchart)
+Django ER Diagram
 ---
-flowchart TD
-    a[Cause A]
-    b[Cause B]
-    c[Cause C]
-    d[Cause D]
-    e[Cause E]
-    problem --> a & b
-    a --> c
-    b --> d & e
+erDiagram
+LogEntry {
+    AutoField id
+    DateTimeField action_time
+    ForeignKey user
+    ForeignKey content_type
+    TextField object_id
+    CharField object_repr
+    PositiveSmallIntegerField action_flag
+    TextField change_message
+}
+Permission {
+    AutoField id
+    CharField name
+    ForeignKey content_type
+    CharField codename
+}
+Group {
+    AutoField id
+    CharField name
+    ManyToManyField permissions
+}
+User {
+    AutoField id
+    CharField password
+    DateTimeField last_login
+    BooleanField is_superuser
+    CharField username
+    CharField first_name
+    CharField last_name
+    CharField email
+    BooleanField is_staff
+    BooleanField is_active
+    DateTimeField date_joined
+    ManyToManyField groups
+    ManyToManyField user_permissions
+}
+ContentType {
+    AutoField id
+    CharField app_label
+    CharField model
+}
+Session {
+    CharField session_key
+    TextField session_data
+    DateTimeField expire_date
+}
+UserProfile {
+    BigAutoField id
+    OneToOneField user
+    FileField img
+    IntegerField num_games
+    FloatField won_games_ratio
+}
+Command {
+    BigAutoField id
+    ForeignKey game
+    BooleanField is_winner
+    DateTimeField created
+    DateTimeField updated
+    ManyToManyField players
+}
+Game {
+    BigAutoField id
+    DateTimeField created
+    DateTimeField updated
+}
+Couple {
+    BigAutoField id
+    ForeignKey player1
+    ForeignKey player2
+    IntegerField num_games
+    FloatField weight
+}
+LogEntry }|--|| User : user
+LogEntry }|--|| ContentType : content_type
+Permission }|--|| ContentType : content_type
+Group }|--|{ Permission : permissions
+User }|--|{ Group : groups
+User }|--|{ Permission : user_permissions
+UserProfile ||--|| User : user
+Command }|--|| Game : game
+Command }|--|{ User : players
+Couple }|--|| User : player1
+Couple }|--|| User : player2
 ```
