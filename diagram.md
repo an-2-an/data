@@ -3,12 +3,6 @@
 Django ER Diagram
 ---
 erDiagram
-Permission {
-    AutoField id
-    CharField name
-    ForeignKey content_type
-    CharField codename
-}
 Group {
     AutoField id
     CharField name
@@ -28,16 +22,6 @@ User {
     DateTimeField date_joined
     ManyToManyField groups
     ManyToManyField user_permissions
-}
-ContentType {
-    AutoField id
-    CharField app_label
-    CharField model
-}
-Session {
-    CharField session_key
-    TextField session_data
-    DateTimeField expire_date
 }
 UserProfile {
     BigAutoField id
@@ -66,8 +50,6 @@ Couple {
     IntegerField num_games
     FloatField weight
 }
-Permission }|--|| ContentType : content_type
-Group }|--|{ Permission : permissions
 User }|--|{ Group : groups
 User }|--|{ Permission : user_permissions
 UserProfile ||--|| User : user
