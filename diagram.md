@@ -51,7 +51,6 @@ Couple {
     FloatField weight
 }
 User }|--|{ Group : groups
-User }|--|{ Permission : user_permissions
 UserProfile ||--|| User : user
 Command }|--|| Game : game
 Command }|--|{ User : players
