@@ -10,7 +10,25 @@ genres {
 movies {
     INTEGER id
     TEXT name
+    INTEGER year
     INTEGER genre_id
 }
+users {
+    INTEGER id
+    TEXT username
+    TEXT gender
+    TEXT status
+    INTEGER age
+    INTEGER invited_by
+}
+marks {
+    INTEGER id
+    INTEGER movie_id
+    INTEGER user_id
+    INTEGER value
+    TEXT created
+}
 movies }|--|| genres : link1
+marks }|--|| movies : link2
+marks }|--|| users : link3
 ```
