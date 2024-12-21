@@ -28,7 +28,7 @@ marks {
     INTEGER value
     TEXT created
 }
-movies }|--|| genres : 'genre/movies'
+movies }|--|| genres : "genre/movies"
 marks }|--|| movies : link2
 marks }|--|| users : link3
 users }|--|| users : link4
