@@ -31,4 +31,5 @@ marks {
 movies }|--|| genres : link1
 marks }|--|| movies : link2
 marks }|--|| users : link3
+users }|--|| users : link4
 ```
