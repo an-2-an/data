@@ -7,12 +7,10 @@ genres {
     INTEGER id
     TEXT name
 }
-
 movies {
     INTEGER id
     TEXT name
     INTEGER genre_id
 }
-
 movies }|--|| genres : link1
 ```
