@@ -14,5 +14,5 @@ movies {
     INTEGER genre_id
 }
 
-movies }|--> genres : id
+movies-- text -->genres
 ```
