@@ -1,3 +1,4 @@
+```mermaid
 ---
 Django ER Diagram
 ---
@@ -52,3 +53,4 @@ erDiagram
     classDiagram
         direction TB
         classDiagram::theme dark
+```
