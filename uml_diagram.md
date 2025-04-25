@@ -43,9 +43,17 @@ Couple {
     IntegerField num_games
     FloatField weight
 }
+Solution {
+    BigAutoField id
+    ForeignKey team1
+    ForeignKey team2
+    FloatField maxsum
+    FloatField maxmin
+}
 UserProfile ||--|| User : user
 Command }|--|| Game : game
 Command }|--|{ User : players
 Couple }|--|| User : player1
 Couple }|--|| User : player2
+Solution }|--|| Game : solution
 ```
