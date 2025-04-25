@@ -55,5 +55,5 @@ Command }|--|| Game : game
 Command }|--|{ User : players
 Couple }|--|| User : player1
 Couple }|--|| User : player2
-Solution }|--|| Game : solution
+Solution }|--|| Command : solution
 ```
