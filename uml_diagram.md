@@ -1,7 +1,4 @@
 ```mermaid
----
-Django ER Diagram
----
 erDiagram
     User {
         AutoField id
@@ -49,8 +46,4 @@ erDiagram
     Command }|--|{ User : players
     Couple }|--|| User : player1
     Couple }|--|| User : player2
-    %% Размеры диаграммы и ориентация
-    classDiagram
-        direction TB
-        classDiagram::theme dark
 ```
