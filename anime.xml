@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animeList>
+    <anime>
+        <title>Death Note</title>
+        <year>2006</year>
+        <rating>8.9</rating>
+        <genre>Thriller</genre>
+    </anime>
+    <anime>
+        <title>Fullmetal Alchemist: Brotherhood</title>
+        <year>2009</year>
+        <rating>9.1</rating>
+        <genre>Fantasy</genre>
+    </anime>
+    <anime>
+        <title>Attack on Titan</title>
+        <year>2013</year>
+        <rating>9.0</rating>
+        <genre>Action</genre>
+    </anime>
+    <anime>
+        <title>Steins;Gate</title>
+        <year>2011</year>
+        <rating>8.8</rating>
+        <genre>Sci-Fi</genre>
+    </anime>
+    <anime>
+        <title>Cowboy Bebop</title>
+        <year>1998</year>
+        <rating>8.9</rating>
+        <genre>Sci-Fi</genre>
+    </anime>
+</animeList>

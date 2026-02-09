@@ -1,0 +1,33 @@
+[
+    {
+      "title": "Death Note",
+      "year": 2006,
+      "rating": 8.9,
+      "genre": "Thriller"
+    },
+    {
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "year": 2009,
+      "rating": 9.1,
+      "genre": "Fantasy"
+    },
+    {
+      "title": "Attack on Titan",
+      "year": 2013,
+      "rating": 9.0,
+      "genre": "Action"
+    },
+    {
+      "title": "Steins;Gate",
+      "year": 2011,
+      "rating": 8.8,
+      "genre": "Sci-Fi"
+    },
+    {
+      "title": "Cowboy Bebop",
+      "year": 1998,
+      "rating": 8.9,
+      "genre": "Sci-Fi"
+    }
+  ]
+  
